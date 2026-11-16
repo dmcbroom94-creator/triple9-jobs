@@ -1,0 +1,158 @@
+{
+ "updated": "16 Nov 2026",
+ "courses": [
+  {
+   "cat": "security",
+   "tag": "Security",
+   "name": "SIA Licence",
+   "provider": "Get Licensed",
+   "detail": "Door Supervisor, Security Officer and CCTV courses at 85+ UK locations. Security officer training from £199.99.",
+   "suits": "Police, control room",
+   "url": "https://get-licensed.co.uk"
+  },
+  {
+   "cat": "security",
+   "tag": "Health & safety",
+   "name": "NEBOSH & IOSH",
+   "provider": "Astutis · RoSPA",
+   "detail": "The go-to qualifications for health and safety advisor roles. Online, virtual or classroom.",
+   "suits": "Fire, police, ambulance",
+   "url": "https://www.astutis.com/courses/online"
+  },
+  {
+   "cat": "security",
+   "tag": "Fire safety",
+   "name": "Fire Risk Assessment (Level 3–4)",
+   "provider": "Accredited providers",
+   "detail": "Most fire risk assessor adverts ask for a Level 3 or Level 4 fire risk qualification.",
+   "suits": "Firefighters, fire safety officers",
+   "url": "https://www.reed.co.uk/courses/"
+  },
+  {
+   "cat": "security",
+   "tag": "Investigation",
+   "name": "Counter Fraud Investigator",
+   "provider": "Level 4 apprenticeship",
+   "detail": "Usually around 24 months and often paid for by the employer.",
+   "suits": "Detectives, investigators",
+   "url": "https://www.gov.uk/apply-apprenticeship"
+  },
+  {
+   "cat": "digital",
+   "tag": "Computer skills",
+   "name": "IT Support certificate",
+   "provider": "Google · Coursera",
+   "detail": "Beginner-friendly, self-paced. A common first step into IT and helpdesk jobs.",
+   "suits": "Anyone new to IT",
+   "url": "https://grow.google/certificates/en_uk/"
+  },
+  {
+   "cat": "digital",
+   "tag": "AI",
+   "name": "AI Essentials & AI Professional",
+   "provider": "Google · Coursera",
+   "detail": "Learn to use AI tools at work. No experience needed.",
+   "suits": "Everyone",
+   "url": "https://grow.google/certifications/"
+  },
+  {
+   "cat": "digital",
+   "tag": "Cyber security",
+   "name": "Cybersecurity certificate",
+   "provider": "Google · Coursera",
+   "detail": "Entry-level cyber skills. Investigators and digital forensics staff have a head start.",
+   "suits": "Police, control room",
+   "url": "https://grow.google/certificates/en_uk/"
+  },
+  {
+   "cat": "digital",
+   "tag": "Data",
+   "name": "Data Analytics certificate",
+   "provider": "Google · Coursera",
+   "detail": "Spreadsheets, data and dashboards for analyst roles.",
+   "suits": "Analysts, supervisors",
+   "url": "https://grow.google/certificates/en_uk/"
+  },
+  {
+   "cat": "digital",
+   "tag": "Office skills",
+   "name": "Excel, Word & Microsoft 365",
+   "provider": "Reed Courses",
+   "detail": "Short online courses to brush up the office skills every civilian job expects.",
+   "suits": "Everyone",
+   "url": "https://www.reed.co.uk/courses/"
+  },
+  {
+   "cat": "trades",
+   "tag": "Trades",
+   "name": "Plumbing & heating",
+   "provider": "Access Training · Able Skills",
+   "detail": "Courses for adult career changers, including home study and practical centres.",
+   "suits": "Anyone hands-on",
+   "url": "https://www.accesstraininguk.co.uk/about-us"
+  },
+  {
+   "cat": "trades",
+   "tag": "Trades",
+   "name": "Electrician",
+   "provider": "Access Training · Able Skills",
+   "detail": "Domestic electrician routes for beginners, with placement support from some providers.",
+   "suits": "Anyone hands-on",
+   "url": "https://www.ableskills.co.uk/blog/how-home-study-courses-can-unlock-new-careers-in-construction/"
+  },
+  {
+   "cat": "trades",
+   "tag": "Trades",
+   "name": "Gas engineer",
+   "provider": "Skills Training Group",
+   "detail": "One of the best-paid trades for adult career changers.",
+   "suits": "Anyone hands-on",
+   "url": "https://www.skillstg.co.uk/blog/adult-training-courses/"
+  },
+  {
+   "cat": "teaching",
+   "tag": "Teaching",
+   "name": "Award in Education & Training",
+   "provider": "Level 3 · many providers",
+   "detail": "Needed to teach first aid, conflict management and to run most training franchises.",
+   "suits": "Paramedics, trainers, all services",
+   "url": "https://www.reed.co.uk/courses/"
+  },
+  {
+   "cat": "teaching",
+   "tag": "First aid",
+   "name": "First aid instructor",
+   "provider": "Accredited providers",
+   "detail": "Teach first aid at work courses to businesses.",
+   "suits": "Paramedics, ECAs, firefighters",
+   "url": "https://www.reed.co.uk/courses/"
+  },
+  {
+   "cat": "driving",
+   "tag": "Driving",
+   "name": "Driving Instructor (ADI)",
+   "provider": "Bill Plant Driving School",
+   "detail": "Training with a place in their franchise once you qualify.",
+   "suits": "Response and traffic officers",
+   "url": "https://billplant.co.uk/driving-instructor-training/pdi-trainee-franchise/"
+  },
+  {
+   "cat": "driving",
+   "tag": "Driving",
+   "name": "HGV licence",
+   "provider": "Free Skills Bootcamps",
+   "detail": "Free HGV training is available through Skills Bootcamps in many areas of England.",
+   "suits": "Anyone who likes driving",
+   "url": "https://find-employer-schemes.education.gov.uk/schemes/skills-bootcamps"
+  },
+  {
+   "cat": "business",
+   "tag": "Management",
+   "name": "Project management",
+   "provider": "Reed Courses",
+   "detail": "PRINCE2, APM and Agile courses for operations and project roles.",
+   "suits": "Supervisors, managers",
+   "url": "https://www.reed.co.uk/courses/"
+  }
+ ]
+}
