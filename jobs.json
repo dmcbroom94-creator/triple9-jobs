@@ -21,8 +21,8 @@
    "org": "Greater Manchester Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 24 Nov 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-constable---neighbourhood-policing-greater-manchester-2471550"
+   "closes": "Open – see force website",
+   "url": "https://www.gmp.police.uk/transfer"
   },
   {
    "cat": "police",
@@ -44,8 +44,8 @@
    "org": "Greater Manchester Police",
    "place": "Various",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 24 Nov 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee--re-joiners---detective-constable-&-trainee-detectives-greater-manchester-2446809"
+   "closes": "Open – see force website",
+   "url": "https://www.gmp.police.uk/transfer"
   },
   {
    "cat": "police",
@@ -98,7 +98,8 @@
     "wal"
    ],
    "ranks": [
-    "pc"
+    "pc",
+    "ps"
    ],
    "routes": [
     "transferee"
@@ -106,35 +107,12 @@
    "region": "wal",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Police Constable Transferee",
+   "title": "Transferee – Police Constables & Sergeants (Neighbourhood, Cardiff & Vale)",
    "org": "South Wales Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 29 Jan 2027",
-   "url": "https://allpolicejobs.co.uk/jobs/police-constable-transferee-opportunity-south-wales-2422927"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "wal"
-   ],
-   "ranks": [
-    "ps",
-    "insp"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "wal",
-   "pmin": 55443,
-   "pmax": 71396,
-   "title": "Sergeant / Inspector Transferee",
-   "org": "South Wales Police",
-   "place": "Forcewide",
-   "pay": "£55,443 – £71,396 (sergeant & inspector scales)",
-   "closes": "Closes 30 Jan 2027",
-   "url": "https://allpolicejobs.co.uk/jobs/police-sergeant---inspector-transferee-opportunity-south-wales-2422928"
+   "closes": "Open – see force website",
+   "url": "https://www.south-wales.police.uk/police-forces/south-wales-police/areas/careers/careers/"
   },
   {
    "cat": "police",
@@ -170,28 +148,6 @@
    "routes": [
     "transferee"
    ],
-   "region": "nw",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee Constable – Transport Policing & Crime Command",
-   "org": "Greater Manchester Police",
-   "place": "Forcewide",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 3 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-constable---transport-policing-and-crime-command-greater-manchester-2446043"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
    "region": "mid",
    "pmin": 32255,
    "pmax": 52015,
@@ -199,8 +155,8 @@
    "org": "West Mercia Police",
    "place": "Herefordshire, Shropshire, Telford & Worcestershire",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---constable---response-24--7-west-mercia-2239672"
+   "closes": "Open – see force website",
+   "url": "https://www.westmercia.police.uk/police-forces/west-mercia-police/areas/west-mercia/ca/careers/transferring-police-officers/transferee-officers-and-detectives/"
   },
   {
    "cat": "police",
@@ -221,8 +177,8 @@
    "org": "West Mercia Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-constable-pathways-west-mercia-1867295"
+   "closes": "Open – see force website",
+   "url": "https://www.westmercia.police.uk/police-forces/west-mercia-police/areas/west-mercia/ca/careers/transferring-police-officers/transferee-officers-and-detectives/"
   },
   {
    "cat": "police",
@@ -231,7 +187,8 @@
     "eng"
    ],
    "ranks": [
-    "ps"
+    "ps",
+    "insp"
    ],
    "routes": [
     "transferee"
@@ -239,12 +196,12 @@
    "region": "mid",
    "pmin": 55443,
    "pmax": 58175,
-   "title": "Transferee – Sergeant / Detective Sergeant",
+   "title": "Transferee – Sergeants & Inspectors",
    "org": "West Mercia Police",
    "place": "Forcewide",
    "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---sergeant----detective-sergeant-west-mercia-2419155"
+   "closes": "Open – see force website",
+   "url": "https://www.westmercia.police.uk/police-forces/west-mercia-police/areas/west-mercia/ca/careers/transferring-police-officers/sergeant-transferees/"
   },
   {
    "cat": "police",
@@ -265,30 +222,8 @@
    "org": "West Mercia Police",
    "place": "Bromsgrove, Hereford, Malinsgate",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---authorised-firearms-officers-west-mercia-2251784"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee PC – National Firearms Instructor",
-   "org": "West Mercia Police",
-   "place": "Hindlip",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---pc---national-firearms-instructor-west-mercia-1525878"
+   "closes": "Open – see force website",
+   "url": "https://www.westmercia.police.uk/police-forces/west-mercia-police/areas/west-mercia/ca/careers/transferring-police-officers/"
   },
   {
    "cat": "police",
@@ -309,8 +244,8 @@
    "org": "Suffolk Constabulary",
    "place": "Suffolk",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/suffolk-constabulary-–-uniform-officer-transferee-opportunities-suffolk-2252899"
+   "closes": "Open – see force website",
+   "url": "https://www.suffolk.police.uk/police-forces/suffolk-constabulary/areas/careers/join-us/transferees/"
   },
   {
    "cat": "police",
@@ -331,8 +266,8 @@
    "org": "Suffolk Constabulary",
    "place": "Suffolk",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-constables-suffolk-2252898"
+   "closes": "Open – see force website",
+   "url": "https://www.suffolk.police.uk/police-forces/suffolk-constabulary/areas/careers/join-us/transferees/"
   },
   {
    "cat": "police",
@@ -354,8 +289,8 @@
    "org": "Norfolk Constabulary",
    "place": "Norfolk",
    "pay": "£32,255 – £58,175 (PC to sergeant scales)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-constables-and-sergeants-norfolk-2209614"
+   "closes": "Open – see force website",
+   "url": "https://www.norfolk.police.uk/police-forces/norfolk-constabulary/areas/careers/join-us/transferees/"
   },
   {
    "cat": "police",
@@ -364,7 +299,9 @@
     "eng"
    ],
    "ranks": [
-    "pc"
+    "pc",
+    "dc",
+    "ps"
    ],
    "routes": [
     "transferee"
@@ -372,12 +309,12 @@
    "region": "east",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "PC – National Firearms Instructor (transferee)",
+   "title": "Transferee PCs, Detectives & Sergeants – register now",
    "org": "Hertfordshire Constabulary",
    "place": "Hertfordshire / Beds / Cambs",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/police-constable---national-firearms-instructor-hertfordshire-2117624"
+   "closes": "Open – see force website",
+   "url": "https://www.herts.police.uk/police-forces/hertfordshire-constabulary/areas/careers/police-officer-and-detective-transferees/police-officer-and-detective-transferees/transfer-and-promotion-opportunities/"
   },
   {
    "cat": "police",
@@ -398,8 +335,8 @@
    "org": "Hampshire & Isle of Wight Constabulary",
    "place": "Forcewide CID",
    "pay": "£32,255 – £52,015 + up to £2,070 South East allowance",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-detective-constable---hiowc228-hampshire-2331064"
+   "closes": "Open – see force website",
+   "url": "https://hampshire.police.uk/police-forces/hampshire-constabulary/areas/careers/careers/transferees"
   },
   {
    "cat": "police",
@@ -420,8 +357,8 @@
    "org": "Cheshire Constabulary",
    "place": "Cheshire",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Always open",
-   "url": "https://allpolicejobs.co.uk/jobs/pc-&-dc---transferee-opportunities-26--27-cheshire-2243884"
+   "closes": "Open – see force website",
+   "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/"
   },
   {
    "cat": "police",
@@ -467,8 +404,8 @@
    "org": "Derbyshire Constabulary",
    "place": "Derbyshire",
    "pay": "£32,255 – £58,175 (PC to sergeant scales)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-constable--detective-constable-derbyshire-2480363"
+   "closes": "Open – see force website",
+   "url": "https://careers.derbyshire.police.uk/find-job/job-search?dept=transferees"
   },
   {
    "cat": "police",
@@ -493,8 +430,8 @@
    "org": "Northumbria Police",
    "place": "North East",
    "pay": "£32,255 – £71,396 (PC to inspector scales)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-&-re-joiner-police-officers-2027-northumbria-2453537"
+   "closes": "Open – see force website",
+   "url": "https://careers.northumbria.police.uk/job-search/"
   },
   {
    "force": "special",
@@ -525,7 +462,6 @@
     "wal"
    ],
    "ranks": [
-    "pc",
     "dc"
    ],
    "routes": [
@@ -534,12 +470,12 @@
    "region": "wal",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Transferee Police Constable / Detective Constable",
+   "title": "Transferee Detective Constables",
    "org": "Gwent Police",
    "place": "Gwent",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://allpolicejobs.co.uk/jobs/gwent-police-transferee-police-constable----detective-constable-gwent-2435198"
+   "closes": "Open – see force website",
+   "url": "https://www.gwent.police.uk/join-us/vacancies/"
   },
   {
    "cat": "police",
@@ -610,8 +546,8 @@
    "org": "Ministry of Defence Police",
    "place": "Defence sites UK-wide",
    "pay": "£33,222 – £49,413",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/neof---pc-authorised-firearms-officer-counter-terrorism-mdp-2386947"
+   "closes": "Open – see force website",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/"
   },
   {
    "force": "special",
@@ -818,52 +754,6 @@
    "pay": "£72,806 – £75,709 (chief inspector scale)",
    "closes": "Open – see advert",
    "url": "https://www.avonandsomerset.police.uk/apply/jobs-and-volunteering/police-transferees/chief-inspector-force-duty-officer/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "supt"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "ne",
-   "pmin": 87123,
-   "pmax": 119838,
-   "title": "Superintendent & Chief Superintendent – transfer or lateral move",
-   "org": "Northumbria Police",
-   "place": "Forcewide",
-   "pay": "£87,123 – £119,838 (superintendent & chief superintendent)",
-   "closes": "Ongoing",
-   "url": "https://allpolicejobs.co.uk/jobs/1945613"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ps",
-    "ci",
-    "supt"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "ne",
-   "pmin": 55443,
-   "pmax": 119838,
-   "title": "Transfer on promotion – Sergeant, Chief Inspector, Superintendent, Chief Superintendent",
-   "org": "Northumbria Police",
-   "place": "Forcewide",
-   "pay": "£55,443 – £119,838 (sergeant to chief superintendent)",
-   "closes": "Ongoing – briefings held regularly",
-   "url": "https://allpolicejobs.co.uk/jobs/promotion-opportunities-–-external-applicants-northumbria-1948812"
   },
   {
    "cat": "ambulance",
@@ -1361,8 +1251,8 @@
    "org": "South Yorkshire Police",
    "place": "South Yorkshire",
    "pay": "£32,255 – £75,709 (PC to chief inspector scales)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/constable--sergeant--inspector--chief-inspector-transferee-&-rejoiners-south-yorkshire-2380864"
+   "closes": "Open – see force website",
+   "url": "https://www.southyorks.police.uk/sign-up/join-team-syp/police-officer-roles/transferees/"
   },
   {
    "cat": "police",
@@ -1384,30 +1274,8 @@
    "org": "Cumbria Constabulary",
    "place": "Cumbria",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferees-and-re-joiners-cumbria-1284473"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "sw",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Police Constable – Transfer Opportunity",
-   "org": "Wiltshire Police",
-   "place": "Any Wiltshire location",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/police-constable--transfer-opportunity-wiltshire-2196369"
+   "closes": "Open – see force website",
+   "url": "https://www.cumbria.police.uk/police-forces/cumbria-constabulary/areas/careers/careers/police-officers/entry-routes/transfers---applications-now-open/"
   },
   {
    "cat": "police",
@@ -1428,8 +1296,8 @@
    "org": "Wiltshire Police",
    "place": "Any Wiltshire location",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-detective-constable-wiltshire-2196367"
+   "closes": "Open – see force website",
+   "url": "https://www.wiltshire.police.uk/police-forces/wiltshire-police/areas/careers/careers/transferees/detective-constables/"
   },
   {
    "cat": "police",
@@ -1450,30 +1318,8 @@
    "org": "Wiltshire Police",
    "place": "Any Wiltshire location",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee--armed-response-vehicle-officer-wiltshire-1771045"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "sw",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee – Roads Policing Constable",
-   "org": "Wiltshire Police",
-   "place": "Any Wiltshire location",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee--roads-policing-constable-wiltshire-2393406"
+   "closes": "Open – see force website",
+   "url": "https://www.wiltshire.police.uk/police-forces/wiltshire-police/areas/careers/careers/transferees/firearms-officers/"
   },
   {
    "cat": "police",
@@ -1495,8 +1341,8 @@
    "org": "Cleveland Police",
    "place": "Cleveland",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-police-constable--detective-constable-cleveland-2479350"
+   "closes": "Open – see force website",
+   "url": "https://www.cleveland.police.uk/police-forces/cleveland-police/areas/cleveland-police/careers/careers/police-officer/transferees/"
   },
   {
    "cat": "police",
@@ -1517,8 +1363,8 @@
    "org": "Cleveland Police",
    "place": "Cleveland",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---protecting-vulnerable-people-(pvp)-detective-constable-cleveland-2445509"
+   "closes": "Open – see force website",
+   "url": "https://www.cleveland.police.uk/police-forces/cleveland-police/areas/cleveland-police/careers/careers/police-officer/transferees/"
   },
   {
    "cat": "police",
@@ -1533,62 +1379,15 @@
    "routes": [
     "transferee"
    ],
-   "region": "se",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee Officers",
-   "org": "Kent Police",
-   "place": "Kent",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-officers-kent-418169"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 55443,
-   "pmax": 58175,
-   "title": "Sergeants – transfer",
-   "org": "Kent Police",
-   "place": "Kent",
-   "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/sergeants-kent-29765"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "dc",
-    "ps",
-    "insp"
-   ],
-   "routes": [
-    "transferee"
-   ],
    "region": "east",
    "pmin": 32255,
    "pmax": 71396,
-   "title": "Transferee Officers – PC, detectives, sergeant & inspector level transfers, firearms",
+   "title": "Transferee Officers – Police & Detective Constables",
    "org": "Essex Police",
    "place": "Essex",
    "pay": "£32,255 – £71,396 (PC to inspector scales)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-officers-essex-418165"
+   "closes": "Open – see force website",
+   "url": "https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/ca/careers/police-officers/transfer-opportunities/"
   },
   {
    "cat": "police",
@@ -1608,8 +1407,8 @@
    "org": "Metropolitan Police Service",
    "place": "London",
    "pay": "Met PC scale + London allowances – see advert",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferring-officers-metropolitan-police-service-2168234"
+   "closes": "Ongoing – see Met website",
+   "url": "https://www.met.police.uk/transferees"
   },
   {
    "cat": "police",
@@ -1624,12 +1423,12 @@
     "transferee"
    ],
    "region": "lon",
-   "title": "RaSP Close Protection – Transferring Officer (202611)",
+   "title": "Transferring Officers – Specialist Skills & Experience",
    "org": "Metropolitan Police Service",
    "place": "Across London",
    "pay": "Met PC scale + London allowances – see advert",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/202611-rasp-close-protection-transferring-officer-metropolitan-police-service-2483887"
+   "closes": "Ongoing – see Met website",
+   "url": "https://www.met.police.uk/police-forces/metropolitan-police/areas/c/careers/police-officer-roles/transferring-officers-specialists-skills-experience/overview/"
   },
   {
    "cat": "police",
@@ -1655,70 +1454,8 @@
    "org": "West Midlands Police",
    "place": "West Midlands",
    "pay": "£32,255 – £119,838 (PC to chief superintendent scales)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/police-officer-transferee-–-all-ranks-west-midlands-2107555"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Firearms Officer Transferee (Constable)",
-   "org": "West Midlands Police",
-   "place": "West Midlands",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/firearms-officer-transferee-(constable)-west-midlands-2401784"
-  },
-  {
-   "cat": "control",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee – Force Contact Dispatch Officer",
-   "org": "West Midlands Police",
-   "place": "West Midlands",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee:-force-contact-dispatch-officer-west-midlands-2281205"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "supt"
-   ],
-   "region": "mid",
-   "pmin": 87123,
-   "pmax": 119838,
-   "title": "Superintendent to Chief Superintendent – Promotion Process",
-   "org": "West Midlands Police",
-   "place": "West Midlands",
-   "pay": "£87,123 – £119,838 (superintendent & chief superintendent)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/superintendent-to-chief-superintendent:-promotion-process-west-midlands-2484318"
+   "closes": "Open – see force website",
+   "url": "https://jobs.west-midlands.police.uk/rejoiners/"
   },
   {
    "cat": "police",
@@ -1752,25 +1489,6 @@
     "eng"
    ],
    "ranks": [
-    "supt"
-   ],
-   "region": "nw",
-   "pmin": 84177,
-   "pmax": 99015,
-   "title": "Superintendent Promotion – November 2026",
-   "org": "Lancashire Constabulary",
-   "place": "Forcewide",
-   "pay": "£84,177 – £99,015",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/--mw----superintendent-promotion-november-2026-lancashire-2476967"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
     "pc"
    ],
    "routes": [
@@ -1784,8 +1502,8 @@
    "org": "Leicestershire Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/police-constable-transferees-and-re-leicestershire-2443579"
+   "closes": "Open – see force website",
+   "url": "https://careers.leics.police.uk/join-us/search-our-jobs"
   },
   {
    "cat": "police",
@@ -1807,8 +1525,8 @@
    "org": "Leicestershire Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/detective-constable-transferees-and-re-leicestershire-2443578"
+   "closes": "Open – see force website",
+   "url": "https://careers.leics.police.uk/join-us/search-our-jobs"
   },
   {
    "cat": "police",
@@ -1829,8 +1547,8 @@
    "org": "Leicestershire Police",
    "place": "Forcewide",
    "pay": "£55,443 – £58,176",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-sergeant-(le-2026b)-leicestershire-2443580"
+   "closes": "Open – see force website",
+   "url": "https://careers.leics.police.uk/join-us/search-our-jobs"
   },
   {
    "cat": "police",
@@ -1851,8 +1569,8 @@
    "org": "Lincolnshire Police",
    "place": "Stamford",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---response-constable-lincolnshire-2485726"
+   "closes": "Open – see force website",
+   "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/"
   },
   {
    "cat": "police",
@@ -1873,8 +1591,8 @@
    "org": "Lincolnshire Police",
    "place": "Skegness",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-constable-lincolnshire-2485731"
+   "closes": "Open – see force website",
+   "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/detective-constable---criminal-investigation-department2/"
   },
   {
    "cat": "police",
@@ -1891,12 +1609,12 @@
    "region": "mid",
    "pmin": 55443,
    "pmax": 58175,
-   "title": "Transferee – Detective Sergeant",
+   "title": "Transferee – Detective Sergeant (Protecting Vulnerable Persons)",
    "org": "Lincolnshire Police",
    "place": "Skegness",
    "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-sergeant-lincolnshire-2485723"
+   "closes": "Open – next intake Feb 2027",
+   "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/detective-constable---protecting-vulnerable-persons-unit-pvp22/"
   },
   {
    "cat": "police",
@@ -1917,8 +1635,8 @@
    "org": "Lincolnshire Police",
    "place": "Stamford",
    "pay": "£66,000 – £71,396 (inspector scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---response-and-detective-inspectors-lincolnshire-2485729"
+   "closes": "Open – see force website",
+   "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/"
   },
   {
    "cat": "police",
@@ -1927,7 +1645,8 @@
     "eng"
    ],
    "ranks": [
-    "pc"
+    "pc",
+    "ps"
    ],
    "routes": [
     "transferee"
@@ -1935,12 +1654,12 @@
    "region": "se",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Transferee – Police Constable",
+   "title": "Transferee – Police Constables & Sergeants",
    "org": "Surrey Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---police-constable-surrey-2289871"
+   "closes": "Open – see force website",
+   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/detective-and-pc-transferees-and-re-joiners/transfer-to-surrey-police/"
   },
   {
    "cat": "police",
@@ -1957,12 +1676,12 @@
    "region": "se",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Transferee – Detective Constable, Major Crime Team",
+   "title": "Transferee – Detective Constables",
    "org": "Surrey Police",
    "place": "Woking",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-constable-major-crime-team-surrey-2484751"
+   "closes": "Open – see force website",
+   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/detective-and-pc-transferees-and-re-joiners/detective-constable-transferees/"
   },
   {
    "cat": "police",
@@ -1983,8 +1702,8 @@
    "org": "Surrey Police",
    "place": "Forcewide",
    "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---detective-sergeant-surrey-2289874"
+   "closes": "Open – see force website",
+   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/detective-and-pc-transferees-and-re-joiners/detective-constable-transferees/"
   },
   {
    "cat": "police",
@@ -2005,8 +1724,8 @@
    "org": "Sussex Police",
    "place": "Forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---police-constable,-response-sussex-2453238"
+   "closes": "Open – see force website",
+   "url": "https://www.sussex.police.uk/police-forces/sussex-police/areas/careers/jobs/transferees/"
   },
   {
    "cat": "police",
@@ -2015,8 +1734,7 @@
     "eng"
    ],
    "ranks": [
-    "pc",
-    "dc"
+    "pc"
    ],
    "routes": [
     "transferee"
@@ -2024,12 +1742,12 @@
    "region": "east",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Transferee – Response Constables, DCs & Specialist PVP Detectives",
+   "title": "Transferee Police Constables – Response",
    "org": "Cambridgeshire Constabulary",
    "place": "Cambridgeshire",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/cambridgeshire-transferee---response-constables,-detective-constables-&-specialist-pvp-detectives-cambridgeshire-2431892"
+   "closes": "Open – see force website",
+   "url": "https://www.cambs.police.uk/police-forces/cambridgeshire-constabulary/areas/careers/careers/police-officers/force-transfers/"
   },
   {
    "cat": "police",
@@ -2044,147 +1762,15 @@
     "transferee",
     "rejoiner"
    ],
-   "region": "east",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee / Re-joiner",
-   "org": "Bedfordshire Police",
-   "place": "Forcewide",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee---re-joiner---bedfordshire-bedfordshire-2440358"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee Constable – Neighbourhood Policing Team",
-   "org": "Nottinghamshire Police",
-   "place": "Various county locations",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-constable---neighbourhood-policing-team-nottinghamshire-2298236"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Response Police Constable Transferee",
-   "org": "Nottinghamshire Police",
-   "place": "Various county locations",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/response-police-constable-transferee-nottinghamshire-2223353"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Detective Constable Transferee",
-   "org": "Nottinghamshire Police",
-   "place": "Various county locations",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/detective-constable-transferee-nottinghamshire-2296284"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
    "region": "se",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Detective Constable – Investigations (SEROCU)",
-   "org": "Thames Valley Police",
-   "place": "Crawley",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/detective-constable---investigations-(serocu)-thames-valley-2470420"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 55443,
-   "pmax": 58175,
-   "title": "Police Sergeant – Cyber (SEROCU)",
-   "org": "Thames Valley Police",
-   "place": "Reading",
-   "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/police-sergeant---cyber-serocu-thames-valley-2471988"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "rejoiner"
-   ],
-   "region": "se",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Police Officer – Rejoiner",
+   "title": "Police Officer – Transferees & Re-joiners",
    "org": "Thames Valley Police",
    "place": "Witney & forcewide",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/police-officer---rejoiner-thames-valley-924911"
+   "closes": "Open – see force website",
+   "url": "https://tvpcareers.co.uk/roles/transferees-re-joiners"
   },
   {
    "cat": "police",
@@ -2205,8 +1791,8 @@
    "org": "Hampshire & Isle of Wight Constabulary",
    "place": "Various",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-police-constable---hiowc220-hampshire-2331068"
+   "closes": "Open – see force website",
+   "url": "https://hampshire.police.uk/police-forces/hampshire-constabulary/areas/careers/careers/transferees"
   },
   {
    "cat": "police",
@@ -2227,119 +1813,8 @@
    "org": "Hampshire & Isle of Wight Constabulary",
    "place": "Various",
    "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-police-sergeant---hiowc223-hampshire-2331049"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "insp"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 66000,
-   "pmax": 71396,
-   "title": "Talent Bank – Transferee Police Inspector",
-   "org": "Hampshire & Isle of Wight Constabulary",
-   "place": "Various",
-   "pay": "£66,000 – £71,396 (inspector scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/talent-bank---transferee-police-inspector-hampshire-2332507"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "insp"
-   ],
-   "routes": [
-    "rejoiner"
-   ],
-   "region": "se",
-   "pmin": 66000,
-   "pmax": 71396,
-   "title": "Talent Bank – Rejoining Detective Inspector",
-   "org": "Hampshire & Isle of Wight Constabulary",
-   "place": "Various",
-   "pay": "£66,000 – £71,396 (inspector scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/talent-bank---rejoining-detective-inspector-hampshire-2332487"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "insp",
-    "ci"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "nw",
-   "pmin": 66000,
-   "pmax": 75709,
-   "title": "Chief Inspector, or Inspector on promotion to Chief Inspector",
-   "org": "Greater Manchester Police",
-   "place": "Forcewide",
-   "pay": "£66,000 – £75,709 (inspector to chief inspector scales)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/chief-inspector-or-inspector-on-promotion-to-chief-inspector-greater-manchester-2485152"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "insp"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "nw",
-   "pmin": 66000,
-   "pmax": 71396,
-   "title": "CTPNW – Protective Security Manager (Inspector)",
-   "org": "Greater Manchester Police",
-   "place": "Manchester",
-   "pay": "£66,000 – £71,396 (inspector scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/ctpnw---protective-security-manager---inspector-greater-manchester-2485919"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "wal"
-   ],
-   "ranks": [
-    "insp"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "wal",
-   "pmin": 66000,
-   "pmax": 71396,
-   "title": "Transferee Police Inspector / Detective Inspector",
-   "org": "Gwent Police",
-   "place": "Forcewide",
-   "pay": "£66,000 – £71,396 (inspector scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/gwent-police-transferee-police-inspector----detective-inspector-gwent-2435197"
+   "closes": "Open – see force website",
+   "url": "https://hampshire.police.uk/police-forces/hampshire-constabulary/areas/careers/careers/transferees"
   },
   {
    "cat": "police",
@@ -2360,52 +1835,8 @@
    "org": "Cheshire Constabulary",
    "place": "Cheshire",
    "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/ps-&-ds---transferee-opportunities-26--27-cheshire-2243878"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "nw",
-   "pmin": 55443,
-   "pmax": 58176,
-   "title": "Sergeants Promotion Process – External (November 2026)",
-   "org": "Cheshire Constabulary",
-   "place": "Cheshire",
-   "pay": "£55,443 – £58,176",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/sergeants-promotion-process---external-november-2026-cheshire-2476926"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 55443,
-   "pmax": 58176,
-   "title": "Sergeant – External Boards",
-   "org": "Derbyshire Constabulary",
-   "place": "Derbyshire",
-   "pay": "£55,443 – £58,176",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/sergeant---external-boards-derbyshire-2483443"
+   "closes": "Open – see force website",
+   "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/"
   },
   {
    "cat": "police",
@@ -2426,8 +1857,8 @@
    "org": "Derbyshire Constabulary",
    "place": "Force HQ",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-fraud-investigator-(detective-constable)-de-2026-derbyshire-2484142"
+   "closes": "Open – see force website",
+   "url": "https://careers.derbyshire.police.uk/find-job/job-search?dept=transferees"
   },
   {
    "cat": "police",
@@ -2448,8 +1879,8 @@
    "org": "Derbyshire Constabulary",
    "place": "Wyatts Way",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/armed-response-vehicle-officer---transferee-constable-derbyshire-2472889"
+   "closes": "Open – see force website",
+   "url": "https://careers.derbyshire.police.uk/find-job/job-search?dept=transferees"
   },
   {
    "cat": "police",
@@ -2458,108 +1889,43 @@
     "eng"
    ],
    "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee Detective Constables (North Devon, South Devon & East Cornwall)",
+   "org": "Devon & Cornwall Police",
+   "place": "Devon & Cornwall",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Open – see force website",
+   "url": "https://recruitment.devon-cornwall.police.uk/devon-cornwall-police-careers/dc-transferees/dc-transfer/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
     "ps"
    ],
    "routes": [
     "transferee"
    ],
-   "region": "lon",
-   "title": "Custody Sergeant",
-   "org": "City of London Police",
-   "place": "Bishopsgate Police Station",
-   "pay": "Sergeant scale + London allowances – see advert",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/custody-sergeant-city-of-london-2445516"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "supt"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "east",
-   "pmin": 87123,
-   "pmax": 102480,
-   "title": "Superintendent – Promotion or Level Transfer",
-   "org": "Suffolk Constabulary",
-   "place": "Suffolk",
-   "pay": "£87,123 – £102,480",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/superintendent-promotion-or-level-transfer-suffolk-2473352"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "sco"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "sco",
-   "pmin": 34001,
-   "pmax": 54597,
-   "title": "Transferee Constable – Isle of Skye",
-   "org": "Police Scotland",
-   "place": "Portree",
-   "pay": "£34,001 – £54,597 (Police Scotland PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-constable---isle-of-skye-scotland-2487651"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
    "region": "sw",
    "pmin": 32255,
    "pmax": 52015,
-   "title": "Transferee Officers",
-   "org": "Devon & Cornwall Police",
-   "place": "Devon & Cornwall",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-officers-devon-cornwall-418162"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "sw",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee Officers",
+   "title": "Transferee Police Constables & Sergeants",
    "org": "Dorset Police",
    "place": "Dorset",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-officers-dorset-302063"
+   "closes": "Open – see force website",
+   "url": "https://recruitment.dorset.police.uk/dorset-police-careers/dorset-transferees/dorset-transfer/"
   },
   {
    "cat": "police",
@@ -2580,8 +1946,8 @@
    "org": "Avon and Somerset Police",
    "place": "Keynsham",
    "pay": "£55,443 – £58,176",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/ps-custody-officer-(transferee)-avon-and-somerset-1494846"
+   "closes": "Open – see force website",
+   "url": "https://www.avonandsomerset.police.uk/apply/jobs-and-volunteering/police-transferees/"
   },
   {
    "cat": "police",
@@ -2602,8 +1968,8 @@
    "org": "Avon and Somerset Police",
    "place": "Forcewide",
    "pay": "£32,256 – £52,014",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/pc-counter-terrorist-specialist-firearms-officer-avon-and-somerset-2209580"
+   "closes": "Open – see force website",
+   "url": "https://www.avonandsomerset.police.uk/apply/jobs-and-volunteering/police-transferees/"
   },
   {
    "force": "special",
@@ -2628,8 +1994,8 @@
    "org": "Ministry of Defence Police",
    "place": "Defence sites UK-wide",
    "pay": "£32,100 – £47,743",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/neof---pc-national-firearms-instructor-mdp-2386946"
+   "closes": "Open – see force website",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-national-firearms-instructor/"
   },
   {
    "force": "special",
@@ -2654,8 +2020,8 @@
    "org": "Ministry of Defence Police",
    "place": "UK-wide",
    "pay": "£41,327 – £57,518",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/neof---pc-special-escort-group-afo-ct-mdp-2386945"
+   "closes": "Open – see force website",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-special-escort-group-officer/"
   },
   {
    "force": "special",
@@ -2672,12 +2038,12 @@
     "rejoiner"
    ],
    "region": "sw",
-   "title": "Transferee & Re-Joiner Police Constables – Truro",
+   "title": "Transferee & Re-Joiner Police Constables – Bournemouth",
    "org": "British Transport Police",
-   "place": "Truro",
+   "place": "Bournemouth",
    "pay": "BTP constable scale – see advert",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-and-re-joiner-police-constables---truro-british-transport-police-2428787"
+   "closes": "Open – no closing date",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bournemouth/1706"
   },
   {
    "force": "special",
@@ -2693,35 +2059,13 @@
     "transferee",
     "rejoiner"
    ],
-   "region": "ne",
-   "title": "Transferee & Re-Joiner Police Constables – Leeds",
+   "region": "lon|mid",
+   "title": "Transferee & Re-Joiner Police Constables – Control Room",
    "org": "British Transport Police",
-   "place": "Leeds",
+   "place": "London or Birmingham",
    "pay": "BTP constable scale – see advert",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-and-re-joiner-police-constables---leeds-british-transport-police-2244851"
-  },
-  {
-   "force": "special",
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "dc"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "region": "uk",
-   "title": "Transferee & Re-Joiner Detective Constables",
-   "org": "British Transport Police",
-   "place": "Various",
-   "pay": "BTP constable scale – see advert",
-   "closes": "Open – see advert",
-   "url": "https://allpolicejobs.co.uk/jobs/transferee-and-re-joiner-detective-constables-british-transport-police-2419363"
+   "closes": "Closes 13 Dec 2026",
+   "url": "https://vacancies.btp.police.uk/"
   },
   {
    "cat": "justice",
