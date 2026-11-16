@@ -3451,6 +3451,66 @@
    "pay": "£41,000",
    "closes": "Open – see advert",
    "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-446943b9"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "transport"
+   ],
+   "region": "nw",
+   "pmin": 27870,
+   "pmax": 67104,
+   "title": "Trainee Train Driver – Manchester (paid apprenticeship)",
+   "org": "Northern Trains",
+   "place": "Manchester Victoria / Piccadilly",
+   "pay": "£27,870 while training, rising to £53,190 in year 1 and £67,104 by year 3",
+   "closes": "Closes 24 Dec 2026",
+   "url": "https://www.glassdoor.com/job-listing/trainee-train-driver-manchester-northern-rail-JV_IC2691218_KO0,31_KE32,45.htm?jl=1010239391766"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "wal"
+   ],
+   "region": "wal",
+   "pmin": 27631,
+   "pmax": 27631,
+   "title": "HM Coastguard Maritime Operations Officer",
+   "org": "Maritime and Coastguard Agency",
+   "place": "Milford Haven",
+   "pay": "£27,631 plus shift allowances – see advert",
+   "closes": "Closes 23 Nov 2026",
+   "url": "https://www.evenbreak.com/job/1548063/maritime-operations-officer/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "safety",
+    "transport"
+   ],
+   "region": "sco",
+   "pmin": 46701,
+   "pmax": 56963,
+   "title": "Workforce Health, Safety & Environment Advisor (12-month)",
+   "org": "Network Rail",
+   "place": "Glasgow",
+   "pay": "£46,701 – £56,963",
+   "closes": "Closes 18 Nov 2026",
+   "url": "https://www.evenbreak.com/job/1541334/workforce-health-safety-and-environment-advisor/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "planning",
+    "transport"
+   ],
+   "region": "mid",
+   "title": "Section Planner (Signalling)",
+   "org": "Network Rail",
+   "place": "Leicester",
+   "pay": "Competitive – see advert",
+   "closes": "Closes 19 Nov 2026",
+   "url": "https://www.evenbreak.com/job/1542282/section-planner-signalling-/"
   }
  ]
 }
