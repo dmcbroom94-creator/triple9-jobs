@@ -1,5 +1,5 @@
 {
- "updated": "16 Nov 2026",
+ "updated": "17 Nov 2026",
  "jobs": [
   {
    "cat": "police",
@@ -2660,6 +2660,20 @@
    "pay": "NHS Band 2 – see advert",
    "closes": "Closes 18 Nov 2026",
    "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C8192-26-0631"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "ne",
+   "title": "Detention Officer (new and transferee Detention Officers)",
+   "org": "North Yorkshire Police",
+   "place": "York, Harrogate & Scarborough custody suites",
+   "pay": "See advert (plus shift allowance)",
+   "closes": "Open – see force website",
+   "url": "https://northyorkshirepolice.engageats.co.uk/V2/Vacancy"
   }
  ]
 }
