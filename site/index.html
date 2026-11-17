@@ -60,11 +60,18 @@ button:active,a:active{transform:scale(.97)}
 @supports (animation-timeline: view()){.t9-reveal{animation:t9Up linear both;animation-timeline:view();animation-range:entry 0% entry 30%}}
 .t9-foot a{display:inline-block;padding:12px 10px}
 .t9-mob{display:none}
+@media (min-width: 701px){
+.t9-job .t9-jobact{flex:0 0 auto!important;display:grid!important;grid-template-columns:auto auto;justify-items:end;gap:10px 10px!important}
+.t9-job .t9-jobact>span{grid-column:1 / -1}
+.t9-job h3{font-size:24px!important}
+}
+#paths .t9-path>span:nth-child(2){font-size:22px!important}
+details>summary{list-style-position:inside!important}
 #paths{padding:44px 24px!important}
 #paths .t9-path{flex:1 1 320px!important;min-width:0!important;flex-direction:row!important;text-align:left!important;align-items:center!important;padding:14px 18px!important;gap:14px!important}
 #paths .t9-path>span:nth-child(1){width:48px!important;height:48px!important;flex:0 0 auto}
 #paths .t9-path>span:nth-child(1) svg{width:24px;height:24px}
-#paths .t9-path>span:nth-child(2){flex:1 1 auto;font-size:24px!important}
+#paths .t9-path>span:nth-child(2){flex:1 1 auto}
 #paths .t9-path>span:nth-child(3),#paths .t9-path>span:nth-child(5){display:none!important}
 #paths .t9-path>span:nth-child(4){white-space:nowrap;margin-left:auto}
 @media (max-width: 700px){
@@ -564,7 +571,7 @@ button:active,a:active{transform:scale(.97)}
 <h2 style="margin: 0; font-size: clamp(40px, 5vw, 64px); font-weight: 800; line-height: 0.95">Planning your exit?</h2>
 <p style="margin: 0; font-size: 18px; line-height: 1.5; color: #3B4458">Free tools to plan your next move. Nothing to sign up for.</p>
 </div>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px">
 <a href="cv-builder.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">CV skills builder</span><span style="color: #D5DBE8; font-size: 15px">Find your transferable skills for your exact role</span></a>
 <a href="interview-guide.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Interview guide</span><span style="color: #D5DBE8; font-size: 15px">Tips, structures and common questions</span></a>
 <a href="pay-calculator.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Pay calculator</span><span style="color: #D5DBE8; font-size: 15px">See if a new job leaves you better off</span></a>
@@ -621,7 +628,7 @@ button:active,a:active{transform:scale(.97)}
 </section>
 
 
-<section id="discounts" style="background: #FFFFFF; padding: 56px 24px">
+<section id="discounts" style="background: #FFFFFF; padding: 16px 24px 56px">
 <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px">
 <a href="discounts.html" class="t9-card t9-reveal" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px 24px; padding: 24px 26px; border-radius: 16px; background: linear-gradient(120deg, #0B1B3F, #1450D2); color: #FFFFFF; text-decoration: none">
 <span style="display: flex; flex-direction: column; gap: 6px; max-width: 680px"><strong style="font-family: 'Barlow Condensed', sans-serif; font-size: 34px; text-transform: uppercase; line-height: 1">Discounts &amp; offers</strong><span style="font-size: 16px; line-height: 1.5; color: #DCE6FF">Blue Light Card, Health Service Discounts, Boundless, car and insurance deals for serving and retired staff. Sign up before your work email stops.</span></span>
@@ -1015,7 +1022,7 @@ button:active,a:active{transform:scale(.97)}
 <h2 style="margin: 0; font-size: clamp(40px, 5vw, 64px); font-weight: 800; line-height: 0.95">Planning your exit?</h2>
 <p style="margin: 0; font-size: 18px; line-height: 1.5; color: #3B4458">Free tools to plan your next move. Nothing to sign up for.</p>
 </div>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px">
 <a href="cv-builder.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">CV skills builder</span><span style="color: #D5DBE8; font-size: 15px">Find your transferable skills for your exact role</span></a>
 <a href="interview-guide.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Interview guide</span><span style="color: #D5DBE8; font-size: 15px">Tips, structures and common questions</span></a>
 <a href="pay-calculator.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Pay calculator</span><span style="color: #D5DBE8; font-size: 15px">See if a new job leaves you better off</span></a>
@@ -1051,7 +1058,7 @@ button:active,a:active{transform:scale(.97)}
 </section>
 
 
-<section id="discounts" style="background: #FFFFFF; padding: 56px 24px">
+<section id="discounts" style="background: #FFFFFF; padding: 16px 24px 56px">
 <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px">
 <a href="discounts.html" class="t9-card t9-reveal" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px 24px; padding: 24px 26px; border-radius: 16px; background: linear-gradient(120deg, #0B1B3F, #1450D2); color: #FFFFFF; text-decoration: none">
 <span style="display: flex; flex-direction: column; gap: 6px; max-width: 680px"><strong style="font-family: 'Barlow Condensed', sans-serif; font-size: 34px; text-transform: uppercase; line-height: 1">Discounts &amp; offers</strong><span style="font-size: 16px; line-height: 1.5; color: #DCE6FF">Blue Light Card, Health Service Discounts, Boundless, car and insurance deals for serving and retired staff. Sign up before your work email stops.</span></span>
