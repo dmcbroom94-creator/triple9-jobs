@@ -380,8 +380,8 @@
    "org": "Merseyside Police",
    "place": "Merseyside",
    "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see advert",
-   "url": "https://www.policeoracle.com/latest-jobs/view/police-officer-transferee-4"
+   "closes": "Open – see force website",
+   "url": "https://www.merseyside.police.uk/police-forces/merseyside-police/areas/careers/join-us/transferee-police-officers/"
   },
   {
    "cat": "police",
@@ -432,28 +432,6 @@
    "pay": "£32,255 – £71,396 (PC to inspector scales)",
    "closes": "Open – see force website",
    "url": "https://careers.northumbria.police.uk/job-search/"
-  },
-  {
-   "force": "special",
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "region": "mid",
-   "title": "Transferee & Re-Joiner PCs",
-   "org": "British Transport Police",
-   "place": "Wolverhampton",
-   "pay": "BTP constable scale – see advert",
-   "closes": "Closes 3 Dec 2026",
-   "url": "https://workopia.io/jobs/23130b656c0a08003b28949cebb61b19"
   },
   {
    "cat": "police",
@@ -636,63 +614,6 @@
   {
    "cat": "civilian",
    "areas": [
-    "planning",
-    "management",
-    "operations"
-   ],
-   "region": "lon",
-   "title": "Operational Resilience Manager",
-   "org": "Heathrow",
-   "place": "London",
-   "pay": "Competitive",
-   "closes": "Closes 18 Nov 2026",
-   "url": "https://www.evenbreak.com/job/1541545/operational-resilience-manager/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "planning",
-    "management"
-   ],
-   "region": "east",
-   "title": "Emergency Planning & Resilience Manager (interim)",
-   "org": "Vivid Resourcing (council client)",
-   "place": "Chelmsford",
-   "pay": "See advert",
-   "closes": "Closes 29 Nov 2026",
-   "url": "https://vividresourcing.com/job/ememergency-planning-resilience-manager/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "investigation",
-    "security"
-   ],
-   "region": "se",
-   "title": "Security Investigator",
-   "org": "Wickes",
-   "place": "South East (field-based)",
-   "pay": "Competitive + bonus",
-   "closes": "Closes 12 Dec 2026",
-   "url": "https://www.evenbreak.com/job/1547410/security-investigator/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "customer",
-    "supervisor"
-   ],
-   "region": "ne",
-   "title": "Customer Service Team Leader",
-   "org": "Wolviston Management Services",
-   "place": "Stockton-on-Tees",
-   "pay": "See advert",
-   "closes": "Closes 13 Dec 2026",
-   "url": "https://www.jobshiringnearme.co.uk/job/22716454/customer-service-team-leader/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
     "transport"
    ],
    "region": "se",
@@ -704,21 +625,6 @@
    "pay": "£17 – £19.50 an hour (≈ £33,150 – £38,025 a year full-time)",
    "closes": "Closes 4 Dec 2026",
    "url": "https://www.jobs.service.gov.uk/jobs/6a16a2a9a1489754c8dae275"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "transport"
-   ],
-   "region": "mid",
-   "pmin": 35100,
-   "pmax": 35100,
-   "title": "HGV Class 2 Driver – refuse collection",
-   "org": "QS Recruitment",
-   "place": "Burton on Trent",
-   "pay": "£18 an hour (≈ £35,100 a year full-time)",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://www.qsrecruitment.com/job/187303-hgv-class-2-driver/"
   },
   {
    "cat": "civilian",
@@ -758,19 +664,6 @@
   {
    "cat": "ambulance",
    "skills": [
-    "emt"
-   ],
-   "region": "nw",
-   "title": "Urgent Care Staff – FREC 4",
-   "org": "Medic 365",
-   "place": "Chester & North West",
-   "pay": "See advert (12.5-hour shifts)",
-   "closes": "Open – see advert",
-   "url": "https://www.medic-365.co.uk/"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
     "para"
    ],
    "region": "mid",
@@ -806,65 +699,6 @@
    "pay": "Competitive",
    "closes": "Open – see advert",
    "url": "https://www.efinancialcareers.co.uk/jobs-United_Kingdom-Cardiff-Senior_Financial_Crime_Investigator_Anti_Money_Laundering_AML.id23860113"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety"
-   ],
-   "region": "lon",
-   "pmin": 55300,
-   "pmax": 55300,
-   "title": "Senior Health & Safety Advisor",
-   "org": "Francis Crick Institute",
-   "place": "London",
-   "pay": "From £55,300",
-   "closes": "Closes 6 Dec 2026",
-   "url": "https://freehire.me/jobs/senior-health-and-safety-advisor-crick-cg4ik2az"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety"
-   ],
-   "region": "ne",
-   "pmin": 45000,
-   "pmax": 55000,
-   "title": "Health & Safety Advisor (civil engineering)",
-   "org": "OCS Recruitment",
-   "place": "North East",
-   "pay": "£45,000 – £55,000",
-   "closes": "Closes 3 Dec 2026",
-   "url": "https://www.ioshjobs.com/job/5479260/health-and-safety-advisor/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety"
-   ],
-   "region": "nw|ne",
-   "pmin": 41000,
-   "pmax": 45000,
-   "title": "Health & Safety Advisor (charity)",
-   "org": "Principal People Recruitment",
-   "place": "North of England, home-based",
-   "pay": "£41,000 – £45,000",
-   "closes": "Closes 2 Dec 2026",
-   "url": "https://www.ioshjobs.com/job/5479221/health-and-safety-advisor/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety",
-    "training"
-   ],
-   "region": "uk",
-   "title": "Health & Safety Advisor (manufacturing)",
-   "org": "Parkside Office Professional",
-   "place": "UK",
-   "pay": "Competitive",
-   "closes": "Closes 12 Dec 2026",
-   "url": "https://www.ioshjobs.com/job/5479484/health-and-safety-advisor/"
   },
   {
    "cat": "justice",
@@ -975,19 +809,6 @@
    "pay": "See advert",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/United-Kingdom-of-Great-Britain-and-Northern-Ireland-20667-Youth-Justice-Worker-Advance-into-Justice/20667"
-  },
-  {
-   "cat": "justice",
-   "jroles": [
-    "prison"
-   ],
-   "region": "sco",
-   "title": "Prison Officer – Residential (Glasgow area)",
-   "org": "Scottish Prison Service",
-   "place": "Glasgow area",
-   "pay": "Pay band D – see advert",
-   "closes": "Closes 6 Dec 2026",
-   "url": "https://talents.studysmarter.co.uk/companies/scottish-prison-service/prison-officer-residential-location-glasgow-area-12017412/"
   },
   {
    "cat": "justice",
@@ -2326,66 +2147,6 @@
    "url": "https://nfcc.org.uk/fire-sector-jobs/accredited-centre-and-apprenticeship-manager-warwickshire-fire-and-rescue-service/"
   },
   {
-   "cat": "civilian",
-   "areas": [
-    "safety",
-    "management"
-   ],
-   "region": "lon",
-   "pmin": 65029,
-   "pmax": 65029,
-   "title": "Building Safety Manager",
-   "org": "Newlon Housing Trust",
-   "place": "Hale Village, London N17",
-   "pay": "£65,029 + up to 5% performance pay",
-   "closes": "Open – see advert",
-   "url": "https://www.ioshjobs.com/job/5479429/building-safety-manager/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety"
-   ],
-   "region": "se",
-   "pmin": 50000,
-   "pmax": 58000,
-   "title": "Health and Safety Advisor",
-   "org": "Irwin & Colton",
-   "place": "Reading, Berkshire",
-   "pay": "£50,000 – £58,000 + car allowance",
-   "closes": "Open – see advert",
-   "url": "https://www.ioshjobs.com/job/5479398/health-and-safety-advisor-/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety"
-   ],
-   "region": "lon",
-   "title": "Senior Health and Safety Advisor",
-   "org": "Sodexo",
-   "place": "London",
-   "pay": "Competitive",
-   "closes": "Open – see advert",
-   "url": "https://www.ioshjobs.com/job/5479427/senior-health-and-safety-advisor/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety",
-    "investigation"
-   ],
-   "region": "mid|nw",
-   "pmin": 80000,
-   "pmax": 90000,
-   "title": "Senior Fire Engineer",
-   "org": "Irwin & Colton",
-   "place": "Birmingham or Liverpool",
-   "pay": "£80,000 – £90,000 + car allowance",
-   "closes": "Open – see advert",
-   "url": "https://www.ioshjobs.com/job/5479476/senior-fire-engineer/"
-  },
-  {
    "cat": "police",
    "ptype": "officer",
    "nations": [
@@ -2473,158 +2234,6 @@
    "url": "https://careers.mitie.com/jobs/vacancy/senior-custody-nurse-or-paramedic--96779/96798/description/"
   },
   {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "nw",
-   "title": "Police Custody Nurse or Paramedic (part time)",
-   "org": "Mitie Care & Custody",
-   "place": "Ashton-under-Lyne & Manchester",
-   "pay": "See advert",
-   "closes": "Closes 11 Dec 2026",
-   "url": "https://freehire.me/jobs/police-custody-nurse-or-paramedic-mitie-7dmqi6ew"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "nw",
-   "pmin": 41000,
-   "pmax": 41000,
-   "title": "Healthcare Professional – Custody Nurse / Paramedic",
-   "org": "SONAR Cares",
-   "place": "Preston, Lancashire",
-   "pay": "£41,000",
-   "closes": "Closes 27 Nov 2026",
-   "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-143be478"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "nw",
-   "pmin": 41000,
-   "pmax": 41000,
-   "title": "Healthcare Professional – Custody Nurse / Paramedic",
-   "org": "SONAR Cares",
-   "place": "Lancaster, Lancashire",
-   "pay": "£41,000",
-   "closes": "Open – see advert",
-   "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-bcf2f1d7"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "nw",
-   "title": "Healthcare Professional – Custody Nurse / Paramedic",
-   "org": "SONAR Cares",
-   "place": "Blackburn, Lancashire",
-   "pay": "See advert",
-   "closes": "Open – see advert",
-   "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-6067d2c4"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "mid",
-   "pmin": 41000,
-   "pmax": 41000,
-   "title": "Healthcare Professional – Custody Nurse / Paramedic",
-   "org": "SONAR Cares",
-   "place": "Lincoln, Lincolnshire",
-   "pay": "£41,000",
-   "closes": "Closes 27 Nov 2026",
-   "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-f0f6a503"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "mid",
-   "pmin": 41000,
-   "pmax": 41000,
-   "title": "Healthcare Professional – Custody Nurse / Paramedic (2 posts)",
-   "org": "SONAR Cares",
-   "place": "Northampton",
-   "pay": "£41,000",
-   "closes": "Open – see advert",
-   "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-446943b9"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "transport"
-   ],
-   "region": "nw",
-   "pmin": 27870,
-   "pmax": 67104,
-   "title": "Trainee Train Driver – Manchester (paid apprenticeship)",
-   "org": "Northern Trains",
-   "place": "Manchester Victoria / Piccadilly",
-   "pay": "£27,870 while training, rising to £53,190 in year 1 and £67,104 by year 3",
-   "closes": "Closes 24 Dec 2026",
-   "url": "https://www.glassdoor.com/job-listing/trainee-train-driver-manchester-northern-rail-JV_IC2691218_KO0,31_KE32,45.htm?jl=1010239391766"
-  },
-  {
-   "cat": "control",
-   "nations": [
-    "wal"
-   ],
-   "region": "wal",
-   "pmin": 27631,
-   "pmax": 27631,
-   "title": "HM Coastguard Maritime Operations Officer",
-   "org": "Maritime and Coastguard Agency",
-   "place": "Milford Haven",
-   "pay": "£27,631 plus shift allowances – see advert",
-   "closes": "Closes 23 Nov 2026",
-   "url": "https://www.evenbreak.com/job/1548063/maritime-operations-officer/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety",
-    "transport"
-   ],
-   "region": "sco",
-   "pmin": 46701,
-   "pmax": 56963,
-   "title": "Workforce Health, Safety & Environment Advisor (12-month)",
-   "org": "Network Rail",
-   "place": "Glasgow",
-   "pay": "£46,701 – £56,963",
-   "closes": "Closes 18 Nov 2026",
-   "url": "https://www.evenbreak.com/job/1541334/workforce-health-safety-and-environment-advisor/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "planning",
-    "transport"
-   ],
-   "region": "mid",
-   "title": "Section Planner (Signalling)",
-   "org": "Network Rail",
-   "place": "Leicester",
-   "pay": "Competitive – see advert",
-   "closes": "Closes 19 Nov 2026",
-   "url": "https://www.evenbreak.com/job/1542282/section-planner-signalling-/"
-  },
-  {
    "cat": "police",
    "ptype": "staff",
    "nations": [
@@ -2685,71 +2294,13 @@
     "nurse",
     "para"
    ],
-   "region": "east",
-   "pmin": 41500,
-   "pmax": 41500,
-   "title": "Custody Nurse or Paramedic (police custody)",
-   "org": "Mitie Care & Custody",
-   "place": "Martlesham, Suffolk",
-   "pay": "£41,500 a year",
-   "closes": "Closes 5 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Martlesham"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "nw",
-   "title": "Custody Nurse or Paramedic (police custody)",
-   "org": "Mitie Care & Custody",
-   "place": "Bury, Greater Manchester",
-   "pay": "See advert",
-   "closes": "Closes 29 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Bury"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
    "region": "mid",
    "title": "Custody Nurse or Paramedic (police custody)",
    "org": "Mitie Care & Custody",
    "place": "Birmingham",
    "pay": "See advert",
    "closes": "Closes 2 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Birmingham"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "sw",
-   "title": "Custody Nurse or Paramedic (police custody)",
-   "org": "Mitie Care & Custody",
-   "place": "Barnstaple, Devon",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Barnstaple"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "region": "sw",
-   "title": "Custody Nurse or Paramedic (police custody)",
-   "org": "Mitie Care & Custody",
-   "place": "Melksham, Wiltshire",
-   "pay": "See advert",
-   "closes": "Closes 25 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Melksham"
+   "url": "https://careers.mitie.com/jobs/vacancy/custody-nurse-or-paramedic--96480/96499/description/"
   },
   {
    "cat": "ambulance",
@@ -2764,163 +2315,6 @@
    "pay": "See advert",
    "closes": "Closes 1 Apr 2027",
    "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/M0051-26-0080"
-  },
-  {
-   "cat": "control",
-   "nations": [
-    "eng"
-   ],
-   "region": "east|ne",
-   "pmin": 25604,
-   "pmax": 32936,
-   "title": "NHS 111 Health Advisor (call handler)",
-   "org": "Practice Plus Group",
-   "place": "Ipswich or Stockton-on-Tees",
-   "pay": "£13.13 – £16.89 an hour (≈ £25,604 – £32,936 a year full-time)",
-   "closes": "Closes 25 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=NHS+111+Health+Advisor+Practice+Plus+Group"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "eca"
-   ],
-   "region": "ne",
-   "pmin": 24784,
-   "pmax": 24784,
-   "title": "Ambulance Care Assistant",
-   "org": "Nerams Limited",
-   "place": "Ferryhill & Washington",
-   "pay": "£24,784.50 a year",
-   "closes": "Closes 24 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Nerams"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "eca"
-   ],
-   "region": "ne",
-   "pmin": 24862,
-   "pmax": 25350,
-   "title": "Ambulance Care Assistant (bank)",
-   "org": "YorMed Ambulance Service",
-   "place": "Malton, North Yorkshire",
-   "pay": "£12.75 – £13.00 an hour (≈ £24,862 – £25,350 a year full-time)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+YorMed"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "emt"
-   ],
-   "region": "ne",
-   "pmin": 25350,
-   "pmax": 31200,
-   "title": "First Responder – PTS & Events (FREC 3/4, bank)",
-   "org": "YorMed Ambulance Service",
-   "place": "Malton, North Yorkshire",
-   "pay": "£13.00 – £16.00 an hour (≈ £25,350 – £31,200 a year full-time)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=First+Responder+FREC+YorMed"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "eca"
-   ],
-   "region": "sw",
-   "pmin": 26325,
-   "pmax": 26325,
-   "title": "Ambulance Care Assistant (bank)",
-   "org": "Alliance Pioneer Group",
-   "place": "Plymouth",
-   "pay": "£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Alliance+Pioneer+Group"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "nw",
-   "title": "Healthcare Assistant (secure care)",
-   "org": "Prometheus Safe and Secure",
-   "place": "Warrington",
-   "pay": "See advert",
-   "closes": "Closes 27 Jan 2027",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Prometheus+Safe+and+Secure"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "mid",
-   "pmin": 24997,
-   "pmax": 28406,
-   "title": "Healthcare Assistant (HCA)",
-   "org": "Taurus Healthcare",
-   "place": "Hereford",
-   "pay": "£24,996.93 – £28,405.60 a year",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Taurus+Healthcare"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "se",
-   "title": "Healthcare Assistant (GP practices)",
-   "org": "Primary Care Management Solutions",
-   "place": "High Wycombe",
-   "pay": "See advert",
-   "closes": "Closes 30 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Primary+Care+Management+Solutions"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "sw",
-   "pmin": 26325,
-   "pmax": 26325,
-   "title": "Healthcare Assistant (GP surgery)",
-   "org": "The Avenue Surgery",
-   "place": "Warminster, Wiltshire",
-   "pay": "£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)",
-   "closes": "Closes 2 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=HCA+The+Avenue+Surgery+Warminster"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "se",
-   "title": "Health Care Assistant (GP surgery)",
-   "org": "Marcham Road Health Centre",
-   "place": "Abingdon, Oxfordshire",
-   "pay": "See advert",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Health+Care+Assistant+Marcham+Road+Health+Centre"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "ne",
-   "title": "Healthcare Assistant (GP surgery)",
-   "org": "Junction Surgery",
-   "place": "Huddersfield",
-   "pay": "See advert",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Junction+Surgery+Huddersfield"
   },
   {
    "cat": "civilian",
@@ -2940,37 +2334,6 @@
   {
    "cat": "civilian",
    "areas": [
-    "planning"
-   ],
-   "region": "sco",
-   "pmin": 43910,
-   "pmax": 48926,
-   "title": "Resilience Officer (emergency planning)",
-   "org": "Dundee City Council",
-   "place": "Dundee",
-   "pay": "£43,910 – £48,926 a year",
-   "closes": "Closes 29 Nov 2026",
-   "url": "https://myjobscotland.gov.uk/search-jobs?organisation=2611"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "operations",
-    "security"
-   ],
-   "region": "sco",
-   "pmin": 28321,
-   "pmax": 28939,
-   "title": "Safety & Alarm Centre Controller / Responder",
-   "org": "Dundee City Council",
-   "place": "Dundee",
-   "pay": "£28,321 – £28,939 a year",
-   "closes": "Closes 29 Nov 2026",
-   "url": "https://myjobscotland.gov.uk/search-jobs?organisation=2611"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
     "safety"
    ],
    "region": "sw",
@@ -2981,23 +2344,7 @@
    "place": "Swindon",
    "pay": "£39,959 – £48,117 a year",
    "closes": "Closes 29 Nov 2026",
-   "url": "https://www.gwh.nhs.uk/recruitment/vacancies/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety",
-    "management"
-   ],
-   "region": "sco",
-   "pmin": 71554,
-   "pmax": 78270,
-   "title": "Health & Safety Manager",
-   "org": "East Dunbartonshire Council",
-   "place": "Kirkintilloch",
-   "pay": "£71,554 – £78,270 a year",
-   "closes": "Closes 18 Nov 2026",
-   "url": "https://myjobscotland.gov.uk/"
+   "url": "https://www.jobs.nhs.uk/candidate/jobadvert/C9249-26-0655"
   },
   {
    "cat": "civilian",
@@ -3027,38 +2374,7 @@
    "place": "Leicester",
    "pay": "£25,760 a year",
    "closes": "Closes 24 Nov 2026",
-   "url": "https://www.uhleicester.nhs.uk/careers/current-vacancies/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "security",
-    "supervisor"
-   ],
-   "region": "sw",
-   "pmin": 32073,
-   "pmax": 39043,
-   "title": "Operational Security Team Manager",
-   "org": "Royal Cornwall Hospitals NHS Trust",
-   "place": "Truro",
-   "pay": "£32,073 – £39,043 a year",
-   "closes": "Closes 22 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Operational+Security+Team+Manager+Royal+Cornwall"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "security"
-   ],
-   "region": "lon",
-   "pmin": 31554,
-   "pmax": 33270,
-   "title": "Security Officer (hospital)",
-   "org": "Barts Health NHS Trust",
-   "place": "Whitechapel, London",
-   "pay": "£31,554 – £33,270 a year",
-   "closes": "Closes 6 Dec 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Security+Officer+Barts+Health"
+   "url": "https://www.jobs.nhs.uk/candidate/jobadvert/C9358-26-0761"
   },
   {
    "cat": "police",
@@ -3261,6 +2577,68 @@
    "pay": "£34,164 – £53,256 incl. £3,000 South East allowance",
    "closes": "Open – see force website",
    "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/police-officer-jobs/police-constable-degree-apprenticeship-pcda/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "wal",
+   "pmin": 34388,
+   "pmax": 34388,
+   "title": "Senior Health Care Assistant (nights)",
+   "org": "Sandstone Care Group",
+   "place": "The Oaks, Newtown, Powys",
+   "pay": "£34,388 a year",
+   "closes": "Closes 4 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/jobadvert/L0137-26-0060"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "security",
+    "customer"
+   ],
+   "region": "mid",
+   "pmin": 27709,
+   "pmax": 29542,
+   "title": "Civil Enforcement Officer (part time)",
+   "org": "Warwick District Council",
+   "place": "Warwick",
+   "pay": "£27,709 – £29,542 pro rata",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://www.wmjobs.co.uk/job/282101/civil-enforcement-officer/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "security",
+    "customer"
+   ],
+   "region": "mid",
+   "pmin": 28153,
+   "pmax": 30515,
+   "title": "Civil Enforcement Officer (multi-role)",
+   "org": "Worcester City Council",
+   "place": "Guildhall, Worcester",
+   "pay": "£28,153 – £30,515 a year",
+   "closes": "Closes 22 Nov 2026",
+   "url": "https://www.wmjobs.co.uk/job/280441/civil-enforcement-officer-multi-role-/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "investigation"
+   ],
+   "region": "lon",
+   "pmin": 49325,
+   "pmax": 53081,
+   "title": "Senior Investigator – Prisons and Probation Ombudsman",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£49,325 – £53,081 a year",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24133-Senior-Investigator-Prisons-and-Probation-Ombudsman/24133"
   }
  ]
 }

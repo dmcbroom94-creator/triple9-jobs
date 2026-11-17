@@ -68,6 +68,9 @@ button:active,a:active{transform:scale(.97)}
 header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!important;flex-wrap:wrap!important;gap:6px!important;margin:0!important;padding:14px 0 2px!important;border-top:1px solid rgba(255,255,255,0.14);mask-image:none!important;-webkit-mask-image:none!important;overflow:visible!important}
 }
 .t9-subnav{gap:8px!important;align-items:center}
+.t9-subnav a,header .blnav a,.t9-subnav a.t9-sup,.t9-subnav a.t9-pen,header .blnav a.t9-sup,header .blnav a.t9-pen{background:transparent!important;color:#FFFFFF!important;border-color:rgba(255,255,255,0.32)!important;font-weight:600!important}
+.t9-subnav a:hover,header .blnav a:hover,.t9-subnav a.t9-sup:hover,.t9-subnav a.t9-pen:hover{background:rgba(255,255,255,0.12)!important;border-color:#FFFFFF!important}
+.t9-subnav a[aria-current="page"],.t9-subnav a.t9-pen[aria-current="page"],.t9-subnav a.t9-sup[aria-current="page"]{background:#FFFFFF!important;color:#0B1B3F!important;border-color:#FFFFFF!important}
 @media (max-width: 900px){.t9-subnav{flex:1 1 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -24px;padding:0 24px 4px;mask-image:linear-gradient(90deg,#000 85%,transparent)}.t9-subnav::-webkit-scrollbar{display:none}
 }
 @media (max-width: 600px){section{padding-left:16px!important;padding-right:16px!important}h2[style*="font-size: 48px"],h2[style*="font-size: 44px"],h2[style*="font-size: 40px"]{font-size:34px!important}}
@@ -146,9 +149,9 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 <p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£32,255 – £52,015 (PC scale)</p>
 </div>
 <div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
-<span style="font-size: 14px; font-weight: 700; color: #3B4458">Open – see advert</span>
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Open – see force website</span>
 <button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
-<a href="https://www.policeoracle.com/latest-jobs/view/police-officer-transferee-4" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+<a href="https://www.merseyside.police.uk/police-forces/merseyside-police/areas/careers/join-us/transferee-police-officers/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
 </div>
 </article>
 
@@ -280,7 +283,7 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 </div>
 </template>
 <script type="text/x-dc" data-dc-script>
-const BASE = [{"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["pc", "dc"], "routes": ["transferee"], "region": "nw", "pmin": 32255, "pmax": 52015, "title": "Police Constable & Detective Constable Transferees", "org": "Merseyside Police", "place": "Merseyside", "pay": "£32,255 – £52,015 (PC scale)", "closes": "Open – see advert", "url": "https://www.policeoracle.com/latest-jobs/view/police-officer-transferee-4"}];
+const BASE = [{"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["pc", "dc"], "routes": ["transferee"], "region": "nw", "pmin": 32255, "pmax": 52015, "title": "Police Constable & Detective Constable Transferees", "org": "Merseyside Police", "place": "Merseyside", "pay": "£32,255 – £52,015 (PC scale)", "closes": "Open – see force website", "url": "https://www.merseyside.police.uk/police-forces/merseyside-police/areas/careers/join-us/transferee-police-officers/"}];
 const MATCH = (j) => (j.cat === 'police' || j.cat === 'control') && /^Merseyside Police/i.test(j.org);
 class Component extends DCLogic {
   constructor(p) { super(p); this.state = { remote: null };

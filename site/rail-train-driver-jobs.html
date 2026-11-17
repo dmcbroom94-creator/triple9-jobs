@@ -68,6 +68,9 @@ button:active,a:active{transform:scale(.97)}
 header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!important;flex-wrap:wrap!important;gap:6px!important;margin:0!important;padding:14px 0 2px!important;border-top:1px solid rgba(255,255,255,0.14);mask-image:none!important;-webkit-mask-image:none!important;overflow:visible!important}
 }
 .t9-subnav{gap:8px!important;align-items:center}
+.t9-subnav a,header .blnav a,.t9-subnav a.t9-sup,.t9-subnav a.t9-pen,header .blnav a.t9-sup,header .blnav a.t9-pen{background:transparent!important;color:#FFFFFF!important;border-color:rgba(255,255,255,0.32)!important;font-weight:600!important}
+.t9-subnav a:hover,header .blnav a:hover,.t9-subnav a.t9-sup:hover,.t9-subnav a.t9-pen:hover{background:rgba(255,255,255,0.12)!important;border-color:#FFFFFF!important}
+.t9-subnav a[aria-current="page"],.t9-subnav a.t9-pen[aria-current="page"],.t9-subnav a.t9-sup[aria-current="page"]{background:#FFFFFF!important;color:#0B1B3F!important;border-color:#FFFFFF!important}
 @media (max-width: 900px){.t9-subnav{flex:1 1 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -24px;padding:0 24px 4px;mask-image:linear-gradient(90deg,#000 85%,transparent)}.t9-subnav::-webkit-scrollbar{display:none}
 }
 @media (max-width: 600px){section{padding-left:16px!important;padding-right:16px!important}h2[style*="font-size: 48px"],h2[style*="font-size: 44px"],h2[style*="font-size: 40px"]{font-size:34px!important}}
@@ -136,7 +139,7 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 <section style="padding: 48px 24px 64px; background: #F2F4F8">
 <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px">
 <h2 class="t9-reveal" style="margin: 0; font-size: 40px; font-weight: 800; text-align: center">Live jobs</h2>
-<p style="margin: -10px 0 0; text-align: center; font-size: 15px; color: #3B4458">6 live jobs – updated every morning</p>
+<p style="margin: -10px 0 0; text-align: center; font-size: 15px; color: #3B4458">2 live jobs – updated every morning</p>
 <div style="display: flex; flex-direction: column; gap: 10px">
 
 <article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
@@ -154,19 +157,6 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 
 <article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
 <div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
-<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">HGV Class 2 Driver – refuse collection</h3>
-<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>QS Recruitment · Burton on Trent</span></p>
-<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£18 an hour (≈ £35,100 a year full-time)</p>
-</div>
-<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
-<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 30 Nov 2026</span>
-<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
-<a href="https://www.qsrecruitment.com/job/187303-hgv-class-2-driver/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
-</div>
-</article>
-
-<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
-<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
 <h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Head of FLEET (Fleet Liaison Engineering Equipment Team)</h3>
 <p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>London Fire Brigade · Union Street, London (hybrid)</span></p>
 <p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£79,352 – £96,041</p>
@@ -175,45 +165,6 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 <span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 23 Nov 2026</span>
 <button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
 <a href="https://nfcc.org.uk/fire-sector-jobs/head-of-fleet-fleet-liaison-engineering-equipment-team-london-fire-brigade/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
-</div>
-</article>
-
-<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
-<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
-<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Trainee Train Driver – Manchester (paid apprenticeship)</h3>
-<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Northern Trains · Manchester Victoria / Piccadilly</span></p>
-<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£27,870 while training, rising to £53,190 in year 1 and £67,104 by year 3</p>
-</div>
-<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
-<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 24 Dec 2026</span>
-<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
-<a href="https://www.glassdoor.com/job-listing/trainee-train-driver-manchester-northern-rail-JV_IC2691218_KO0,31_KE32,45.htm?jl=1010239391766" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
-</div>
-</article>
-
-<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
-<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
-<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Workforce Health, Safety &amp; Environment Advisor (12-month)</h3>
-<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Network Rail · Glasgow</span></p>
-<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£46,701 – £56,963</p>
-</div>
-<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
-<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 18 Nov 2026</span>
-<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
-<a href="https://www.evenbreak.com/job/1541334/workforce-health-safety-and-environment-advisor/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
-</div>
-</article>
-
-<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
-<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
-<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Section Planner (Signalling)</h3>
-<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Network Rail · Leicester</span></p>
-<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: Competitive – see advert</p>
-</div>
-<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
-<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 19 Nov 2026</span>
-<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
-<a href="https://www.evenbreak.com/job/1542282/section-planner-signalling-/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
 </div>
 </article>
 
@@ -345,7 +296,7 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 </div>
 </template>
 <script type="text/x-dc" data-dc-script>
-const BASE = [{"cat": "civilian", "areas": ["transport"], "region": "se", "pmin": 33150, "pmax": 38025, "title": "HGV Class 2 Driver", "org": "Workchain", "place": "Brighton", "pay": "£17 – £19.50 an hour (≈ £33,150 – £38,025 a year full-time)", "closes": "Closes 4 Dec 2026", "url": "https://www.jobs.service.gov.uk/jobs/6a16a2a9a1489754c8dae275"}, {"cat": "civilian", "areas": ["transport"], "region": "mid", "pmin": 35100, "pmax": 35100, "title": "HGV Class 2 Driver – refuse collection", "org": "QS Recruitment", "place": "Burton on Trent", "pay": "£18 an hour (≈ £35,100 a year full-time)", "closes": "Closes 30 Nov 2026", "url": "https://www.qsrecruitment.com/job/187303-hgv-class-2-driver/"}, {"cat": "civilian", "areas": ["transport", "management"], "region": "lon", "pmin": 79352, "pmax": 96041, "title": "Head of FLEET (Fleet Liaison Engineering Equipment Team)", "org": "London Fire Brigade", "place": "Union Street, London (hybrid)", "pay": "£79,352 – £96,041", "closes": "Closes 23 Nov 2026", "url": "https://nfcc.org.uk/fire-sector-jobs/head-of-fleet-fleet-liaison-engineering-equipment-team-london-fire-brigade/"}, {"cat": "civilian", "areas": ["transport"], "region": "nw", "pmin": 27870, "pmax": 67104, "title": "Trainee Train Driver – Manchester (paid apprenticeship)", "org": "Northern Trains", "place": "Manchester Victoria / Piccadilly", "pay": "£27,870 while training, rising to £53,190 in year 1 and £67,104 by year 3", "closes": "Closes 24 Dec 2026", "url": "https://www.glassdoor.com/job-listing/trainee-train-driver-manchester-northern-rail-JV_IC2691218_KO0,31_KE32,45.htm?jl=1010239391766"}, {"cat": "civilian", "areas": ["safety", "transport"], "region": "sco", "pmin": 46701, "pmax": 56963, "title": "Workforce Health, Safety & Environment Advisor (12-month)", "org": "Network Rail", "place": "Glasgow", "pay": "£46,701 – £56,963", "closes": "Closes 18 Nov 2026", "url": "https://www.evenbreak.com/job/1541334/workforce-health-safety-and-environment-advisor/"}, {"cat": "civilian", "areas": ["planning", "transport"], "region": "mid", "title": "Section Planner (Signalling)", "org": "Network Rail", "place": "Leicester", "pay": "Competitive – see advert", "closes": "Closes 19 Nov 2026", "url": "https://www.evenbreak.com/job/1542282/section-planner-signalling-/"}];
+const BASE = [{"cat": "civilian", "areas": ["transport"], "region": "se", "pmin": 33150, "pmax": 38025, "title": "HGV Class 2 Driver", "org": "Workchain", "place": "Brighton", "pay": "£17 – £19.50 an hour (≈ £33,150 – £38,025 a year full-time)", "closes": "Closes 4 Dec 2026", "url": "https://www.jobs.service.gov.uk/jobs/6a16a2a9a1489754c8dae275"}, {"cat": "civilian", "areas": ["transport", "management"], "region": "lon", "pmin": 79352, "pmax": 96041, "title": "Head of FLEET (Fleet Liaison Engineering Equipment Team)", "org": "London Fire Brigade", "place": "Union Street, London (hybrid)", "pay": "£79,352 – £96,041", "closes": "Closes 23 Nov 2026", "url": "https://nfcc.org.uk/fire-sector-jobs/head-of-fleet-fleet-liaison-engineering-equipment-team-london-fire-brigade/"}];
 const MATCH = (j) => (j.cat === 'civilian' && (j.areas || []).includes('transport')) || /Network Rail|National Highways|Train Driver|Transport for London|London Underground/i.test(j.title + ' ' + j.org);
 class Component extends DCLogic {
   constructor(p) { super(p); this.state = { remote: null };
