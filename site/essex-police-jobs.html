@@ -152,9 +152,9 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 
 <article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
 <div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
-<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Transferee Officers – Police &amp; Detective Constables</h3>
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Transferee Sergeants / Detective Sergeants &amp; Inspectors</h3>
 <p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Essex Police · Essex</span></p>
-<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£32,255 – £71,396 (PC to inspector scales)</p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£55,443 – £71,396 (sergeant to inspector scales)</p>
 </div>
 <div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
 <span style="font-size: 14px; font-weight: 700; color: #3B4458">Open – see force website</span>
@@ -292,7 +292,7 @@ header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!i
 </div>
 </template>
 <script type="text/x-dc" data-dc-script>
-const BASE = [{"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["pc", "dc"], "routes": ["transferee"], "region": "east", "pmin": 32255, "pmax": 71396, "title": "Transferee Officers – Police & Detective Constables", "org": "Essex Police", "place": "Essex", "pay": "£32,255 – £71,396 (PC to inspector scales)", "closes": "Open – see force website", "url": "https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/ca/careers/police-officers/transfer-opportunities/"}];
+const BASE = [{"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["ps", "insp"], "routes": ["transferee"], "hours": "shift", "region": "east", "pmin": 55443, "pmax": 71396, "title": "Transferee Sergeants / Detective Sergeants & Inspectors", "org": "Essex Police", "place": "Essex", "pay": "£55,443 – £71,396 (sergeant to inspector scales)", "closes": "Open – see force website", "url": "https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/ca/careers/police-officers/transfer-opportunities/"}];
 const MATCH = (j) => (j.cat === 'police' || j.cat === 'control') && /^Essex Police/i.test(j.org);
 class Component extends DCLogic {
   constructor(p) { super(p); this.state = { remote: null };
@@ -312,7 +312,7 @@ class Component extends DCLogic {
   }
   crestOf(o) { const M = {"Avon and Somerset Police": "A&S", "Bedfordshire Police": "BEDS", "Cambridgeshire Constabulary": "CAMBS", "Cheshire Constabulary": "CHES", "City of London Police": "CoLP", "Cleveland Police": "CLEV", "Cumbria Constabulary": "CUMB", "Derbyshire Constabulary": "DERBY", "Devon & Cornwall Police": "D&C", "Dorset Police": "DOR", "Durham Constabulary": "DUR", "Dyfed-Powys Police": "DPP", "Essex Police": "ESX", "Gloucestershire Constabulary": "GLOS", "Greater Manchester Police": "GMP", "Gwent Police": "GWENT", "Hampshire & Isle of Wight Constabulary": "HIOW", "Hertfordshire Constabulary": "HERTS", "Humberside Police": "HUMB", "Kent Police": "KENT", "Lancashire Constabulary": "LANCS", "Leicestershire Police": "LEICS", "Lincolnshire Police": "LINCS", "Merseyside Police": "MERS", "Metropolitan Police Service": "MET", "Norfolk Constabulary": "NORF", "North Wales Police": "NWP", "North Yorkshire Police": "NYP", "Northamptonshire Police": "NHANTS", "Northumbria Police": "NBRIA", "Nottinghamshire Police": "NOTTS", "Police Scotland": "PSoS", "South Wales Police": "SWP", "South Yorkshire Police": "SYP", "Staffordshire Police": "STAFFS", "Suffolk Constabulary": "SUFF", "Surrey Police": "SURR", "Sussex Police": "SUSX", "Thames Valley Police": "TVP", "Warwickshire Police": "WARKS", "West Mercia Police": "WMC", "West Midlands Police": "WMP", "West Yorkshire Police": "WYP", "Wiltshire Police": "WILTS", "British Transport Police": "BTP", "Civil Nuclear Constabulary": "CNC", "Ministry of Defence Police": "MDP", "PD Ports (Tees & Hartlepool Harbour Police)": "THHP"}; if (!o || !/Police|Constabulary/.test(o)) return ''; if (M[o]) return M[o]; return o.replace(/[()-]/g, ' ').split(/\s+/).filter((w) => w && !/^(and|of|the|&)$/i.test(w)).map((w) => w[0].toUpperCase()).join('').slice(0, 4); }
   renderVals() {
-    const list = (this.state.remote || BASE).map((j) => { const id = this.jid(j.url); return { ...j, crest: this.crestOf(j.org), hasCrest: !!this.crestOf(j.org), id, share: () => this.shareJob(j, id), shareLabel: this.state.copied === id ? 'Link copied' : 'Share', payLabel: /^£/.test(j.pay) ? j.pay : 'Pay: ' + j.pay }; });
+    const list = (this.state.remote || BASE).map((j) => { const id = this.jid(j.url); return { ...j, crest: this.crestOf(j.org), hasCrest: !!this.crestOf(j.org), hasHours: !!j.hours, hoursLabel: ({ mf: 'Mon–Fri', shift: 'Shifts', oncall: 'On-call', flex: 'Flexible' })[j.hours] || '', id, share: () => this.shareJob(j, id), shareLabel: this.state.copied === id ? 'Link copied' : 'Share', payLabel: /^£/.test(j.pay) ? j.pay : 'Pay: ' + j.pay }; });
     return { jobs: list, noJobs: list.length === 0, countText: list.length ? list.length + (list.length === 1 ? ' live job' : ' live jobs') + ' – updated every morning' : '', emptyText: "No Essex Police jobs are open on Triple 9 Careers today. The list updates every morning, so check back soon or visit Essex\u2019s own careers pages." };
   }
 }
