@@ -1235,32 +1235,6 @@
     "eng"
    ],
    "ranks": [
-    "pc",
-    "ps",
-    "insp",
-    "ci"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "region": "ne",
-   "pmin": 32255,
-   "pmax": 75709,
-   "title": "Constable / Sergeant / Inspector / Chief Inspector – Transferees & Rejoiners",
-   "org": "South Yorkshire Police",
-   "place": "South Yorkshire",
-   "pay": "£32,255 – £75,709 (PC to chief inspector scales)",
-   "closes": "Open – see force website",
-   "url": "https://www.southyorks.police.uk/sign-up/join-team-syp/police-officer-roles/transferees/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
     "pc"
    ],
    "routes": [
@@ -1397,47 +1371,6 @@
    ],
    "ranks": [
     "pc",
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "lon",
-   "title": "Transferring Officers",
-   "org": "Metropolitan Police Service",
-   "place": "London",
-   "pay": "Met PC scale + London allowances – see advert",
-   "closes": "Ongoing – see Met website",
-   "url": "https://www.met.police.uk/transferees"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "lon",
-   "title": "Transferring Officers – Specialist Skills & Experience",
-   "org": "Metropolitan Police Service",
-   "place": "Across London",
-   "pay": "Met PC scale + London allowances – see advert",
-   "closes": "Ongoing – see Met website",
-   "url": "https://www.met.police.uk/police-forces/metropolitan-police/areas/c/careers/police-officer-roles/transferring-officers-specialists-skills-experience/overview/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
     "dc",
     "ps",
     "insp",
@@ -1557,28 +1490,6 @@
     "eng"
    ],
    "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee – Response Constable",
-   "org": "Lincolnshire Police",
-   "place": "Stamford",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
     "dc"
    ],
    "routes": [
@@ -1615,117 +1526,6 @@
    "pay": "£55,443 – £58,175 (sergeant scale)",
    "closes": "Open – next intake Feb 2027",
    "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/detective-constable---protecting-vulnerable-persons-unit-pvp22/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "insp"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "mid",
-   "pmin": 66000,
-   "pmax": 71396,
-   "title": "Transferee – Response and Detective Inspectors",
-   "org": "Lincolnshire Police",
-   "place": "Stamford",
-   "pay": "£66,000 – £71,396 (inspector scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.lincs.police.uk/police-forces/lincolnshire-police/areas/careers/join-us/vacancies/transferee-opportunities/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee – Police Constables & Sergeants",
-   "org": "Surrey Police",
-   "place": "Forcewide",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/detective-and-pc-transferees-and-re-joiners/transfer-to-surrey-police/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee – Detective Constables",
-   "org": "Surrey Police",
-   "place": "Woking",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/detective-and-pc-transferees-and-re-joiners/detective-constable-transferees/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 55443,
-   "pmax": 58175,
-   "title": "Transferee – Detective Sergeant",
-   "org": "Surrey Police",
-   "place": "Forcewide",
-   "pay": "£55,443 – £58,175 (sergeant scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/detective-and-pc-transferees-and-re-joiners/detective-constable-transferees/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "se",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee – Police Constable, Response",
-   "org": "Sussex Police",
-   "place": "Forcewide",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.sussex.police.uk/police-forces/sussex-police/areas/careers/jobs/transferees/"
   },
   {
    "cat": "police",
@@ -1903,29 +1703,6 @@
    "pay": "£32,255 – £52,015 (PC scale)",
    "closes": "Open – see force website",
    "url": "https://recruitment.devon-cornwall.police.uk/devon-cornwall-police-careers/dc-transferees/dc-transfer/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "region": "sw",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee Police Constables & Sergeants",
-   "org": "Dorset Police",
-   "place": "Dorset",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://recruitment.dorset.police.uk/dorset-police-careers/dorset-transferees/dorset-transfer/"
   },
   {
    "cat": "police",
@@ -2216,19 +1993,6 @@
    "pay": "£25,760 – £27,476",
    "closes": "Closes 27 Nov 2026",
    "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "para"
-   ],
-   "region": "sw",
-   "title": "Qualified / Newly Qualified Paramedic",
-   "org": "South Western Ambulance Service",
-   "place": "Cornwall, Devon, Dorset, Somerset, Wiltshire",
-   "pay": "Band 5/6 – see advert",
-   "closes": "Closes 17 Nov 2026",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0282"
   },
   {
    "cat": "ambulance",
@@ -2855,6 +2619,47 @@
    "pay": "Competitive – see advert",
    "closes": "Closes 19 Nov 2026",
    "url": "https://www.evenbreak.com/job/1542282/section-planner-signalling-/"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "se",
+   "title": "Detention Officer (police custody)",
+   "org": "Thames Valley Police",
+   "place": "Berkshire, Buckinghamshire & Oxfordshire",
+   "pay": "See advert",
+   "closes": "Open – see force website",
+   "url": "https://tvpcareers.co.uk/roles/detention-officer/"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "se",
+   "title": "Custody Detention Officer",
+   "org": "Surrey Police",
+   "place": "Guildford, Staines & Salfords custody suites",
+   "pay": "See advert",
+   "closes": "Open – see force website",
+   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/custody-detention-officers/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "se",
+   "title": "Healthcare Assistant (Band 2)",
+   "org": "Portsmouth Hospitals University NHS Trust",
+   "place": "Queen Alexandra Hospital, Portsmouth",
+   "pay": "NHS Band 2 – see advert",
+   "closes": "Closes 18 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C8192-26-0631"
   }
  ]
 }
