@@ -58,7 +58,18 @@ button:active,a:active{transform:scale(.97)}
 .t9-subnav a{padding:12px 12px;color:#FFFFFF;text-decoration:none;border-radius:8px;white-space:nowrap}
 .t9-subnav a:hover{background:rgba(255,255,255,0.1)}.t9-subnav a.t9-sup{background:#2BB673;color:#04240F;font-weight:800}.t9-subnav a.t9-sup:hover{background:#4CCB88}
 .t9-subnav a[aria-current="page"]{background:#0099FE;color:#0B1B3F}
-@media (max-width: 900px){.t9-subnav{flex:1 1 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -24px;padding:0 24px 4px;mask-image:linear-gradient(90deg,#000 85%,transparent)}.t9-subnav::-webkit-scrollbar{display:none}}
+.t9-subnav a,header .blnav a{border:1.5px solid rgba(255,255,255,0.32)!important;border-radius:999px!important;padding:8px 12px!important;font-size:14px!important;line-height:1.2}
+.t9-subnav a:hover,header .blnav a:hover{background:rgba(255,255,255,0.12)!important;border-color:#FFFFFF!important}
+.t9-subnav a[aria-current="page"]{border-color:#0099FE!important}
+.t9-subnav a.t9-sup,header .blnav a.t9-sup{border-color:#2BB673!important}
+.t9-subnav a.t9-pen,header .blnav a.t9-pen{border-color:#0099FE!important;color:#7CC8FF!important}
+.t9-subnav a.t9-pen[aria-current="page"]{color:#0B1B3F!important}
+@media (min-width: 701px){
+header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!important;flex-wrap:wrap!important;gap:6px!important;margin:0!important;padding:14px 0 2px!important;border-top:1px solid rgba(255,255,255,0.14);mask-image:none!important;-webkit-mask-image:none!important;overflow:visible!important}
+}
+.t9-subnav{gap:8px!important;align-items:center}
+@media (max-width: 900px){.t9-subnav{flex:1 1 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -24px;padding:0 24px 4px;mask-image:linear-gradient(90deg,#000 85%,transparent)}.t9-subnav::-webkit-scrollbar{display:none}
+}
 @media (max-width: 600px){section{padding-left:16px!important;padding-right:16px!important}h2[style*="font-size: 48px"],h2[style*="font-size: 44px"],h2[style*="font-size: 40px"]{font-size:34px!important}}
 @media (max-width: 600px){section{padding-top:36px!important;padding-bottom:40px!important}section.t9-hero{padding-top:32px!important;padding-bottom:48px!important}[style*="gap: 28px"],[style*="gap: 26px"],[style*="gap: 24px"],[style*="gap: 22px"]{gap:16px!important}[style*="padding: 26px"],[style*="padding: 24px;"],[style*="padding: 28px"]{padding:18px!important}[style*="min-height: 210px"]{min-height:0!important}}
 .t9-foot a{display:inline-block;padding:10px 8px}
@@ -81,6 +92,7 @@ button:active,a:active{transform:scale(.97)}
 <a href="cv-builder.html">CV builder</a>
 <a href="interview-guide.html">Interview guide</a>
 <a href="pay-calculator.html">Pay calculator</a>
+<a href="pension-calculator.html" class="t9-pen">Pension calculator</a>
 <a href="police-pay-scales.html">Pay scales</a>
 <a href="police-promotion.html">Promotion</a>
 <a href="courses-and-franchises.html">Courses</a>
@@ -124,7 +136,7 @@ button:active,a:active{transform:scale(.97)}
 <section style="padding: 48px 24px 64px; background: #F2F4F8">
 <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px">
 <h2 class="t9-reveal" style="margin: 0; font-size: 40px; font-weight: 800; text-align: center">Live jobs</h2>
-<p style="margin: -10px 0 0; text-align: center; font-size: 15px; color: #3B4458">16 live jobs – updated every morning</p>
+<p style="margin: -10px 0 0; text-align: center; font-size: 15px; color: #3B4458">33 live jobs – updated every morning</p>
 <div style="display: flex; flex-direction: column; gap: 10px">
 
 <article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
@@ -335,6 +347,227 @@ button:active,a:active{transform:scale(.97)}
 </div>
 </article>
 
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Custody Nurse or Paramedic (police custody)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Mitie Care &amp; Custody · Martlesham, Suffolk</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£41,500 a year</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 5 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Martlesham" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Custody Nurse or Paramedic (police custody)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Mitie Care &amp; Custody · Bury, Greater Manchester</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 29 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Bury" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Custody Nurse or Paramedic (police custody)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Mitie Care &amp; Custody · Birmingham</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 2 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Birmingham" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Custody Nurse or Paramedic (police custody)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Mitie Care &amp; Custody · Barnstaple, Devon</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 26 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Barnstaple" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Custody Nurse or Paramedic (police custody)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Mitie Care &amp; Custody · Melksham, Wiltshire</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 25 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Melksham" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">NHS 111 Clinical Advisor (nurse or paramedic)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>DHU Healthcare · Pride Park, Derby</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 1 Apr 2027</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://beta.jobs.nhs.uk/candidate/jobadvert/M0051-26-0080" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Ambulance Care Assistant</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Nerams Limited · Ferryhill &amp; Washington</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£24,784.50 a year</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 24 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Nerams" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Ambulance Care Assistant (bank)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>YorMed Ambulance Service · Malton, North Yorkshire</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£12.75 – £13.00 an hour (≈ £24,862 – £25,350 a year full-time)</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 31 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+YorMed" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">First Responder – PTS &amp; Events (FREC 3/4, bank)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>YorMed Ambulance Service · Malton, North Yorkshire</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£13.00 – £16.00 an hour (≈ £25,350 – £31,200 a year full-time)</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 31 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=First+Responder+FREC+YorMed" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Ambulance Care Assistant (bank)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Alliance Pioneer Group · Plymouth</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 30 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Alliance+Pioneer+Group" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Healthcare Assistant (secure care)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Prometheus Safe and Secure · Warrington</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 27 Jan 2027</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Prometheus+Safe+and+Secure" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Healthcare Assistant (HCA)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Taurus Healthcare · Hereford</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£24,996.93 – £28,405.60 a year</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 31 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Taurus+Healthcare" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Healthcare Assistant (GP practices)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Primary Care Management Solutions · High Wycombe</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 30 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Primary+Care+Management+Solutions" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Healthcare Assistant (GP surgery)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>The Avenue Surgery · Warminster, Wiltshire</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 2 Dec 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=HCA+The+Avenue+Surgery+Warminster" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Health Care Assistant (GP surgery)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Marcham Road Health Centre · Abingdon, Oxfordshire</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 30 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Health+Care+Assistant+Marcham+Road+Health+Centre" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Healthcare Assistant (GP surgery)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>Junction Surgery · Huddersfield</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: See advert</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Closes 30 Nov 2026</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Junction+Surgery+Huddersfield" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Community First Responder (volunteer)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span>London Ambulance Service NHS Trust · London</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">Pay: Volunteer – full training and kit</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Open – see advert</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.londonambulance.nhs.uk/getting-involved/volunteering-with-us/community-first-responders/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
 
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center"><a href="./" style="padding: 13px 18px; border-radius: 8px; background: #0099FE; color: #020F26; text-decoration: none; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 0.04em">See all jobs</a><a href="cv-builder.html" style="padding: 13px 18px; border-radius: 8px; background: #0B1B3F; color: #FFFFFF; text-decoration: none; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 0.04em">Build your CV</a></div>
@@ -375,6 +608,7 @@ button:active,a:active{transform:scale(.97)}
 <a href="cv-builder.html">CV builder</a>
 <a href="interview-guide.html">Interview guide</a>
 <a href="pay-calculator.html">Pay calculator</a>
+<a href="pension-calculator.html" class="t9-pen">Pension calculator</a>
 <a href="police-pay-scales.html">Pay scales</a>
 <a href="police-promotion.html">Promotion</a>
 <a href="courses-and-franchises.html">Courses</a>
@@ -462,7 +696,7 @@ button:active,a:active{transform:scale(.97)}
 </div>
 </template>
 <script type="text/x-dc" data-dc-script>
-const BASE = [{"cat": "ambulance", "skills": ["emt"], "region": "nw", "title": "Urgent Care Staff – FREC 4", "org": "Medic 365", "place": "Chester & North West", "pay": "See advert (12.5-hour shifts)", "closes": "Open – see advert", "url": "https://www.medic-365.co.uk/"}, {"cat": "ambulance", "skills": ["para"], "region": "mid", "title": "Event Paramedic", "org": "ShowMed UK", "place": "Birmingham", "pay": "See advert (event shifts)", "closes": "Closes 30 Nov 2026", "url": "https://www.showmed.com/job/event-paramedic-7/"}, {"cat": "ambulance", "skills": ["eca"], "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Ferndown", "org": "South Western Ambulance Service", "place": "Ferndown, Dorset", "pay": "£25,760 – £27,476", "closes": "Closes 22 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293"}, {"cat": "ambulance", "skills": ["eca"], "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Salisbury", "org": "South Western Ambulance Service", "place": "Salisbury, Wiltshire", "pay": "£25,760 – £27,476", "closes": "Closes 22 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294"}, {"cat": "ambulance", "skills": ["eca"], "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Somerset", "org": "South Western Ambulance Service", "place": "Bridgwater area, Somerset", "pay": "£25,760 – £27,476", "closes": "Closes 22 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292"}, {"cat": "ambulance", "skills": ["eca"], "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Isles of Scilly", "org": "South Western Ambulance Service", "place": "St Mary's, Isles of Scilly", "pay": "£25,760 – £27,476", "closes": "Closes 27 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295"}, {"cat": "ambulance", "skills": ["para"], "region": "sw", "pmin": 39959, "pmax": 48117, "title": "Trainee Specialist Practitioner – Critical Care", "org": "South Western Ambulance Service", "place": "Newquay", "pay": "£39,959 – £48,117", "closes": "Closes 27 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0287"}, {"cat": "ambulance", "skills": ["emt"], "region": "nw", "title": "Emergency Medical Technician / AAP", "org": "UK Event Medical Services", "place": "Preston, Lancashire", "pay": "Pay to be confirmed – see advert", "closes": "Open – see advert", "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/emergency-medical-technician-aap"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "sw", "pmin": 45000, "pmax": 49000, "title": "Senior Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Bristol", "pay": "£45,000 – £49,000", "closes": "Open – see advert", "url": "https://careers.mitie.com/jobs/vacancy/senior-custody-nurse-or-paramedic--96779/96798/description/"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "title": "Police Custody Nurse or Paramedic (part time)", "org": "Mitie Care & Custody", "place": "Ashton-under-Lyne & Manchester", "pay": "See advert", "closes": "Closes 11 Dec 2026", "url": "https://freehire.me/jobs/police-custody-nurse-or-paramedic-mitie-7dmqi6ew"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Preston, Lancashire", "pay": "£41,000", "closes": "Closes 27 Nov 2026", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-143be478"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Lancaster, Lancashire", "pay": "£41,000", "closes": "Open – see advert", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-bcf2f1d7"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Blackburn, Lancashire", "pay": "See advert", "closes": "Open – see advert", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-6067d2c4"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "mid", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Lincoln, Lincolnshire", "pay": "£41,000", "closes": "Closes 27 Nov 2026", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-f0f6a503"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "mid", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic (2 posts)", "org": "SONAR Cares", "place": "Northampton", "pay": "£41,000", "closes": "Open – see advert", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-446943b9"}, {"cat": "ambulance", "skills": ["hca"], "region": "se", "title": "Healthcare Assistant (Band 2)", "org": "Portsmouth Hospitals University NHS Trust", "place": "Queen Alexandra Hospital, Portsmouth", "pay": "NHS Band 2 – see advert", "closes": "Closes 18 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C8192-26-0631"}];
+const BASE = [{"cat": "ambulance", "skills": ["emt"], "region": "nw", "title": "Urgent Care Staff – FREC 4", "org": "Medic 365", "place": "Chester & North West", "pay": "See advert (12.5-hour shifts)", "closes": "Open – see advert", "url": "https://www.medic-365.co.uk/"}, {"cat": "ambulance", "skills": ["para"], "region": "mid", "title": "Event Paramedic", "org": "ShowMed UK", "place": "Birmingham", "pay": "See advert (event shifts)", "closes": "Closes 30 Nov 2026", "url": "https://www.showmed.com/job/event-paramedic-7/"}, {"cat": "ambulance", "skills": ["eca"], "entry": "new", "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Ferndown", "org": "South Western Ambulance Service", "place": "Ferndown, Dorset", "pay": "£25,760 – £27,476", "closes": "Closes 22 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293"}, {"cat": "ambulance", "skills": ["eca"], "entry": "new", "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Salisbury", "org": "South Western Ambulance Service", "place": "Salisbury, Wiltshire", "pay": "£25,760 – £27,476", "closes": "Closes 22 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294"}, {"cat": "ambulance", "skills": ["eca"], "entry": "new", "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Somerset", "org": "South Western Ambulance Service", "place": "Bridgwater area, Somerset", "pay": "£25,760 – £27,476", "closes": "Closes 22 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292"}, {"cat": "ambulance", "skills": ["eca"], "entry": "new", "region": "sw", "pmin": 25760, "pmax": 27476, "title": "Emergency Care Assistant Apprentice – Isles of Scilly", "org": "South Western Ambulance Service", "place": "St Mary's, Isles of Scilly", "pay": "£25,760 – £27,476", "closes": "Closes 27 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295"}, {"cat": "ambulance", "skills": ["para"], "region": "sw", "pmin": 39959, "pmax": 48117, "title": "Trainee Specialist Practitioner – Critical Care", "org": "South Western Ambulance Service", "place": "Newquay", "pay": "£39,959 – £48,117", "closes": "Closes 27 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0287"}, {"cat": "ambulance", "skills": ["emt"], "region": "nw", "title": "Emergency Medical Technician / AAP", "org": "UK Event Medical Services", "place": "Preston, Lancashire", "pay": "Pay to be confirmed – see advert", "closes": "Open – see advert", "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/emergency-medical-technician-aap"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "sw", "pmin": 45000, "pmax": 49000, "title": "Senior Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Bristol", "pay": "£45,000 – £49,000", "closes": "Open – see advert", "url": "https://careers.mitie.com/jobs/vacancy/senior-custody-nurse-or-paramedic--96779/96798/description/"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "title": "Police Custody Nurse or Paramedic (part time)", "org": "Mitie Care & Custody", "place": "Ashton-under-Lyne & Manchester", "pay": "See advert", "closes": "Closes 11 Dec 2026", "url": "https://freehire.me/jobs/police-custody-nurse-or-paramedic-mitie-7dmqi6ew"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Preston, Lancashire", "pay": "£41,000", "closes": "Closes 27 Nov 2026", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-143be478"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Lancaster, Lancashire", "pay": "£41,000", "closes": "Open – see advert", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-bcf2f1d7"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Blackburn, Lancashire", "pay": "See advert", "closes": "Open – see advert", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-6067d2c4"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "mid", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic", "org": "SONAR Cares", "place": "Lincoln, Lincolnshire", "pay": "£41,000", "closes": "Closes 27 Nov 2026", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-f0f6a503"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "mid", "pmin": 41000, "pmax": 41000, "title": "Healthcare Professional – Custody Nurse / Paramedic (2 posts)", "org": "SONAR Cares", "place": "Northampton", "pay": "£41,000", "closes": "Open – see advert", "url": "https://www.justjobs.co.uk/jobs/healthcare-professional-custody-nurse-paramedic-446943b9"}, {"cat": "ambulance", "skills": ["hca"], "region": "se", "title": "Healthcare Assistant (Band 2)", "org": "Portsmouth Hospitals University NHS Trust", "place": "Queen Alexandra Hospital, Portsmouth", "pay": "NHS Band 2 – see advert", "closes": "Closes 18 Nov 2026", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C8192-26-0631"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "east", "pmin": 41500, "pmax": 41500, "title": "Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Martlesham, Suffolk", "pay": "£41,500 a year", "closes": "Closes 5 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Martlesham"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "nw", "title": "Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Bury, Greater Manchester", "pay": "See advert", "closes": "Closes 29 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Bury"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "mid", "title": "Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Birmingham", "pay": "See advert", "closes": "Closes 2 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Birmingham"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "sw", "title": "Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Barnstaple, Devon", "pay": "See advert", "closes": "Closes 26 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Barnstaple"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "sw", "title": "Custody Nurse or Paramedic (police custody)", "org": "Mitie Care & Custody", "place": "Melksham, Wiltshire", "pay": "See advert", "closes": "Closes 25 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Melksham"}, {"cat": "ambulance", "skills": ["nurse", "para"], "region": "mid", "title": "NHS 111 Clinical Advisor (nurse or paramedic)", "org": "DHU Healthcare", "place": "Pride Park, Derby", "pay": "See advert", "closes": "Closes 1 Apr 2027", "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/M0051-26-0080"}, {"cat": "ambulance", "skills": ["eca"], "region": "ne", "pmin": 24784, "pmax": 24784, "title": "Ambulance Care Assistant", "org": "Nerams Limited", "place": "Ferryhill & Washington", "pay": "£24,784.50 a year", "closes": "Closes 24 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Nerams"}, {"cat": "ambulance", "skills": ["eca"], "region": "ne", "pmin": 24862, "pmax": 25350, "title": "Ambulance Care Assistant (bank)", "org": "YorMed Ambulance Service", "place": "Malton, North Yorkshire", "pay": "£12.75 – £13.00 an hour (≈ £24,862 – £25,350 a year full-time)", "closes": "Closes 31 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+YorMed"}, {"cat": "ambulance", "skills": ["emt"], "region": "ne", "pmin": 25350, "pmax": 31200, "title": "First Responder – PTS & Events (FREC 3/4, bank)", "org": "YorMed Ambulance Service", "place": "Malton, North Yorkshire", "pay": "£13.00 – £16.00 an hour (≈ £25,350 – £31,200 a year full-time)", "closes": "Closes 31 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=First+Responder+FREC+YorMed"}, {"cat": "ambulance", "skills": ["eca"], "region": "sw", "pmin": 26325, "pmax": 26325, "title": "Ambulance Care Assistant (bank)", "org": "Alliance Pioneer Group", "place": "Plymouth", "pay": "£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)", "closes": "Closes 30 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Alliance+Pioneer+Group"}, {"cat": "ambulance", "skills": ["hca"], "region": "nw", "title": "Healthcare Assistant (secure care)", "org": "Prometheus Safe and Secure", "place": "Warrington", "pay": "See advert", "closes": "Closes 27 Jan 2027", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Prometheus+Safe+and+Secure"}, {"cat": "ambulance", "skills": ["hca"], "region": "mid", "pmin": 24997, "pmax": 28406, "title": "Healthcare Assistant (HCA)", "org": "Taurus Healthcare", "place": "Hereford", "pay": "£24,996.93 – £28,405.60 a year", "closes": "Closes 31 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Taurus+Healthcare"}, {"cat": "ambulance", "skills": ["hca"], "region": "se", "title": "Healthcare Assistant (GP practices)", "org": "Primary Care Management Solutions", "place": "High Wycombe", "pay": "See advert", "closes": "Closes 30 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Primary+Care+Management+Solutions"}, {"cat": "ambulance", "skills": ["hca"], "region": "sw", "pmin": 26325, "pmax": 26325, "title": "Healthcare Assistant (GP surgery)", "org": "The Avenue Surgery", "place": "Warminster, Wiltshire", "pay": "£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)", "closes": "Closes 2 Dec 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=HCA+The+Avenue+Surgery+Warminster"}, {"cat": "ambulance", "skills": ["hca"], "region": "se", "title": "Health Care Assistant (GP surgery)", "org": "Marcham Road Health Centre", "place": "Abingdon, Oxfordshire", "pay": "See advert", "closes": "Closes 30 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Health+Care+Assistant+Marcham+Road+Health+Centre"}, {"cat": "ambulance", "skills": ["hca"], "region": "ne", "title": "Healthcare Assistant (GP surgery)", "org": "Junction Surgery", "place": "Huddersfield", "pay": "See advert", "closes": "Closes 30 Nov 2026", "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Junction+Surgery+Huddersfield"}, {"cat": "ambulance", "entry": "volunteer", "region": "lon", "title": "Community First Responder (volunteer)", "org": "London Ambulance Service NHS Trust", "place": "London", "pay": "Volunteer – full training and kit", "closes": "Open – see advert", "url": "https://www.londonambulance.nhs.uk/getting-involved/volunteering-with-us/community-first-responders/"}];
 const MATCH = (j) => j.cat === 'ambulance';
 class Component extends DCLogic {
   constructor(p) { super(p); this.state = { remote: null };

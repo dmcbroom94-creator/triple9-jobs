@@ -58,7 +58,18 @@ button:active,a:active{transform:scale(.97)}
 .t9-subnav a{padding:12px 12px;color:#FFFFFF;text-decoration:none;border-radius:8px;white-space:nowrap}
 .t9-subnav a:hover{background:rgba(255,255,255,0.1)}.t9-subnav a.t9-sup{background:#2BB673;color:#04240F;font-weight:800}.t9-subnav a.t9-sup:hover{background:#4CCB88}
 .t9-subnav a[aria-current="page"]{background:#0099FE;color:#0B1B3F}
-@media (max-width: 900px){.t9-subnav{flex:1 1 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -24px;padding:0 24px 4px;mask-image:linear-gradient(90deg,#000 85%,transparent)}.t9-subnav::-webkit-scrollbar{display:none}}
+.t9-subnav a,header .blnav a{border:1.5px solid rgba(255,255,255,0.32)!important;border-radius:999px!important;padding:8px 12px!important;font-size:14px!important;line-height:1.2}
+.t9-subnav a:hover,header .blnav a:hover{background:rgba(255,255,255,0.12)!important;border-color:#FFFFFF!important}
+.t9-subnav a[aria-current="page"]{border-color:#0099FE!important}
+.t9-subnav a.t9-sup,header .blnav a.t9-sup{border-color:#2BB673!important}
+.t9-subnav a.t9-pen,header .blnav a.t9-pen{border-color:#0099FE!important;color:#7CC8FF!important}
+.t9-subnav a.t9-pen[aria-current="page"]{color:#0B1B3F!important}
+@media (min-width: 701px){
+header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!important;flex-wrap:wrap!important;gap:6px!important;margin:0!important;padding:14px 0 2px!important;border-top:1px solid rgba(255,255,255,0.14);mask-image:none!important;-webkit-mask-image:none!important;overflow:visible!important}
+}
+.t9-subnav{gap:8px!important;align-items:center}
+@media (max-width: 900px){.t9-subnav{flex:1 1 100%;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -24px;padding:0 24px 4px;mask-image:linear-gradient(90deg,#000 85%,transparent)}.t9-subnav::-webkit-scrollbar{display:none}
+}
 @media (max-width: 600px){section{padding-left:16px!important;padding-right:16px!important}h2[style*="font-size: 48px"],h2[style*="font-size: 44px"],h2[style*="font-size: 40px"]{font-size:34px!important}}
 @media (max-width: 600px){section{padding-top:36px!important;padding-bottom:40px!important}section.t9-hero{padding-top:32px!important;padding-bottom:48px!important}[style*="gap: 28px"],[style*="gap: 26px"],[style*="gap: 24px"],[style*="gap: 22px"]{gap:16px!important}[style*="padding: 26px"],[style*="padding: 24px;"],[style*="padding: 28px"]{padding:18px!important}[style*="min-height: 210px"]{min-height:0!important}}
 .t9-foot a{display:inline-block;padding:10px 8px}
@@ -81,6 +92,7 @@ button:active,a:active{transform:scale(.97)}
 <a href="cv-builder.html">CV builder</a>
 <a href="interview-guide.html">Interview guide</a>
 <a href="pay-calculator.html">Pay calculator</a>
+<a href="pension-calculator.html" class="t9-pen">Pension calculator</a>
 <a href="police-pay-scales.html">Pay scales</a>
 <a href="police-promotion.html">Promotion</a>
 <a href="courses-and-franchises.html">Courses</a>
@@ -124,7 +136,7 @@ button:active,a:active{transform:scale(.97)}
 <section style="padding: 48px 24px 64px; background: #F2F4F8">
 <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px">
 <h2 class="t9-reveal" style="margin: 0; font-size: 40px; font-weight: 800; text-align: center">Live Cheshire jobs</h2>
-<p style="margin: -10px 0 0; text-align: center; font-size: 15px; color: #3B4458">2 live jobs – updated every morning</p>
+<p style="margin: -10px 0 0; text-align: center; font-size: 15px; color: #3B4458">3 live jobs – updated every morning</p>
 <div style="display: flex; flex-direction: column; gap: 10px">
 
 <article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
@@ -150,6 +162,19 @@ button:active,a:active{transform:scale(.97)}
 <span style="font-size: 14px; font-weight: 700; color: #3B4458">Open – see force website</span>
 <button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
 <a href="https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
+</div>
+</article>
+
+<article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
+<div style="flex: 999 1 300px; min-width: 0; display: flex; flex-direction: column; gap: 6px">
+<h3 style="margin: 0; font-size: 24px; font-weight: 700; line-height: 1.1">Police Constable – new recruits (PCEP, March 2027 intake)</h3>
+<p style="margin: 0; color: #3B4458; font-size: 15px; display: flex; align-items: center; gap: 8px"><span aria-hidden="true" title="Cheshire Constabulary" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; min-width: 36px; height: 34px; padding: 0 7px 5px; box-sizing: border-box; background: linear-gradient(180deg, #1450D2, #0B1B3F); color: #FFFFFF; font-size: 10px; font-weight: 800; letter-spacing: 0.03em; clip-path: polygon(0 0, 100% 0, 100% 62%, 50% 100%, 0 62%)">CHES</span><span>Cheshire Constabulary · Forcewide</span></p>
+<p style="margin: 0; font-size: 15px; font-weight: 800; color: #0B5C2E">£31,164 – £50,256 (PC scale)</p>
+</div>
+<div class="t9-jobact" style="display: flex; align-items: center; gap: 12px 16px; flex: 1 1 auto; min-width: 0; justify-content: flex-end; flex-wrap: wrap">
+<span style="font-size: 14px; font-weight: 700; color: #3B4458">Open – see force website</span>
+<button type="button" aria-label="Share this job" style="display: inline-flex; align-items: center; gap: 6px; padding: 11px 14px; background: #FFFFFF; color: #0B1B3F; border: 2px solid #0B1B3F; border-radius: 8px; font-family: Inter, sans-serif; font-size: 14px; font-weight: 800; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path><path d="M16 6l-4-4-4 4"></path><path d="M12 2v13"></path></svg>Share</button>
+<a href="https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/police-constables/" target="_blank" rel="noopener" style="padding: 13px 18px; background: #0B1B3F; color: #FFFFFF; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View job</a>
 </div>
 </article>
 
@@ -193,6 +218,7 @@ button:active,a:active{transform:scale(.97)}
 <a href="cv-builder.html">CV builder</a>
 <a href="interview-guide.html">Interview guide</a>
 <a href="pay-calculator.html">Pay calculator</a>
+<a href="pension-calculator.html" class="t9-pen">Pension calculator</a>
 <a href="police-pay-scales.html">Pay scales</a>
 <a href="police-promotion.html">Promotion</a>
 <a href="courses-and-franchises.html">Courses</a>
@@ -280,7 +306,7 @@ button:active,a:active{transform:scale(.97)}
 </div>
 </template>
 <script type="text/x-dc" data-dc-script>
-const BASE = [{"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["pc"], "routes": ["transferee"], "region": "nw", "pmin": 32255, "pmax": 52015, "title": "Transferee Police Officers (ongoing)", "org": "Cheshire Constabulary", "place": "Cheshire", "pay": "£32,255 – £52,015 (PC scale)", "closes": "Open – see force website", "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/"}, {"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["ps"], "routes": ["transferee"], "region": "nw", "pmin": 55443, "pmax": 58175, "title": "PS & DS – Transferee Opportunities 26/27", "org": "Cheshire Constabulary", "place": "Cheshire", "pay": "£55,443 – £58,175 (sergeant scale)", "closes": "Open – see force website", "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/"}];
+const BASE = [{"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["pc"], "routes": ["transferee"], "region": "nw", "pmin": 32255, "pmax": 52015, "title": "Transferee Police Officers (ongoing)", "org": "Cheshire Constabulary", "place": "Cheshire", "pay": "£32,255 – £52,015 (PC scale)", "closes": "Open – see force website", "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/"}, {"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["ps"], "routes": ["transferee"], "region": "nw", "pmin": 55443, "pmax": 58175, "title": "PS & DS – Transferee Opportunities 26/27", "org": "Cheshire Constabulary", "place": "Cheshire", "pay": "£55,443 – £58,175 (sergeant scale)", "closes": "Open – see force website", "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/transferees/"}, {"cat": "police", "ptype": "officer", "nations": ["eng"], "ranks": ["pc"], "entry": "new", "region": "nw", "pmin": 31164, "pmax": 50256, "title": "Police Constable – new recruits (PCEP, March 2027 intake)", "org": "Cheshire Constabulary", "place": "Forcewide", "pay": "£31,164 – £50,256 (PC scale)", "closes": "Open – see force website", "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/police-constables/"}];
 const MATCH = (j) => (j.cat === 'police' || j.cat === 'control') && /Cheshire (Constabulary|Police)/i.test(j.org);
 class Component extends DCLogic {
   constructor(p) { super(p); this.state = { remote: null };

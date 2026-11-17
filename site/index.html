@@ -60,6 +60,18 @@ button:active,a:active{transform:scale(.97)}
 @supports (animation-timeline: view()){.t9-reveal{animation:t9Up linear both;animation-timeline:view();animation-range:entry 0% entry 30%}}
 .t9-foot a{display:inline-block;padding:12px 10px}
 .t9-mob{display:none}
+@media (max-width: 1000px){.t9-tools{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media (max-width: 600px){.t9-tools{grid-template-columns:1fr!important}}
+.t9-subnav a,header .blnav a{border:1.5px solid rgba(255,255,255,0.32)!important;border-radius:999px!important;padding:8px 12px!important;font-size:14px!important;line-height:1.2}
+.t9-subnav a:hover,header .blnav a:hover{background:rgba(255,255,255,0.12)!important;border-color:#FFFFFF!important}
+.t9-subnav a[aria-current="page"]{border-color:#0099FE!important}
+.t9-subnav a.t9-sup,header .blnav a.t9-sup{border-color:#2BB673!important}
+.t9-subnav a.t9-pen,header .blnav a.t9-pen{border-color:#0099FE!important;color:#7CC8FF!important}
+.t9-subnav a.t9-pen[aria-current="page"]{color:#0B1B3F!important}
+@media (min-width: 701px){
+header .t9-subnav,header .blnav{flex:1 1 100%!important;justify-content:center!important;flex-wrap:wrap!important;gap:6px!important;margin:0!important;padding:14px 0 2px!important;border-top:1px solid rgba(255,255,255,0.14);mask-image:none!important;-webkit-mask-image:none!important;overflow:visible!important}
+}
+.t9-subnav{gap:8px!important;align-items:center}
 @media (min-width: 701px){
 .t9-job .t9-jobact{flex:0 0 auto!important;display:grid!important;grid-template-columns:auto auto;justify-items:end;gap:10px 10px!important}
 .t9-job .t9-jobact>span{grid-column:1 / -1}
@@ -94,7 +106,7 @@ details>summary{list-style-position:inside!important}
 @media (prefers-reduced-motion: reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 .blmenu{display:none}
 .blnav a:hover{background:rgba(255,255,255,0.1)}
-.blcta{display:none !important}@media (max-width: 1240px){.blnav,.blcta{display:none !important}.blmenu{display:inline-flex !important}}
+.blcta{display:none !important}@media (max-width: 1000px){.blnav,.blcta{display:none !important}.blmenu{display:inline-flex !important}}
 @media (max-width: 900px){.bltabs{flex-wrap:nowrap !important;justify-content:flex-start !important;overflow-x:auto;padding-bottom:6px}.bltabs button{flex:0 0 auto}}
 </style>
 </head>
@@ -112,13 +124,14 @@ details>summary{list-style-position:inside!important}
 <nav class="blnav" aria-label="Main" style="display: flex; flex-wrap: nowrap; gap: 2px; font-size: 15px; font-weight: 600">
 <a href="#feed" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Find jobs</a>
 <a href="cv-builder.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">CV builder</a>
-<a href="interview-guide.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Interviews</a>
+<a href="interview-guide.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Interview guide</a>
 <a href="pay-calculator.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Pay calculator</a>
+<a href="pension-calculator.html" class="t9-pen" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Pension calculator</a>
 <a href="police-pay-scales.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Pay scales</a>
 <a href="police-promotion.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Promotion</a>
 <a href="courses-and-franchises.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Courses</a>
 <a href="discounts.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Discounts</a>
-<a href="support.html" style="padding: 12px 11px; background: #2BB673; color: #04240F; font-weight: 800; text-decoration: none; white-space: nowrap; border-radius: 8px">Support</a>
+<a href="support.html" class="t9-sup" style="padding: 12px 11px; background: #2BB673; color: #04240F; font-weight: 800; text-decoration: none; white-space: nowrap; border-radius: 8px">Support</a>
 <a href="advertise.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Advertise</a>
 </nav>
 <a class="blcta" href="#feed" style="padding: 13px 20px; background: #0099FE; border-radius: 8px; color: #0B1B3F; text-decoration: none; font-weight: 800; font-size: 15px; text-transform: uppercase; letter-spacing: 0.03em">Browse jobs</a>
@@ -192,7 +205,7 @@ details>summary{list-style-position:inside!important}
 </span>
 <span style="font-family: 'Barlow Condensed', sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1">Police officers &amp; staff</span>
 <span style="font-size: 15px; line-height: 1.5; color: #DCE6FF; max-width: 260px">Officer transfers and rejoiners, plus police staff: investigators, CSI, custody and admin.</span>
-<span style="font-size: 15px; color: #DCE6FF"><strong style="font-size: 22px; color: #FFFFFF">72</strong> live jobs</span>
+<span style="font-size: 15px; color: #DCE6FF"><strong style="font-size: 22px; color: #FFFFFF">80</strong> live jobs</span>
 <span style="margin-top: auto; padding: 11px 18px; border-radius: 8px; background: #FFFFFF; color: #1450D2; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View jobs →</span>
 </a>
 <a class="t9-card t9-path" href="#feed" style="flex: 0 1 340px; min-width: 250px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; padding: 28px 24px 24px; background: #00873E; border-radius: 16px; color: #FFFFFF; text-decoration: none; box-shadow: 0 8px 20px rgba(11,27,63,0.14)">
@@ -201,7 +214,7 @@ details>summary{list-style-position:inside!important}
 </span>
 <span style="font-family: 'Barlow Condensed', sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1">Ambulance &amp; medical</span>
 <span style="font-size: 15px; line-height: 1.5; color: #DDF5E7; max-width: 260px">ECA, EMT, paramedic, nurse and doctor roles, including police custody nurse and paramedic jobs.</span>
-<span style="font-size: 15px; color: #DDF5E7"><strong style="font-size: 22px; color: #FFFFFF">16</strong> live jobs</span>
+<span style="font-size: 15px; color: #DDF5E7"><strong style="font-size: 22px; color: #FFFFFF">33</strong> live jobs</span>
 <span style="margin-top: auto; padding: 11px 18px; border-radius: 8px; background: #FFFFFF; color: #00873E; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View jobs →</span>
 </a>
 <a class="t9-card t9-path" href="#feed" style="flex: 0 1 340px; min-width: 250px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; padding: 28px 24px 24px; background: #C8201A; border-radius: 16px; color: #FFFFFF; text-decoration: none; box-shadow: 0 8px 20px rgba(11,27,63,0.14)">
@@ -210,7 +223,7 @@ details>summary{list-style-position:inside!important}
 </span>
 <span style="font-family: 'Barlow Condensed', sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1">Fire &amp; rescue</span>
 <span style="font-size: 15px; line-height: 1.5; color: #FFE1DF; max-width: 260px">Fire safety, risk assessment and inspector roles.</span>
-<span style="font-size: 15px; color: #FFE1DF"><strong style="font-size: 22px; color: #FFFFFF">14</strong> live jobs</span>
+<span style="font-size: 15px; color: #FFE1DF"><strong style="font-size: 22px; color: #FFFFFF">18</strong> live jobs</span>
 <span style="margin-top: auto; padding: 11px 18px; border-radius: 8px; background: #FFFFFF; color: #C8201A; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View jobs →</span>
 </a>
 <a class="t9-card t9-path" href="#feed" style="flex: 0 1 340px; min-width: 250px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; padding: 28px 24px 24px; background: #6B3FD0; border-radius: 16px; color: #FFFFFF; text-decoration: none; box-shadow: 0 8px 20px rgba(11,27,63,0.14)">
@@ -219,7 +232,7 @@ details>summary{list-style-position:inside!important}
 </span>
 <span style="font-family: 'Barlow Condensed', sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1">Control room</span>
 <span style="font-size: 15px; line-height: 1.5; color: #ECE4FF; max-width: 260px">999 call handling, dispatch and operations.</span>
-<span style="font-size: 15px; color: #ECE4FF"><strong style="font-size: 22px; color: #FFFFFF">6</strong> live jobs</span>
+<span style="font-size: 15px; color: #ECE4FF"><strong style="font-size: 22px; color: #FFFFFF">7</strong> live jobs</span>
 <span style="margin-top: auto; padding: 11px 18px; border-radius: 8px; background: #FFFFFF; color: #6B3FD0; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View jobs →</span>
 </a>
 <a class="t9-card t9-path" href="#feed" style="flex: 0 1 340px; min-width: 250px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; padding: 28px 24px 24px; background: #0F766E; border-radius: 16px; color: #FFFFFF; text-decoration: none; box-shadow: 0 8px 20px rgba(11,27,63,0.14)">
@@ -237,7 +250,7 @@ details>summary{list-style-position:inside!important}
 </span>
 <span style="font-family: 'Barlow Condensed', sans-serif; font-size: 32px; font-weight: 800; text-transform: uppercase; line-height: 1">Leaving the service</span>
 <span style="font-size: 15px; line-height: 1.5; color: #D5DBE8; max-width: 260px">Civilian jobs that use the skills you already have.</span>
-<span style="font-size: 15px; color: #D5DBE8"><strong style="font-size: 22px; color: #FFFFFF">26</strong> live jobs</span>
+<span style="font-size: 15px; color: #D5DBE8"><strong style="font-size: 22px; color: #FFFFFF">35</strong> live jobs</span>
 <span style="margin-top: auto; padding: 11px 18px; border-radius: 8px; background: #0099FE; color: #0B1B3F; font-size: 14px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em">View jobs →</span>
 </a>
 </div>
@@ -265,6 +278,10 @@ details>summary{list-style-position:inside!important}
 <button type="button" role="tab" style="min-height: 46px; padding: 0 18px; border-radius: 8px; font-size: 14px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F">Prison &amp; border</button>
 
 <button type="button" role="tab" style="min-height: 46px; padding: 0 18px; border-radius: 8px; font-size: 14px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F">Civilian</button>
+
+<button type="button" role="tab" style="min-height: 46px; padding: 0 18px; border-radius: 8px; font-size: 14px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F">New recruits &amp; on-call</button>
+
+<button type="button" role="tab" style="min-height: 46px; padding: 0 18px; border-radius: 8px; font-size: 14px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F">Volunteer</button>
 
 </div>
 
@@ -326,7 +343,7 @@ details>summary{list-style-position:inside!important}
 </div>
 </div>
 
-<p style="margin: 0; text-align: center; font-size: 14px; font-weight: 700; color: #3B4458">Showing 150 jobs</p>
+<p style="margin: 0; text-align: center; font-size: 14px; font-weight: 700; color: #3B4458">Showing 189 jobs</p>
 <div style="display: flex; flex-direction: column; gap: 10px">
 
 <article class="t9-job" style="display: flex; flex-wrap: wrap; align-items: center; gap: 18px; padding: 18px 20px; background: #FFFFFF; border-radius: 12px; border: 2px solid #E4E7EE">
@@ -534,10 +551,10 @@ details>summary{list-style-position:inside!important}
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 18px; background: #FFFFFF; border: 2px solid #E4E7EE; border-radius: 14px">
-<span style="font-size: 15px; font-weight: 700; color: #3B4458">Showing 8 of 150 jobs</span>
+<span style="font-size: 15px; font-weight: 700; color: #3B4458">Showing 8 of 189 jobs</span>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px">
 <button type="button" style="min-height: 48px; padding: 0 22px; border-radius: 8px; border: 0; background: #1450D2; color: #FFFFFF; font-size: 15px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer">Show 10 more</button>
-<button type="button" style="min-height: 48px; padding: 0 22px; border-radius: 8px; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F; font-size: 15px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer">Show all 150</button>
+<button type="button" style="min-height: 48px; padding: 0 22px; border-radius: 8px; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F; font-size: 15px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer">Show all 189</button>
 </div>
 <span style="font-size: 13px; color: #4A5368">Tip: use the tabs, search or filters above to narrow the list.</span>
 </div>
@@ -571,13 +588,15 @@ details>summary{list-style-position:inside!important}
 <h2 style="margin: 0; font-size: clamp(40px, 5vw, 64px); font-weight: 800; line-height: 0.95">Planning your exit?</h2>
 <p style="margin: 0; font-size: 18px; line-height: 1.5; color: #3B4458">Free tools to plan your next move. Nothing to sign up for.</p>
 </div>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px">
+<div class="t9-tools" style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px">
 <a href="cv-builder.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">CV skills builder</span><span style="color: #D5DBE8; font-size: 15px">Find your transferable skills for your exact role</span></a>
 <a href="interview-guide.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Interview guide</span><span style="color: #D5DBE8; font-size: 15px">Tips, structures and common questions</span></a>
 <a href="pay-calculator.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Pay calculator</span><span style="color: #D5DBE8; font-size: 15px">See if a new job leaves you better off</span></a>
 <a href="pension-calculator.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Pension calculator</span><span style="color: #D5DBE8; font-size: 15px">Estimate your police, fire, NHS or civil service pension</span></a>
 <a href="police-pay-scales.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Police pay scales</span><span style="color: #D5DBE8; font-size: 15px">Every rank, England, Wales &amp; Scotland</span></a>
 <a href="courses-and-franchises.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Retrain or start up</span><span style="color: #D5DBE8; font-size: 15px">Courses, qualifications and franchises</span></a>
+<a href="police-promotion.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Promotion guide</span><span style="color: #D5DBE8; font-size: 15px">Exams, the CVF and forces recruiting on promotion</span></a>
+<a href="support.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Support &amp; wellbeing</span><span style="color: #D5DBE8; font-size: 15px">Crisis lines, charities and federations</span></a>
 </div>
 </div>
 </section>
@@ -678,13 +697,14 @@ details>summary{list-style-position:inside!important}
 <nav class="blnav" aria-label="Main" style="display: flex; flex-wrap: nowrap; gap: 2px; font-size: 15px; font-weight: 600">
 <a href="#feed" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Find jobs</a>
 <a href="cv-builder.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">CV builder</a>
-<a href="interview-guide.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Interviews</a>
+<a href="interview-guide.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Interview guide</a>
 <a href="pay-calculator.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Pay calculator</a>
+<a href="pension-calculator.html" class="t9-pen" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Pension calculator</a>
 <a href="police-pay-scales.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Pay scales</a>
 <a href="police-promotion.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Promotion</a>
 <a href="courses-and-franchises.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Courses</a>
 <a href="discounts.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Discounts</a>
-<a href="support.html" style="padding: 12px 11px; background: #2BB673; color: #04240F; font-weight: 800; text-decoration: none; white-space: nowrap; border-radius: 8px">Support</a>
+<a href="support.html" class="t9-sup" style="padding: 12px 11px; background: #2BB673; color: #04240F; font-weight: 800; text-decoration: none; white-space: nowrap; border-radius: 8px">Support</a>
 <a href="advertise.html" style="padding: 12px 11px; color: #FFFFFF; text-decoration: none; white-space: nowrap; border-radius: 8px">Advertise</a>
 </nav>
 <a class="blcta" href="#feed" style="padding: 13px 20px; background: #0099FE; border-radius: 8px; color: #0B1B3F; text-decoration: none; font-weight: 800; font-size: 15px; text-transform: uppercase; letter-spacing: 0.03em">Browse jobs</a>
@@ -1022,13 +1042,15 @@ details>summary{list-style-position:inside!important}
 <h2 style="margin: 0; font-size: clamp(40px, 5vw, 64px); font-weight: 800; line-height: 0.95">Planning your exit?</h2>
 <p style="margin: 0; font-size: 18px; line-height: 1.5; color: #3B4458">Free tools to plan your next move. Nothing to sign up for.</p>
 </div>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px">
+<div class="t9-tools" style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px">
 <a href="cv-builder.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">CV skills builder</span><span style="color: #D5DBE8; font-size: 15px">Find your transferable skills for your exact role</span></a>
 <a href="interview-guide.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Interview guide</span><span style="color: #D5DBE8; font-size: 15px">Tips, structures and common questions</span></a>
 <a href="pay-calculator.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Pay calculator</span><span style="color: #D5DBE8; font-size: 15px">See if a new job leaves you better off</span></a>
 <a href="pension-calculator.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Pension calculator</span><span style="color: #D5DBE8; font-size: 15px">Estimate your police, fire, NHS or civil service pension</span></a>
 <a href="police-pay-scales.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Police pay scales</span><span style="color: #D5DBE8; font-size: 15px">Every rank, England, Wales &amp; Scotland</span></a>
 <a href="courses-and-franchises.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Retrain or start up</span><span style="color: #D5DBE8; font-size: 15px">Courses, qualifications and franchises</span></a>
+<a href="police-promotion.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Promotion guide</span><span style="color: #D5DBE8; font-size: 15px">Exams, the CVF and forces recruiting on promotion</span></a>
+<a href="support.html" style="display: flex; flex-direction: column; gap: 8px; padding: 24px; background: #0B1B3F; border-radius: 12px; color: #FFFFFF; text-decoration: none; align-items: center; text-align: center"><span style="font-family: 'Barlow Condensed', sans-serif; font-size: 28px; font-weight: 800; text-transform: uppercase">Support &amp; wellbeing</span><span style="color: #D5DBE8; font-size: 15px">Crisis lines, charities and federations</span></a>
 </div>
 </div>
 </section>
@@ -1130,6 +1152,7 @@ class Component extends DCLogic {
     };
     const RANKS = { pc: 'Constable', dc: 'Detective', ps: 'Sergeant', insp: 'Inspector', ci: 'Chief Inspector', supt: 'Superintendent & above' };
     const ROUTES = { transferee: 'Transferee', rejoiner: 'Rejoiner' };
+    const ENTRY = { new: 'New recruits', oncall: 'On-call (retained)', volunteer: 'Volunteer' };
     const SKILLS = { hca: 'Healthcare assistant', eca: 'ECA / ACA', emt: 'EMT / FREC', para: 'Paramedic', nurse: 'Nurse', doctor: 'Doctor' };
     const AREAS = { investigation: 'Investigation', finance: 'Banking, fraud & compliance', supervisor: 'Supervisor & team leader', safety: 'Health & safety', security: 'Security & CCTV', planning: 'Emergency planning', training: 'Training & teaching', management: 'Senior management', operations: 'Operations', customer: 'Customer service', transport: 'Rail, transport & driving' };
     const NATIONS = { eng: 'England', wal: 'Wales', sco: 'Scotland' };
@@ -1239,10 +1262,10 @@ class Component extends DCLogic {
       { cat: 'justice', jroles: ['probation'], region: 'mid', pmin: 30000, pmax: 50000, title: 'Qualified Probation Officer – Herefordshire, Shropshire & Telford', org: 'Probation Service', place: 'Herefordshire, Shropshire & Telford', pay: '£30,000 – £50,000', closes: 'Closes 8 Jan 2027', url: 'https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858' },
       { cat: 'justice', jroles: ['detention'], region: 'ne', pmin: 28500, pmax: 30000, title: 'Detention Custody Officer – Derwentside IRC', org: 'Serco', place: 'Consett, County Durham', pay: '£28,500, rising to £30,000 after two years', closes: 'Open – see advert', url: 'https://apply-now.serco.com/UK/job/Consett-Detention-Custody-Officer-Coun-DH8-6QY/827405402/' },
       { cat: 'justice', jroles: ['detention'], region: 'se', pmin: 30000, pmax: 34154, title: 'Detention Custody Officer – Gatwick IRC', org: 'Serco', place: 'Gatwick, West Sussex', pay: '£30,000, rising to £34,154 after 12 months', closes: 'Open – see advert', url: 'https://apply-now.serco.com/UK/job/Gatwick-Detention-Custody-Officer-West-RH6-0PQ/823983802/' },
-      { cat: 'ambulance', skills: ['eca'], region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Ferndown', org: 'South Western Ambulance Service', place: 'Ferndown, Dorset', pay: '£25,760 – £27,476', closes: 'Closes 22 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293' },
-      { cat: 'ambulance', skills: ['eca'], region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Salisbury', org: 'South Western Ambulance Service', place: 'Salisbury, Wiltshire', pay: '£25,760 – £27,476', closes: 'Closes 22 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294' },
-      { cat: 'ambulance', skills: ['eca'], region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Somerset', org: 'South Western Ambulance Service', place: 'Bridgwater area, Somerset', pay: '£25,760 – £27,476', closes: 'Closes 22 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292' },
-      { cat: 'ambulance', skills: ['eca'], region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Isles of Scilly', org: 'South Western Ambulance Service', place: 'St Mary\'s, Isles of Scilly', pay: '£25,760 – £27,476', closes: 'Closes 27 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295' },
+      { cat: 'ambulance', skills: ['eca'], entry: 'new', region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Ferndown', org: 'South Western Ambulance Service', place: 'Ferndown, Dorset', pay: '£25,760 – £27,476', closes: 'Closes 22 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293' },
+      { cat: 'ambulance', skills: ['eca'], entry: 'new', region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Salisbury', org: 'South Western Ambulance Service', place: 'Salisbury, Wiltshire', pay: '£25,760 – £27,476', closes: 'Closes 22 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294' },
+      { cat: 'ambulance', skills: ['eca'], entry: 'new', region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Somerset', org: 'South Western Ambulance Service', place: 'Bridgwater area, Somerset', pay: '£25,760 – £27,476', closes: 'Closes 22 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292' },
+      { cat: 'ambulance', skills: ['eca'], entry: 'new', region: 'sw', pmin: 25760, pmax: 27476, title: 'Emergency Care Assistant Apprentice – Isles of Scilly', org: 'South Western Ambulance Service', place: 'St Mary\'s, Isles of Scilly', pay: '£25,760 – £27,476', closes: 'Closes 27 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295' },
       { cat: 'ambulance', skills: ['para'], region: 'sw', pmin: 39959, pmax: 48117, title: 'Trainee Specialist Practitioner – Critical Care', org: 'South Western Ambulance Service', place: 'Newquay', pay: '£39,959 – £48,117', closes: 'Closes 27 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0287' },
       { cat: 'control', nations: ['eng'], region: 'sw', pmin: 25760, pmax: 27476, title: '999 Call Handler (Emergency Medical Dispatcher) – Bristol', org: 'South Western Ambulance Service', place: 'Bristol', pay: '£25,760 – £27,476', closes: 'Closes 30 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0281' },
       { cat: 'control', nations: ['eng'], region: 'sw', pmin: 25760, pmax: 27476, title: '999 Call Handler (Emergency Medical Dispatcher) – Exeter', org: 'South Western Ambulance Service', place: 'Exeter', pay: '£25,760 – £27,476', closes: 'Closes 30 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0280' },
@@ -1289,7 +1312,46 @@ class Component extends DCLogic {
       { cat: 'police', ptype: 'staff', nations: ['eng'], region: 'se', title: 'Detention Officer (police custody)', org: 'Thames Valley Police', place: 'Berkshire, Buckinghamshire & Oxfordshire', pay: 'See advert', closes: 'Open – see force website', url: 'https://tvpcareers.co.uk/roles/detention-officer/' },
       { cat: 'police', ptype: 'staff', nations: ['eng'], region: 'se', title: 'Custody Detention Officer', org: 'Surrey Police', place: 'Guildford, Staines & Salfords custody suites', pay: 'See advert', closes: 'Open – see force website', url: 'https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/custody-detention-officers/' },
       { cat: 'ambulance', skills: ['hca'], region: 'se', title: 'Healthcare Assistant (Band 2)', org: 'Portsmouth Hospitals University NHS Trust', place: 'Queen Alexandra Hospital, Portsmouth', pay: 'NHS Band 2 – see advert', closes: 'Closes 18 Nov 2026', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/C8192-26-0631' },
-          { cat: 'police', ptype: 'staff', nations: ['eng'], region: 'ne', title: 'Detention Officer (new and transferee Detention Officers)', org: 'North Yorkshire Police', place: 'York, Harrogate & Scarborough custody suites', pay: 'See advert (plus shift allowance)', closes: 'Open – see force website', url: 'https://northyorkshirepolice.engageats.co.uk/V2/Vacancy' },
+      { cat: 'police', ptype: 'staff', nations: ['eng'], region: 'ne', title: 'Detention Officer (new and transferee Detention Officers)', org: 'North Yorkshire Police', place: 'York, Harrogate & Scarborough custody suites', pay: 'See advert (plus shift allowance)', closes: 'Open – see force website', url: 'https://northyorkshirepolice.engageats.co.uk/V2/Vacancy' },
+      { cat: 'ambulance', skills: ['nurse', 'para'], region: 'east', pmin: 41500, pmax: 41500, title: 'Custody Nurse or Paramedic (police custody)', org: 'Mitie Care & Custody', place: 'Martlesham, Suffolk', pay: '£41,500 a year', closes: 'Closes 5 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Martlesham' },
+      { cat: 'ambulance', skills: ['nurse', 'para'], region: 'nw', title: 'Custody Nurse or Paramedic (police custody)', org: 'Mitie Care & Custody', place: 'Bury, Greater Manchester', pay: 'See advert', closes: 'Closes 29 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Bury' },
+      { cat: 'ambulance', skills: ['nurse', 'para'], region: 'mid', title: 'Custody Nurse or Paramedic (police custody)', org: 'Mitie Care & Custody', place: 'Birmingham', pay: 'See advert', closes: 'Closes 2 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Birmingham' },
+      { cat: 'ambulance', skills: ['nurse', 'para'], region: 'sw', title: 'Custody Nurse or Paramedic (police custody)', org: 'Mitie Care & Custody', place: 'Barnstaple, Devon', pay: 'See advert', closes: 'Closes 26 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Barnstaple' },
+      { cat: 'ambulance', skills: ['nurse', 'para'], region: 'sw', title: 'Custody Nurse or Paramedic (police custody)', org: 'Mitie Care & Custody', place: 'Melksham, Wiltshire', pay: 'See advert', closes: 'Closes 25 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Melksham' },
+      { cat: 'ambulance', skills: ['nurse', 'para'], region: 'mid', title: 'NHS 111 Clinical Advisor (nurse or paramedic)', org: 'DHU Healthcare', place: 'Pride Park, Derby', pay: 'See advert', closes: 'Closes 1 Apr 2027', url: 'https://beta.jobs.nhs.uk/candidate/jobadvert/M0051-26-0080' },
+      { cat: 'control', nations: ['eng'], region: 'east|ne', pmin: 25604, pmax: 32936, title: 'NHS 111 Health Advisor (call handler)', org: 'Practice Plus Group', place: 'Ipswich or Stockton-on-Tees', pay: '£13.13 – £16.89 an hour (≈ £25,604 – £32,936 a year full-time)', closes: 'Closes 25 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=NHS+111+Health+Advisor+Practice+Plus+Group' },
+      { cat: 'ambulance', skills: ['eca'], region: 'ne', pmin: 24784, pmax: 24784, title: 'Ambulance Care Assistant', org: 'Nerams Limited', place: 'Ferryhill & Washington', pay: '£24,784.50 a year', closes: 'Closes 24 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Nerams' },
+      { cat: 'ambulance', skills: ['eca'], region: 'ne', pmin: 24862, pmax: 25350, title: 'Ambulance Care Assistant (bank)', org: 'YorMed Ambulance Service', place: 'Malton, North Yorkshire', pay: '£12.75 – £13.00 an hour (≈ £24,862 – £25,350 a year full-time)', closes: 'Closes 31 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+YorMed' },
+      { cat: 'ambulance', skills: ['emt'], region: 'ne', pmin: 25350, pmax: 31200, title: 'First Responder – PTS & Events (FREC 3/4, bank)', org: 'YorMed Ambulance Service', place: 'Malton, North Yorkshire', pay: '£13.00 – £16.00 an hour (≈ £25,350 – £31,200 a year full-time)', closes: 'Closes 31 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=First+Responder+FREC+YorMed' },
+      { cat: 'ambulance', skills: ['eca'], region: 'sw', pmin: 26325, pmax: 26325, title: 'Ambulance Care Assistant (bank)', org: 'Alliance Pioneer Group', place: 'Plymouth', pay: '£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)', closes: 'Closes 30 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Alliance+Pioneer+Group' },
+      { cat: 'ambulance', skills: ['hca'], region: 'nw', title: 'Healthcare Assistant (secure care)', org: 'Prometheus Safe and Secure', place: 'Warrington', pay: 'See advert', closes: 'Closes 27 Jan 2027', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Prometheus+Safe+and+Secure' },
+      { cat: 'ambulance', skills: ['hca'], region: 'mid', pmin: 24997, pmax: 28406, title: 'Healthcare Assistant (HCA)', org: 'Taurus Healthcare', place: 'Hereford', pay: '£24,996.93 – £28,405.60 a year', closes: 'Closes 31 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Taurus+Healthcare' },
+      { cat: 'ambulance', skills: ['hca'], region: 'se', title: 'Healthcare Assistant (GP practices)', org: 'Primary Care Management Solutions', place: 'High Wycombe', pay: 'See advert', closes: 'Closes 30 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Primary+Care+Management+Solutions' },
+      { cat: 'ambulance', skills: ['hca'], region: 'sw', pmin: 26325, pmax: 26325, title: 'Healthcare Assistant (GP surgery)', org: 'The Avenue Surgery', place: 'Warminster, Wiltshire', pay: '£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)', closes: 'Closes 2 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=HCA+The+Avenue+Surgery+Warminster' },
+      { cat: 'ambulance', skills: ['hca'], region: 'se', title: 'Health Care Assistant (GP surgery)', org: 'Marcham Road Health Centre', place: 'Abingdon, Oxfordshire', pay: 'See advert', closes: 'Closes 30 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Health+Care+Assistant+Marcham+Road+Health+Centre' },
+      { cat: 'ambulance', skills: ['hca'], region: 'ne', title: 'Healthcare Assistant (GP surgery)', org: 'Junction Surgery', place: 'Huddersfield', pay: 'See advert', closes: 'Closes 30 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Junction+Surgery+Huddersfield' },
+      { cat: 'civilian', areas: ['planning'], region: 'mid', pmin: 38510, pmax: 43149, title: 'Resilience Officer (emergency planning)', org: 'Sandwell Metropolitan Borough Council', place: 'Oldbury, West Midlands', pay: '£38,510 – £43,149 a year', closes: 'Closes 29 Nov 2026', url: 'https://www.wmjobs.co.uk/job/281576/resilience-officer/' },
+      { cat: 'civilian', areas: ['planning'], region: 'sco', pmin: 43910, pmax: 48926, title: 'Resilience Officer (emergency planning)', org: 'Dundee City Council', place: 'Dundee', pay: '£43,910 – £48,926 a year', closes: 'Closes 29 Nov 2026', url: 'https://myjobscotland.gov.uk/search-jobs?organisation=2611' },
+      { cat: 'civilian', areas: ['operations', 'security'], region: 'sco', pmin: 28321, pmax: 28939, title: 'Safety & Alarm Centre Controller / Responder', org: 'Dundee City Council', place: 'Dundee', pay: '£28,321 – £28,939 a year', closes: 'Closes 29 Nov 2026', url: 'https://myjobscotland.gov.uk/search-jobs?organisation=2611' },
+      { cat: 'civilian', areas: ['safety'], region: 'sw', pmin: 39959, pmax: 48117, title: 'Fire Safety Advisor (hospital)', org: 'Great Western Hospitals NHS Foundation Trust', place: 'Swindon', pay: '£39,959 – £48,117 a year', closes: 'Closes 29 Nov 2026', url: 'https://www.gwh.nhs.uk/recruitment/vacancies/' },
+      { cat: 'civilian', areas: ['safety', 'management'], region: 'sco', pmin: 71554, pmax: 78270, title: 'Health & Safety Manager', org: 'East Dunbartonshire Council', place: 'Kirkintilloch', pay: '£71,554 – £78,270 a year', closes: 'Closes 18 Nov 2026', url: 'https://myjobscotland.gov.uk/' },
+      { cat: 'civilian', areas: ['security'], region: 'mid', pmin: 27203, pmax: 27203, title: 'CCTV Operator (part time)', org: 'Cannock Chase District Council', place: 'Cannock, Staffordshire', pay: '£27,203 a year pro rata', closes: 'Closes 27 Nov 2026', url: 'https://www.wmjobs.co.uk/job/282236/cctv-operator/' },
+      { cat: 'civilian', areas: ['security'], region: 'mid', pmin: 25760, pmax: 25760, title: 'Healthcare Security Officer', org: 'University Hospitals of Leicester NHS Trust', place: 'Leicester', pay: '£25,760 a year', closes: 'Closes 24 Nov 2026', url: 'https://www.uhleicester.nhs.uk/careers/current-vacancies/' },
+      { cat: 'civilian', areas: ['security', 'supervisor'], region: 'sw', pmin: 32073, pmax: 39043, title: 'Operational Security Team Manager', org: 'Royal Cornwall Hospitals NHS Trust', place: 'Truro', pay: '£32,073 – £39,043 a year', closes: 'Closes 22 Nov 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Operational+Security+Team+Manager+Royal+Cornwall' },
+      { cat: 'civilian', areas: ['security'], region: 'lon', pmin: 31554, pmax: 33270, title: 'Security Officer (hospital)', org: 'Barts Health NHS Trust', place: 'Whitechapel, London', pay: '£31,554 – £33,270 a year', closes: 'Closes 6 Dec 2026', url: 'https://www.jobs.nhs.uk/candidate/search/results?keyword=Security+Officer+Barts+Health' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], ranks: ['pc'], entry: 'new', region: 'lon', pmax: 62094, title: 'Police Constable – new recruits (PCEP, 2-year programme)', org: 'Metropolitan Police Service', place: 'London', pay: 'See advert – rising to £62,094 after five years', closes: 'Closes 30 Nov 2026', url: 'https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22634-09-2026-PCEP-Police-Constable-Entry-Programme/en-GB' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], ranks: ['pc', 'dc'], entry: 'new', region: 'nw', pmin: 31164, pmax: 50526, title: 'Trainee Detective Constable – new recruits (PCEP DC pathway)', org: 'Cumbria Constabulary', place: 'Forcewide', pay: '£31,164 – £50,526 (see advert)', closes: 'Open – see force website', url: 'https://www.cumbria.police.uk/police-forces/cumbria-constabulary/areas/careers/careers/police-officers/entry-routes/PCEP-DC-pathway/' },
+      { cat: 'fire', entry: 'new', region: 'mid', pmin: 31539, pmax: 40358, title: 'Wholetime Firefighter – new recruits', org: 'Shropshire Fire and Rescue Service', place: 'Wholetime stations, Shropshire', pay: '£31,539 (development) – £40,358 (competent)', closes: 'Closes 30 Nov 2026', url: 'https://www.wmjobs.co.uk/job/282246/wholetime-firefighter/' },
+      { cat: 'fire', entry: 'oncall', region: 'se', title: 'On-call Firefighter', org: 'Royal Berkshire Fire and Rescue Service', place: 'Hungerford, Lambourn, Maidenhead, Mortimer & Crowthorne', pay: 'Paid on-call – see advert', closes: 'Open – see advert', url: 'https://www.rbfrs.co.uk/careers/vacancies/' },
+      { cat: 'fire', entry: 'oncall', region: 'se', title: 'On-call Firefighter', org: 'Buckinghamshire Fire & Rescue Service', place: 'Buckinghamshire', pay: 'Paid on-call – see advert', closes: 'Closes 27 Nov 2026', url: 'https://bucksfire.gov.uk/join-us-category/on-call/' },
+      { cat: 'fire', entry: 'oncall', region: 'wal', title: 'On-call Firefighter', org: 'South Wales Fire and Rescue Service', place: 'South Wales', pay: 'Paid on-call – see advert', closes: 'Open – see advert', url: 'https://www.southwales-fire.gov.uk/working-with-us/latest-vacancies/' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], entry: 'volunteer', region: 'ne', title: 'Special Constable (volunteer police officer)', org: 'West Yorkshire Police', place: 'Forcewide', pay: 'Volunteer – expenses paid', closes: 'Closes 31 Dec 2026', url: 'https://www.westyorkshire.police.uk/jobs-volunteer/special-constables' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], entry: 'volunteer', region: 'lon', title: 'Special Constable (volunteer police officer)', org: 'Metropolitan Police Service', place: 'London – choose up to 3 areas', pay: 'Volunteer – expenses paid', closes: 'Open – see force website', url: 'https://www.met.police.uk/police-forces/metropolitan-police/areas/c/careers/police-volunteer-roles/special-constable/apply-now/' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], entry: 'volunteer', region: 'se', title: 'Special Constable (volunteer police officer)', org: 'Thames Valley Police', place: 'Berkshire, Buckinghamshire & Oxfordshire', pay: 'Volunteer – expenses paid', closes: 'Open – see force website', url: 'https://tvpcareers.co.uk/roles/special-constables/' },
+      { cat: 'ambulance', entry: 'volunteer', region: 'lon', title: 'Community First Responder (volunteer)', org: 'London Ambulance Service NHS Trust', place: 'London', pay: 'Volunteer – full training and kit', closes: 'Open – see advert', url: 'https://www.londonambulance.nhs.uk/getting-involved/volunteering-with-us/community-first-responders/' },
+          { cat: 'police', ptype: 'officer', nations: ['eng'], ranks: ['pc'], entry: 'new', region: 'nw', pmin: 31164, pmax: 50256, title: 'Police Constable – new recruits (PCEP, March 2027 intake)', org: 'Cheshire Constabulary', place: 'Forcewide', pay: '£31,164 – £50,256 (PC scale)', closes: 'Open – see force website', url: 'https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/police-constables/' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], ranks: ['pc'], entry: 'new', region: 'mid', pmin: 31164, pmax: 50256, title: 'Police Constable – new recruits (PCEP, July 2027 start)', org: 'Northamptonshire Police', place: 'Forcewide', pay: '£31,164 – £50,256 (PC scale)', closes: 'Open – see force website', url: 'https://www.northants.police.uk/police-forces/northamptonshire-police/areas/northamptonshire-force-content/ca/careers-and-volunteering/pc/police-constable-entry-programme/' },
+      { cat: 'police', ptype: 'officer', nations: ['eng'], ranks: ['pc'], entry: 'new', region: 'se', pmin: 34164, pmax: 53256, title: 'Police Constable – new recruits (Degree Apprenticeship)', org: 'Surrey Police', place: 'Forcewide', pay: '£34,164 – £53,256 incl. £3,000 South East allowance', closes: 'Open – see force website', url: 'https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/police-officer-jobs/police-constable-degree-apprenticeship-pcda/' },
 ];
     const all = ((this.state.remote && this.state.remote.jobs) || listed).map((j) => { const id = this.jid(j.url); return {
       payLabel: /^£/.test(j.pay) ? j.pay : 'Pay: ' + j.pay,
@@ -1298,9 +1360,9 @@ class Component extends DCLogic {
       id, share: () => this.shareJob(j, id), shareLabel: this.state.copied === id ? 'Link copied' : 'Share', shared: id === this.sharedId,
       badge: badge[j.ptype === 'staff' ? 'staff' : j.cat].t,
       badgeStyle: badge[j.ptype === 'staff' ? 'staff' : j.cat].s,
-      tags: [].concat((j.routes || []).map((r) => ROUTES[r]), (j.ranks || []).map((r) => RANKS[r]), (j.skills || []).map((k) => SKILLS[k]), (j.areas || []).map((k) => AREAS[k]), j.ptype === 'staff' ? ['Police staff'] : [], (j.nations || []).map((k) => NATIONS[k]), (j.jroles || []).map((k) => JROLES[k]), j.force === 'special' ? ['Specialist force'] : [])
+      tags: [].concat(j.entry ? [ENTRY[j.entry]] : [], (j.routes || []).map((r) => ROUTES[r]), (j.ranks || []).map((r) => RANKS[r]), (j.skills || []).map((k) => SKILLS[k]), (j.areas || []).map((k) => AREAS[k]), j.ptype === 'staff' ? ['Police staff'] : [], (j.nations || []).map((k) => NATIONS[k]), (j.jroles || []).map((k) => JROLES[k]), j.force === 'special' ? ['Specialist force'] : [])
     }; });
-    let jobs = tab === 'all' ? all : all.filter((j) => j.cat === tab);
+    let jobs = tab === 'all' ? all : tab === 'new' ? all.filter((j) => j.entry === 'new' || j.entry === 'oncall') : tab === 'volunteer' ? all.filter((j) => j.entry === 'volunteer') : all.filter((j) => j.cat === tab);
     if (tab === 'police') {
       if (this.state.ptype !== 'any') jobs = jobs.filter((j) => j.ptype === this.state.ptype);
       if (this.state.forcet !== 'any') jobs = jobs.filter((j) => (j.force || 'home') === this.state.forcet);
@@ -1322,7 +1384,8 @@ class Component extends DCLogic {
     if (tab === 'civilian' && this.state.area !== 'any') jobs = jobs.filter((j) => (j.areas || []).includes(this.state.area));
     const tabDefs = [
       { id: 'all', label: 'All' }, { id: 'police', label: 'Police & staff' }, { id: 'ambulance', label: 'Ambulance & medical' },
-      { id: 'fire', label: 'Fire' }, { id: 'control', label: 'Control room' }, { id: 'justice', label: 'Prison & border' }, { id: 'civilian', label: 'Civilian' }
+      { id: 'fire', label: 'Fire' }, { id: 'control', label: 'Control room' }, { id: 'justice', label: 'Prison & border' }, { id: 'civilian', label: 'Civilian' },
+      { id: 'new', label: 'New recruits & on-call' }, { id: 'volunteer', label: 'Volunteer' }
     ];
     const common = 'min-height: 46px; padding: 0 18px; border-radius: 8px; font-size: 14px; font-weight: 800; font-family: Inter, sans-serif; text-transform: uppercase; letter-spacing: 0.04em; cursor: pointer; ';
     const on = common + 'border: 2px solid #1450D2; background: #1450D2; color: #FFFFFF';

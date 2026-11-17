@@ -1939,6 +1939,7 @@
    "skills": [
     "eca"
    ],
+   "entry": "new",
    "region": "sw",
    "pmin": 25760,
    "pmax": 27476,
@@ -1954,6 +1955,7 @@
    "skills": [
     "eca"
    ],
+   "entry": "new",
    "region": "sw",
    "pmin": 25760,
    "pmax": 27476,
@@ -1969,6 +1971,7 @@
    "skills": [
     "eca"
    ],
+   "entry": "new",
    "region": "sw",
    "pmin": 25760,
    "pmax": 27476,
@@ -1984,6 +1987,7 @@
    "skills": [
     "eca"
    ],
+   "entry": "new",
    "region": "sw",
    "pmin": 25760,
    "pmax": 27476,
@@ -2674,6 +2678,589 @@
    "pay": "See advert (plus shift allowance)",
    "closes": "Open – see force website",
    "url": "https://northyorkshirepolice.engageats.co.uk/V2/Vacancy"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "region": "east",
+   "pmin": 41500,
+   "pmax": 41500,
+   "title": "Custody Nurse or Paramedic (police custody)",
+   "org": "Mitie Care & Custody",
+   "place": "Martlesham, Suffolk",
+   "pay": "£41,500 a year",
+   "closes": "Closes 5 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Martlesham"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "region": "nw",
+   "title": "Custody Nurse or Paramedic (police custody)",
+   "org": "Mitie Care & Custody",
+   "place": "Bury, Greater Manchester",
+   "pay": "See advert",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Bury"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "region": "mid",
+   "title": "Custody Nurse or Paramedic (police custody)",
+   "org": "Mitie Care & Custody",
+   "place": "Birmingham",
+   "pay": "See advert",
+   "closes": "Closes 2 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Birmingham"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "region": "sw",
+   "title": "Custody Nurse or Paramedic (police custody)",
+   "org": "Mitie Care & Custody",
+   "place": "Barnstaple, Devon",
+   "pay": "See advert",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Barnstaple"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "region": "sw",
+   "title": "Custody Nurse or Paramedic (police custody)",
+   "org": "Mitie Care & Custody",
+   "place": "Melksham, Wiltshire",
+   "pay": "See advert",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Custody+Nurse+or+Paramedic+Mitie+Melksham"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "region": "mid",
+   "title": "NHS 111 Clinical Advisor (nurse or paramedic)",
+   "org": "DHU Healthcare",
+   "place": "Pride Park, Derby",
+   "pay": "See advert",
+   "closes": "Closes 1 Apr 2027",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/M0051-26-0080"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "region": "east|ne",
+   "pmin": 25604,
+   "pmax": 32936,
+   "title": "NHS 111 Health Advisor (call handler)",
+   "org": "Practice Plus Group",
+   "place": "Ipswich or Stockton-on-Tees",
+   "pay": "£13.13 – £16.89 an hour (≈ £25,604 – £32,936 a year full-time)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=NHS+111+Health+Advisor+Practice+Plus+Group"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "region": "ne",
+   "pmin": 24784,
+   "pmax": 24784,
+   "title": "Ambulance Care Assistant",
+   "org": "Nerams Limited",
+   "place": "Ferryhill & Washington",
+   "pay": "£24,784.50 a year",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Nerams"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "region": "ne",
+   "pmin": 24862,
+   "pmax": 25350,
+   "title": "Ambulance Care Assistant (bank)",
+   "org": "YorMed Ambulance Service",
+   "place": "Malton, North Yorkshire",
+   "pay": "£12.75 – £13.00 an hour (≈ £24,862 – £25,350 a year full-time)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+YorMed"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "emt"
+   ],
+   "region": "ne",
+   "pmin": 25350,
+   "pmax": 31200,
+   "title": "First Responder – PTS & Events (FREC 3/4, bank)",
+   "org": "YorMed Ambulance Service",
+   "place": "Malton, North Yorkshire",
+   "pay": "£13.00 – £16.00 an hour (≈ £25,350 – £31,200 a year full-time)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=First+Responder+FREC+YorMed"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "region": "sw",
+   "pmin": 26325,
+   "pmax": 26325,
+   "title": "Ambulance Care Assistant (bank)",
+   "org": "Alliance Pioneer Group",
+   "place": "Plymouth",
+   "pay": "£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Ambulance+Care+Assistant+Alliance+Pioneer+Group"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "nw",
+   "title": "Healthcare Assistant (secure care)",
+   "org": "Prometheus Safe and Secure",
+   "place": "Warrington",
+   "pay": "See advert",
+   "closes": "Closes 27 Jan 2027",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Prometheus+Safe+and+Secure"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "mid",
+   "pmin": 24997,
+   "pmax": 28406,
+   "title": "Healthcare Assistant (HCA)",
+   "org": "Taurus Healthcare",
+   "place": "Hereford",
+   "pay": "£24,996.93 – £28,405.60 a year",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Taurus+Healthcare"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "se",
+   "title": "Healthcare Assistant (GP practices)",
+   "org": "Primary Care Management Solutions",
+   "place": "High Wycombe",
+   "pay": "See advert",
+   "closes": "Closes 30 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Primary+Care+Management+Solutions"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "sw",
+   "pmin": 26325,
+   "pmax": 26325,
+   "title": "Healthcare Assistant (GP surgery)",
+   "org": "The Avenue Surgery",
+   "place": "Warminster, Wiltshire",
+   "pay": "£13.50 – £13.50 an hour (≈ £26,325 – £26,325 a year full-time)",
+   "closes": "Closes 2 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=HCA+The+Avenue+Surgery+Warminster"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "se",
+   "title": "Health Care Assistant (GP surgery)",
+   "org": "Marcham Road Health Centre",
+   "place": "Abingdon, Oxfordshire",
+   "pay": "See advert",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Health+Care+Assistant+Marcham+Road+Health+Centre"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "region": "ne",
+   "title": "Healthcare Assistant (GP surgery)",
+   "org": "Junction Surgery",
+   "place": "Huddersfield",
+   "pay": "See advert",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Healthcare+Assistant+Junction+Surgery+Huddersfield"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "planning"
+   ],
+   "region": "mid",
+   "pmin": 38510,
+   "pmax": 43149,
+   "title": "Resilience Officer (emergency planning)",
+   "org": "Sandwell Metropolitan Borough Council",
+   "place": "Oldbury, West Midlands",
+   "pay": "£38,510 – £43,149 a year",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://www.wmjobs.co.uk/job/281576/resilience-officer/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "planning"
+   ],
+   "region": "sco",
+   "pmin": 43910,
+   "pmax": 48926,
+   "title": "Resilience Officer (emergency planning)",
+   "org": "Dundee City Council",
+   "place": "Dundee",
+   "pay": "£43,910 – £48,926 a year",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://myjobscotland.gov.uk/search-jobs?organisation=2611"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "operations",
+    "security"
+   ],
+   "region": "sco",
+   "pmin": 28321,
+   "pmax": 28939,
+   "title": "Safety & Alarm Centre Controller / Responder",
+   "org": "Dundee City Council",
+   "place": "Dundee",
+   "pay": "£28,321 – £28,939 a year",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://myjobscotland.gov.uk/search-jobs?organisation=2611"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "safety"
+   ],
+   "region": "sw",
+   "pmin": 39959,
+   "pmax": 48117,
+   "title": "Fire Safety Advisor (hospital)",
+   "org": "Great Western Hospitals NHS Foundation Trust",
+   "place": "Swindon",
+   "pay": "£39,959 – £48,117 a year",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://www.gwh.nhs.uk/recruitment/vacancies/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "safety",
+    "management"
+   ],
+   "region": "sco",
+   "pmin": 71554,
+   "pmax": 78270,
+   "title": "Health & Safety Manager",
+   "org": "East Dunbartonshire Council",
+   "place": "Kirkintilloch",
+   "pay": "£71,554 – £78,270 a year",
+   "closes": "Closes 18 Nov 2026",
+   "url": "https://myjobscotland.gov.uk/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "security"
+   ],
+   "region": "mid",
+   "pmin": 27203,
+   "pmax": 27203,
+   "title": "CCTV Operator (part time)",
+   "org": "Cannock Chase District Council",
+   "place": "Cannock, Staffordshire",
+   "pay": "£27,203 a year pro rata",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://www.wmjobs.co.uk/job/282236/cctv-operator/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "security"
+   ],
+   "region": "mid",
+   "pmin": 25760,
+   "pmax": 25760,
+   "title": "Healthcare Security Officer",
+   "org": "University Hospitals of Leicester NHS Trust",
+   "place": "Leicester",
+   "pay": "£25,760 a year",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://www.uhleicester.nhs.uk/careers/current-vacancies/"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "security",
+    "supervisor"
+   ],
+   "region": "sw",
+   "pmin": 32073,
+   "pmax": 39043,
+   "title": "Operational Security Team Manager",
+   "org": "Royal Cornwall Hospitals NHS Trust",
+   "place": "Truro",
+   "pay": "£32,073 – £39,043 a year",
+   "closes": "Closes 22 Nov 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Operational+Security+Team+Manager+Royal+Cornwall"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "security"
+   ],
+   "region": "lon",
+   "pmin": 31554,
+   "pmax": 33270,
+   "title": "Security Officer (hospital)",
+   "org": "Barts Health NHS Trust",
+   "place": "Whitechapel, London",
+   "pay": "£31,554 – £33,270 a year",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://www.jobs.nhs.uk/candidate/search/results?keyword=Security+Officer+Barts+Health"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "region": "lon",
+   "pmax": 62094,
+   "title": "Police Constable – new recruits (PCEP, 2-year programme)",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "See advert – rising to £62,094 after five years",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22634-09-2026-PCEP-Police-Constable-Entry-Programme/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
+    "dc"
+   ],
+   "entry": "new",
+   "region": "nw",
+   "pmin": 31164,
+   "pmax": 50526,
+   "title": "Trainee Detective Constable – new recruits (PCEP DC pathway)",
+   "org": "Cumbria Constabulary",
+   "place": "Forcewide",
+   "pay": "£31,164 – £50,526 (see advert)",
+   "closes": "Open – see force website",
+   "url": "https://www.cumbria.police.uk/police-forces/cumbria-constabulary/areas/careers/careers/police-officers/entry-routes/PCEP-DC-pathway/"
+  },
+  {
+   "cat": "fire",
+   "entry": "new",
+   "region": "mid",
+   "pmin": 31539,
+   "pmax": 40358,
+   "title": "Wholetime Firefighter – new recruits",
+   "org": "Shropshire Fire and Rescue Service",
+   "place": "Wholetime stations, Shropshire",
+   "pay": "£31,539 (development) – £40,358 (competent)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://www.wmjobs.co.uk/job/282246/wholetime-firefighter/"
+  },
+  {
+   "cat": "fire",
+   "entry": "oncall",
+   "region": "se",
+   "title": "On-call Firefighter",
+   "org": "Royal Berkshire Fire and Rescue Service",
+   "place": "Hungerford, Lambourn, Maidenhead, Mortimer & Crowthorne",
+   "pay": "Paid on-call – see advert",
+   "closes": "Open – see advert",
+   "url": "https://www.rbfrs.co.uk/careers/vacancies/"
+  },
+  {
+   "cat": "fire",
+   "entry": "oncall",
+   "region": "se",
+   "title": "On-call Firefighter",
+   "org": "Buckinghamshire Fire & Rescue Service",
+   "place": "Buckinghamshire",
+   "pay": "Paid on-call – see advert",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://bucksfire.gov.uk/join-us-category/on-call/"
+  },
+  {
+   "cat": "fire",
+   "entry": "oncall",
+   "region": "wal",
+   "title": "On-call Firefighter",
+   "org": "South Wales Fire and Rescue Service",
+   "place": "South Wales",
+   "pay": "Paid on-call – see advert",
+   "closes": "Open – see advert",
+   "url": "https://www.southwales-fire.gov.uk/working-with-us/latest-vacancies/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "region": "ne",
+   "title": "Special Constable (volunteer police officer)",
+   "org": "West Yorkshire Police",
+   "place": "Forcewide",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://www.westyorkshire.police.uk/jobs-volunteer/special-constables"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "region": "lon",
+   "title": "Special Constable (volunteer police officer)",
+   "org": "Metropolitan Police Service",
+   "place": "London – choose up to 3 areas",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Open – see force website",
+   "url": "https://www.met.police.uk/police-forces/metropolitan-police/areas/c/careers/police-volunteer-roles/special-constable/apply-now/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "region": "se",
+   "title": "Special Constable (volunteer police officer)",
+   "org": "Thames Valley Police",
+   "place": "Berkshire, Buckinghamshire & Oxfordshire",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Open – see force website",
+   "url": "https://tvpcareers.co.uk/roles/special-constables/"
+  },
+  {
+   "cat": "ambulance",
+   "entry": "volunteer",
+   "region": "lon",
+   "title": "Community First Responder (volunteer)",
+   "org": "London Ambulance Service NHS Trust",
+   "place": "London",
+   "pay": "Volunteer – full training and kit",
+   "closes": "Open – see advert",
+   "url": "https://www.londonambulance.nhs.uk/getting-involved/volunteering-with-us/community-first-responders/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "region": "nw",
+   "pmin": 31164,
+   "pmax": 50256,
+   "title": "Police Constable – new recruits (PCEP, March 2027 intake)",
+   "org": "Cheshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£31,164 – £50,256 (PC scale)",
+   "closes": "Open – see force website",
+   "url": "https://www.cheshire.police.uk/police-forces/cheshire-constabulary/areas/cheshire/careers/careers/police-constables/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "region": "mid",
+   "pmin": 31164,
+   "pmax": 50256,
+   "title": "Police Constable – new recruits (PCEP, July 2027 start)",
+   "org": "Northamptonshire Police",
+   "place": "Forcewide",
+   "pay": "£31,164 – £50,256 (PC scale)",
+   "closes": "Open – see force website",
+   "url": "https://www.northants.police.uk/police-forces/northamptonshire-police/areas/northamptonshire-force-content/ca/careers-and-volunteering/pc/police-constable-entry-programme/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "region": "se",
+   "pmin": 34164,
+   "pmax": 53256,
+   "title": "Police Constable – new recruits (Degree Apprenticeship)",
+   "org": "Surrey Police",
+   "place": "Forcewide",
+   "pay": "£34,164 – £53,256 incl. £3,000 South East allowance",
+   "closes": "Open – see force website",
+   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/police-officer-jobs/police-constable-degree-apprenticeship-pcda/"
   }
  ]
 }
