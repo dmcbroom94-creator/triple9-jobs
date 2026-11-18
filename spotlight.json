@@ -30,6 +30,12 @@
       "handle": "emma_bluelightcoaching",
       "category": "coaching",
       "blurb": "Coaching for emergency-services people and shift workers."
+    },
+    {
+      "name": "James | Blue Light Coaching",
+      "handle": "james_bluelightcoaching",
+      "category": "coaching",
+      "blurb": "Fitness coaching for emergency-services people around shift work."
     }
   ]
 }
