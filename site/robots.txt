@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /404.html
+Disallow: /moderate.html
+Disallow: /forum-api.php
 
 Sitemap: https://triple9careers.co.uk/sitemap.xml

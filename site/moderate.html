@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Community moderation – Triple 9 Careers</title>
+<style>
+body{margin:0;font-family:Inter,system-ui,sans-serif;background:#F2F4F8;color:#0B1B3F}
+header{background:#0B1B3F;color:#fff;padding:18px 24px;font-weight:800;font-size:20px}
+main{max-width:1000px;margin:0 auto;padding:24px;display:flex;flex-direction:column;gap:18px}
+.card{background:#fff;border-radius:14px;padding:18px;box-shadow:0 4px 14px rgba(11,27,63,.08)}
+h2{margin:0 0 10px;font-size:22px}
+input{min-height:44px;padding:0 12px;border:2px solid #C9D0DE;border-radius:8px;font-size:16px;width:280px;max-width:100%}
+button{min-height:38px;padding:0 12px;border-radius:8px;border:2px solid #0B1B3F;background:#fff;color:#0B1B3F;font-weight:800;cursor:pointer;margin:4px 6px 0 0}
+button.primary{background:#0B1B3F;color:#fff}
+button.danger{border-color:#8A1C1C;color:#8A1C1C}
+.item{border-top:1px solid #E4E7EE;padding:12px 0}
+.meta{font-size:13px;color:#4A5368;font-weight:700}
+.body{white-space:pre-wrap;margin:6px 0;font-size:15px;line-height:1.5}
+.tag{display:inline-block;padding:2px 8px;border-radius:6px;font-size:12px;font-weight:800;background:#EAF0FF;color:#0A3D91;margin-right:6px}
+.hid{background:#FDE8E8;color:#8A1C1C}
+.reasons{font-size:13px;color:#6B4E00;background:#FFF4D6;border-radius:8px;padding:6px 10px;margin-top:6px}
+#msg{font-weight:700}
+</style>
+</head>
+<body>
+<header>Triple 9 Community – moderation</header>
+<main>
+<div class="card">
+<form id="login"><label>Moderator key<br><input id="key" type="password" autocomplete="current-password"></label> <button class="primary" type="submit">Open</button></form>
+<p id="msg"></p>
+<p class="meta">Posts with 3 or more reports are hidden automatically until you check them. “Restore” makes a post visible again and clears its reports. “Delete” removes it permanently. Keep this page’s address and your key private.</p>
+</div>
+<div class="card"><h2>Reported or hidden discussions</h2><div id="threads">–</div></div>
+<div class="card"><h2>Reported or hidden replies</h2><div id="replies">–</div></div>
+<div class="card"><h2>Latest discussions</h2><div id="latest">–</div></div>
+</main>
+<script>
+const API = '/forum-api.php';
+let KEY = sessionStorage.getItem('t9modkey') || '';
+const $ = (id) => document.getElementById(id);
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const when = (ts) => new Date(ts * 1000).toLocaleString('en-GB');
+function post(body) { return fetch(API, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(Object.assign({ key: KEY }, body)) }).then((r) => r.json()); }
+function btn(label, cls, fn) { const b = el('button', cls, label); b.type = 'button'; b.onclick = fn; return b; }
+function act(kind, id, action) {
+  if (action === 'delete' && !confirm('Delete this permanently?')) return;
+  post({ a: 'mod', kind, id, action }).then((d) => { if (!d.ok) $('msg').textContent = d.error; load(); });
+}
+function render(list, box, kind, reasons) {
+  box.innerHTML = '';
+  if (!list.length) { box.textContent = 'Nothing here.'; return; }
+  list.forEach((p) => {
+    const it = el('div', 'item');
+    const top = el('div');
+    if (p.hidden == 1) top.appendChild(el('span', 'tag hid', 'HIDDEN'));
+    if (p.reports > 0) top.appendChild(el('span', 'tag', p.reports + ' report' + (p.reports == 1 ? '' : 's')));
+    top.appendChild(el('strong', null, kind === 'thread' ? p.title : 'Reply in: ' + p.title));
+    it.appendChild(top);
+    it.appendChild(el('div', 'meta', (p.name || '') + ' · ' + when(p.created) + (kind === 'thread' ? ' · /community.html#t-' + p.id : ' · /community.html#t-' + p.thread_id)));
+    if (p.body) it.appendChild(el('div', 'body', p.body));
+    const rs = reasons.filter((r) => r.kind === kind && r.item_id == p.id).map((r) => '“' + r.reason + '”');
+    if (rs.length) it.appendChild(el('div', 'reasons', 'Reasons: ' + rs.join('  ·  ')));
+    const bar = el('div');
+    if (p.hidden == 1) bar.appendChild(btn('Restore', '', () => act(kind, p.id, 'restore'))); else bar.appendChild(btn('Hide', '', () => act(kind, p.id, 'hide')));
+    if (kind === 'thread' && p.replies !== undefined) bar.appendChild(btn('Pin / unpin', '', () => act('thread', p.id, 'pin')));
+    bar.appendChild(btn('Delete', 'danger', () => act(kind, p.id, 'delete')));
+    it.appendChild(bar);
+    box.appendChild(it);
+  });
+}
+function load() {
+  if (!KEY) return;
+  post({ a: 'mod_list' }).then((d) => {
+    if (!d.ok) { $('msg').textContent = d.error; sessionStorage.removeItem('t9modkey'); return; }
+    $('msg').textContent = 'Signed in for this browser tab.';
+    render(d.threads, $('threads'), 'thread', d.reports);
+    render(d.replies, $('replies'), 'reply', d.reports);
+    render(d.latest, $('latest'), 'thread', d.reports);
+  }).catch(() => { $('msg').textContent = 'Could not reach the forum on this server.'; });
+}
+$('login').onsubmit = (e) => { e.preventDefault(); KEY = $('key').value.trim(); sessionStorage.setItem('t9modkey', KEY); load(); };
+load();
+</script>
+</body>
+</html>
