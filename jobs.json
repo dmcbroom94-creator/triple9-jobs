@@ -171,6 +171,31 @@
    ],
    "ranks": [
     "pc",
+    "dc",
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee PCs, Detectives & Sergeants – register now",
+   "org": "Hertfordshire Constabulary",
+   "place": "Hertfordshire / Beds / Cambs",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Register interest – see force website",
+   "url": "https://www.herts.police.uk/police-forces/hertfordshire-constabulary/areas/careers/police-officer-and-detective-transferees/police-officer-and-detective-transferees/transfer-and-promotion-opportunities/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
     "dc"
    ],
    "routes": [
