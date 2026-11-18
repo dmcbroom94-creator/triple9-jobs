@@ -1,5 +1,5 @@
 {
- "updated": "17 Nov 2026",
+ "updated": "18 Nov 2026",
  "jobs": [
   {
    "cat": "police",
@@ -15,12 +15,12 @@
    ],
    "hours": "shift",
    "region": "sw",
-   "pmin": 31164,
-   "pmax": 50256,
+   "pmin": 32256,
+   "pmax": 52014,
    "title": "Police Constable Transferee",
    "org": "Avon and Somerset Police",
    "place": "Forcewide",
-   "pay": "£31,164 – £50,256",
+   "pay": "£32,256 – £52,014",
    "closes": "Closes 31 Dec 2026",
    "url": "https://asp.tal.net/vx/appcentre-External/brand-0/candidate/so/pm/6/pl/24/opp/707-Police-Constable-Transferee/en-GB"
   },
@@ -171,34 +171,7 @@
    ],
    "ranks": [
     "pc",
-    "dc",
-    "ps"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "hours": "shift",
-   "region": "east",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Transferee PCs, Detectives & Sergeants – register now",
-   "org": "Hertfordshire Constabulary",
-   "place": "Hertfordshire / Beds / Cambs",
-   "pay": "£32,255 – £52,015 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.herts.police.uk/police-forces/hertfordshire-constabulary/areas/careers/police-officer-and-detective-transferees/police-officer-and-detective-transferees/transfer-and-promotion-opportunities/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "dc",
-    "ps",
-    "insp"
+    "dc"
    ],
    "routes": [
     "transferee",
@@ -206,41 +179,14 @@
    ],
    "hours": "shift",
    "region": "ne",
-   "pmin": 32255,
-   "pmax": 71396,
-   "title": "Transferee & Re-Joiner Police Officers 2027",
+   "pmin": 31164,
+   "pmax": 50256,
+   "title": "Transferee & Re-Joiner Police Constables 2027",
    "org": "Northumbria Police",
    "place": "North East",
-   "pay": "£32,255 – £71,396 (PC to inspector scales)",
+   "pay": "£31,164 – £50,256",
    "closes": "Open – see advert",
    "url": "https://careers.northumbria.police.uk/jobs/transferee-re-joiner-police-officers-2027/"
-  },
-  {
-   "force": "special",
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng",
-    "sco",
-    "wal"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "hours": "shift",
-   "region": "uk",
-   "pmin": 33222,
-   "pmax": 49413,
-   "title": "New Entrant from Other Forces (NEOF) – AFO Counter Terrorism",
-   "org": "Ministry of Defence Police",
-   "place": "Defence sites UK-wide",
-   "pay": "£33,222 – £49,413",
-   "closes": "Open – see force website",
-   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-authorised-firearms-officer-counter-terrorism/"
   },
   {
    "cat": "civilian",
@@ -254,29 +200,6 @@
    "pay": "Teaching scale",
    "closes": "Closes 24 Nov 2026",
    "url": "https://teaching-vacancies.service.gov.uk/jobs/lecturer-public-services"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "ci"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "hours": "shift",
-   "region": "sw",
-   "pmin": 72806,
-   "pmax": 75709,
-   "title": "Chief Inspector & Detective Chief Inspector – transfer",
-   "org": "Avon and Somerset Police",
-   "place": "Forcewide",
-   "pay": "£72,806 – £75,709 (chief inspector scale)",
-   "closes": "Open – see advert",
-   "url": "https://www.avonandsomerset.police.uk/apply/jobs-and-volunteering/police-transferees/chief-inspector-force-duty-officer/"
   },
   {
    "cat": "justice",
@@ -330,43 +253,16 @@
   {
    "cat": "justice",
    "jroles": [
-    "prison"
-   ],
-   "entry": "new",
-   "hours": "shift",
-   "region": "uk",
-   "title": "Prison Officer (women's prisons) – Advance into Justice for service leavers & veterans",
-   "org": "HM Prison & Probation Service",
-   "place": "Askham Grange, Downview, Drake Hall, Eastwood Park, New Hall, Styal & more",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/20668"
-  },
-  {
-   "cat": "justice",
-   "jroles": [
-    "youth"
-   ],
-   "hours": "shift",
-   "region": "mid",
-   "title": "Youth Justice Worker – HMP Werrington",
-   "org": "HM Prison & Probation Service",
-   "place": "Stoke-on-Trent",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/20630"
-  },
-  {
-   "cat": "justice",
-   "jroles": [
     "youth"
    ],
    "hours": "shift",
    "region": "lon",
+   "pmin": 43290,
+   "pmax": 43290,
    "title": "Youth Justice Worker – HMP Feltham A",
    "org": "HM Prison & Probation Service",
    "place": "Feltham, London",
-   "pay": "See advert",
+   "pay": "£43,290 (39-hour week, incl. unsocial hours allowance)",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Feltham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Youth-Justice-Worker-HMP-Feltham-A/20610"
   },
@@ -377,28 +273,14 @@
    ],
    "hours": "shift",
    "region": "uk",
+   "pmin": 34928,
+   "pmax": 40840,
    "title": "Youth Justice Worker – Advance into Justice for service leavers & veterans",
    "org": "HM Prison & Probation Service",
    "place": "Feltham, Werrington, Wetherby",
-   "pay": "See advert",
+   "pay": "£34,928 – £40,840 (37-hour week, incl. unsocial hours allowance)",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/United-Kingdom-of-Great-Britain-and-Northern-Ireland-20667-Youth-Justice-Worker-Advance-into-Justice/20667"
-  },
-  {
-   "cat": "justice",
-   "jroles": [
-    "border"
-   ],
-   "hours": "shift",
-   "region": "lon|nw|se",
-   "pmin": 29750,
-   "pmax": 43850,
-   "title": "Border Force Officer – Heathrow, Manchester & Folkestone",
-   "org": "Home Office – Border Force",
-   "place": "Heathrow, Manchester, Folkestone",
-   "pay": "£29,750 – £31,950 + shift allowance (£10,412 – £11,900 at Heathrow)",
-   "closes": "Open – see advert",
-   "url": "https://homeofficejobs-sscl.co.uk/bf-role-overview.html"
   },
   {
    "cat": "police",
@@ -772,32 +654,6 @@
     "eng"
    ],
    "ranks": [
-    "pc",
-    "dc",
-    "ps"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "hours": "shift",
-   "region": "mid",
-   "pmin": 32255,
-   "pmax": 58175,
-   "title": "Transferees & Re-joiners – PC, DC, Sergeant & Forensic Collision Investigator (LE 2026b)",
-   "org": "Leicestershire Police",
-   "place": "Forcewide",
-   "pay": "£32,255 – £58,175 (PC to sergeant scales)",
-   "closes": "Open – see force website",
-   "url": "https://careers.leics.police.uk/find-your-place-in-the-force/police-officers/transferring-to-leicestershire-police"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
     "pc"
    ],
    "routes": [
@@ -814,30 +670,6 @@
    "pay": "£32,255 – £52,015 (PC scale)",
    "closes": "Open – see force website",
    "url": "https://tvpcareers.co.uk/roles/transferees-re-joiners"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
-   "ranks": [
-    "pc",
-    "dc"
-   ],
-   "routes": [
-    "transferee"
-   ],
-   "hours": "shift",
-   "region": "mid",
-   "pmin": 31164,
-   "pmax": 52014,
-   "title": "Transferee Constables – Armed Response Vehicle & Financial Investigator (DC)",
-   "org": "Derbyshire Constabulary",
-   "place": "Force HQ",
-   "pay": "£31,164 – £52,014",
-   "closes": "Closes 25 Nov 2026",
-   "url": "https://careers.derbyshire.police.uk/what-you-could-be-doing/police-officers/transferees"
   },
   {
    "cat": "police",
@@ -909,62 +741,8 @@
    "url": "https://asp.tal.net/vx/appcentre-External/brand-0/spa-1/candidate/so/pm/6/pl/24/opp/7511-PC-Counter-Terrorist-Specialist-Firearms-Officer-CTSFO-Transferee/en-GB"
   },
   {
-   "force": "special",
    "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng",
-    "sco",
-    "wal"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "hours": "shift",
-   "region": "uk",
-   "pmin": 32100,
-   "pmax": 47743,
-   "title": "NEOF – PC National Firearms Instructor",
-   "org": "Ministry of Defence Police",
-   "place": "Defence sites UK-wide",
-   "pay": "£32,100 – £47,743",
-   "closes": "Open – see force website",
-   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-national-firearms-instructor/"
-  },
-  {
    "force": "special",
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng",
-    "sco",
-    "wal"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "routes": [
-    "transferee",
-    "rejoiner"
-   ],
-   "hours": "shift",
-   "region": "uk",
-   "pmin": 41327,
-   "pmax": 57518,
-   "title": "NEOF – PC Special Escort Group AFO (CT)",
-   "org": "Ministry of Defence Police",
-   "place": "UK-wide",
-   "pay": "£41,327 – £57,518",
-   "closes": "Open – see force website",
-   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-special-escort-group-officer/"
-  },
-  {
-   "force": "special",
-   "cat": "police",
    "ptype": "officer",
    "nations": [
     "eng"
@@ -986,8 +764,8 @@
    "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bournemouth/1706"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "officer",
    "nations": [
     "eng"
@@ -1065,12 +843,12 @@
     "probation"
    ],
    "region": "mid",
-   "pmin": 30000,
-   "pmax": 50000,
+   "pmin": 37238,
+   "pmax": 44520,
    "title": "Qualified Probation Officer – Herefordshire, Shropshire & Telford",
    "org": "Probation Service",
-   "place": "Herefordshire, Shropshire & Telford",
-   "pay": "£30,000 – £50,000",
+   "place": "Hereford",
+   "pay": "£37,238 – £44,520",
    "closes": "Closes 8 Jan 2027",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858"
   },
@@ -1237,51 +1015,6 @@
    "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/emergency-medical-technician-aap"
   },
   {
-   "cat": "control",
-   "nations": [
-    "eng"
-   ],
-   "hours": "shift",
-   "region": "sw",
-   "pmin": 28865,
-   "pmax": 45792,
-   "title": "Control Staff Transferees – Firefighter, Crew Manager & Watch Manager (Control)",
-   "org": "Dorset & Wiltshire Fire and Rescue Service",
-   "place": "Control Centre, Dorset & Wiltshire",
-   "pay": "£28,865 (development) – £45,792 (Watch Manager)",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://www.dwfire.org.uk/working-for-us/current-vacancies/?nPostingID=252758&nPostingTargetID=236412&option=52&lg=UK&mask=extdwfrs"
-  },
-  {
-   "cat": "control",
-   "nations": [
-    "eng"
-   ],
-   "hours": "shift",
-   "region": "ne",
-   "pmin": 29962,
-   "pmax": 38340,
-   "title": "Firefighter Control (Control Room Operator) – job share & talent pool",
-   "org": "Tyne & Wear Fire and Rescue Service",
-   "place": "Washington",
-   "pay": "£29,962 (development) – £38,340 (competent), pro rata",
-   "closes": "Closes 18 Nov 2026",
-   "url": "https://ce1176li.webitrent.com/ce1176li_webrecruitment/wrd/run/ETREC179GF.open?WVID=612290007I&VACANCY_ID=2545200BgP"
-  },
-  {
-   "cat": "fire",
-   "hours": "shift",
-   "region": "sw",
-   "pmin": 40358,
-   "pmax": 40358,
-   "title": "Competent Firefighter Transfer",
-   "org": "Gloucestershire Fire and Rescue Service",
-   "place": "Gloucestershire",
-   "pay": "£40,358",
-   "closes": "Closes 26 Nov 2026",
-   "url": "https://gloucestershire.jobs.hr.cloud.sap/GloucestershireCounty/job/Firefighter-Competent-Glou/1376329655/"
-  },
-  {
    "cat": "fire",
    "region": "mid",
    "title": "Group Commander",
@@ -1290,18 +1023,6 @@
    "pay": "Group Commander B (Grey Book) + 20% flexi-duty allowance",
    "closes": "Closes 20 Nov 2026",
    "url": "https://hwfire.wm-jobs.co.uk/members/modules/job/detail.php?record=236"
-  },
-  {
-   "cat": "fire",
-   "region": "se",
-   "pmin": 28146,
-   "pmax": 46851,
-   "title": "Fire Safety Advisor / Inspector",
-   "org": "East Sussex Fire and Rescue Service",
-   "place": "Hove, Eastbourne or Hastings",
-   "pay": "£28,146 – £46,851 (by qualification level)",
-   "closes": "Closes 31 Jan 2027",
-   "url": "https://www.jobtrain.co.uk/esfrs/Job/JobDetail?JobId=408"
   },
   {
    "cat": "fire",
@@ -1363,34 +1084,6 @@
    "url": "https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Middlesex/Sponsored-Reserve-Firefighter---RAF-Northolt_10106430"
   },
   {
-   "cat": "fire",
-   "region": "mid",
-   "pmin": 137488,
-   "pmax": 137488,
-   "title": "Assistant Chief Fire Officer – Service Delivery",
-   "org": "Leicestershire Fire and Rescue Service",
-   "place": "Leicester, Leicestershire & Rutland",
-   "pay": "£137,488",
-   "closes": "Closes 25 Nov 2026",
-   "url": "https://lfrscareers.thehirelab.com/LiveJobs/JobApply/6375"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "transport",
-    "management"
-   ],
-   "region": "lon",
-   "pmin": 79352,
-   "pmax": 96041,
-   "title": "Head of FLEET (Fleet Liaison Engineering Equipment Team)",
-   "org": "London Fire Brigade",
-   "place": "Union Street, London (hybrid)",
-   "pay": "£79,352 – £96,041",
-   "closes": "Closes 23 Nov 2026",
-   "url": "https://jobs-london-fire-gov-uk.jobsmarket.site/pages/en-gb/details/head-of-fleet-fleet-liaison-engineering-equipment-team--48508"
-  },
-  {
    "cat": "civilian",
    "areas": [
     "investigation"
@@ -1423,22 +1116,6 @@
   {
    "cat": "civilian",
    "areas": [
-    "safety",
-    "customer"
-   ],
-   "region": "mid",
-   "pmin": 32578,
-   "pmax": 34811,
-   "title": "Specialist Home Safety Operative (fixed term)",
-   "org": "Nottinghamshire Fire and Rescue Service",
-   "place": "Nottinghamshire (community-based)",
-   "pay": "£32,578 – £34,811",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://itrentlive.notts-fire.gov.uk/tlive_webrecruitment/wrd/run/ETREC179GF.open?WVID=0444650X8f"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
     "training"
    ],
    "region": "uk",
@@ -1450,22 +1127,6 @@
    "pay": "£37,389 – £46,453",
    "closes": "Closes 2 Dec 2026",
    "url": "https://nfcc.org.uk/fire-sector-jobs/bsr-training-technical-officer-nfcc-2/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "training",
-    "management"
-   ],
-   "region": "mid",
-   "pmin": 47665,
-   "pmax": 49817,
-   "title": "Accredited Centre and Apprenticeship Manager",
-   "org": "Warwickshire Fire and Rescue Service",
-   "place": "Kingsbury",
-   "pay": "£47,665 – £49,817",
-   "closes": "Closes 7 Dec 2026",
-   "url": "https://ce0242li.webitrent.com/ce0242li_webrecruitment/wrd/run/etrec179gf.open?WVID=821994yYtv&LANG=USA"
   },
   {
    "cat": "police",
@@ -1481,44 +1142,14 @@
    ],
    "hours": "shift",
    "region": "mid",
-   "pmin": 31164,
-   "pmax": 50256,
+   "pmin": 32256,
+   "pmax": 52015,
    "title": "Transferee – Detective Constables",
    "org": "Warwickshire Police",
    "place": "Leek Wootton",
-   "pay": "£31,164 – £50,256",
+   "pay": "£32,256 – £52,015",
    "closes": "Closes 31 Dec 2026",
    "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1041-Transferee-Detective-Constables/en-GB"
-  },
-  {
-   "cat": "police",
-   "ptype": "staff",
-   "nations": [
-    "eng"
-   ],
-   "hours": "shift",
-   "region": "se",
-   "pmin": 37484,
-   "pmax": 37484,
-   "title": "Detention Officer (police custody) – new and experienced",
-   "org": "Thames Valley Police",
-   "place": "Berkshire, Buckinghamshire & Oxfordshire",
-   "pay": "c. £37,484 incl. unsocial hours allowance",
-   "closes": "Open – see force website",
-   "url": "https://tvpcareers.co.uk/roles/detention-officer/"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "region": "se",
-   "title": "Healthcare Assistant (Band 2)",
-   "org": "Portsmouth Hospitals University NHS Trust",
-   "place": "Queen Alexandra Hospital, Portsmouth",
-   "pay": "NHS Band 2 – see advert",
-   "closes": "Closes 18 Nov 2026",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C8192-26-0631"
   },
   {
    "cat": "ambulance",
@@ -1625,11 +1256,12 @@
    "entry": "new",
    "hours": "shift",
    "region": "lon",
+   "pmin": 43689,
    "pmax": 62094,
    "title": "Police Constable – new recruits (PCEP, 2-year programme)",
    "org": "Metropolitan Police Service",
    "place": "London",
-   "pay": "See advert – rising to £62,094 after five years",
+   "pay": "£43,689 (incl. allowances) rising to £62,094 after five years",
    "closes": "Closes 30 Nov 2026",
    "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22634-09-2026-PCEP-Police-Constable-Entry-Programme/en-GB"
   },
@@ -1675,22 +1307,10 @@
    "hours": "oncall",
    "region": "se",
    "title": "On-call Firefighter",
-   "org": "Royal Berkshire Fire and Rescue Service",
-   "place": "Hungerford, Lambourn, Maidenhead, Mortimer & Crowthorne",
-   "pay": "Paid on-call – see advert",
-   "closes": "Open – see advert",
-   "url": "https://www.rbfrs.co.uk/rbfrs-careers/vacancies/on-call-firefighter/"
-  },
-  {
-   "cat": "fire",
-   "entry": "oncall",
-   "hours": "oncall",
-   "region": "se",
-   "title": "On-call Firefighter",
    "org": "Buckinghamshire Fire & Rescue Service",
    "place": "Buckinghamshire",
    "pay": "Paid on-call – see advert",
-   "closes": "Closes 27 Nov 2026",
+   "closes": "Open – see advert",
    "url": "https://bucksfire.gov.uk/join-us/become-an-on-call-firefighter/"
   },
   {
@@ -1711,22 +1331,6 @@
    "nations": [
     "eng"
    ],
-   "entry": "volunteer",
-   "hours": "flex",
-   "region": "se",
-   "title": "Special Constable (volunteer police officer)",
-   "org": "Thames Valley Police",
-   "place": "Berkshire, Buckinghamshire & Oxfordshire",
-   "pay": "Volunteer – expenses paid",
-   "closes": "Open – see force website",
-   "url": "https://tvpcareers.co.uk/roles/special-constables/"
-  },
-  {
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng"
-   ],
    "ranks": [
     "pc"
    ],
@@ -1735,12 +1339,12 @@
    "region": "mid",
    "pmin": 31164,
    "pmax": 50256,
-   "title": "Police Constable – new recruits (PCEP, February 2027 start)",
+   "title": "Police Constable – new recruits (PCEP, July 2027 start)",
    "org": "Northamptonshire Police",
    "place": "Forcewide",
    "pay": "£31,164 – £50,256 (PC scale)",
-   "closes": "Open – see force website",
-   "url": "https://www.northants.police.uk/police-forces/northamptonshire-police/areas/northamptonshire-force-content/ca/careers-and-volunteering/pc/police-constable-entry-programme/"
+   "closes": "Closes 13 Dec 2026",
+   "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3248-Police-Constable-Entry-Programme-PCEP-July-2027/en-GB"
   },
   {
    "cat": "police",
@@ -2100,10 +1704,12 @@
    ],
    "hours": "shift",
    "region": "mid",
+   "pmin": 36505,
+   "pmax": 40703,
    "title": "OCC Communications Officer (control room)",
    "org": "Warwickshire Police",
    "place": "Warwickshire",
-   "pay": "Staff scale – see advert",
+   "pay": "£36,505 (Grade C: £27,204 basic + £9,301 allowances) rising to £40,703 (Grade D)",
    "closes": "Closes 31 Dec 2026",
    "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1082-OCC-Communications-Officer/en-GB"
   },
@@ -2120,19 +1726,6 @@
    "pay": "Staff scale – see advert",
    "closes": "Closes 23 Nov 2026",
    "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1634-Triage-Operator/en-GB"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "safety"
-   ],
-   "region": "mid",
-   "title": "Health & Safety Officer",
-   "org": "Warwickshire Police",
-   "place": "Warwickshire",
-   "pay": "See advert",
-   "closes": "Closes 18 Nov 2026",
-   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1631-Health-Safety-Officer/en-GB"
   },
   {
    "cat": "police",
@@ -2219,12 +1812,12 @@
    "org": "Derbyshire Constabulary",
    "place": "Forcewide",
    "pay": "£32,256 – £52,014",
-   "closes": "Closes 25 Nov 2026",
-   "url": "https://careers.derbyshire.police.uk/what-you-could-be-doing/police-constable-entry-programme"
+   "closes": "Open – see advert",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10072-Police-Constable-Entry-Programme-PCEP-26-C3/en-GB"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "officer",
    "nations": [
     "sco"
@@ -2235,16 +1828,18 @@
    "entry": "new",
    "hours": "shift",
    "region": "sco",
+   "pmin": 33609,
+   "pmax": 52014,
    "title": "Police Officer – new recruits (Edinburgh & Glasgow)",
    "org": "British Transport Police",
    "place": "Edinburgh & Glasgow",
-   "pay": "BTP constable scale – see advert",
+   "pay": "£33,609 – £52,014",
    "closes": "Closes 30 Nov 2026",
    "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Edinburgh-and-Glasgow/1897"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "officer",
    "nations": [
     "eng"
@@ -2255,16 +1850,18 @@
    "entry": "new",
    "hours": "shift",
    "region": "lon",
+   "pmin": 33609,
+   "pmax": 52014,
    "title": "Police Officer – new recruits (Inner London)",
    "org": "British Transport Police",
    "place": "Inner London",
-   "pay": "BTP constable scale – see advert",
+   "pay": "£33,609 rising to £52,014 after five years + £5,783.75 London Allowance + £3,261 London Weighting",
    "closes": "Closes 31 Jan 2027",
    "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Inner-London/1871"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "officer",
    "nations": [
     "eng"
@@ -2286,8 +1883,8 @@
    "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-York/1914"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "officer",
    "nations": [
     "eng"
@@ -2309,8 +1906,8 @@
    "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Manchester-Piccadilly/1913"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "officer",
    "nations": [
     "eng"
@@ -2344,30 +1941,6 @@
    "pay": "See advert",
    "closes": "Closes 4 Jan 2027",
    "url": "https://vacancies.btp.police.uk/jobs/job/First-Contact-Centre-Contact-Handler/1917"
-  },
-  {
-   "force": "special",
-   "cat": "police",
-   "ptype": "officer",
-   "nations": [
-    "eng",
-    "sco",
-    "wal"
-   ],
-   "ranks": [
-    "pc"
-   ],
-   "entry": "new",
-   "hours": "shift",
-   "region": "uk",
-   "pmin": 30643,
-   "pmax": 49413,
-   "title": "New Recruit – PC Authorised Firearms Officer (Counter Terrorism)",
-   "org": "Ministry of Defence Police",
-   "place": "Defence sites UK-wide",
-   "pay": "£30,643 – £49,413 (by location and allowances)",
-   "closes": "Open – see force website",
-   "url": "https://www.mod.police.uk/careers/current-opportunities/new-recruit-authorised-firearms-officer-counter-terrorism/"
   },
   {
    "cat": "police",
@@ -2430,12 +2003,12 @@
    "entry": "new",
    "hours": "shift",
    "region": "se",
-   "pmin": 36816,
-   "pmax": 36816,
+   "pmin": 40316,
+   "pmax": 40316,
    "title": "Prison Officer – HMP Swaleside",
    "org": "HM Prison & Probation Service",
    "place": "Isle of Sheppey, Kent",
-   "pay": "£36,816 (39 hours incl. unsocial hours)",
+   "pay": "£40,316 (39 hours incl. 20% unsocial hours allowance)",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Isle-of-Sheppey-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Swaleside/20614"
   },
@@ -2446,26 +2019,13 @@
    ],
    "entry": "new",
    "hours": "shift",
-   "region": "wal",
-   "title": "Prison Officer – HMP Berwyn",
-   "org": "HM Prison & Probation Service",
-   "place": "Wrexham",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wrexham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Berwyn/20522"
-  },
-  {
-   "cat": "justice",
-   "jroles": [
-    "prison"
-   ],
-   "entry": "new",
-   "hours": "shift",
    "region": "east",
+   "pmin": 36816,
+   "pmax": 36816,
    "title": "Prison Officer – HMP Norwich",
    "org": "HM Prison & Probation Service",
    "place": "Norwich",
-   "pay": "See advert",
+   "pay": "£36,816 (39 hours incl. 20% unsocial hours allowance)",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Norwich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Norwich/20590"
   },
@@ -2745,8 +2305,8 @@
    "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15704-Team-Leader-Witness-Care/en-GB"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "staff",
    "nations": [
     "eng"
@@ -2762,8 +2322,8 @@
    "url": "https://vacancies.btp.police.uk/jobs/job/Witness-and-Case-Review-Officer-PostCharge-Talent-Pool/1903"
   },
   {
-   "force": "special",
    "cat": "police",
+   "force": "special",
    "ptype": "staff",
    "nations": [
     "eng"
@@ -2831,10 +2391,12 @@
     "probation"
    ],
    "region": "mid",
+   "pmin": 28064,
+   "pmax": 33549,
    "title": "Probation Services Officer – Community Payback (Derbyshire)",
    "org": "Probation Service",
-   "place": "Derbyshire",
-   "pay": "Up to £40,000 – see advert",
+   "place": "Chesterfield, Derbyshire",
+   "pay": "£28,064 – £33,549",
    "closes": "Closes 17 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24410-Community-Payback-Probation-Services-Officer-Derbyshire/24410"
   },
@@ -2844,10 +2406,12 @@
     "probation"
    ],
    "region": "mid",
+   "pmin": 28064,
+   "pmax": 33549,
    "title": "Probation Services Officer – Community Payback (Leicester)",
    "org": "Probation Service",
    "place": "Leicester",
-   "pay": "Up to £40,000 – see advert",
+   "pay": "£28,064 – £33,549",
    "closes": "Closes 17 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24408-Community-Payback-Probation-Services-Officer-Leicester/24408"
   },
@@ -2883,12 +2447,14 @@
     "probation"
    ],
    "region": "lon",
+   "pmin": 28064,
+   "pmax": 33549,
    "title": "Probation Service Officer – Barking, Dagenham & Havering (outcome in a day)",
    "org": "Probation Service",
    "place": "East London",
-   "pay": "Up to £40,000 – see advert",
+   "pay": "£28,064 – £33,549 + £4,505 London weighting",
    "closes": "Closes 30 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336"
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336-Probation-Service-Officer-Barking-Dagenham-Havering-Probation-Delivery-Unit-London-Outcome-in-a-Day/24336"
   },
   {
    "cat": "justice",
@@ -2929,54 +2495,6 @@
    "pay": "See advert",
    "closes": "Closes 30 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24289"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "retail",
-    "management"
-   ],
-   "region": "nw",
-   "pmin": 52910,
-   "pmax": 69000,
-   "title": "Store Manager",
-   "org": "Aldi",
-   "place": "Manchester (Ancoats, Didsbury, Gorton & nearby stores)",
-   "pay": "£52,910 – £69,000 pro rata",
-   "closes": "Open – see advert",
-   "url": "https://careers.aldirecruitment.co.uk/vacancies/11473/store-manager.html"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "retail",
-    "management"
-   ],
-   "region": "mid",
-   "pmin": 52910,
-   "pmax": 69000,
-   "title": "Store Manager",
-   "org": "Aldi",
-   "place": "Solihull, Hall Green & Redditch area",
-   "pay": "£52,910 – £69,000 pro rata",
-   "closes": "Open – see advert",
-   "url": "https://careers.aldirecruitment.co.uk/vacancies/13505/store-manager.html"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "retail",
-    "management"
-   ],
-   "region": "east",
-   "pmin": 52910,
-   "pmax": 69000,
-   "title": "Store Manager",
-   "org": "Aldi",
-   "place": "Cambridgeshire (Royston & Saffron Walden)",
-   "pay": "£52,910 – £69,000 pro rata",
-   "closes": "Open – see advert",
-   "url": "https://careers.aldirecruitment.co.uk/vacancies/13053/store-manager.html"
   },
   {
    "cat": "civilian",
@@ -3026,20 +2544,6 @@
   {
    "cat": "civilian",
    "areas": [
-    "finance",
-    "investigation"
-   ],
-   "region": "mid",
-   "title": "Financial Crime Analyst (money mule disruption, AVP)",
-   "org": "Barclays",
-   "place": "Northampton",
-   "pay": "See advert",
-   "closes": "Open – see advert",
-   "url": "https://search.jobs.barclays/job/northampton/financial-crime-analyst/13015/102514191120"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
     "aviation",
     "security"
    ],
@@ -3068,6 +2572,1967 @@
    "pay": "See advert",
    "closes": "Closes 31 Dec 2026",
    "url": "https://careers.ba.com/job/heathrow/cabin-crew-talent-pool/22348/94593554544"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Detective Constable – new recruits (DCEP)",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale – see advert)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22636-09-2026-DCEP-Detective-Constable-Entry-Programme/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – new recruits (PCDA degree apprenticeship)",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale – see advert)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22635-09-2026-PCDA-Police-Constable-Degree-Apprenticeship/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferring Officers",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/20328-202512-Transferring-Officers/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "rejoiner"
+   ],
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Rejoiner Officers",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/20329-202512-Rejoiner-Officers/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Territorial Support Group (TSG) – Transferring Officer",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 22 Dec 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22864-202609-MO7-Taskforce-Territorial-Support-Group-TSG-Transferring-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Driving Instructor – Transferring Officers",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23080-202610-Police-Driving-Instructor-Transferring-Officers/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "lon",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Royalty & Specialist Protection – Close Protection Transferring Officer",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 22 Nov 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23326-202611-RaSP-Close-Protection-Transferring-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "lon",
+   "title": "Special Constable (volunteer police officer)",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22472-08-2026-Special-Constable-Volunteer-Police-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "lon",
+   "title": "Volunteer Police Cadet Leader",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 6 Feb 2028",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/20682-Volunteer-Police-Cadet-Leader/en-GB"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "transport"
+   ],
+   "region": "lon",
+   "title": "OSS Distribution Driver (HGV2 / C1)",
+   "org": "Metropolitan Police Service",
+   "place": "London",
+   "pay": "See advert",
+   "closes": "Closes 11 Jan 2027",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23310-OSS-Distribution-Driver-HGV2-C1/en-GB"
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "management",
+    "operations"
+   ],
+   "region": "lon",
+   "title": "Pound Manager – Charlton Car Pound",
+   "org": "Metropolitan Police Service",
+   "place": "Charlton, London",
+   "pay": "See advert",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23137-Pound-Manager-Charlton-Car-Pound/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable Transferees and Re-joiners (LE 2026b)",
+   "org": "Leicestershire Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 22 Dec 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10164-Police-Constable-Transferees-and-Re-joiners-LE-2026b/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Detective Constable Transferees and Re-joiners (LE 2026b)",
+   "org": "Leicestershire Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 22 Dec 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10166-Detective-Constable-Transferees-and-Re-joiners-LE-2026b/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Transferee Sergeant (LE 2026b)",
+   "org": "Leicestershire Police",
+   "place": "Forcewide",
+   "pay": "£55,443 – £58,175 (sergeant scale)",
+   "closes": "Closes 22 Dec 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10167-Transferee-Sergeant-LE-2026b/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee Constable – Forensic Collision Investigator (LE 26)",
+   "org": "Leicestershire Police",
+   "place": "Leicestershire",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 13 Dec 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10194-Transferee-Constable-Forensic-Collision-Investigator-LE-26/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
+    "dc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32256,
+   "pmax": 52014,
+   "title": "Police & Detective Constable – new recruits (PCEP / DCEP / PCDA)",
+   "org": "Leicestershire Police",
+   "place": "Forcewide",
+   "pay": "£32,256 rising to £52,014",
+   "closes": "Closes 22 Dec 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10265-Police-and-Detective-Constable-PCEP-DCEP-PCDA/en-GB"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 27204,
+   "pmax": 30333,
+   "title": "999 Contact Handler",
+   "org": "Leicestershire Police",
+   "place": "Force HQ, Leicestershire",
+   "pay": "£27,204 – £30,333 (4 on, 4 off – days and nights)",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10152-999-Contact-Handler/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Armed Response Vehicle Officer – Transferee Constable",
+   "org": "Derbyshire Constabulary",
+   "place": "Wyatts Way, Derbyshire",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10033-Armed-Response-Vehicle-Officer-Transferee-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Financial Investigator (Detective Constable)",
+   "org": "Derbyshire Constabulary",
+   "place": "Force HQ",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10000-Transferee-Financial-Investigator-Detective-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – Transferee (DP 26a)",
+   "org": "Derbyshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/9841-Police-Constable-Transferee-DP-26a/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Detective Constable – Transferees (DP 26a)",
+   "org": "Derbyshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/9840-Detective-Constable-Transferees-DP-26a/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Sergeants – Transferee (DP 26a)",
+   "org": "Derbyshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£55,443 – £58,175 (sergeant scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/9839-Sergeants-Transferee-DP-26a/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "mid",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Transferee Criminal Exploitation Detective Sergeant (DE 26)",
+   "org": "Derbyshire Constabulary",
+   "place": "Force HQ",
+   "pay": "£55,443 – £58,175 (sergeant scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10135-Transferee-Criminal-Exploitation-Detective-Sergeant-DE-26/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee Fraud Investigator (Detective Constable) DE 2026",
+   "org": "Derbyshire Constabulary",
+   "place": "Derbyshire",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 23 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10087-Transferee-Fraud-Investigator-Detective-Constable-DE-2026/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – new recruits (PCDA, DP26 C2)",
+   "org": "Derbyshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10074-Police-Constable-Degree-Apprenticeship-PCDA-DP26-C2/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "entry": "new",
+   "region": "mid",
+   "pmin": 32256,
+   "pmax": 52014,
+   "title": "Detective Constable – new recruits (DP26 C3)",
+   "org": "Derbyshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£32,256 – £52,014",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10073-Detective-Constable-Programme-DP26-C3/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "mid",
+   "title": "Special Constable (volunteer police officer)",
+   "org": "Derbyshire Constabulary",
+   "place": "Derbyshire",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 2 Dec 2026",
+   "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10261-Special-Constable-DP26D/en-GB"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 36453,
+   "pmax": 40011,
+   "title": "Emergency Call Handler / Dispatcher",
+   "org": "Avon and Somerset Police",
+   "place": "Portishead HQ",
+   "pay": "£36,453 – £40,011 including shift allowance",
+   "closes": "Closes 4 Jan 2027",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8420-Emergency-Call-Handler-Dispatcher/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – new recruits (PCDA degree apprenticeship)",
+   "org": "Avon and Somerset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8301-Police-Constable-Degree-Apprenticeship/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – new recruits (Professional Policing Degree holders)",
+   "org": "Avon and Somerset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/5636-Professional-Policing-Degree-PPD-Programme/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "sw",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Transferee – Detective Sergeant (CID)",
+   "org": "Avon and Somerset Police",
+   "place": "Forcewide",
+   "pay": "£55,443 – £58,175 (sergeant scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/6699-Transferee-Detective-Sergeant-CID/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable Dog Handler – Transferee",
+   "org": "Avon and Somerset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/5785-Police-Constable-Dog-Handler-Transferee/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Authorised Firearms Officer – Transferee",
+   "org": "Avon and Somerset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Closes 31 Dec 2027",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/1890-Authorised-Firearms-Officer-Transferee/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Investigation Officer – Serious Collision Investigation Team",
+   "org": "Avon and Somerset Police",
+   "place": "Avon and Somerset",
+   "pay": "Staff scale – see advert",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8331-Investigation-Officer-Serious-Collision-Investigation-Team/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "sw",
+   "title": "Special Constable – Transferee (volunteer)",
+   "org": "Avon and Somerset Police",
+   "place": "Avon and Somerset",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 31 Jan 2028",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/7441-Special-Constable-Transferee/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "sw",
+   "title": "Bleed Kit Project Coordinator Volunteer",
+   "org": "Avon and Somerset Police",
+   "place": "Forcewide",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8353-Bleed-Kit-Project-Coordinator-Volunteer-Forcewide/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "sw",
+   "title": "VIPER Chaperone Volunteer",
+   "org": "Avon and Somerset Police",
+   "place": "Various locations",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8391-VIPER-chaperone-Volunteer-Various-locations/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "se",
+   "title": "Volunteer – Humane Animal Dispatch",
+   "org": "Thames Valley Police",
+   "place": "Thames Valley",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15669-Volunteer-Humane-Animal-Dispatch/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "se",
+   "title": "Volunteer – Chaplaincy Assistant",
+   "org": "Thames Valley Police",
+   "place": "Thames Valley",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 20 Dec 2026",
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15683-Volunteer-Chaplaincy-Assistant/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "se",
+   "title": "Volunteer – Police Cadet Scheme Leader (Oxford)",
+   "org": "Thames Valley Police",
+   "place": "Oxford",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 27 Jun 2027",
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15693-Volunteer-Cadet-Scheme-Leader-Oxford/en-GB"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "region": "se",
+   "title": "Police Contact Enquiry Officer (part time)",
+   "org": "Thames Valley Police",
+   "place": "Newbury",
+   "pay": "Staff scale – see advert",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15724-Police-Contact-Enquiry-Officer-Newbury-Part-time/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "mid",
+   "title": "Multi-Faith Chaplain – Volunteer",
+   "org": "Staffordshire Police",
+   "place": "Staffordshire",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/2572-Multi-Faith-Chaplain-Volunteer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "mid",
+   "title": "Vehicle Fleet Support Volunteer",
+   "org": "Staffordshire Police",
+   "place": "Staffordshire",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/1984-Vehicle-Fleet-Support-Volunteer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "mid",
+   "title": "Special Constable (volunteer police officer) – September 2027 intake",
+   "org": "Northamptonshire Police",
+   "place": "Northamptonshire",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 28 Feb 2027",
+   "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3335-Special-Police-Constable-Unpaid-Voluntary-Role-September-2027/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "mid",
+   "title": "Case Investigator (police staff)",
+   "org": "Northamptonshire Police",
+   "place": "Northamptonshire",
+   "pay": "Staff scale – see advert",
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3327-Staff-Case-Investigator/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "mid",
+   "title": "Victim and Witness Care Officer",
+   "org": "Warwickshire Police",
+   "place": "Warwickshire",
+   "pay": "Staff scale – see advert",
+   "closes": "Closes 20 Nov 2026",
+   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1622-Victim-and-Witness-Care-Officer/en-GB"
+  },
+  {
+   "cat": "fire",
+   "entry": "oncall",
+   "hours": "oncall",
+   "region": "sco",
+   "pmin": 2827,
+   "pmax": 3768,
+   "title": "On Call Firefighter",
+   "org": "Scottish Fire and Rescue Service",
+   "place": "Various stations across Scotland",
+   "pay": "£2,827 – £3,768 a year retainer, plus pay for incidents and training",
+   "closes": "Closes 31 Jan 2027",
+   "url": "https://myjobscotland.gov.uk/emergency-services/scottish-fire-and-rescue-service/jobs/call-firefighter-485336"
+  },
+  {
+   "cat": "fire",
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "sco",
+   "title": "Volunteer Youth Instructor",
+   "org": "Scottish Fire and Rescue Service",
+   "place": "12 fire stations incl. Alloa, Dumbarton, Livingston, Falkirk, Peterhead",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 5 Apr 2027",
+   "url": "https://myjobscotland.gov.uk/emergency-services/scottish-fire-and-rescue-service/jobs/volunteer-youth-instructor-435537"
+  },
+  {
+   "cat": "fire",
+   "region": "sco",
+   "pmin": 31762,
+   "pmax": 33344,
+   "title": "Fire Ground Technician – Invergordon",
+   "org": "Scottish Fire and Rescue Service",
+   "place": "Invergordon Fire Station",
+   "pay": "£31,762 – £33,344",
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://myjobscotland.gov.uk/emergency-services/scottish-fire-and-rescue-service/jobs/fire-ground-technician-495922"
+  },
+  {
+   "cat": "fire",
+   "region": "sco",
+   "pmin": 31762,
+   "pmax": 33344,
+   "title": "Fire Ground Technician – National Training Centre",
+   "org": "Scottish Fire and Rescue Service",
+   "place": "Cambuslang",
+   "pay": "£31,762 – £33,344",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://myjobscotland.gov.uk/emergency-services/scottish-fire-and-rescue-service/jobs/fire-ground-technician-494971"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "sco"
+   ],
+   "hours": "shift",
+   "region": "sco",
+   "pmin": 29962,
+   "pmax": 38340,
+   "title": "Firefighter Control (Operations Control)",
+   "org": "Scottish Fire and Rescue Service",
+   "place": "Johnstone, Dundee or Edinburgh",
+   "pay": "£29,962 – £38,340",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://myjobscotland.gov.uk/emergency-services/scottish-fire-and-rescue-service/jobs/firefighter-control-496971"
+  },
+  {
+   "cat": "fire",
+   "hours": "flex",
+   "region": "sw",
+   "title": "Reserve Firefighter (casual, zero hours)",
+   "org": "Avon Fire & Rescue Service",
+   "place": "Various Avon Fire & Rescue locations",
+   "pay": "£12.60 an hour plus annual retention payments",
+   "closes": "Open – see advert",
+   "url": "https://www.avonfire.gov.uk/careers/vacancies/reserve-firefighter/"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "flex",
+   "region": "sw",
+   "title": "Reserve Fire Emergency Control Operator (casual, zero hours)",
+   "org": "Avon Fire & Rescue Service",
+   "place": "Lansdown, Bath",
+   "pay": "£12.60 an hour in training, then £15.00 an hour",
+   "closes": "Open – see advert",
+   "url": "https://www.avonfire.gov.uk/careers/vacancies/reserve-fire-emergency-control-operators/"
+  },
+  {
+   "cat": "fire",
+   "region": "nw",
+   "title": "Fire Training Ground Technician",
+   "org": "Cheshire Fire & Rescue Service",
+   "place": "Cheshire",
+   "pay": "See advert",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://www.cheshirefire.gov.uk/jobs/current-vacancies/fire-training-ground-technician/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 66105,
+   "pmax": 105749,
+   "title": "Advanced Nurse / Clinical Practitioner – Out of Hours (nurse or paramedic ACP)",
+   "org": "PHL Group",
+   "place": "Cannock, Stafford & Stoke-on-Trent",
+   "pay": "£33.90 – £54.23 an hour (≈ £66,105 – £105,749 a year full-time)",
+   "closes": "Closes 18 Dec 2026",
+   "url": "https://phlgroup.co.uk/job/advanced-nurse-practitioner-advanced-clinical-practitioner-anp-acp/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "doctor"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 120452,
+   "pmax": 193928,
+   "title": "GP – Out of Hours (Staffordshire & Stoke-on-Trent)",
+   "org": "PHL Group",
+   "place": "Cannock",
+   "pay": "£61.77 – £99.45 an hour (≈ £120,452 – £193,928 a year full-time)",
+   "closes": "Closes 18 Dec 2026",
+   "url": "https://phlgroup.co.uk/job/general-practitioner-gp-out-of-hours-ooh-staffordshire-stoke-on-trent/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "doctor"
+   ],
+   "region": "mid",
+   "pmin": 120000,
+   "pmax": 120000,
+   "title": "Clinical Lead GP – Sandwell & QEUH",
+   "org": "PHL Group",
+   "place": "Black Country",
+   "pay": "£120,000 a year",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://phlgroup.co.uk/job/general-practitioner-gp-lead-sandwell-qeuh/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 32073,
+   "pmax": 39043,
+   "title": "Community Staff Nurse",
+   "org": "Leeds Community Healthcare NHS Trust",
+   "place": "Holt Park Health Centre, Leeds",
+   "pay": "£32,073 – £39,043",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://vacancies.leedscommunityhealthcare.nhs.uk/jobs/job/Community-Staff-Nurse/1196"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 32073,
+   "pmax": 39043,
+   "title": "Community Staff Nurse – Evenings (part time)",
+   "org": "Leeds Community Healthcare NHS Trust",
+   "place": "Hunslet Health Centre, Leeds",
+   "pay": "£32,073 – £39,043 pro rata (5pm – 10pm, 10 – 27.5 hours)",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://vacancies.leedscommunityhealthcare.nhs.uk/jobs/job/Community-Staff-Nurse-Evening/1187"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 25760,
+   "pmax": 27476,
+   "title": "Neighbourhood Clinical Assistant (community nursing support worker)",
+   "org": "Leeds Community Healthcare NHS Trust",
+   "place": "Woodsley Health Centre, Leeds",
+   "pay": "£25,760 – £27,476",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://vacancies.leedscommunityhealthcare.nhs.uk/jobs/job/Neighbourhood-Clinical-Assistant/1193"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmax": 29723,
+   "title": "Healthcare Assistant – HMP Fosse Way (prison healthcare)",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Fosse Way, Leicester",
+   "pay": "Up to £29,723 a year",
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://apply.practiceplushij.com/vacancies/15942/healthcare-assistant.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "pmin": 12267,
+   "pmax": 14267,
+   "title": "Healthcare Assistant (part time) – HMP Lancaster Farms (prison healthcare)",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Lancaster Farms, Lancaster",
+   "pay": "£12,267 – £14,267 a year (actual, 18 hrs/week)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://apply.practiceplushij.com/vacancies/15937/healthcare-assistant-part-time.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "pmin": 25557,
+   "pmax": 29723,
+   "title": "Healthcare Assistant – HMP Garth (prison healthcare)",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Garth, Leyland, Lancashire",
+   "pay": "£25,557 – £29,723 a year",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://apply.practiceplushij.com/vacancies/15934/healthcare-assistant.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "hours": "shift",
+   "region": "se",
+   "pmax": 31789,
+   "title": "Healthcare Assistant – HMP Bullingdon (prison healthcare)",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Bullingdon, near Bicester, Oxfordshire",
+   "pay": "Up to £31,789 a year",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://apply.practiceplushij.com/vacancies/15924/healthcare-assistant.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse"
+   ],
+   "hours": "flex",
+   "region": "se",
+   "pmin": 46469,
+   "pmax": 46469,
+   "title": "Substance Misuse Nurse (bank) – HMP Winchester",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Winchester, Hampshire",
+   "pay": "£23.83 an hour (≈ £46,469 a year full-time)",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://apply.practiceplushij.com/vacancies/15923/substance-misuse-nurse-bank.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse",
+    "para"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 37284,
+   "pmax": 59651,
+   "title": "NHS 111 Clinical Advisor (nurse or paramedic)",
+   "org": "IC24",
+   "place": "Peterborough, Cambridgeshire",
+   "pay": "£19.12 – £30.59 an hour incl. weekend/bank holiday rates (≈ £37,284 – £59,651 a year full-time)",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://jobs.ic24.org.uk/jobs/job/Clinical-Advisor/782"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse"
+   ],
+   "region": "se",
+   "pmin": 54141,
+   "pmax": 54141,
+   "title": "Advanced Nurse Practitioner – Primary Care Hub",
+   "org": "IC24",
+   "place": "Hastings, East Sussex",
+   "pay": "£54,141 a year (pro rata)",
+   "closes": "Closes 5 Dec 2026",
+   "url": "https://jobs.ic24.org.uk/jobs/job/Advanced-Nurse-Practitioner/802"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32644,
+   "pmax": 35830,
+   "title": "Contact Officer (999/101 call handler)",
+   "org": "Devon & Cornwall Police",
+   "place": "Contact Centres – Devon & Cornwall (incl. Crownhill, Plymouth)",
+   "pay": "£32,644 – £35,830 (incl. 20% shift allowance)",
+   "closes": "Open – see force website",
+   "url": "https://recruitment.devon-cornwall.police.uk/dc-contactofficer"
+  },
+  {
+   "cat": "fire",
+   "entry": "oncall",
+   "hours": "oncall",
+   "region": "nw",
+   "title": "On-call Firefighter – Holmes Chapel, Malpas, Nantwich, Penketh, Poynton & Tarporley",
+   "org": "Cheshire Fire & Rescue Service",
+   "place": "Holmes Chapel, Malpas, Nantwich, Penketh, Poynton and Tarporley",
+   "pay": "Paid on-call – details supplied on application",
+   "closes": "Open – see advert",
+   "url": "https://www.cheshirefire.gov.uk/jobs/current-vacancies/on-call-firefighters"
+  },
+  {
+   "cat": "fire",
+   "entry": "oncall",
+   "hours": "oncall",
+   "region": "sw",
+   "title": "On-Call Firefighter Vacancies (RT00323)",
+   "org": "Devon & Somerset Fire and Rescue Service",
+   "place": "Various on-call stations across Devon and Somerset",
+   "pay": "Paid on-call – see advert",
+   "closes": "Open – see advert",
+   "url": "https://www.dsfire.gov.uk/node/27102/printable/print"
+  },
+  {
+   "cat": "fire",
+   "region": "ne",
+   "title": "Group Manager – Transfer or Promotion Opportunity",
+   "org": "West Yorkshire Fire and Rescue Service",
+   "place": "Fire and Rescue Service HQ, Birkenshaw",
+   "pay": "Group Manager salary + 20% Flexible Duty System allowance + 15% GM duty system allowance",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://isw.changeworknow.co.uk/west_yorkshire_fire_and_rescue_service/vms/e/careers/positions/bz3m16VBXk45agiM3Bj9RK"
+  },
+  {
+   "cat": "fire",
+   "region": "nw|uk",
+   "title": "National Resilience Wildfire Capability Officer (Station Manager secondment)",
+   "org": "Merseyside Fire & Rescue Service",
+   "place": "Agreed base with national travel",
+   "pay": "Station Manager B + 20% flexible duty allowance (12-month secondment, WM or above)",
+   "closes": "Closes 8 Dec 2026",
+   "url": "https://careers.merseyfire.gov.uk/vacancies/281/national-resilience-wildfire-capability-officers.html"
+  },
+  {
+   "cat": "fire",
+   "region": "nw",
+   "pmin": 174471,
+   "pmax": 185376,
+   "title": "Deputy Chief Fire Officer",
+   "org": "Merseyside Fire & Rescue Service",
+   "place": "Merseyside",
+   "pay": "£174,471 – £185,376",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://careers.merseyfire.gov.uk/vacancies/272/deputy-chief-fire-officer.html"
+  },
+  {
+   "cat": "fire",
+   "region": "se",
+   "pmin": 107331,
+   "pmax": 140260,
+   "title": "Assistant Chief Fire Officer (Operational) / Assistant Chief Officer (Non-Operational)",
+   "org": "Buckinghamshire Fire & Rescue Service",
+   "place": "Aylesbury",
+   "pay": "ACFO £140,260; ACO £107,331 – £114,789",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://bucksfire.gov.uk/join-us/assistant-chief-fire-officer-operational-assistant-chief-officer-non-operational/"
+  },
+  {
+   "cat": "fire",
+   "region": "se",
+   "title": "Chief Fire Officer",
+   "org": "Buckinghamshire Fire & Rescue Service",
+   "place": "Aylesbury",
+   "pay": "Competitive salary – see advert",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://bucksfire.gov.uk/join-us/chief-fire-officer/"
+  },
+  {
+   "cat": "fire",
+   "region": "nw",
+   "pmin": 29542,
+   "pmax": 29542,
+   "title": "Community Prevention Advocate",
+   "org": "Cheshire Fire & Rescue Service",
+   "place": "CFRS HQ, Winsford",
+   "pay": "£29,542 starting salary (37 hours a week)",
+   "closes": "Closes 23 Nov 2026",
+   "url": "https://www.cheshirefire.gov.uk/jobs/current-vacancies/community-prevention-advocate/"
+  },
+  {
+   "cat": "fire",
+   "region": "nw",
+   "pmin": 2532,
+   "pmax": 2746,
+   "title": "Fire Cadets Unit Leader (3 hours a week)",
+   "org": "Merseyside Fire & Rescue Service",
+   "place": "Wallasey",
+   "pay": "£2,532 – £2,746 a year (Grade 6, 3 hours a week)",
+   "closes": "Closes 22 Nov 2026",
+   "url": "https://careers.merseyfire.gov.uk/vacancies/257/fire-cadets-unit-leader.html"
+  },
+  {
+   "cat": "fire",
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "nw",
+   "title": "Volunteer Fire Cadet Instructor",
+   "org": "Merseyside Fire & Rescue Service",
+   "place": "Fire Cadet units incl. Bootle-Netherton, St Helens and Wallasey",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 19 Nov 2026",
+   "url": "https://careers.merseyfire.gov.uk/vacancies/232/volunteer-fire-cadet-instructor.html"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 36816,
+   "pmax": 36816,
+   "title": "Prison Officer – HMP Guys Marsh",
+   "org": "HM Prison & Probation Service",
+   "place": "Shaftesbury, Dorset",
+   "pay": "£36,816 (39-hour week, incl. 20% unsocial hours allowance)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/20564"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 36816,
+   "pmax": 36816,
+   "title": "Prison Officer – HMP Gartree",
+   "org": "HM Prison & Probation Service",
+   "place": "Market Harborough, Leicestershire",
+   "pay": "£36,816 (39-hour week, incl. 20% unsocial hours allowance)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/20538"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 36816,
+   "pmax": 36816,
+   "title": "Prison Officer – HMP Deerbolt",
+   "org": "HM Prison & Probation Service",
+   "place": "Barnard Castle, County Durham",
+   "pay": "£36,816 (39-hour week, incl. 20% unsocial hours allowance)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/20528"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "east",
+   "pmin": 38816,
+   "pmax": 38816,
+   "title": "Prison Officer – HMP Highpoint",
+   "org": "HM Prison & Probation Service",
+   "place": "Newmarket, Suffolk",
+   "pay": "£38,816 (39-hour week, incl. 20% unsocial hours allowance)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/Cambridge-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Highpoint/20587"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 30491,
+   "pmax": 30491,
+   "title": "Operational Support Grade – HMP Hollesley Bay",
+   "org": "HM Prison & Probation Service",
+   "place": "Woodbridge, Suffolk",
+   "pay": "£30,491 (37-hour week, incl. 20% unsocial hours allowance)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/Ipswich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-24132-Operational-Support-Grade-HMP-Hollesley-Prison-Support-Role/24132"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "hours": "shift",
+   "region": "se",
+   "pmin": 30491,
+   "pmax": 30491,
+   "title": "Operational Support Grade (Driver) – HMP Woodhill",
+   "org": "HM Prison & Probation Service",
+   "place": "Milton Keynes",
+   "pay": "£30,491 (37-hour week, incl. 20% unsocial hours allowance)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/Milton-Keynes-United-Kingdom-of-Great-Britain-and-Northern-Ireland-23375-Operational-Support-Grade-HMP-Woodhill-Driver-Prison-Support-Role/23375"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "detention"
+   ],
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32635,
+   "pmax": 32635,
+   "title": "Detention Custody Officer – Heathrow",
+   "org": "Mitie",
+   "place": "Heathrow Airport, Hounslow",
+   "pay": "£32,635 (42 hours a week)",
+   "closes": "Open – see advert",
+   "url": "https://careers.mitie.com/jobs/vacancy/detention-custody-officer---heathrow-ap--95147/95166/description/"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "detention"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 31000,
+   "pmax": 35000,
+   "title": "Detention Custody Officer – Yarl's Wood IRC",
+   "org": "Serco",
+   "place": "Bedford",
+   "pay": "£31,000 rising to £32,000 after probation and £35,000 after 2 years",
+   "closes": "Open – see advert",
+   "url": "https://apply-now.serco.com/UK/job/Bedford-Detention-Custody-Officer-Bedf-MK44-2FQ/824305202/"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "detention"
+   ],
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 28179,
+   "pmax": 30172,
+   "title": "Prisoner Custody Officer (court custody & escort)",
+   "org": "Serco",
+   "place": "Croydon",
+   "pay": "£28,179 rising to £30,172 by year 4 (35 hours a week)",
+   "closes": "Open – see advert",
+   "url": "https://apply-now.serco.com/UK/job/Croydon-Prisoner-Custody-Officer-Surr-CR9-5AB/1329211757/"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "detention"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 25555,
+   "pmax": 27180,
+   "title": "Prisoner Custody Officer (court custody & escort)",
+   "org": "Serco",
+   "place": "Peterborough Magistrates' Court",
+   "pay": "£25,555 rising to £27,180 by year 4 (35 hours a week)",
+   "closes": "Open – see advert",
+   "url": "https://apply-now.serco.com/UK/job/Peterborough-Prisoner-Custody-Officer-Camb-PE1-1ED/828692502/"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "detention"
+   ],
+   "hours": "shift",
+   "region": "se",
+   "pmin": 25555,
+   "pmax": 27180,
+   "title": "Prisoner Custody Officer (court custody & escort)",
+   "org": "Serco",
+   "place": "Portsmouth Crown & Magistrates' Court",
+   "pay": "£25,555 rising to £27,180 by year 4 (35 hours a week)",
+   "closes": "Open – see advert",
+   "url": "https://apply-now.serco.com/UK/job/Portsmouth-Prisoner-Custody-Officer-Hamp-PO1-2DQ/825871002/"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – Armed Response Vehicle Officer / AFO (Transferee)",
+   "org": "Bedfordshire Police",
+   "place": "Kempston, Huntingdon & Luton Airport",
+   "pay": "£32,255 – £52,015 (national PC pay scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://bch.tal.net/vx/mobile-0/appcentre-bed_ext/brand-7/candidate/so/pm/1/pl/14/opp/3834-Police-Constable-Armed-Response-Vehicle-Officer-ARVO-Authorised-Firearms-Officer-AFO-Bedfordshire-Transferee-process/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – National Firearms Instructor (Transferee)",
+   "org": "Bedfordshire Police",
+   "place": "Kempston, Huntingdon & Luton Airport",
+   "pay": "£32,255 – £52,015 (national PC pay scale) + £2,000 NFI payment",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://bch.tal.net/vx/mobile-0/appcentre-bed_ext/brand-7/candidate/so/pm/1/pl/14/opp/3839-Police-Constable-National-Firearms-Instructor-Bedfordshire-Transferee-process/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Response Constables, Detective Constables & Specialist PVP Detectives",
+   "org": "Cambridgeshire Constabulary",
+   "place": "Cambridgeshire (countywide)",
+   "pay": "£32,255 – £52,015 (national PC pay scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-14/brand-5/xf-99c5c1b3da38/candidate/so/pm/1/pl/26/opp/4851-Cambridgeshire-Transferee-Response-Constables-Detective-Constables-Specialist-PVP-Detectives/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 27204,
+   "pmax": 27204,
+   "title": "Detention Officer – Cambridgeshire",
+   "org": "Cambridgeshire Constabulary",
+   "place": "Milton (Cambridge) / Thorpe Wood, Peterborough",
+   "pay": "£27,204 + weekend and shift allowances (approx. £7,000 a year extra)",
+   "closes": "Closes 31 Jan 2027",
+   "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-14/brand-5/xf-99c5c1b3da38/candidate/so/pm/1/pl/26/opp/4076-Detention-Officer-Cambridgeshire/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 33603,
+   "pmax": 35772,
+   "title": "Crime Management Unit Investigation Supervisor",
+   "org": "Gloucestershire Constabulary",
+   "place": "Wheatstone Court, Gloucestershire",
+   "pay": "£33,603 – £35,772 (SC6)",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://gloucestershireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/15/opp/1285-6511-Crime-Management-Unit-Investigation-Supervisor/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "pmin": 33603,
+   "pmax": 35772,
+   "title": "Decision Maker – Disclosure and Barring Unit",
+   "org": "Gloucestershire Constabulary",
+   "place": "Phoenix House, Gloucestershire",
+   "pay": "£33,603 – £35,772 (SC6)",
+   "closes": "Closes 20 Nov 2026",
+   "url": "https://gloucestershireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/15/opp/1283-6509-Decision-Maker-Disclosure-and-Barring-Unit/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "ranks": [
+    "pc",
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "wal",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee Police Constable / Detective Constable",
+   "org": "Gwent Police",
+   "place": "Forcewide (Blaenau Gwent, Caerphilly, Monmouthshire, Newport, Torfaen)",
+   "pay": "£32,255 – £52,015 (national PC pay scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-3/candidate/so/pm/6/pl/16/opp/9960-Gwent-Police-Transferee-Police-Constable-Detective-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "ranks": [
+    "insp"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "wal",
+   "pmin": 66000,
+   "pmax": 71396,
+   "title": "Transferee Police Inspector / Detective Inspector",
+   "org": "Gwent Police",
+   "place": "Forcewide (Blaenau Gwent, Caerphilly, Monmouthshire, Newport, Torfaen)",
+   "pay": "£66,000 – £71,396 (national Inspector pay scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-3/candidate/so/pm/6/pl/16/opp/9961-Gwent-Police-Transferee-Police-Inspector-Detective-Inspector/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "wal"
+   ],
+   "region": "wal",
+   "pmin": 28914,
+   "pmax": 30897,
+   "title": "Firearms Enquiry Caseworker",
+   "org": "Dyfed-Powys Police",
+   "place": "Force Headquarters",
+   "pay": "£28,914 – £30,897 (Grade D)",
+   "closes": "Closes 19 Nov 2026",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-3/candidate/so/pm/6/pl/17/opp/10097-Firearms-Enquiry-Caseworker/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "wal"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "wal",
+   "title": "Volunteer Police Cadet Leader",
+   "org": "Dyfed-Powys Police",
+   "place": "Ammanford, Brecon, Carmarthen, Llanelli, Newtown & Pembroke Dock",
+   "pay": "Volunteer (unpaid)",
+   "closes": "Closes 4 Jan 2027",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-3/candidate/so/pm/6/pl/17/opp/10002-Volunteer-Police-Cadet-Leader/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "ne",
+   "title": "Community Safety Volunteer",
+   "org": "Humberside Police",
+   "place": "Force-wide (Hull, Beverley, Goole, Grimsby, Scunthorpe)",
+   "pay": "Volunteer (unpaid)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://hpandsyp.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/10157-HP-Community-Safety-Volunteer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32256,
+   "pmax": 52014,
+   "title": "Police Constable – New Recruit",
+   "org": "Lincolnshire Police",
+   "place": "Boston, Grantham, Lincoln, Skegness, Spalding",
+   "pay": "£32,256 – £52,014",
+   "closes": "Closes 10 Jan 2027",
+   "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/297-Police-Constable-New-Recruit/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Response Constable",
+   "org": "Lincolnshire Police",
+   "place": "Boston, Grantham, Lincoln, Skegness, Spalding, Stamford",
+   "pay": "£32,255 – £52,015 (national PC scale)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/292-Transferee-Response-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "insp"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "pmin": 54600,
+   "pmax": 59064,
+   "title": "Transferee – Response and Detective Inspectors",
+   "org": "Lincolnshire Police",
+   "place": "Boston, Grantham, Lincoln, Skegness, Spalding, Stamford",
+   "pay": "£54,600 – £59,064",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/348-Transferee-Response-and-Detective-Inspectors/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "wal",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – 2027 intake (E)",
+   "org": "North Wales Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (national PC scale)",
+   "closes": "Closes 22 Nov 2026",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-7/brand-3/candidate/so/pm/6/pl/18/opp/10017-Police-Constable-2027-E/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "wal",
+   "pmin": 32256,
+   "pmax": 52015,
+   "title": "Police Constable Entry Programme (PCEP) – November 2026",
+   "org": "South Wales Police",
+   "place": "Forcewide (training in Bridgend)",
+   "pay": "Starting salary £32,256 (national PC scale to £52,015)",
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-5/brand-3/wid-2/candidate/so/pm/6/pl/15/opp/10110-Police-Constable-Entry-Programme-PCEP-November-2026/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "ranks": [
+    "ps",
+    "insp"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "wal",
+   "pmin": 55443,
+   "pmax": 71396,
+   "title": "Police Sergeant / Inspector – Transferee",
+   "org": "South Wales Police",
+   "place": "Forcewide",
+   "pay": "£55,443 – £71,396 (national Sgt/Insp scales)",
+   "closes": "Closes 30 Jan 2027",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-5/brand-3/wid-2/candidate/so/pm/6/pl/15/opp/9663-Police-Sergeant-Inspector-Transferee-Opportunity/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "wal",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – Transferee",
+   "org": "South Wales Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015 (national PC scale)",
+   "closes": "Closes 29 Jan 2027",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-5/brand-3/wid-2/candidate/so/pm/6/pl/15/opp/9660-Police-Constable-Transferee-Opportunity/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "wal"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "wal",
+   "title": "Special Constable (Volunteer Officer)",
+   "org": "South Wales Police",
+   "place": "Forcewide",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-5/brand-3/wid-2/candidate/so/pm/6/pl/15/opp/9910-Special-Constable-Volunteer-Officer-Campaign-September-2026/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 27204,
+   "pmax": 29859,
+   "title": "Detention Officer",
+   "org": "West Yorkshire Police",
+   "place": "Wakefield, Leeds, Bradford, Dewsbury, Halifax",
+   "pay": "£27,204 – £29,859 basic, plus 20% shift and 14% weekend allowances (£36,453 – £40,011 total)",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8146-Detention-Officer-November-2026/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "ne",
+   "title": "Special Constable",
+   "org": "West Yorkshire Police",
+   "place": "Forcewide",
+   "pay": "Volunteer – expenses paid",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8015-Special-Constable-2026-Q4/en-GB"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "title": "Contact Officer (Initial Contact)",
+   "org": "West Yorkshire Police",
+   "place": "Wakefield, Bradford",
+   "pay": "Up to £39,846 a year including allowances",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8151-Contact-Officer-Initial-Contact/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "sco"
+   ],
+   "ranks": [
+    "pc",
+    "ps",
+    "insp"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sco",
+   "pmin": 34001,
+   "pmax": 54597,
+   "title": "Transferee – all substantive ranks (rural areas)",
+   "org": "Police Scotland",
+   "place": "Rural areas of Scotland",
+   "pay": "Paid at the Police Scotland rate for your rank and service (PC £34,001 – £54,597)",
+   "closes": "Open – see force website",
+   "url": "https://www.scotland.police.uk/jobs/transferees/"
   }
  ]
 }
