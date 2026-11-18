@@ -1,4 +1,35 @@
 {
   "updated": "18 Nov 2026",
-  "people": []
+  "people": [
+    {
+      "name": "Laura | Extra Income for Shift Workers",
+      "handle": "worldwide.wanderlust",
+      "category": "business",
+      "blurb": "Extra income for shift workers."
+    },
+    {
+      "name": "Fit for Rescue",
+      "handle": "fitfor_rescue",
+      "category": "fitness",
+      "blurb": "Fitness coaching for firefighters and first responders."
+    },
+    {
+      "name": "Ross Davies Fitness",
+      "handle": "rossdaviesfitness",
+      "category": "fitness",
+      "blurb": "Training and nutrition coaching for police officers and shift workers."
+    },
+    {
+      "name": "Morris on the Beat",
+      "handle": "morris_on_the_beat",
+      "category": "creative",
+      "blurb": "Dixie, a preserved 1968 Morris Minor police car."
+    },
+    {
+      "name": "Emma | Blue Light Coaching",
+      "handle": "emma_bluelightcoaching",
+      "category": "coaching",
+      "blurb": "Coaching for emergency-services people and shift workers."
+    }
+  ]
 }
