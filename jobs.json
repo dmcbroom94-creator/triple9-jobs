@@ -1,5 +1,5 @@
 {
- "updated": "18 Nov 2026",
+ "updated": "19 Nov 2026",
  "jobs": [
   {
    "cat": "police",
@@ -15,14 +15,15 @@
    ],
    "hours": "shift",
    "region": "sw",
-   "pmin": 32256,
-   "pmax": 52014,
    "title": "Police Constable Transferee",
    "org": "Avon and Somerset Police",
-   "place": "Forcewide",
-   "pay": "£32,256 – £52,014",
+   "place": "Forcewide- Avon and Somerset area",
+   "pay": "£32,256 - £52,014",
    "closes": "Closes 31 Dec 2026",
-   "url": "https://asp.tal.net/vx/appcentre-External/brand-0/candidate/so/pm/6/pl/24/opp/707-Police-Constable-Transferee/en-GB"
+   "url": "https://asp.tal.net/vx/appcentre-External/brand-0/candidate/so/pm/6/pl/24/opp/707-Police-Constable-Transferee/en-GB",
+   "source": "avon_oleeo",
+   "sourceJobId": "707",
+   "lastCheckedAt": "2026-11-19T22:41:46Z"
   },
   {
    "cat": "police",
@@ -266,14 +267,15 @@
     "probation"
    ],
    "region": "se",
-   "pmin": 30000,
-   "pmax": 50000,
-   "title": "Probation Officer – Southampton",
-   "org": "Probation Service",
+   "title": "22510 - Probation Officer - Southampton",
+   "org": "Ministry of Justice",
    "place": "Southampton",
-   "pay": "£30,000 – £50,000",
-   "closes": "Closes 20 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/22510-Probation-Officer-Southampton/22510"
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 20-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/22510-Probation-Officer-Southampton/22510",
+   "source": "moj",
+   "sourceJobId": "22510",
+   "lastCheckedAt": "2026-11-19T22:36:45Z"
   },
   {
    "cat": "justice",
@@ -781,12 +783,15 @@
    ],
    "hours": "shift",
    "region": "sw",
-   "title": "Transferee & Re-Joiner Police Constables – Bournemouth",
+   "title": "Transferee and Re-Joiner Police Constables - Bournemouth",
    "org": "British Transport Police",
-   "place": "Bournemouth",
-   "pay": "BTP constable scale – see advert",
+   "place": "Bournemouth, United Kingdom",
+   "pay": "Constable Rank",
    "closes": "Open – see advert",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bournemouth/1706"
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bournemouth/1706",
+   "source": "btp",
+   "sourceJobId": "1706",
+   "lastCheckedAt": "2026-11-19T22:43:57.377167Z"
   },
   {
    "cat": "police",
@@ -804,12 +809,15 @@
    ],
    "hours": "shift",
    "region": "lon|mid",
-   "title": "Transferee & Re-Joiner Police Constables – Control Room",
+   "title": "Transferee and Re-Joiner Police Constables - Control Room",
    "org": "British Transport Police",
-   "place": "London or Birmingham",
-   "pay": "BTP constable scale – see advert",
-   "closes": "Closes 13 Dec 2026",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Control-Room/1908"
+   "place": "London or Birmingham, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 13 December, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Control-Room/1908",
+   "source": "btp",
+   "sourceJobId": "1908",
+   "lastCheckedAt": "2026-11-19T22:42:27.520366Z"
   },
   {
    "cat": "justice",
@@ -868,14 +876,15 @@
     "probation"
    ],
    "region": "mid",
-   "pmin": 37238,
-   "pmax": 44520,
-   "title": "Qualified Probation Officer – Herefordshire, Shropshire & Telford",
-   "org": "Probation Service",
+   "title": "19858 - Qualified Probation Officer",
+   "org": "Ministry of Justice",
    "place": "Hereford",
-   "pay": "£37,238 – £44,520",
-   "closes": "Closes 8 Jan 2027",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858"
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 08-Jan-2027",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858",
+   "source": "moj",
+   "sourceJobId": "19858",
+   "lastCheckedAt": "2026-11-19T22:39:08Z"
   },
   {
    "cat": "justice",
@@ -917,14 +926,15 @@
    "entry": "new",
    "hours": "shift",
    "region": "sw",
-   "pmin": 25760,
-   "pmax": 27476,
-   "title": "Emergency Care Assistant Apprentice – Ferndown",
-   "org": "South Western Ambulance Service",
-   "place": "Ferndown, Dorset",
-   "pay": "£25,760 – £27,476",
+   "title": "Emergency Care Assistant Apprentice - Ferndown MOB, Dorset ONLY",
+   "org": "South Western Ambulance Service NHS Foundation Trust",
+   "place": "Ferndown, BH21 7BU",
+   "pay": "£25,760 to £27,476 a year Per annum",
    "closes": "Closes 22 Nov 2026",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293"
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293",
+   "source": "nhs_jobs_C9202",
+   "sourceJobId": "5726000",
+   "lastCheckedAt": "2026-11-19T22:42:04.837502Z"
   },
   {
    "cat": "ambulance",
@@ -934,14 +944,15 @@
    "entry": "new",
    "hours": "shift",
    "region": "sw",
-   "pmin": 25760,
-   "pmax": 27476,
-   "title": "Emergency Care Assistant Apprentice – Salisbury",
-   "org": "South Western Ambulance Service",
-   "place": "Salisbury, Wiltshire",
-   "pay": "£25,760 – £27,476",
+   "title": "Emergency Care Assistant Apprentice - Salisbury ONLY",
+   "org": "South Western Ambulance Service NHS Foundation Trust",
+   "place": "Wiltshire, SP5 3JB",
+   "pay": "£25,760 to £27,476 a year Per annum",
    "closes": "Closes 22 Nov 2026",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294"
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294",
+   "source": "nhs_jobs_C9202",
+   "sourceJobId": "5726002",
+   "lastCheckedAt": "2026-11-19T22:42:01.565564Z"
   },
   {
    "cat": "ambulance",
@@ -951,14 +962,15 @@
    "entry": "new",
    "hours": "shift",
    "region": "sw",
-   "pmin": 25760,
-   "pmax": 27476,
-   "title": "Emergency Care Assistant Apprentice – Somerset",
-   "org": "South Western Ambulance Service",
-   "place": "Bridgwater area, Somerset",
-   "pay": "£25,760 – £27,476",
+   "title": "Emergency Care Assistant Apprentice - Somerset ONLY",
+   "org": "South Western Ambulance Service NHS Foundation Trust",
+   "place": "Somerset, TA6 4FJ",
+   "pay": "£25,760 to £27,476 a year Per annum",
    "closes": "Closes 22 Nov 2026",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292"
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292",
+   "source": "nhs_jobs_C9202",
+   "sourceJobId": "5725976",
+   "lastCheckedAt": "2026-11-19T22:42:08.101743Z"
   },
   {
    "cat": "ambulance",
@@ -968,14 +980,15 @@
    "entry": "new",
    "hours": "shift",
    "region": "sw",
-   "pmin": 25760,
-   "pmax": 27476,
-   "title": "Emergency Care Assistant Apprentice – Isles of Scilly",
-   "org": "South Western Ambulance Service",
-   "place": "St Mary's, Isles of Scilly",
-   "pay": "£25,760 – £27,476",
+   "title": "Emergency Care Assistant Apprentice - Isles of Scilly ONLY",
+   "org": "South Western Ambulance Service NHS Foundation Trust",
+   "place": "St Mary's, TR21 0LE",
+   "pay": "£25,760 to £27,476 a year Per annum",
    "closes": "Closes 27 Nov 2026",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295"
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295",
+   "source": "nhs_jobs_C9202",
+   "sourceJobId": "5726045",
+   "lastCheckedAt": "2026-11-19T22:41:59.504711Z"
   },
   {
    "cat": "ambulance",
@@ -1415,14 +1428,15 @@
     "investigation"
    ],
    "region": "lon",
-   "pmin": 49325,
-   "pmax": 53081,
-   "title": "Senior Investigator – Prisons and Probation Ombudsman",
+   "title": "24133 - Senior Investigator - Prisons and Probation Ombudsman",
    "org": "Ministry of Justice",
    "place": "London",
-   "pay": "£49,325 – £53,081 a year",
-   "closes": "Closes 25 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24133-Senior-Investigator-Prisons-and-Probation-Ombudsman/24133"
+   "pay": "£49,325 - £53,081",
+   "closes": "Closes 25-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24133-Senior-Investigator-Prisons-and-Probation-Ombudsman/24133",
+   "source": "moj",
+   "sourceJobId": "24133",
+   "lastCheckedAt": "2026-11-19T22:34:08Z"
   },
   {
    "cat": "police",
@@ -1822,14 +1836,15 @@
    "entry": "new",
    "hours": "shift",
    "region": "sco",
-   "pmin": 33609,
-   "pmax": 52014,
-   "title": "Police Officer – new recruits (Edinburgh & Glasgow)",
+   "title": "Police Officer - Edinburgh and Glasgow",
    "org": "British Transport Police",
-   "place": "Edinburgh & Glasgow",
-   "pay": "£33,609 – £52,014",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Edinburgh-and-Glasgow/1897"
+   "place": "Edinburgh and Glasgow, United Kingdom",
+   "pay": "£33,609 - £52,014",
+   "closes": "Closes 30 November, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Edinburgh-and-Glasgow/1897",
+   "source": "btp",
+   "sourceJobId": "1897",
+   "lastCheckedAt": "2026-11-19T22:42:37.611190Z"
   },
   {
    "cat": "police",
@@ -1844,14 +1859,15 @@
    "entry": "new",
    "hours": "shift",
    "region": "lon",
-   "pmin": 33609,
-   "pmax": 52014,
-   "title": "Police Officer – new recruits (Inner London)",
+   "title": "Police Officer - Inner London (No Degree Required)",
    "org": "British Transport Police",
-   "place": "Inner London",
-   "pay": "£33,609 rising to £52,014 after five years + £5,783.75 London Allowance + £3,261 London Weighting",
-   "closes": "Closes 31 Dec 2026",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Inner-London/1871"
+   "place": "Inner London, United Kingdom",
+   "pay": "£33,609 per annum rising year-on-year to £52,014 after five years. plus £5,783.75 London Allowance and £3,261 London Weighting Allowance",
+   "closes": "Closes 31 December, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Inner-London/1871",
+   "source": "btp",
+   "sourceJobId": "1871",
+   "lastCheckedAt": "2026-11-19T22:43:07.515477Z"
   },
   {
    "cat": "police",
@@ -1869,12 +1885,15 @@
    ],
    "hours": "shift",
    "region": "ne",
-   "title": "Transferee & Re-Joiner Police Constables – York",
+   "title": "Transferee and Re-Joiner Police Constables - York",
    "org": "British Transport Police",
-   "place": "York",
-   "pay": "BTP constable scale – see advert",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-York/1914"
+   "place": "York, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 30 November, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-York/1914",
+   "source": "btp",
+   "sourceJobId": "1914",
+   "lastCheckedAt": "2026-11-19T22:41:57.613215Z"
   },
   {
    "cat": "police",
@@ -1892,12 +1911,15 @@
    ],
    "hours": "shift",
    "region": "nw",
-   "title": "Transferee & Re-Joiner Police Constables – Manchester Piccadilly",
+   "title": "Transferee and Re-Joiner Police Constables - Manchester Piccadilly",
    "org": "British Transport Police",
-   "place": "Manchester Piccadilly",
-   "pay": "BTP constable scale – see advert",
+   "place": "Manchester Piccadilly, United Kingdom",
+   "pay": "Constable Rank",
    "closes": "Open – see advert",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Manchester-Piccadilly/1913"
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Manchester-Piccadilly/1913",
+   "source": "btp",
+   "sourceJobId": "1913",
+   "lastCheckedAt": "2026-11-19T22:42:07.293118Z"
   },
   {
    "cat": "police",
@@ -1915,12 +1937,15 @@
    ],
    "hours": "shift",
    "region": "sw",
-   "title": "Transferee & Re-Joiner Police Constables – Bristol Operational Support Unit",
+   "title": "Transferee and Re-Joiner Police Constables - Bristol - Operational Support Unit (OSU)",
    "org": "British Transport Police",
-   "place": "Bristol",
-   "pay": "BTP constable scale – see advert",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bristol-Operational-Support-Unit-OSU/1911"
+   "place": "Bristol, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 30 November, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bristol-Operational-Support-Unit-OSU/1911",
+   "source": "btp",
+   "sourceJobId": "1911",
+   "lastCheckedAt": "2026-11-19T22:42:17.879779Z"
   },
   {
    "cat": "control",
@@ -1929,12 +1954,15 @@
    ],
    "hours": "shift",
    "region": "mid",
-   "title": "First Contact Centre – Contact Handler",
+   "title": "First Contact Centre - Contact Handler",
    "org": "British Transport Police",
-   "place": "Birmingham",
-   "pay": "See advert",
-   "closes": "Closes 4 Jan 2027",
-   "url": "https://vacancies.btp.police.uk/jobs/job/First-Contact-Centre-Contact-Handler/1917"
+   "place": "Birmingham, United Kingdom",
+   "pay": "£37,005.87",
+   "closes": "Closes 4 January, 2027",
+   "url": "https://vacancies.btp.police.uk/jobs/job/First-Contact-Centre-Contact-Handler/1917",
+   "source": "btp",
+   "sourceJobId": "1917",
+   "lastCheckedAt": "2026-11-19T22:41:47.194828Z"
   },
   {
    "cat": "police",
@@ -2385,14 +2413,15 @@
     "probation"
    ],
    "region": "mid",
-   "pmin": 28064,
-   "pmax": 33549,
-   "title": "Probation Services Officer – Community Payback (Derbyshire)",
-   "org": "Probation Service",
-   "place": "Chesterfield, Derbyshire",
-   "pay": "£28,064 – £33,549",
-   "closes": "Closes 17 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24410-Community-Payback-Probation-Services-Officer-Derbyshire/24410"
+   "title": "24410 - Community Payback - Probation Services Officer (Derbyshire)",
+   "org": "Ministry of Justice",
+   "place": "Chesterfield",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 17-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24410-Community-Payback-Probation-Services-Officer-Derbyshire/24410",
+   "source": "moj",
+   "sourceJobId": "24410",
+   "lastCheckedAt": "2026-11-19T22:32:11Z"
   },
   {
    "cat": "justice",
@@ -2400,14 +2429,15 @@
     "probation"
    ],
    "region": "mid",
-   "pmin": 28064,
-   "pmax": 33549,
-   "title": "Probation Services Officer – Community Payback (Leicester)",
-   "org": "Probation Service",
+   "title": "24408 - Community Payback - Probation Services Officer (Leicester)",
+   "org": "Ministry of Justice",
    "place": "Leicester",
-   "pay": "£28,064 – £33,549",
-   "closes": "Closes 17 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24408-Community-Payback-Probation-Services-Officer-Leicester/24408"
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 17-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24408-Community-Payback-Probation-Services-Officer-Leicester/24408",
+   "source": "moj",
+   "sourceJobId": "24408",
+   "lastCheckedAt": "2026-11-19T22:32:13Z"
   },
   {
    "cat": "justice",
@@ -2415,12 +2445,15 @@
     "probation"
    ],
    "region": "mid",
-   "title": "Probation Services Officer – Leicester",
-   "org": "Probation Service",
+   "title": "24379 - Probation Services Officer - Leicester",
+   "org": "Ministry of Justice",
    "place": "Leicester",
-   "pay": "Up to £40,000 – see advert",
-   "closes": "Closes 8 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24379-Probation-Services-Officer-Leicester/24379"
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 08-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24379-Probation-Services-Officer-Leicester/24379",
+   "source": "moj",
+   "sourceJobId": "24379",
+   "lastCheckedAt": "2026-11-19T22:32:19Z"
   },
   {
    "cat": "justice",
@@ -2428,12 +2461,15 @@
     "probation"
    ],
    "region": "nw",
-   "title": "Community Payback Supervisor",
-   "org": "Probation Service",
+   "title": "24391 - Community Payback Supervisor - Carlisle",
+   "org": "Ministry of Justice",
    "place": "Carlisle",
-   "pay": "Up to £40,000 – see advert",
-   "closes": "Closes 1 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24391-Community-Payback-Supervisor-Carlisle/24391"
+   "pay": "£28,064 - £33,549 (Pro-rata for Part-time roles)",
+   "closes": "Closes 01-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24391-Community-Payback-Supervisor-Carlisle/24391",
+   "source": "moj",
+   "sourceJobId": "24391",
+   "lastCheckedAt": "2026-11-19T22:32:17Z"
   },
   {
    "cat": "justice",
@@ -2441,14 +2477,15 @@
     "probation"
    ],
    "region": "lon",
-   "pmin": 28064,
-   "pmax": 33549,
-   "title": "Probation Service Officer – Barking, Dagenham & Havering (outcome in a day)",
-   "org": "Probation Service",
-   "place": "East London",
-   "pay": "£28,064 – £33,549 + £4,505 London weighting",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336-Probation-Service-Officer-Barking-Dagenham-Havering-Probation-Delivery-Unit-London-Outcome-in-a-Day/24336"
+   "title": "24336 - Probation Service Officer - Barking, Dagenham & Havering Probation Delivery Unit - London (Outcome in a Day)",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549, Pro-Rata for Part-Time roles",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336-Probation-Service-Officer-Barking-Dagenham-Havering-Probation-Delivery-Unit-London-Outcome-in-a-Day/24336",
+   "source": "moj",
+   "sourceJobId": "24336",
+   "lastCheckedAt": "2026-11-19T22:32:29Z"
   },
   {
    "cat": "justice",
@@ -2456,12 +2493,15 @@
     "probation"
    ],
    "region": "lon",
-   "title": "Probation Service Officer – Redbridge & Waltham Forest (outcome in a day)",
-   "org": "Probation Service",
-   "place": "East London",
-   "pay": "Up to £40,000 – see advert",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24333"
+   "title": "24333 - Probation Service Officer - Redbridge And Waltham Forest Probation Delivery Unit, London (Outcome in a Day)",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549 (Pro-rata for Part-time roles)",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24333",
+   "source": "moj",
+   "sourceJobId": "24333",
+   "lastCheckedAt": "2026-11-19T22:32:32Z"
   },
   {
    "cat": "justice",
@@ -2469,12 +2509,15 @@
     "probation"
    ],
    "region": "sw",
-   "title": "Probation Services Officer – Bristol",
-   "org": "Probation Service",
+   "title": "24318 - Probation Services Officer - Bristol (South West)",
+   "org": "Ministry of Justice",
    "place": "Bristol",
-   "pay": "Up to £40,000 – see advert",
-   "closes": "Closes 14 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24318"
+   "pay": "£28,064 - £33,549 (Pro-rata for Part-time roles)",
+   "closes": "Closes 14-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24318",
+   "source": "moj",
+   "sourceJobId": "24318",
+   "lastCheckedAt": "2026-11-19T22:32:53Z"
   },
   {
    "cat": "justice",
@@ -3133,14 +3176,15 @@
    ],
    "hours": "shift",
    "region": "sw",
-   "pmin": 36453,
-   "pmax": 40011,
    "title": "Emergency Call Handler / Dispatcher",
    "org": "Avon and Somerset Police",
-   "place": "Portishead HQ",
-   "pay": "£36,453 – £40,011 including shift allowance",
+   "place": "Portishead, Police Headquarters, Valley Road, Portishead- BS20 8QJ",
+   "pay": "£36,453 - £40,011 (inc. allowances)",
    "closes": "Closes 4 Jan 2027",
-   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8420-Emergency-Call-Handler-Dispatcher/en-GB"
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8420-Emergency-Call-Handler-Dispatcher/en-GB",
+   "source": "avon_oleeo",
+   "sourceJobId": "8420",
+   "lastCheckedAt": "2026-11-19T22:41:57Z"
   },
   {
    "cat": "police",
@@ -3220,14 +3264,15 @@
    ],
    "hours": "shift",
    "region": "sw",
-   "pmin": 32255,
-   "pmax": 52015,
-   "title": "Police Constable Dog Handler – Transferee",
+   "title": "Police Constable Dog Handler Transferee",
    "org": "Avon and Somerset Police",
-   "place": "Forcewide",
-   "pay": "£32,255 – £52,015 (PC scale)",
+   "place": "Almondsbury, Road Policing Unit -BS32 4AG, Bridgwater Police Centre- TA6 4RR",
+   "pay": "£32,256 - £52,014",
    "closes": "Closes 31 Dec 2026",
-   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/5785-Police-Constable-Dog-Handler-Transferee/en-GB"
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/5785-Police-Constable-Dog-Handler-Transferee/en-GB",
+   "source": "avon_oleeo",
+   "sourceJobId": "5785",
+   "lastCheckedAt": "2026-11-19T22:41:27Z"
   },
   {
    "cat": "police",
@@ -4527,6 +4572,1751 @@
    "pay": "Paid at the Police Scotland rate for your rank and service (PC £34,001 – £54,597)",
    "closes": "Open – see force website",
    "url": "https://www.scotland.police.uk/jobs/transferees/"
+  },
+  {
+   "cat": "police",
+   "title": "Detective Sergeant",
+   "org": "Avon and Somerset Police",
+   "place": "Bridgwater Police Centre- TA6 4RR, Bristol, Concorde House- BS16 7FH, Bristol, Kenneth Steele House- BS2 0TQ, Yeovil, Police Station- BA20 1SN",
+   "pay": "£55,443 - £58,176",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/2164-Detective-Sergeant/en-GB",
+   "region": "uk",
+   "source": "avon_oleeo",
+   "sourceJobId": "2164",
+   "lastCheckedAt": "2026-11-19T22:41:36Z",
+   "ptype": "officer"
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Nottinghamshire, NG7 7EA",
+   "pay": "£41,500 a year",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-106076",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5684423",
+   "lastCheckedAt": "2026-11-19T22:41:01.114038Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Martlesham, Ipswich, IP5 3QY",
+   "pay": "£41,500 a year",
+   "closes": "Closes 05 Dec 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-105210",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5692478",
+   "lastCheckedAt": "2026-11-19T22:41:03.324374Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Liverpool, L25 2PY",
+   "pay": "£41,500 a year",
+   "closes": "Closes 20 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-97934",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5681943",
+   "lastCheckedAt": "2026-11-19T22:41:06.668270Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Southend-on-Sea, SS2 6ES",
+   "pay": "£41,500 a year",
+   "closes": "Closes 20 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-107361",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5687954",
+   "lastCheckedAt": "2026-11-19T22:41:08.820736Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Bury, BL9 0NL",
+   "pay": "£41,500 a year",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-105075",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5684217",
+   "lastCheckedAt": "2026-11-19T22:41:12.159099Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Birmingham, B42 2TU",
+   "pay": "£41,500 a year",
+   "closes": "Closes 02 Dec 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-106410",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5684439",
+   "lastCheckedAt": "2026-11-19T22:41:19.331212Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Barnstaple, EX31 2AA",
+   "pay": "£41,500 a year",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-106437",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5688091",
+   "lastCheckedAt": "2026-11-19T22:41:22.635107Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Melksham, SN12 6QQ",
+   "pay": "£41,500 a year",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-104210",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5618895",
+   "lastCheckedAt": "2026-11-19T22:41:25.950543Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Crawley, RH10 8BF",
+   "pay": "£41,500 a year",
+   "closes": "Closes 21 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-105683",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5684453",
+   "lastCheckedAt": "2026-11-19T22:41:29.158424Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Dewsbury, WF13 2NS",
+   "pay": "£41,500 a year",
+   "closes": "Closes 22 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-107941",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5708260",
+   "lastCheckedAt": "2026-11-19T22:41:32.474421Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Runcorn, WA7 1TD",
+   "pay": "£41,500 a year",
+   "closes": "Closes 20 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-104730",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5682155",
+   "lastCheckedAt": "2026-11-19T22:41:35.798686Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Keynsham, Bristol, BS31 1SA",
+   "pay": "£41,500 a year",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-107429",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5689032",
+   "lastCheckedAt": "2026-11-19T22:41:39.000034Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Wymondham, Norfolk, NR18 0WZ",
+   "pay": "£41,500 a year",
+   "closes": "Closes 28 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-104072",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5692553",
+   "lastCheckedAt": "2026-11-19T22:41:41.633138Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Custody Nurse or Paramedic",
+   "org": "Care & Custody - A Mitie Company",
+   "place": "Harlow, CM20 1HG",
+   "pay": "£41,500 a year",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-107357",
+   "region": "uk",
+   "source": "nhs_jobs_E0059",
+   "sourceJobId": "5687872",
+   "lastCheckedAt": "2026-11-19T22:41:44.836247Z",
+   "skills": [
+    "nurse",
+    "para"
+   ]
+  },
+  {
+   "cat": "ambulance",
+   "title": "Newly Qualified Paramedic - Trust wide",
+   "org": "East Midlands Ambulance Service NHS Trust",
+   "place": "Trust Wide, NG8 6PY",
+   "pay": "£32,073 to £39,043 a year Agenda for Change. Section 2 Unsocial Hours",
+   "closes": "Closes 29 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9335-26-0173",
+   "region": "uk",
+   "source": "nhs_jobs_C9335",
+   "sourceJobId": "5726358",
+   "lastCheckedAt": "2026-11-19T22:41:51.214594Z"
+  },
+  {
+   "cat": "ambulance",
+   "title": "Newly Qualified Paramedic (Provisional C1)",
+   "org": "London Ambulance Service NHS Trust",
+   "place": "LONDON, E16 2QU; BRENTFORD, TW8 9DS",
+   "pay": "£32,073 to £39,043 a year Per annum pro rata - Excluding HCAS",
+   "closes": "Closes 24 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9308-26-0184",
+   "region": "uk",
+   "source": "nhs_jobs_C9308",
+   "sourceJobId": "5720165",
+   "lastCheckedAt": "2026-11-19T22:42:25.884656Z"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Wolverhampton",
+   "org": "British Transport Police",
+   "place": "Wolverhampton, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 3 December, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Wolverhampton/1873",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1873",
+   "lastCheckedAt": "2026-11-19T22:42:47.305694Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Birmingham",
+   "org": "British Transport Police",
+   "place": "Birmingham, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 31 January, 2027",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Birmingham/1872",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1872",
+   "lastCheckedAt": "2026-11-19T22:42:57.213302Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Plymouth",
+   "org": "British Transport Police",
+   "place": "Plymouth, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Open – see advert",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Plymouth/1762",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1762",
+   "lastCheckedAt": "2026-11-19T22:43:17.252854Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Truro",
+   "org": "British Transport Police",
+   "place": "Truro, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Open – see advert",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Truro/1760",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1760",
+   "lastCheckedAt": "2026-11-19T22:43:27.865332Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Detective Constables - London",
+   "org": "British Transport Police",
+   "place": "London, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 29 November, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Detective-Constables-London/1732",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1732",
+   "lastCheckedAt": "2026-11-19T22:43:37.378057Z",
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Luton and Stevenage",
+   "org": "British Transport Police",
+   "place": "Luton & Stevenage , United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Open – see advert",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Luton-and-Stevenage/1707",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1707",
+   "lastCheckedAt": "2026-11-19T22:43:47.372854Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Leeds",
+   "org": "British Transport Police",
+   "place": "Leeds, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Closes 20 November, 2026",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Leeds/1257",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1257",
+   "lastCheckedAt": "2026-11-19T22:44:07.400533Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constables - Brighton",
+   "org": "British Transport Police",
+   "place": "Brighton, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Open – see advert",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Brighton/1216",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "1216",
+   "lastCheckedAt": "2026-11-19T22:44:19.664149Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "BTP Returners - Police Constable",
+   "org": "British Transport Police",
+   "place": "Various, United Kingdom",
+   "pay": "See advert",
+   "closes": "Open – see advert",
+   "url": "https://vacancies.btp.police.uk/jobs/job/BTP-Returners-Police-Constable/991",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "991",
+   "lastCheckedAt": "2026-11-19T22:44:27.379805Z",
+   "ranks": [
+    "pc"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "police",
+   "title": "Transferee and Re-Joiner Police Constable - London and the South East",
+   "org": "British Transport Police",
+   "place": "London and the South East including Guildford and Croydon, United Kingdom",
+   "pay": "Constable Rank",
+   "closes": "Open – see advert",
+   "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constable-London-and-the-South-East/793",
+   "region": "uk",
+   "source": "btp",
+   "sourceJobId": "793",
+   "lastCheckedAt": "2026-11-19T22:44:37.269377Z",
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "ptype": "officer",
+   "force": "special"
+  },
+  {
+   "cat": "justice",
+   "title": "24486 - Probation Services Officer - Approved Premises (Bristol)",
+   "org": "Ministry of Justice",
+   "place": "Bristol",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 10-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24486-Probation-Services-Officer-Approved-Premises-Bristol/24486",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24486",
+   "lastCheckedAt": "2026-11-19T22:31:55Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24483 - Community Payback Supervisor - Workington - Part Time",
+   "org": "Ministry of Justice",
+   "place": "Workington",
+   "pay": "£28,064 - £33,549, Pro-Rata",
+   "closes": "Closes 03-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24483-Community-Payback-Supervisor-Workington-Part-Time/24483",
+   "region": "nw",
+   "source": "moj",
+   "sourceJobId": "24483",
+   "lastCheckedAt": "2026-11-19T22:31:57Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24427 - Probation Services Officer - Stockton and Hartlepool",
+   "org": "Ministry of Justice",
+   "place": "Stockton-on-Tees",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24427-Probation-Services-Officer-Stockton-and-Hartlepool/24427",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24427",
+   "lastCheckedAt": "2026-11-19T22:31:59Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24424 - Probation Services Officer - Sunderland",
+   "org": "Ministry of Justice",
+   "place": "Sunderland",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24424-Probation-Services-Officer-Sunderland/24424",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24424",
+   "lastCheckedAt": "2026-11-19T22:32:01Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24421 - Probation Services Officer - County Durham & Darlington",
+   "org": "Ministry of Justice",
+   "place": "Darlington, Durham, Newton Aycliffe, Peterlee",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24421-Probation-Services-Officer-County-Durham-Darlington/24421",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24421",
+   "lastCheckedAt": "2026-11-19T22:32:03Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24419 - Probation Services Officer - Courts & Enforcement",
+   "org": "Ministry of Justice",
+   "place": "Bedlington, Durham, Middlesbrough, Newcastle-upon-Tyne, Newton Aycliffe, North Shields, South Shields",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24419-Probation-Services-Officer-Courts-Enforcement/24419",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24419",
+   "lastCheckedAt": "2026-11-19T22:32:05Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24416 - Probation Services Officer - North East Prisons",
+   "org": "Ministry of Justice",
+   "place": "Durham, Morpeth, Stockton-on-Tees, Yarm",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24416-Probation-Services-Officer-North-East-Prisons/24416",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24416",
+   "lastCheckedAt": "2026-11-19T22:32:07Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24414 - Probation Services Officer - Gateshead and South Tyneside",
+   "org": "Ministry of Justice",
+   "place": "Gateshead, South Shields",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24414-Probation-Services-Officer-Gateshead-and-South-Tyneside/24414",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24414",
+   "lastCheckedAt": "2026-11-19T22:32:09Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24393 - Receptionist - Chippenham Probation Office - Full time - permanent",
+   "org": "Ministry of Justice",
+   "place": "Chippenham",
+   "pay": "£24,645 - £26,723",
+   "closes": "Closes 03-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24393-Receptionist-Chippenham-Probation-Office-Full-time-permanent/24393",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24393",
+   "lastCheckedAt": "2026-11-19T22:32:15Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24378 - Probation Services Officer - Leicester Courts",
+   "org": "Ministry of Justice",
+   "place": "Leicester",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 08-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24378-Probation-Services-Officer-Leicester-Courts/24378",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "24378",
+   "lastCheckedAt": "2026-11-19T22:32:21Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24369 - Community Payback Supervisor - Yorkshire and the Humber Probation Service - Unpaid Work - Scunthorpe & Grimsby - Full Time",
+   "org": "Ministry of Justice",
+   "place": "Grimsby, Scunthorpe",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 07-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24369-Community-Payback-Supervisor-Yorkshire-and-the-Humber-Probation-Service-Unpaid-Work-Scunthorpe-Grimsby-Full-Time/24369",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24369",
+   "lastCheckedAt": "2026-11-19T22:32:23Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24363 - Senior Probation Officer - Cheshire West",
+   "org": "Ministry of Justice",
+   "place": "Chester",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 03-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24363-Senior-Probation-Officer-Cheshire-West/24363",
+   "region": "nw",
+   "source": "moj",
+   "sourceJobId": "24363",
+   "lastCheckedAt": "2026-11-19T22:32:26Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24332 - Probation Service Officer - Tower Hamlets Probation Delivery Unit - London (Outcome in a Day)",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549, Pro-Rata for Part-Time roles",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24332-Probation-Service-Officer-Tower-Hamlets-Probation-Delivery-Unit-London-Outcome-in-a-Day/24332",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24332",
+   "lastCheckedAt": "2026-11-19T22:32:35Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24328 - Part-time Community Payback Receptionist - Nottingham",
+   "org": "Ministry of Justice",
+   "place": "Nottingham",
+   "pay": "£24,645 - £26,723 Pro-rata",
+   "closes": "Closes 16-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24328-Part-time-Community-Payback-Receptionist-Nottingham/24328",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "24328",
+   "lastCheckedAt": "2026-11-19T22:32:39Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24324 - Probation Service Officer - Hackney And City of London Probation Delivery Unit, London (Outcome in a Day)",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549 (Pro-rata for Part-time roles)",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24324-Probation-Service-Officer-Hackney-And-City-of-London-Probation-Delivery-Unit-London-Outcome-in-a-Day/24324",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24324",
+   "lastCheckedAt": "2026-11-19T22:32:43Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24322 - Senior Probation Officer (PQIP) - Nottinghamshire",
+   "org": "Ministry of Justice",
+   "place": "Mansfield, Nottingham, Worksop",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 03-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24322-Senior-Probation-Officer-PQIP-Nottinghamshire/24322",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "24322",
+   "lastCheckedAt": "2026-11-19T22:32:46Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24312 - Approved Premises Residential Worker - Northampton",
+   "org": "Ministry of Justice",
+   "place": "Northampton",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 01-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24312-Approved-Premises-Residential-Worker-Northampton/24312",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "24312",
+   "lastCheckedAt": "2026-11-19T22:32:57Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24306 - Probation Officer - Halton & Warrington",
+   "org": "Ministry of Justice",
+   "place": "Halton Lea, Warrington",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 01-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24306-Probation-Officer-Halton-Warrington/24306",
+   "region": "nw",
+   "source": "moj",
+   "sourceJobId": "24306",
+   "lastCheckedAt": "2026-11-19T22:33:01Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24280 - Approved Premises - Probation Service Officer - Crowley House (Female only) PIPE AP - Birmingham - Part Time",
+   "org": "Ministry of Justice",
+   "place": "Birmingham",
+   "pay": "£28,064 - £33,549, Pro-Rata",
+   "closes": "Closes 26-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24280-Approved-Premises-Probation-Service-Officer-Crowley-House-Female-only-PIPE-AP-Birmingham-Part-Time/24280",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "24280",
+   "lastCheckedAt": "2026-11-19T22:33:04Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24271 - Senior Probation Officer - HMP Winchester",
+   "org": "Ministry of Justice",
+   "place": "Winchester",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24271-Senior-Probation-Officer-HMP-Winchester/24271",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24271",
+   "lastCheckedAt": "2026-11-19T22:33:08Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24267 - Community Payback Supervisor - Milton Keynes (South Central)",
+   "org": "Ministry of Justice",
+   "place": "Milton Keynes",
+   "pay": "£28,064 - £33,549 (Pro-Rata for Part-Time roles)",
+   "closes": "Closes 04-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24267-Community-Payback-Supervisor-Milton-Keynes-South-Central/24267",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24267",
+   "lastCheckedAt": "2026-11-19T22:33:16Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24266 - Community Payback Supervisor - Bicester (South Central)",
+   "org": "Ministry of Justice",
+   "place": "Bicester",
+   "pay": "£28,064 - £33,549 (Pro-Rata for Part-Time roles)",
+   "closes": "Closes 04-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24266-Community-Payback-Supervisor-Bicester-South-Central/24266",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24266",
+   "lastCheckedAt": "2026-11-19T22:33:19Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24265 - Community Payback Supervisor - High Wycombe (South Central)",
+   "org": "Ministry of Justice",
+   "place": "High Wycombe",
+   "pay": "£28,064 - £33,549 (Pro-Rata for Part-Time roles)",
+   "closes": "Closes 04-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24265-Community-Payback-Supervisor-High-Wycombe-South-Central/24265",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24265",
+   "lastCheckedAt": "2026-11-19T22:33:22Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24262 - Personality Disorder Probation Officer (PDPO) London Probation Service",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£37,238 - £44,520 In addition this post attracts a London allowance payment which will be discussed at interview.",
+   "closes": "Closes 06-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24262-Personality-Disorder-Probation-Officer-PDPO-London-Probation-Service/24262",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24262",
+   "lastCheckedAt": "2026-11-19T22:33:27Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24248 - Approved Premises - Probation Services Officer - Luton",
+   "org": "Ministry of Justice",
+   "place": "Luton",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24248-Approved-Premises-Probation-Services-Officer-Luton/24248",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "24248",
+   "lastCheckedAt": "2026-11-19T22:33:31Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24241 - Approved Premises Residential Worker - Brighton",
+   "org": "Ministry of Justice",
+   "place": "Brighton and Hove",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24241-Approved-Premises-Residential-Worker-Brighton/24241",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24241",
+   "lastCheckedAt": "2026-11-19T22:33:33Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24231 - Probation Service Officer - Swindon and Wiltshire (South West)",
+   "org": "Ministry of Justice",
+   "place": "Chippenham, Salisbury, Swindon",
+   "pay": "£28,064 - £33,549, Pro-Rata for Part Time roles.",
+   "closes": "Closes 09-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24231-Probation-Service-Officer-Swindon-and-Wiltshire-South-West/24231",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24231",
+   "lastCheckedAt": "2026-11-19T22:33:35Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24226 - Case Administrator - Swindon and Wiltshire (South West)",
+   "org": "Ministry of Justice",
+   "place": "Chippenham, Swindon",
+   "pay": "£24,645 - £26,723, Pro-Rata for Part Time roles",
+   "closes": "Closes 09-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24226-Case-Administrator-Swindon-and-Wiltshire-South-West/24226",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24226",
+   "lastCheckedAt": "2026-11-19T22:33:38Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24223 - Prison Employment Lead",
+   "org": "Ministry of Justice",
+   "place": "Woking",
+   "pay": "£41,197 - £45,316",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24223-Prison-Employment-Lead/24223",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24223",
+   "lastCheckedAt": "2026-11-19T22:33:40Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24215 - Prison Catering: Caterer - HMP Rochester",
+   "org": "Ministry of Justice",
+   "place": "Rochester",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24215-Prison-Catering-Caterer-HMP-Rochester/24215",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24215",
+   "lastCheckedAt": "2026-11-19T22:33:42Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24210 - Prison Catering: Caterer - HMP Risley",
+   "org": "Ministry of Justice",
+   "place": "Warrington",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24210-Prison-Catering-Caterer-HMP-Risley/24210",
+   "region": "nw",
+   "source": "moj",
+   "sourceJobId": "24210",
+   "lastCheckedAt": "2026-11-19T22:33:44Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24209 - Prison Catering: Caterer - HMP Hull - Part time",
+   "org": "Ministry of Justice",
+   "place": "Hull",
+   "pay": "£34,928 - £36,778 Pro-rata",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24209-Prison-Catering-Caterer-HMP-Hull-Part-time/24209",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24209",
+   "lastCheckedAt": "2026-11-19T22:33:46Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24207 - Prison Catering: Caterer/Kitchen Supervisor Catering - HMP Hull",
+   "org": "Ministry of Justice",
+   "place": "Hull",
+   "pay": "£41,328",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24207-Prison-Catering-Caterer-Kitchen-Supervisor-Catering-HMP-Hull/24207",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24207",
+   "lastCheckedAt": "2026-11-19T22:33:48Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24206 - Unpaid Work Operations Manager - Yorkshire and the Humber Probation Service - Sheffield - Full Time",
+   "org": "Ministry of Justice",
+   "place": "Sheffield",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24206-Unpaid-Work-Operations-Manager-Yorkshire-and-the-Humber-Probation-Service-Sheffield-Full-Time/24206",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24206",
+   "lastCheckedAt": "2026-11-19T22:33:50Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24204 - Probation Services Officer - Approved Premises (Bridgwater)",
+   "org": "Ministry of Justice",
+   "place": "Bridgwater",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 02-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24204-Probation-Services-Officer-Approved-Premises-Bridgwater/24204",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24204",
+   "lastCheckedAt": "2026-11-19T22:33:52Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24182 - Group Safety Analyst – South Central Prisons",
+   "org": "Ministry of Justice",
+   "place": "Aylesbury, Bicester, Henley-on-Thames, Winchester",
+   "pay": "£34,440",
+   "closes": "Closes 04-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24182-Group-Safety-Analyst-South-Central-Prisons/24182",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24182",
+   "lastCheckedAt": "2026-11-19T22:33:54Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24171 - Community Payback Supervisor - Yorkshire and the Humber Probation Service - Hull and East Riding - Part Time",
+   "org": "Ministry of Justice",
+   "place": "Hull",
+   "pay": "£28,064 - £33,549, Pro-Rata",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24171-Community-Payback-Supervisor-Yorkshire-and-the-Humber-Probation-Service-Hull-and-East-Riding-Part-Time/24171",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24171",
+   "lastCheckedAt": "2026-11-19T22:33:56Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24163 - Prison Catering: Caterer - HMP Hull",
+   "org": "Ministry of Justice",
+   "place": "Hull",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24163-Prison-Catering-Caterer-HMP-Hull/24163",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24163",
+   "lastCheckedAt": "2026-11-19T22:34:00Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24160 - Prison Catering: Caterer/Kitchen Supervisor Catering - HMP Wandsworth",
+   "org": "Ministry of Justice",
+   "place": "Wandsworth",
+   "pay": "£47,590",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24160-Prison-Catering-Caterer-Kitchen-Supervisor-Catering-HMP-Wandsworth/24160",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24160",
+   "lastCheckedAt": "2026-11-19T22:34:02Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24150 - Qualified Probation Officer - Permanent - Full time/ Part time - Bournemouth, Poole",
+   "org": "Ministry of Justice",
+   "place": "Bournemouth, Poole",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 01-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24150-Qualified-Probation-Officer-Permanent-Full-time-Part-time-Bournemouth-Poole/24150",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "24150",
+   "lastCheckedAt": "2026-11-19T22:34:04Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24139 - Prison Digital and Communications Manager",
+   "org": "Ministry of Justice",
+   "place": "Market Drayton",
+   "pay": "£37,417 - £39,214 Pro-rata",
+   "closes": "Closes 26-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24139-Prison-Digital-and-Communications-Manager/24139",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "24139",
+   "lastCheckedAt": "2026-11-19T22:34:06Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24126 - Approved Premises Residential Worker - Guildford",
+   "org": "Ministry of Justice",
+   "place": "Guildford",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 25-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24126-Approved-Premises-Residential-Worker-Guildford/24126",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24126",
+   "lastCheckedAt": "2026-11-19T22:34:12Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24124 - Deputy Head of Service: Wandsworth, Merton and Sutton PDU - London Probation Service",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£51,203 - £56,111. In addition, this post attracts a London allowance payment which will be discussed at interview.",
+   "closes": "Closes 30-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24124-Deputy-Head-of-Service-Wandsworth-Merton-and-Sutton-PDU-London-Probation-Service/24124",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24124",
+   "lastCheckedAt": "2026-11-19T22:34:14Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24106 - Senior Forensic Psychologist – Youth Custody Service – HMYOI Feltham",
+   "org": "Ministry of Justice",
+   "place": "Feltham",
+   "pay": "£60,518 - £66,571",
+   "closes": "Closes 24-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24106-Senior-Forensic-Psychologist-Youth-Custody-Service-HMYOI-Feltham/24106",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24106",
+   "lastCheckedAt": "2026-11-19T22:34:16Z"
+  },
+  {
+   "cat": "justice",
+   "title": "24094 - Probation Service Officer - Brent (London) - Outcome in a Day",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549, Pro-Rata for Part-Time roles",
+   "closes": "Closes 23-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24094-Probation-Service-Officer-Brent-London-Outcome-in-a-Day/24094",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24094",
+   "lastCheckedAt": "2026-11-19T22:34:20Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24075 - Senior Administration Officer, Yorkshire and the Humber Probation Service, Barnsley and Rotherham, Full-Time",
+   "org": "Ministry of Justice",
+   "place": "Barnsley, Rotherham",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 26-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24075-Senior-Administration-Officer-Yorkshire-and-the-Humber-Probation-Service-Barnsley-and-Rotherham-Full-Time/24075",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24075",
+   "lastCheckedAt": "2026-11-19T22:34:23Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24059 - Probation Service Officer - Harrow & Barnet Probation Delivery Unit, London (Outcome in a Day)",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549 (Pro-rata for Part-time)",
+   "closes": "Closes 23-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24059-Probation-Service-Officer-Harrow-Barnet-Probation-Delivery-Unit-London-Outcome-in-a-Day/24059",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "24059",
+   "lastCheckedAt": "2026-11-19T22:34:26Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24050 - Senior Operational Support Manager - Yorkshire and The Humber Probation Service - Corporate Services - Court - Various Locations - Full-Time",
+   "org": "Ministry of Justice",
+   "place": "Barnsley, Beverley, Bradford, Doncaster, Grimsby, Harrogate, Huddersfield, Hull, Kingston-upon-Hull, Leeds, Sheffield, Skipton, York",
+   "pay": "£51,203 - £56,111",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24050-Senior-Operational-Support-Manager-Yorkshire-and-The-Humber-Probation-Service-Corporate-Services-Court-Various-Locations-Full-Time/24050",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24050",
+   "lastCheckedAt": "2026-11-19T22:34:30Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24049 - Business Manager - Yorkshire and the Humber Probation Service - Corporate Services - Various Locations - Full Time",
+   "org": "Ministry of Justice",
+   "place": "Barnsley, Bradford, Bridlington, Dewsbury, Doncaster, Grimsby, Halifax, Harrogate, Huddersfield, Hull, Leeds, Northallerton, Rotherham, Scarborough, Scunthorpe, Sheffield, Wakefield, York",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24049-Business-Manager-Yorkshire-and-the-Humber-Probation-Service-Corporate-Services-Various-Locations-Full-Time/24049",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "24049",
+   "lastCheckedAt": "2026-11-19T22:34:33Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24031 - Senior Probation Officer (PQiP) - Lancashire Fixed Term Contract",
+   "org": "Ministry of Justice",
+   "place": "Accrington, Blackburn, Burnley",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 23-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24031-Senior-Probation-Officer-PQiP-Lancashire-Fixed-Term-Contract/24031",
+   "region": "nw",
+   "source": "moj",
+   "sourceJobId": "24031",
+   "lastCheckedAt": "2026-11-19T22:34:36Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "24008 - Offender Personality Disorder Senior Probation Officer - Thames Valley (South Central)",
+   "org": "Ministry of Justice",
+   "place": "Aylesbury, Bicester, Bracknell, High Wycombe, Milton Keynes, Oxford, Reading, Slough",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24008-Offender-Personality-Disorder-Senior-Probation-Officer-Thames-Valley-South-Central/24008",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "24008",
+   "lastCheckedAt": "2026-11-19T22:34:40Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23999 - Qualified Probation Officer – HMP Five Wells – Resettlement – East of England",
+   "org": "Ministry of Justice",
+   "place": "Wellingborough",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23999-Qualified-Probation-Officer-HMP-Five-Wells-Resettlement-East-of-England/23999",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "23999",
+   "lastCheckedAt": "2026-11-19T22:34:44Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23998 - Prison Catering: Caterer - HMP Onley",
+   "org": "Ministry of Justice",
+   "place": "Rugby",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 04-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23998-Prison-Catering-Caterer-HMP-Onley/23998",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "23998",
+   "lastCheckedAt": "2026-11-19T22:34:48Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23997 - Prison Catering: Caterer - HMP Bedford",
+   "org": "Ministry of Justice",
+   "place": "Bedford",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23997-Prison-Catering-Caterer-HMP-Bedford/23997",
+   "region": "se",
+   "source": "moj",
+   "sourceJobId": "23997",
+   "lastCheckedAt": "2026-11-19T22:34:51Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23996 - Prison Catering: Caterer - HMP Wealstun",
+   "org": "Ministry of Justice",
+   "place": "Wetherby",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23996-Prison-Catering-Caterer-HMP-Wealstun/23996",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23996",
+   "lastCheckedAt": "2026-11-19T22:34:54Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23995 - Prison Catering: Caterer - HMP Leicester",
+   "org": "Ministry of Justice",
+   "place": "Leicester",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23995-Prison-Catering-Caterer-HMP-Leicester/23995",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "23995",
+   "lastCheckedAt": "2026-11-19T22:34:57Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23970 - Probation Officer - HMP Whatton",
+   "org": "Ministry of Justice",
+   "place": "Nottingham",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 23-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23970-Probation-Officer-HMP-Whatton/23970",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "23970",
+   "lastCheckedAt": "2026-11-19T22:35:00Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23960 - Senior Forensic Psychologist – Youth Custody Service – HMYOI Werrington",
+   "org": "Ministry of Justice",
+   "place": "Stoke-on-Trent",
+   "pay": "£57,398 - £63,139",
+   "closes": "Closes 19-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23960-Senior-Forensic-Psychologist-Youth-Custody-Service-HMYOI-Werrington/23960",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "23960",
+   "lastCheckedAt": "2026-11-19T22:35:04Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23944 - MAPPA Administrator: London Probation Service",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549 In addition, this post attracts a London allowance payment which will be discussed at interview.",
+   "closes": "Closes 11-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23944-MAPPA-Administrator-London-Probation-Service/23944",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "23944",
+   "lastCheckedAt": "2026-11-19T22:35:16Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23932 - Probation Service Officer - Yorkshire and The Humber Probation Service - Public Protection - HMP Wealstun (Full-Time)",
+   "org": "Ministry of Justice",
+   "place": "Wetherby",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 23-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23932-Probation-Service-Officer-Yorkshire-and-The-Humber-Probation-Service-Public-Protection-HMP-Wealstun-Full-Time/23932",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23932",
+   "lastCheckedAt": "2026-11-19T22:35:19Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23897 - Senior Administration Officer, Yorkshire and the Humber Probation Service, Unpaid Work, Sheffield, Full-Time",
+   "org": "Ministry of Justice",
+   "place": "Sheffield",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 04-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23897-Senior-Administration-Officer-Yorkshire-and-the-Humber-Probation-Service-Unpaid-Work-Sheffield-Full-Time/23897",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23897",
+   "lastCheckedAt": "2026-11-19T22:35:23Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23891 - Senior Probation Officer",
+   "org": "Ministry of Justice",
+   "place": "Middlesbrough",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23891-Senior-Probation-Officer/23891",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23891",
+   "lastCheckedAt": "2026-11-19T22:35:27Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23882 - Case Administrator - Warwickshire",
+   "org": "Ministry of Justice",
+   "place": "Leamington Spa, Nuneaton",
+   "pay": "£24,645 - £26,723, Pro-Rata for Part-Time roles",
+   "closes": "Closes 28-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23882-Case-Administrator-Warwickshire/23882",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "23882",
+   "lastCheckedAt": "2026-11-19T22:35:33Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23875 - Senior Probation Officer - Personality Disorder Projects - Lancashire",
+   "org": "Ministry of Justice",
+   "place": "Blackpool, Burnley, Preston, Skelmersdale",
+   "pay": "£46,746 - £48,760",
+   "closes": "Closes 23-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23875-Senior-Probation-Officer-Personality-Disorder-Projects-Lancashire/23875",
+   "region": "nw",
+   "source": "moj",
+   "sourceJobId": "23875",
+   "lastCheckedAt": "2026-11-19T22:35:36Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23821 - Prison Catering: Caterer - HMP Humber",
+   "org": "Ministry of Justice",
+   "place": "Brough",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23821-Prison-Catering-Caterer-HMP-Humber/23821",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23821",
+   "lastCheckedAt": "2026-11-19T22:35:39Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23813 - Prison Catering: Caterer/Kitchen Supervisor Catering - HMP Aylesbury",
+   "org": "Ministry of Justice",
+   "place": "Aylesbury",
+   "pay": "£41,328",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23813-Prison-Catering-Caterer-Kitchen-Supervisor-Catering-HMP-Aylesbury/23813",
+   "region": "uk",
+   "source": "moj",
+   "sourceJobId": "23813",
+   "lastCheckedAt": "2026-11-19T22:35:42Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23809 - Prison Catering: Caterer - HMP Erlestoke",
+   "org": "Ministry of Justice",
+   "place": "Andover",
+   "pay": "£34,928 - £36,778",
+   "closes": "Closes 27-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23809-Prison-Catering-Caterer-HMP-Erlestoke/23809",
+   "region": "sw",
+   "source": "moj",
+   "sourceJobId": "23809",
+   "lastCheckedAt": "2026-11-19T22:35:46Z"
+  },
+  {
+   "cat": "justice",
+   "title": "23780 - Probation Services Officer - Dudley and Sandwell PDU",
+   "org": "Ministry of Justice",
+   "place": "Dudley, West Bromwich",
+   "pay": "£28,064 - £33,549, Pro-Rata for Part-Time roles",
+   "closes": "Closes 22-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23780-Probation-Services-Officer-Dudley-and-Sandwell-PDU/23780",
+   "region": "mid",
+   "source": "moj",
+   "sourceJobId": "23780",
+   "lastCheckedAt": "2026-11-19T22:35:51Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23759 - Probation Officer - London Probation Service",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£37,238 - £44,520 In addition, this post attracts a London allowance payment which will be discussed at interview.",
+   "closes": "Closes 30-Apr-2027",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23759-Probation-Officer-London-Probation-Service/23759",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "23759",
+   "lastCheckedAt": "2026-11-19T22:35:55Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23700 - Community Payback Supervisor - Yorkshire and the Humber Probation Service - Unpaid Work - York - Full Time",
+   "org": "Ministry of Justice",
+   "place": "York",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23700-Community-Payback-Supervisor-Yorkshire-and-the-Humber-Probation-Service-Unpaid-Work-York-Full-Time/23700",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23700",
+   "lastCheckedAt": "2026-11-19T22:35:59Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23699 - Community Payback Supervisor - Yorkshire and the Humber Probation Service - Unpaid Work - Barnsley and Rotherham - Full Time",
+   "org": "Ministry of Justice",
+   "place": "Barnsley, Rotherham",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23699-Community-Payback-Supervisor-Yorkshire-and-the-Humber-Probation-Service-Unpaid-Work-Barnsley-and-Rotherham-Full-Time/23699",
+   "region": "ne",
+   "source": "moj",
+   "sourceJobId": "23699",
+   "lastCheckedAt": "2026-11-19T22:36:04Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23474 - Regional Community Payback Health & Safety Officer - Unpaid Work (UPW) - East of England",
+   "org": "Ministry of Justice",
+   "place": "Bury St Edmunds, Chelmsford, Colchester, Harlow, Ipswich, King's Lynn, Lowestoft, Norwich",
+   "pay": "£28,064 - £33,549",
+   "closes": "Closes 20-Nov-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23474-Regional-Community-Payback-Health-Safety-Officer-Unpaid-Work-UPW-East-of-England/23474",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "23474",
+   "lastCheckedAt": "2026-11-19T22:36:08Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "23062 - PEP: Peer Mentor Coordinator - London Probation Service",
+   "org": "Ministry of Justice",
+   "place": "London",
+   "pay": "£28,064 - £33,549 Plus a London Weighting Allowance of £4,505",
+   "closes": "Closes 03-Jan-2027",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23062-PEP-Peer-Mentor-Coordinator-London-Probation-Service/23062",
+   "region": "lon",
+   "source": "moj",
+   "sourceJobId": "23062",
+   "lastCheckedAt": "2026-11-19T22:36:34Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "21629 - Probation Officer - HMP Highpoint",
+   "org": "Ministry of Justice",
+   "place": "Newmarket",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 01-Mar-2027",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/21629-Probation-Officer-HMP-Highpoint/21629",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "21629",
+   "lastCheckedAt": "2026-11-19T22:37:25Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "21393 - Qualified Probation Officer - Bedfordshire PDU - East of England",
+   "org": "Ministry of Justice",
+   "place": "Bedford, Luton",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 26-Feb-2027",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/21393-Qualified-Probation-Officer-Bedfordshire-PDU-East-of-England/21393",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "21393",
+   "lastCheckedAt": "2026-11-19T22:37:40Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "20574 - Qualified Probation Officer - Northamptonshire - East of England",
+   "org": "Ministry of Justice",
+   "place": "Northampton, Wellingborough",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 31-Jan-2027",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/20574-Qualified-Probation-Officer-Northamptonshire-East-of-England/20574",
+   "region": "east",
+   "source": "moj",
+   "sourceJobId": "20574",
+   "lastCheckedAt": "2026-11-19T22:38:41Z",
+   "jroles": [
+    "probation"
+   ]
+  },
+  {
+   "cat": "justice",
+   "title": "18335 - Probation Officer - Flint , Wrexham & HMP Berwyn",
+   "org": "Ministry of Justice",
+   "place": "Flint, Wrexham",
+   "pay": "£37,238 - £44,520",
+   "closes": "Closes 01-Dec-2026",
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/18335-Probation-Officer-Flint-Wrexham-HMP-Berwyn/18335",
+   "region": "wal",
+   "source": "moj",
+   "sourceJobId": "18335",
+   "lastCheckedAt": "2026-11-19T22:39:10Z",
+   "jroles": [
+    "probation"
+   ]
   }
- ]
+ ],
+ "publishedAt": "2026-11-19T22:50:55Z",
+ "sourceHealth": {
+  "attemptedAt": "2026-11-19T22:50:55Z",
+  "sources": [
+   {
+    "adapter": "tal",
+    "id": "avon_oleeo",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 4,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_E0059",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 14,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_C9335",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 1,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_C9202",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 4,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_C9242",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 0,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_C9247",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 0,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_C9308",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 1,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "nhs",
+    "id": "nhs_jobs_revalidation",
+    "status": "failed",
+    "success": false,
+    "verifiedJobs": 0,
+    "rejectedJobs": 0,
+    "reason": "source reported error or failure"
+   },
+   {
+    "adapter": "btp",
+    "id": "btp",
+    "status": "success",
+    "success": true,
+    "verifiedJobs": 18,
+    "rejectedJobs": 0
+   },
+   {
+    "adapter": "moj",
+    "id": "moj",
+    "status": "partial",
+    "success": false,
+    "verifiedJobs": 87,
+    "rejectedJobs": 0,
+    "reason": "source reported error or failure"
+   }
+  ]
+ }
 }
