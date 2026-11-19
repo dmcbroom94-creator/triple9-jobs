@@ -1,0 +1,138 @@
+name: Triple 9 daily jobs
+
+on:
+  schedule:
+    - cron: '10 5 * * *'
+      timezone: 'Europe/London'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Publish after collection (leave unchecked for a dry run)'
+        type: boolean
+        default: false
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: triple9-daily-jobs-main
+  cancel-in-progress: false
+
+jobs:
+  collect-and-publish:
+    if: ${{ github.repository == 'dmcbroom94-creator/triple9-jobs' && github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+      GIT_TERMINAL_PROMPT: '0'
+    steps:
+      - name: Check out event snapshot
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+          set-safe-directory: false
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: '3.12'
+
+      - name: Install pinned direct dependencies
+        run: |
+          if ! python3 -m pip install --disable-pip-version-check 'requests==2.34.2' 'beautifulsoup4==4.15.0' > "$RUNNER_TEMP/triple9-install.log" 2>&1; then
+            echo 'Dependency installation failed; collection and publication stopped.' >&2
+            exit 1
+          fi
+          echo 'Pinned direct dependencies installed.'
+
+      - name: Run all offline unit and local publisher tests
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Socket operations are denied for this Python test process, independent
+          # of whether an individual fixture remembers to mock networking.
+          if ! PYTHONPATH="$GITHUB_WORKSPACE/automation" python3 -B - > "$RUNNER_TEMP/triple9-unittests.log" 2>&1 <<'PY'
+          import socket, sys, unittest
+          def offline(*args, **kwargs):
+              raise OSError('network access disabled during unit tests')
+          socket.socket.connect = offline
+          socket.socket.connect_ex = offline
+          socket.create_connection = offline
+          socket.getaddrinfo = offline
+          suite = unittest.defaultTestLoader.discover('automation/tests', pattern='test_*.py')
+          if suite.countTestCases() == 0:
+              raise SystemExit('no tests discovered')
+          result = unittest.TextTestRunner(verbosity=1).run(suite)
+          raise SystemExit(0 if result.wasSuccessful() else 1)
+          PY
+          then
+            echo 'Offline unit tests failed; collection and publication stopped.' >&2
+            exit 1
+          fi
+          if ! bash automation/tests.sh > "$RUNNER_TEMP/triple9-publisher-tests.log" 2>&1; then
+            echo 'Local publisher tests failed; collection and publication stopped.' >&2
+            exit 1
+          fi
+          echo 'All offline unit tests and local publisher tests passed.'
+
+      - name: Record baseline before collection
+        id: baseline
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -z "$(git status --porcelain=v1 --untracked-files=all --ignored)" || { echo 'Checkout is dirty.' >&2; exit 1; }
+          commit=$(git rev-parse HEAD)
+          blob=$(git rev-parse HEAD:jobs.json)
+          test "$(git cat-file -t "$blob")" = blob
+          echo "commit=$commit" >> "$GITHUB_OUTPUT"
+          echo "blob=$blob" >> "$GITHUB_OUTPUT"
+          echo "Baseline commit: $commit; feed Git blob: $blob"
+
+      - name: Collect to isolated staging file
+        id: collect
+        timeout-minutes: 105
+        shell: bash
+        env:
+          # Permission was confirmed by the user; this is an assertion, not a secret.
+          NHS_JOBS_PERMISSION_CONFIRMED: '1'
+        run: |
+          set -euo pipefail
+          rm -f /tmp/triple9-staged.json
+          if python3 automation/runner.py --input jobs.json --output /tmp/triple9-staged.json > "$RUNNER_TEMP/triple9-collection.log" 2>&1; then
+            test -f /tmp/triple9-staged.json && test ! -L /tmp/triple9-staged.json
+            echo 'Candidate staged; source health will be reported without raw errors or URLs.'
+          else
+            if grep -Fxq 'staging failed: all source scans failed' "$RUNNER_TEMP/triple9-collection.log"; then
+              echo 'All source scans failed; no feed was published.' | tee -a "$GITHUB_STEP_SUMMARY" >&2
+            else
+              echo 'Collection or validation failed; no feed was published.' | tee -a "$GITHUB_STEP_SUMMARY" >&2
+            fi
+            exit 1
+          fi
+
+      - name: Publish safely
+        if: ${{ github.event_name == 'schedule' || inputs.publish == true }}
+        shell: bash
+        env:
+          BASE_COMMIT: ${{ steps.baseline.outputs.commit }}
+          BASE_BLOB: ${{ steps.baseline.outputs.blob }}
+        run: bash automation/publish_candidate.sh /tmp/triple9-staged.json "$BASE_COMMIT" "$BASE_BLOB"
+
+      - name: Summarize manual dry run
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.publish != true }}
+        shell: bash
+        run: |
+          python3 -B - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, re
+          with open('/tmp/triple9-staged.json', encoding='utf-8') as f:
+              sources = json.load(f)['sourceHealth']['sources']
+          partial = any(s['status'] != 'success' for s in sources)
+          print('## Triple 9 manual dry run\n\nNo feed was published.\n')
+          print('**' + ('Partial/incomplete source health' if partial else 'All recorded sources completed successfully') + '**\n')
+          for s in sources:
+              ident = s['id'] if re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9_.-]{0,127}', s['id']) else 'unidentified'
+              print('- {} / {}: {}; verified={}; rejected={}'.format(s['adapter'], ident, s['status'], s['verifiedJobs'], s['rejectedJobs']))
+          PY
