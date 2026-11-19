@@ -111,55 +111,50 @@ details>summary{list-style-position:inside!important}
 .blnav a:hover{background:rgba(255,255,255,0.1)}
 .blcta{display:none !important}@media (max-width: 700px){.blnav,.blcta{display:none !important}.blmenu{display:inline-flex !important}}
 @media (max-width: 900px){.bltabs{flex-wrap:nowrap !important;justify-content:flex-start !important;overflow-x:auto;padding-bottom:6px}.bltabs button{flex:0 0 auto}}
-/* Homepage social-style Spotlight */
-.t9-spotlight{background:#F1F7FD;padding:72px 24px;color:#0B1B3F}
-.t9-spotlight-layout{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:minmax(0,.87fr) minmax(0,1.13fr);align-items:center;gap:clamp(32px,5vw,68px)}
-.t9-spotlight-intro{min-width:0}
-.t9-spotlight-kicker{display:inline-flex;align-items:center;gap:9px;color:#1450D2;font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
-.t9-spotlight-kicker span{width:9px;height:9px;border-radius:50%;background:#0099FE;box-shadow:0 0 0 4px rgba(0,153,254,.14)}
-.t9-spotlight-intro h2{margin:18px 0 16px;font-size:clamp(42px,4.8vw,62px);line-height:.98;font-weight:800}
-.t9-spotlight-intro h2 span{color:#1450D2}
-.t9-spotlight-intro>p{max-width:450px;margin:0;color:#3B4458;font-size:17px;line-height:1.6}
-.t9-spotlight-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}
-.t9-spotlight-actions a{display:inline-flex;align-items:center;justify-content:center;gap:14px;min-height:50px;box-sizing:border-box;padding:12px 18px;border:2px solid #0B1B3F;border-radius:10px;text-decoration:none;font-size:14px;font-weight:800}
-.t9-spotlight-actions .t9-spotlight-primary{background:#0B1B3F;color:#FFFFFF}
-.t9-spotlight-actions .t9-spotlight-primary:hover{background:#1450D2;border-color:#1450D2;color:#FFFFFF}
-.t9-spotlight-actions .t9-spotlight-secondary{background:transparent;color:#0B1B3F}
+/* Homepage Spotlight noticeboard */
+.t9-spotlight{box-sizing:border-box;background:#07152F;color:#FFFFFF;padding:78px 24px 82px;overflow:hidden}
+.t9-spotlight-wrap{max-width:1120px;margin:0 auto}
+.t9-spotlight-intro{display:grid;grid-template-columns:1fr .96fr;align-items:end;gap:34px 60px;margin-bottom:34px}
+.t9-spotlight-kicker{display:inline-block;padding:8px 11px;background:#FFD23F;color:#0B1B3F;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;transform:rotate(-1deg)}
+.t9-spotlight-heading h2{margin:18px 0 10px;font-size:clamp(52px,7vw,84px);font-weight:800;line-height:.85;letter-spacing:.01em}
+.t9-spotlight-heading h2 span{color:#49B9FF}
+.t9-spotlight-tagline{margin:0;color:#FFFFFF;font-size:15px;font-weight:800;letter-spacing:.04em;text-transform:uppercase}
+.t9-spotlight-copy>p:first-child{max-width:510px;margin:0;color:#E2EAF7;font-size:17px;line-height:1.6}
+.t9-spotlight-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.t9-spotlight-actions a{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:50px;box-sizing:border-box;padding:12px 16px;border:2px solid #FFFFFF;border-radius:7px;text-decoration:none;font-size:14px;font-weight:800}
+.t9-spotlight-actions .t9-spotlight-primary{background:#FFD23F;border-color:#FFD23F;color:#0B1B3F}
+.t9-spotlight-actions .t9-spotlight-primary:hover{background:#FFE27D;border-color:#FFE27D;color:#0B1B3F}
+.t9-spotlight-actions .t9-spotlight-secondary{background:transparent;color:#FFFFFF}
 .t9-spotlight-actions .t9-spotlight-secondary:hover{background:#FFFFFF;color:#0B1B3F}
-.t9-spotlight-intro .t9-spotlight-note{margin-top:17px;font-size:13px;line-height:1.5;color:#526078}
-.t9-spotlight-feed{min-width:0;background:#FFFFFF;border:1px solid #DCE6F1;border-radius:22px;box-shadow:0 20px 50px rgba(11,27,63,.11);overflow:hidden}
-.t9-spotlight-feed-head{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:18px 20px;border-bottom:1px solid #E8EDF4}
-.t9-spotlight-account{display:flex;align-items:center;gap:10px;min-width:0}
-.t9-spotlight-account>span:last-child{display:flex;flex-direction:column;gap:3px;min-width:0}
-.t9-spotlight-account strong{font-size:14px;line-height:1.2}
-.t9-spotlight-account small{font-size:12px;line-height:1.3;color:#58677B}
-.t9-spotlight-avatar{display:grid;place-items:center;flex:0 0 42px;width:42px;height:42px;border-radius:50%;background:#0B1B3F;color:#0099FE;font-family:Montserrat,Inter,sans-serif;font-size:24px;font-weight:900}
-.t9-spotlight-browse,.t9-spotlight-feed-foot a{color:#1450D2;font-size:13px;font-weight:800;text-decoration:none;white-space:nowrap}
-.t9-spotlight-browse:hover,.t9-spotlight-feed-foot a:hover{text-decoration:underline;color:#0A3D91}
-.t9-spotlight-themes{padding:17px 20px 18px}
-.t9-spotlight-themes p{margin:0 0 12px;color:#526078;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
-.t9-spotlight-themes ul{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;list-style:none;padding:0;margin:0}
-.t9-spotlight-themes li{display:flex;flex-direction:column;align-items:center;gap:7px;text-align:center;font-size:12px;font-weight:700;line-height:1.2}
-.t9-story-ring{display:grid;place-items:center;width:60px;height:60px;max-width:100%;box-sizing:border-box;padding:3px;border-radius:50%;background:linear-gradient(145deg,#0099FE,#1450D2 72%,#0B1B3F)}
-.t9-story-icon{display:grid;place-items:center;width:100%;height:100%;box-sizing:border-box;border:3px solid #FFFFFF;border-radius:50%;background:#EAF4FF;color:#0B1B3F}
-.t9-story-icon svg{width:24px;height:24px}
-.t9-spotlight-posts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding:0 20px 18px}
-.t9-spotlight-post{min-width:0;overflow:hidden;border:1px solid #E0E9F2;border-radius:13px;background:#FFFFFF}
-.t9-spotlight-art{position:relative;display:flex;flex-direction:column;justify-content:space-between;min-height:150px;box-sizing:border-box;padding:15px;overflow:hidden}
-.t9-spotlight-art:after{content:"";position:absolute;right:-28px;bottom:-55px;width:138px;height:138px;border:1px solid currentColor;border-radius:50%;opacity:.2;box-shadow:0 0 0 16px rgba(255,255,255,.06),0 0 0 32px rgba(255,255,255,.05)}
-.t9-spotlight-art-business{background:#0B1B3F;color:#FFFFFF}
-.t9-spotlight-art-wellbeing{background:#CBEAFF;color:#0B1B3F}
-.t9-art-label{position:relative;z-index:1;align-self:flex-start;padding:5px 7px;border:1px solid currentColor;border-radius:999px;font-size:9px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}
-.t9-spotlight-art strong{position:relative;z-index:1;font-family:'Barlow Condensed',Inter,sans-serif;font-size:clamp(25px,2.8vw,34px);font-weight:800;line-height:.95;text-transform:uppercase}
-.t9-art-mark{position:absolute;right:15px;top:52px;color:#0099FE;font-size:35px;font-weight:800;line-height:1}
-.t9-spotlight-art-wellbeing .t9-art-mark{color:#1450D2}
-.t9-spotlight-caption{display:flex;flex-direction:column;gap:4px;padding:12px 13px 14px}
-.t9-spotlight-caption strong{font-size:13px;line-height:1.3}
-.t9-spotlight-caption span{font-size:12px;line-height:1.35;color:#526078}
-.t9-spotlight-feed-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 20px;background:#F7FAFD;border-top:1px solid #E8EDF4;color:#3B4458;font-size:13px;font-weight:600}
-.t9-spotlight a:focus-visible{outline:3px solid #0099FE;outline-offset:3px}
-@media (max-width:800px){.t9-spotlight-layout{grid-template-columns:1fr;gap:28px}.t9-spotlight-intro>p{max-width:620px}.t9-spotlight-feed{max-width:620px;width:100%;box-sizing:border-box}}
-@media (max-width:400px){.t9-spotlight-feed-head,.t9-spotlight-feed-foot{padding-left:14px;padding-right:14px}.t9-spotlight-themes{padding-left:14px;padding-right:14px}.t9-spotlight-posts{padding-left:14px;padding-right:14px;gap:8px}.t9-story-ring{width:54px;height:54px}.t9-spotlight-themes li{font-size:11px}.t9-spotlight-art{min-height:135px;padding:12px}.t9-spotlight-art strong{font-size:25px}.t9-spotlight-caption{padding:10px}.t9-spotlight-feed-foot{font-size:12px}}
+.t9-spotlight-copy .t9-spotlight-note{margin:14px 0 0;color:#D1DCEE;font-size:13px;line-height:1.5}
+.t9-board{box-sizing:border-box;position:relative;padding:25px 30px 24px;border:10px solid #82502F;background-color:#C48C5B;background-image:radial-gradient(circle at 15% 24%,rgba(255,239,208,.24) 0 1px,transparent 2px),radial-gradient(circle at 72% 64%,rgba(94,50,22,.19) 0 1px,transparent 2px),repeating-linear-gradient(18deg,rgba(255,241,212,.06) 0 2px,rgba(91,47,20,.035) 2px 5px);background-size:13px 13px,17px 17px,auto;box-shadow:inset 0 0 0 3px rgba(72,37,15,.25),0 20px 45px rgba(0,0,0,.3)}
+.t9-board-header{display:flex;justify-content:space-between;align-items:center;gap:15px;margin:0 0 20px}
+.t9-board-header>span{display:inline-block;background:#0B1B3F;color:#FFFFFF;padding:9px 12px;font-size:12px;letter-spacing:.14em;font-weight:800}
+.t9-board-header p{margin:0;color:#301C10;font-size:13px;font-weight:800;text-align:right}
+.t9-board-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px 22px;margin:0;padding:6px 0 0;list-style:none}
+.t9-board-item{position:relative;min-width:0;transform:rotate(-.7deg)}
+.t9-board-item:nth-child(3n+2){transform:rotate(.8deg)}
+.t9-board-item:nth-child(3n){transform:rotate(-.35deg)}
+.t9-board-item::before{content:"";position:absolute;z-index:2;left:50%;top:-9px;width:14px;height:14px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#FFFFFF 0 8%,#6DCCFF 12%,#0075CB 48%,#003B80 100%);box-shadow:1px 3px 3px rgba(0,0,0,.35);pointer-events:none}
+.t9-board-item:nth-child(2n)::before{background:radial-gradient(circle at 35% 30%,#FFFFFF 0 8%,#FFED82 12%,#ECA900 50%,#9B6400 100%)}
+.t9-board-card{box-sizing:border-box;display:flex;height:100%;min-width:0;flex-direction:column;padding:12px;background:#FFFDF7;color:#0B1B3F;text-decoration:none;box-shadow:0 7px 15px rgba(49,25,9,.28);transition:box-shadow .2s ease,transform .2s ease}
+.t9-board-card:hover{color:#0B1B3F;transform:translateY(-4px);box-shadow:0 12px 22px rgba(49,25,9,.38)}
+.t9-board-card-head{display:flex;align-items:center;gap:10px;min-width:0;min-height:52px;margin-bottom:10px}
+.t9-board-avatar{display:block;flex:0 0 44px;width:44px;height:44px;object-fit:cover;border:2px solid #0099FE;border-radius:50%;background:#E1EAF5}
+.t9-board-person{display:flex;flex-direction:column;gap:4px;min-width:0;line-height:1.2;overflow-wrap:anywhere}
+.t9-board-person strong{font-size:14px;font-weight:800}
+.t9-board-person>span{color:#1450D2;font-size:12px;font-weight:800}
+.t9-board-snapshot{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;background:#E1EAF5}
+.t9-board-caption{display:block;flex:1;padding:12px 1px 7px;color:#344057;font-size:14px;line-height:1.45}
+.t9-board-link{display:block;padding:3px 1px 1px;color:#0B1B3F;font-size:12px;font-weight:800;letter-spacing:.05em;text-transform:uppercase}
+.t9-board-link span{color:#1450D2;font-size:16px}
+.t9-board-footer{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:26px;padding:13px 15px;background:#FFF4D8;color:#0B1B3F;font-size:14px;font-weight:800;box-shadow:0 4px 8px rgba(49,25,9,.15)}
+.t9-board-footer a{display:inline-flex;align-items:center;min-height:44px;color:#1046B1;text-decoration:underline;text-underline-offset:3px}
+.t9-spotlight a:focus-visible{outline:3px solid #FFFFFF;outline-offset:4px}
+.t9-board a:focus-visible{outline-color:#0B1B3F}
+@media (max-width:800px){.t9-spotlight-intro{grid-template-columns:1fr;gap:20px}.t9-spotlight-copy>p:first-child{max-width:650px}.t9-board{padding:22px 20px}.t9-board-grid{gap:22px 16px}}
+@media (max-width:600px){.t9-spotlight-heading h2{font-size:clamp(49px,12vw,68px)}.t9-board{border-width:7px;padding:18px 13px}.t9-board-header p{font-size:12px}.t9-board-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}.t9-board-item,.t9-board-item:nth-child(n){transform:none}.t9-board-card{padding:9px}.t9-board-card-head{gap:7px;min-height:40px;margin-bottom:8px}.t9-board-avatar{flex-basis:35px;width:35px;height:35px}.t9-board-person strong{font-size:12px}.t9-board-person>span{font-size:11px}.t9-board-caption{font-size:13px}.t9-board-footer{margin-top:19px}.t9-spotlight-actions a{flex:1 1 190px}}
+@media (max-width:440px){.t9-board-grid{grid-template-columns:1fr}.t9-board-card{display:grid;grid-template-columns:minmax(0,40%) minmax(0,1fr);column-gap:12px;padding:11px}.t9-board-card-head{grid-column:1 / -1;min-height:44px}.t9-board-avatar{flex-basis:40px;width:40px;height:40px}.t9-board-person strong{font-size:14px}.t9-board-person>span{font-size:12px}.t9-board-snapshot{grid-column:1;grid-row:2 / 4}.t9-board-caption{grid-column:2;grid-row:2;padding:2px 0;font-size:13px}.t9-board-link{grid-column:2;grid-row:3;align-self:end;padding:8px 0 2px}}
 </style>
 </head>
 <body>
@@ -651,42 +646,75 @@ details>summary{list-style-position:inside!important}
 </section>
 
 <section id="spotlight" class="t9-spotlight" aria-labelledby="spotlight-title">
-<div class="t9-spotlight-layout">
+<div class="t9-spotlight-wrap">
 <div class="t9-spotlight-intro">
-<span class="t9-spotlight-kicker"><span aria-hidden="true"></span> Blue Light Spotlight</span>
-<h2 id="spotlight-title">Back your own.<br><span>Follow their pages.</span></h2>
-<p>A space for businesses, fitness, wellbeing and creative projects from people in the emergency and uniformed services. Discover the Spotlight or share what you’re building.</p>
+<div class="t9-spotlight-heading">
+<span class="t9-spotlight-kicker">The community noticeboard</span>
+<h2 id="spotlight-title">Blue Light<br><span>Spotlight.</span></h2>
+<p class="t9-spotlight-tagline">Beyond the shift. Back your own.</p>
+</div>
+<div class="t9-spotlight-copy">
+<p>Meet the people behind businesses, fitness, coaching and creative projects in our emergency services community. Take a look and give them a follow.</p>
 <div class="t9-spotlight-actions">
 <a class="t9-spotlight-primary" href="spotlight.html">Explore the Spotlight <span aria-hidden="true">↗</span></a>
-<a class="t9-spotlight-secondary" href="spotlight.html#featured">Get featured <span aria-hidden="true">→</span></a>
+<a class="t9-spotlight-secondary" href="spotlight.html#featured">Request a feature <span aria-hidden="true">→</span></a>
 </div>
 <p class="t9-spotlight-note">Your page, your permission. Find out how to take part.</p>
 </div>
-<div class="t9-spotlight-feed">
-<div class="t9-spotlight-feed-head">
-<div class="t9-spotlight-account"><span class="t9-spotlight-avatar" aria-hidden="true">9</span><span><strong>Blue Light Spotlight</strong><small>Beyond the day job</small></span></div>
-<a href="spotlight.html" class="t9-spotlight-browse">Explore <span aria-hidden="true">↗</span></a>
 </div>
-<div class="t9-spotlight-themes">
-<p>Spotlight themes</p>
-<ul aria-label="Spotlight themes">
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h16l-1 11H5L4 9Z"></path><path d="M8 9V7a4 4 0 0 1 8 0v2"></path></svg></span></span><span>Business</span></li>
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m6 8 2-2 10 10-2 2L6 8Zm-2 2 4-4M16 18l4-4M3 8l3-3m12 14 3-3"></path></svg></span></span><span>Fitness</span></li>
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 5c-8 0-13 3-13 10 0 2.2 1.8 4 4 4 7 0 10-7 9-14Z"></path><path d="M4 21c2-5 5-8 10-11"></path></svg></span></span><span>Wellbeing</span></li>
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 1.6 5.4L19 10l-5.4 1.6L12 17l-1.6-5.4L5 10l5.4-1.6L12 3Zm6 12 .7 2.3L21 18l-2.3.7L18 21l-.7-2.3L15 18l2.3-.7L18 15Z"></path></svg></span></span><span>Creative</span></li>
+<div class="t9-board">
+<div class="t9-board-header"><span>PINNED PAGES</span><p>A little support goes a long way <span aria-hidden="true">↘</span></p></div>
+<ul class="t9-board-grid" aria-label="Featured Instagram accounts">
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/worldwide.wanderlust/" target="_blank" rel="noopener noreferrer" aria-label="Visit Laura | Extra Income for Shift Workers, @worldwide.wanderlust, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/worldwide.wanderlust-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Laura | Extra Income for Shift Workers</strong><span>@worldwide.wanderlust</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/worldwide.wanderlust-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Extra income for shift workers.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/fitfor_rescue/" target="_blank" rel="noopener noreferrer" aria-label="Visit Fit for Rescue, @fitfor_rescue, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/fitfor_rescue-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Fit for Rescue</strong><span>@fitfor_rescue</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/fitfor_rescue-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Fitness coaching for firefighters and first responders.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/rossdaviesfitness/" target="_blank" rel="noopener noreferrer" aria-label="Visit Ross Davies Fitness, @rossdaviesfitness, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/rossdaviesfitness-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Ross Davies Fitness</strong><span>@rossdaviesfitness</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/rossdaviesfitness-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Training and nutrition coaching for police officers and shift workers.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/morris_on_the_beat/" target="_blank" rel="noopener noreferrer" aria-label="Visit Morris on the Beat, @morris_on_the_beat, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/morris_on_the_beat-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Morris on the Beat</strong><span>@morris_on_the_beat</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/morris_on_the_beat-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Dixie, a preserved 1968 Morris Minor police car.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/emma_bluelightcoaching/" target="_blank" rel="noopener noreferrer" aria-label="Visit Emma | Blue Light Coaching, @emma_bluelightcoaching, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/emma_bluelightcoaching-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Emma | Blue Light Coaching</strong><span>@emma_bluelightcoaching</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/emma_bluelightcoaching-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Coaching for emergency-services people and shift workers.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/james_bluelightcoaching/" target="_blank" rel="noopener noreferrer" aria-label="Visit James | Blue Light Coaching, @james_bluelightcoaching, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/james_bluelightcoaching-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>James | Blue Light Coaching</strong><span>@james_bluelightcoaching</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/james_bluelightcoaching-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Fitness coaching for emergency-services people around shift work.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
 </ul>
-</div>
-<div class="t9-spotlight-posts" aria-label="Examples of Spotlight themes">
-<div class="t9-spotlight-post">
-<div class="t9-spotlight-art t9-spotlight-art-business"><span class="t9-art-label">Beyond the shift</span><strong>Ideas<br>in motion.</strong><span class="t9-art-mark" aria-hidden="true">✳</span></div>
-<div class="t9-spotlight-caption"><strong>Business &amp; creative</strong><span>Things made with purpose.</span></div>
-</div>
-<div class="t9-spotlight-post">
-<div class="t9-spotlight-art t9-spotlight-art-wellbeing"><span class="t9-art-label">Beyond the shift</span><strong>Make<br>space to grow.</strong><span class="t9-art-mark" aria-hidden="true">↗</span></div>
-<div class="t9-spotlight-caption"><strong>Fitness &amp; wellbeing</strong><span>Passions worth sharing.</span></div>
-</div>
-</div>
-<div class="t9-spotlight-feed-foot"><span>Have a page to share?</span><a href="spotlight.html#featured">Find out more <span aria-hidden="true">→</span></a></div>
+<div class="t9-board-footer"><span>Got something to share?</span><a href="spotlight.html#featured">Put your page on the board <span aria-hidden="true">→</span></a></div>
 </div>
 </div>
 </section>
@@ -1161,42 +1189,75 @@ details>summary{list-style-position:inside!important}
 </section>
 
 <section id="spotlight" class="t9-spotlight" aria-labelledby="spotlight-title">
-<div class="t9-spotlight-layout">
+<div class="t9-spotlight-wrap">
 <div class="t9-spotlight-intro">
-<span class="t9-spotlight-kicker"><span aria-hidden="true"></span> Blue Light Spotlight</span>
-<h2 id="spotlight-title">Back your own.<br><span>Follow their pages.</span></h2>
-<p>A space for businesses, fitness, wellbeing and creative projects from people in the emergency and uniformed services. Discover the Spotlight or share what you’re building.</p>
+<div class="t9-spotlight-heading">
+<span class="t9-spotlight-kicker">The community noticeboard</span>
+<h2 id="spotlight-title">Blue Light<br><span>Spotlight.</span></h2>
+<p class="t9-spotlight-tagline">Beyond the shift. Back your own.</p>
+</div>
+<div class="t9-spotlight-copy">
+<p>Meet the people behind businesses, fitness, coaching and creative projects in our emergency services community. Take a look and give them a follow.</p>
 <div class="t9-spotlight-actions">
 <a class="t9-spotlight-primary" href="spotlight.html">Explore the Spotlight <span aria-hidden="true">↗</span></a>
-<a class="t9-spotlight-secondary" href="spotlight.html#featured">Get featured <span aria-hidden="true">→</span></a>
+<a class="t9-spotlight-secondary" href="spotlight.html#featured">Request a feature <span aria-hidden="true">→</span></a>
 </div>
 <p class="t9-spotlight-note">Your page, your permission. Find out how to take part.</p>
 </div>
-<div class="t9-spotlight-feed">
-<div class="t9-spotlight-feed-head">
-<div class="t9-spotlight-account"><span class="t9-spotlight-avatar" aria-hidden="true">9</span><span><strong>Blue Light Spotlight</strong><small>Beyond the day job</small></span></div>
-<a href="spotlight.html" class="t9-spotlight-browse">Explore <span aria-hidden="true">↗</span></a>
 </div>
-<div class="t9-spotlight-themes">
-<p>Spotlight themes</p>
-<ul aria-label="Spotlight themes">
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h16l-1 11H5L4 9Z"></path><path d="M8 9V7a4 4 0 0 1 8 0v2"></path></svg></span></span><span>Business</span></li>
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m6 8 2-2 10 10-2 2L6 8Zm-2 2 4-4M16 18l4-4M3 8l3-3m12 14 3-3"></path></svg></span></span><span>Fitness</span></li>
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 5c-8 0-13 3-13 10 0 2.2 1.8 4 4 4 7 0 10-7 9-14Z"></path><path d="M4 21c2-5 5-8 10-11"></path></svg></span></span><span>Wellbeing</span></li>
-<li><span class="t9-story-ring"><span class="t9-story-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 1.6 5.4L19 10l-5.4 1.6L12 17l-1.6-5.4L5 10l5.4-1.6L12 3Zm6 12 .7 2.3L21 18l-2.3.7L18 21l-.7-2.3L15 18l2.3-.7L18 15Z"></path></svg></span></span><span>Creative</span></li>
+<div class="t9-board">
+<div class="t9-board-header"><span>PINNED PAGES</span><p>A little support goes a long way <span aria-hidden="true">↘</span></p></div>
+<ul class="t9-board-grid" aria-label="Featured Instagram accounts">
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/worldwide.wanderlust/" target="_blank" rel="noopener noreferrer" aria-label="Visit Laura | Extra Income for Shift Workers, @worldwide.wanderlust, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/worldwide.wanderlust-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Laura | Extra Income for Shift Workers</strong><span>@worldwide.wanderlust</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/worldwide.wanderlust-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Extra income for shift workers.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/fitfor_rescue/" target="_blank" rel="noopener noreferrer" aria-label="Visit Fit for Rescue, @fitfor_rescue, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/fitfor_rescue-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Fit for Rescue</strong><span>@fitfor_rescue</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/fitfor_rescue-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Fitness coaching for firefighters and first responders.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/rossdaviesfitness/" target="_blank" rel="noopener noreferrer" aria-label="Visit Ross Davies Fitness, @rossdaviesfitness, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/rossdaviesfitness-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Ross Davies Fitness</strong><span>@rossdaviesfitness</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/rossdaviesfitness-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Training and nutrition coaching for police officers and shift workers.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/morris_on_the_beat/" target="_blank" rel="noopener noreferrer" aria-label="Visit Morris on the Beat, @morris_on_the_beat, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/morris_on_the_beat-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Morris on the Beat</strong><span>@morris_on_the_beat</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/morris_on_the_beat-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Dixie, a preserved 1968 Morris Minor police car.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/emma_bluelightcoaching/" target="_blank" rel="noopener noreferrer" aria-label="Visit Emma | Blue Light Coaching, @emma_bluelightcoaching, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/emma_bluelightcoaching-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>Emma | Blue Light Coaching</strong><span>@emma_bluelightcoaching</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/emma_bluelightcoaching-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Coaching for emergency-services people and shift workers.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
+<li class="t9-board-item">
+<a class="t9-board-card" href="https://www.instagram.com/james_bluelightcoaching/" target="_blank" rel="noopener noreferrer" aria-label="Visit James | Blue Light Coaching, @james_bluelightcoaching, on Instagram (opens in a new tab)">
+<span class="t9-board-card-head"><img class="t9-board-avatar" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/james_bluelightcoaching-avatar.jpg" alt="" width="48" height="48" loading="lazy" decoding="async"><span class="t9-board-person"><strong>James | Blue Light Coaching</strong><span>@james_bluelightcoaching</span></span></span>
+<img class="t9-board-snapshot" src="https://raw.githubusercontent.com/dmcbroom94-creator/triple9-jobs/main/spotlight/james_bluelightcoaching-snapshot.jpg" alt="" width="720" height="720" loading="lazy" decoding="async">
+<span class="t9-board-caption">Fitness coaching for emergency-services people around shift work.</span>
+<span class="t9-board-link">Visit profile <span aria-hidden="true">↗</span></span>
+</a>
+</li>
 </ul>
-</div>
-<div class="t9-spotlight-posts" aria-label="Examples of Spotlight themes">
-<div class="t9-spotlight-post">
-<div class="t9-spotlight-art t9-spotlight-art-business"><span class="t9-art-label">Beyond the shift</span><strong>Ideas<br>in motion.</strong><span class="t9-art-mark" aria-hidden="true">✳</span></div>
-<div class="t9-spotlight-caption"><strong>Business &amp; creative</strong><span>Things made with purpose.</span></div>
-</div>
-<div class="t9-spotlight-post">
-<div class="t9-spotlight-art t9-spotlight-art-wellbeing"><span class="t9-art-label">Beyond the shift</span><strong>Make<br>space to grow.</strong><span class="t9-art-mark" aria-hidden="true">↗</span></div>
-<div class="t9-spotlight-caption"><strong>Fitness &amp; wellbeing</strong><span>Passions worth sharing.</span></div>
-</div>
-</div>
-<div class="t9-spotlight-feed-foot"><span>Have a page to share?</span><a href="spotlight.html#featured">Find out more <span aria-hidden="true">→</span></a></div>
+<div class="t9-board-footer"><span>Got something to share?</span><a href="spotlight.html#featured">Put your page on the board <span aria-hidden="true">→</span></a></div>
 </div>
 </div>
 </section>
