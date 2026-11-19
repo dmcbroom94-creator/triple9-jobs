@@ -1192,21 +1192,6 @@
    "url": "https://careers.mitie.com/jobs/vacancy/custody-nurse-or-paramedic--96480/96499/description/"
   },
   {
-   "cat": "ambulance",
-   "skills": [
-    "nurse",
-    "para"
-   ],
-   "hours": "shift",
-   "region": "mid",
-   "title": "NHS 111 Clinical Advisor (nurse or paramedic)",
-   "org": "DHU Healthcare",
-   "place": "Pride Park, Derby",
-   "pay": "See advert",
-   "closes": "Closes 1 Apr 2027",
-   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/M0051-26-0080"
-  },
-  {
    "cat": "civilian",
    "areas": [
     "planning"
@@ -1252,22 +1237,6 @@
    "pay": "£27,203 a year pro rata",
    "closes": "Closes 27 Nov 2026",
    "url": "https://www.wmjobs.co.uk/job/282236/cctv-operator/"
-  },
-  {
-   "cat": "civilian",
-   "areas": [
-    "security"
-   ],
-   "hours": "shift",
-   "region": "mid",
-   "pmin": 25760,
-   "pmax": 25760,
-   "title": "Healthcare Security Officer",
-   "org": "University Hospitals of Leicester NHS Trust",
-   "place": "Leicester",
-   "pay": "£25,760 a year",
-   "closes": "Closes 24 Nov 2026",
-   "url": "https://www.jobs.nhs.uk/candidate/jobadvert/C9358-26-0761"
   },
   {
    "cat": "police",
@@ -1881,7 +1850,7 @@
    "org": "British Transport Police",
    "place": "Inner London",
    "pay": "£33,609 rising to £52,014 after five years + £5,783.75 London Allowance + £3,261 London Weighting",
-   "closes": "Closes 31 Jan 2027",
+   "closes": "Closes 31 Dec 2026",
    "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Inner-London/1871"
   },
   {
