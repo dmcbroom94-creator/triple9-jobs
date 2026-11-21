@@ -7641,9 +7641,285 @@
       "jroles": [
         "probation"
       ]
+    },
+    {
+      "cat": "ambulance",
+      "skills": [
+        "nurse",
+        "para"
+      ],
+      "custodyHealthcare": true,
+      "region": "se",
+      "title": "Registered Nurse/Paramedic - Salfords - BANK",
+      "org": "Mountain Healthcare Ltd",
+      "place": "Redhill, Surrey",
+      "pay": "See advert",
+      "closes": "Closes 17 Dec 2026 · checked 21 Nov 2026",
+      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0166-26-0307",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "security"
+      ],
+      "region": "east",
+      "title": "Library Security Officer (GG745)",
+      "org": "University of East Anglia",
+      "place": "UEA Library/campus",
+      "pay": "See advert",
+      "closes": "Closes 1 Dec 2026 · checked 21 Nov 2026",
+      "url": "https://vacancies.uea.ac.uk/vacancies/2590/library-security-officer-gg745.html",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "security",
+        "management"
+      ],
+      "region": "nw",
+      "title": "Supply Chain Security Manager",
+      "org": "BAE Systems",
+      "place": "Warton (hybrid)",
+      "pay": "See advert",
+      "closes": "Closes 1 Dec 2026 · checked 21 Nov 2026",
+      "url": "https://jobsearch.baesystems.com/job/supply-chain-security-manager-00139647",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "security",
+        "management"
+      ],
+      "region": "sw",
+      "title": "Operational Security Team Manager",
+      "org": "Royal Cornwall Hospitals NHS Trust",
+      "place": "Treliske, Truro",
+      "pay": "See advert",
+      "closes": "Closes 22 Nov 2026 · checked 21 Nov 2026",
+      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9156-26-0574",
+      "manualReviewUntil": "2026-11-22"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "training"
+      ],
+      "region": "nw|ne",
+      "title": "First Aid & Mandatory Training Instructor",
+      "org": "First Response First Aid / Impact Group",
+      "place": "Manchester, Huddersfield and Leeds",
+      "pay": "See advert",
+      "closes": "No closing date stated · checked 21 Nov 2026",
+      "url": "https://careers.impactfuturesgroup.com/job/ecd8ca18-8525-4306-8179-6871213b9957",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "training"
+      ],
+      "region": "lon|se",
+      "title": "Regional Trainer (First Response First Aid)",
+      "org": "First Response First Aid / Impact Group",
+      "place": "Croydon, Gatwick and Kent",
+      "pay": "See advert",
+      "closes": "No closing date stated · checked 21 Nov 2026",
+      "url": "https://careers.impactfuturesgroup.com/job/6f6c7914-b9ea-4989-8cbd-76b677f901c8",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "medical"
+      ],
+      "skills": [
+        "emt"
+      ],
+      "region": "uk",
+      "title": "Event First Responder / FREC3 (Casual)",
+      "org": "XL Team Ltd",
+      "place": "North East and UK",
+      "pay": "See advert",
+      "closes": "Closes 5 May 2027 · checked 21 Nov 2026",
+      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0431-26-0010",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "medical"
+      ],
+      "skills": [
+        "para"
+      ],
+      "region": "east",
+      "title": "Paramedics (Frontline)",
+      "org": "Medical Emergency Solutions",
+      "place": "Luton or Stevenage",
+      "pay": "See advert",
+      "closes": "No closing date stated · checked 21 Nov 2026 · consolidated employer careers page",
+      "url": "https://medicalemergencysolutions.co.uk/careers",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "investigation"
+      ],
+      "region": "ne",
+      "title": "Investigations Case Officer",
+      "org": "Government Recruitment Service (Public Sector Fraud Authority Enforcement Unit)",
+      "place": "Newcastle-upon-Tyne",
+      "pay": "See advert",
+      "closes": "Closes 22 Nov 2026 · checked 21 Nov 2026",
+      "url": "https://www.jobs.service.gov.uk/jobs/6af18710866aeedfec7b5526",
+      "manualReviewUntil": "2026-11-22"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "sco",
+      "title": "SGB Sundries Job-Share",
+      "org": "ScotRail",
+      "place": "Perth",
+      "pay": "See advert",
+      "closes": "Closes 28 Nov 2026 · checked 21 Nov 2026",
+      "url": "https://apply.scotrail.co.uk/vacancies/2241/",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "sco",
+      "title": "STATION GRADE: STATION MAINTENANCE TEAM",
+      "org": "ScotRail",
+      "place": "Inverness",
+      "pay": "See advert",
+      "closes": "Closes 25 Nov 2026 · checked 21 Nov 2026",
+      "url": "https://apply.scotrail.co.uk/vacancies/2238/",
+      "manualReviewUntil": "2026-11-25"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "wal",
+      "title": "Customer Service Advisor (1009)",
+      "org": "Transport for Wales",
+      "place": "Aberystwyth and Machynlleth",
+      "pay": "See advert",
+      "closes": "Closes 24 Nov 2026 · checked 21 Nov 2026",
+      "url": "https://jobs.tfw.wales/jobs/vacancy/customer-service-advisor-1009-aberystwyth/1021/description/",
+      "manualReviewUntil": "2026-11-24"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "wal",
+      "title": "Customer Service Supervisor (1013)",
+      "org": "Transport for Wales",
+      "place": "Cardiff Central",
+      "pay": "See advert",
+      "closes": "Closes 24 Nov 2026 · checked 21 Nov 2026 · talent pool possible if no immediate role",
+      "url": "https://jobs.tfw.wales/jobs/vacancy/customer-service-supervisor-1013-cardiff-central/1025/description/",
+      "manualReviewUntil": "2026-11-24"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "se",
+      "title": "Rail Operator 2 (GPR) (Station Assistant)",
+      "org": "South Western Railway",
+      "place": "Portsmouth, Fareham, Fratton, Godalming, Haslemere, Havant and Petersfield",
+      "pay": "See advert",
+      "closes": "Closes 6 Dec 2026 · checked 21 Nov 2026",
+      "url": "https://careers.southwesternrailway.com/jobs/rail-operator-2-gpr-portsmouth-hampshire-united-kingdom-fareham-fratton-godalming-surrey-haslemere-havant-petersfield",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "se",
+      "title": "Commercial Guard - Fratton (talent pool)",
+      "org": "South Western Railway",
+      "place": "Fratton",
+      "pay": "See advert",
+      "closes": "Closes 6 Dec 2026 · checked 21 Nov 2026",
+      "url": "https://careers.southwesternrailway.com/jobs/commercial-guard-fratton-fratton-hampshire-united-kingdom",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "se",
+      "title": "Video Contact Centre Agent - Customer Service Role",
+      "org": "South Western Railway",
+      "place": "Basingstoke",
+      "pay": "See advert",
+      "closes": "Closes 22 Nov 2026 · checked 21 Nov 2026",
+      "url": "https://careers.southwesternrailway.com/jobs/video-contact-centre-agent-customer-service-role-basingstoke-england-united-kingdom-84f95769-2f7f-4893-a0f9-a338d0dfc9b8",
+      "manualReviewUntil": "2026-11-22"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "lon",
+      "title": "Trainee Train Driver - Euston Talent Pool",
+      "org": "Avanti West Coast",
+      "place": "London Euston",
+      "pay": "See advert",
+      "closes": "No closing date stated · checked 21 Nov 2026",
+      "url": "https://www.careers.avantiwestcoast.co.uk/job/trainee-train-driver-euston-talent-pool-5835556",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "sco",
+      "title": "Trainee Train Manager - Glasgow - Talent Pool",
+      "org": "Avanti West Coast",
+      "place": "Glasgow",
+      "pay": "See advert",
+      "closes": "No closing date stated · checked 21 Nov 2026",
+      "url": "https://www.careers.avantiwestcoast.co.uk/job/trainee-train-manager-glasgow-talent-pool-6028697",
+      "manualReviewUntil": "2026-11-28"
+    },
+    {
+      "cat": "civilian",
+      "areas": [
+        "transport"
+      ],
+      "region": "mid",
+      "title": "Welcome Host - Stafford - Talent Bank",
+      "org": "Avanti West Coast",
+      "place": "Stafford",
+      "pay": "See advert",
+      "closes": "No closing date stated · checked 21 Nov 2026",
+      "url": "https://www.careers.avantiwestcoast.co.uk/job/welcome-host-stafford-talent-bank-6096966",
+      "manualReviewUntil": "2026-11-28"
     }
   ],
-  "publishedAt": "2026-11-21T06:10:23Z",
+  "publishedAt": "2026-11-21T11:09:58Z",
   "sourceHealth": {
     "attemptedAt": "2026-11-21T06:10:23Z",
     "sources": [

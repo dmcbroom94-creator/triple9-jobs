@@ -29,7 +29,7 @@
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Triple 9 Careers", "url": "https://triple9careers.co.uk/", "sameAs": ["https://www.instagram.com/triple9careers/"], "logo": "https://triple9careers.co.uk/assets/icon-512.png", "email": "info@triple9careers.co.uk", "slogan": "Connect. Progress. Transition."}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Triple 9 Careers", "url": "https://triple9careers.co.uk/", "inLanguage": "en-GB"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do police transfers work?", "acceptedAnswer": {"@type": "Answer", "text": "Transferee officers move from one force to another, usually keeping their rank, pay point and pension. Most forces ask that you have finished your probation, are substantive in rank and have no live misconduct or performance matters. Each force sets its own process, often an application, an interview and vetting."}}, {"@type": "Question", "name": "What is a police rejoiner?", "acceptedAnswer": {"@type": "Answer", "text": "A rejoiner is a former officer coming back to policing after a break. Rules on how long you can have been out, and which rank you return at, vary by force, so check each advert."}}, {"@type": "Question", "name": "Are police staff jobs included?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We list police staff roles such as civilian investigators, CSI and forensics, detention and custody officers, 999 call handlers, analysts and admin roles, as well as officer jobs."}}, {"@type": "Question", "name": "I want to leave the emergency services. What jobs suit me?", "acceptedAnswer": {"@type": "Answer", "text": "Your skills fit many civilian careers, including fraud and investigation, security and risk, health and safety, emergency planning, training, operations management and customer service. Use our free CV builder to turn your service experience into a civilian CV."}}, {"@type": "Question", "name": "Do I need to sign up?", "acceptedAnswer": {"@type": "Answer", "text": "No. There are no accounts and we do not store your details. Every job links straight to the employer’s official advert, and our tools work on your own device."}}, {"@type": "Question", "name": "Which areas do you cover?", "acceptedAnswer": {"@type": "Answer", "text": "Jobs across England, Scotland and Wales, including Home Office forces, Police Scotland, British Transport Police, the Civil Nuclear Constabulary, MOD Police, port police, prisons, Border Force and the ambulance and fire services."}}]}</script>
-<script src="config.js"></script>
+<script src="config.js?v=20261121"></script>
 <script src="t9.js" defer></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Montserrat:wght@500;900&amp;family=Inter:wght@400;500;600;700;800&amp;display=swap">
@@ -619,7 +619,7 @@ details>summary{list-style-position:inside!important}
 <span style="font-size: 14px; font-weight: 800; text-transform: uppercase; color: #1450D2">Advertise →</span>
 </a>
 
-<p style="margin: 0; font-size: 13px; color: #4A5368; text-align: center">Not every employer is checked automatically. Vacancies can close or change, so check the employer’s advert before applying.</p>
+<p style="margin: 0; font-size: 13px; color: #4A5368; text-align: center">Selected listings are manually checked and hidden after their review date, but are not automatically refreshed. Vacancies can close or change early; check the official advert.</p>
 </div>
 </section>
 
@@ -1150,7 +1150,7 @@ details>summary{list-style-position:inside!important}
 <span style="font-size: 14px; font-weight: 800; text-transform: uppercase; color: #1450D2">Advertise →</span>
 </a>
 
-<p style="margin: 0; font-size: 13px; color: #4A5368; text-align: center">Not every employer is checked automatically. Vacancies can close or change, so check the employer’s advert before applying.</p>
+<p style="margin: 0; font-size: 13px; color: #4A5368; text-align: center">Selected listings are manually checked and hidden after their review date, but are not automatically refreshed. Vacancies can close or change early; check the official advert.</p>
 </div>
 </section>
 
@@ -1314,9 +1314,11 @@ details>summary{list-style-position:inside!important}
 </div>
 </template>
 <script type="text/x-dc" data-dc-script>
+const withinReview = (j) => typeof window !== 'undefined' && typeof window.T9_isJobWithinReview === 'function' ? window.T9_isJobWithinReview(j) : !Object.prototype.hasOwnProperty.call(j, 'manualReviewUntil');
 class Component extends DCLogic {
   constructor(p) { super(p); this.state = { tab: 'all', rank: 'any', route: 'any', skill: 'any', area: 'any', ptype: 'any', nation: 'any', forcet: 'any', jrole: 'any', region: 'any', paymin: 'any', hours: 'any', q: '', where: '', remote: null, feedState: 'failed', menuOpen: false, forces: [], forceOpen: false };
     this.draftQ = ''; this.draftWhere = '';
+    if (typeof window !== 'undefined' && typeof window.T9_scheduleReviewRefresh === 'function') window.T9_scheduleReviewRefresh(() => this.setState({}));
     this.sharedId = null;
     if (typeof location !== 'undefined' && location.search) { try { this.sharedId = new URLSearchParams(location.search).get('job'); } catch (e) {} }
     if (this.sharedId && typeof setTimeout === 'function') setTimeout(() => { const f = typeof document !== 'undefined' && document.getElementById('feed'); if (f && f.scrollIntoView) f.scrollIntoView(); }, 700);
@@ -1370,7 +1372,7 @@ class Component extends DCLogic {
     const ROUTES = { transferee: 'Transferee', rejoiner: 'Rejoiner' };
     const ENTRY = { new: 'New recruits', oncall: 'On-call (retained)', volunteer: 'Volunteer' };
     const SKILLS = { hca: 'Healthcare assistant', eca: 'ECA / ACA', emt: 'EMT / FREC', para: 'Paramedic', nurse: 'Nurse', doctor: 'Doctor' };
-    const AREAS = { investigation: 'Investigation', finance: 'Banking, fraud & compliance', supervisor: 'Supervisor & team leader', safety: 'Health & safety', security: 'Security & CCTV', planning: 'Emergency planning', training: 'Training & teaching', management: 'Senior management', operations: 'Operations', customer: 'Customer service', transport: 'Rail, transport & driving', retail: 'Retail & store management', aviation: 'Airports & airlines' };
+    const AREAS = { medical: 'Private medical & first aid', investigation: 'Investigation', finance: 'Banking, fraud & compliance', supervisor: 'Supervisor & team leader', safety: 'Health & safety', security: 'Security & CCTV', planning: 'Emergency planning', training: 'Training & teaching', management: 'Senior management', operations: 'Operations', customer: 'Customer service', transport: 'Rail, transport & driving', retail: 'Retail & store management', aviation: 'Airports & airlines' };
     const HOURS = { mf: 'Mon–Fri', shift: 'Shifts', oncall: 'On-call', flex: 'Flexible' };
     const NATIONS = { eng: 'England', wal: 'Wales', sco: 'Scotland' };
     const REGIONS = { lon: 'London', se: 'South East', sw: 'South West', east: 'East of England', mid: 'Midlands', nw: 'North West', ne: 'North East & Yorkshire', wal: 'Wales', sco: 'Scotland', uk: 'Several locations' };
@@ -1552,16 +1554,17 @@ class Component extends DCLogic {
       { cat: 'civilian', areas: ['aviation', 'security'], hours: 'shift', region: 'sco', pmin: 26432, pmax: 29114, title: 'Aviation Security Officer (12-month contract)', org: 'Edinburgh Airport', place: 'Edinburgh', pay: '£26,431.87 rising to £29,114.37 after 6 months + shift allowance', closes: 'Closes 23 Nov 2026', url: 'https://careers.edinburghairport.com/careers/855-security-officer/' },
       { cat: 'civilian', areas: ['aviation', 'customer'], hours: 'shift', region: 'lon', title: 'Cabin Crew (talent pool)', org: 'British Airways', place: 'Heathrow, Gatwick & London City', pay: 'See advert', closes: 'Closes 31 Dec 2026', url: 'https://careers.ba.com/job/heathrow/cabin-crew-talent-pool/22348/94593554544' },
     ];
-    const all = ((this.state.remote && this.state.remote.jobs) || listed).map((j) => { const id = this.jid(j.url); return {
+    const all = ((this.state.remote && this.state.remote.jobs) || listed).filter(withinReview).map((j) => { const id = this.jid(j.url); return {
       payLabel: /^£/.test(j.pay) ? j.pay : 'Pay: ' + j.pay,
       ...j,
       crest: this.crestOf(j.org), hasCrest: !!this.crestOf(j.org), hasHours: !!j.hours, hoursLabel: ({ mf: 'Mon–Fri', shift: 'Shifts', oncall: 'On-call', flex: 'Flexible' })[j.hours] || '',
       id, share: () => this.shareJob(j, id), shareLabel: this.state.copied === id ? 'Link copied' : 'Share', shared: id === this.sharedId,
       badge: badge[j.ptype === 'staff' ? 'staff' : j.cat].t,
       badgeStyle: badge[j.ptype === 'staff' ? 'staff' : j.cat].s,
-      tags: [].concat(j.entry ? [ENTRY[j.entry]] : [], (j.routes || []).map((r) => ROUTES[r]), (j.ranks || []).map((r) => RANKS[r]), (j.skills || []).map((k) => SKILLS[k]), (j.areas || []).map((k) => AREAS[k]), j.ptype === 'staff' ? ['Police staff'] : [], (j.nations || []).map((k) => NATIONS[k]), (j.jroles || []).map((k) => JROLES[k]), j.force === 'special' ? ['Specialist force'] : [])
+      tags: [].concat(j.entry ? [ENTRY[j.entry]] : [], (j.routes || []).map((r) => ROUTES[r]), (j.ranks || []).map((r) => RANKS[r]), j.custodyHealthcare === true ? ['Custody healthcare'] : [], (j.skills || []).map((k) => SKILLS[k]), (j.areas || []).map((k) => AREAS[k]), j.ptype === 'staff' ? ['Police staff'] : [], (j.nations || []).map((k) => NATIONS[k]), (j.jroles || []).map((k) => JROLES[k]), j.force === 'special' ? ['Specialist force'] : [])
     }; });
-    let jobs = tab === 'all' ? all : tab === 'new' ? all.filter((j) => j.entry === 'new' || j.entry === 'oncall') : tab === 'volunteer' ? all.filter((j) => j.entry === 'volunteer') : all.filter((j) => j.cat === tab);
+    const inCategory = (j, category) => j.cat === category || (category === 'ambulance' && j.cat === 'civilian' && (j.areas || []).includes('medical'));
+    let jobs = tab === 'all' ? all : tab === 'new' ? all.filter((j) => j.entry === 'new' || j.entry === 'oncall') : tab === 'volunteer' ? all.filter((j) => j.entry === 'volunteer') : all.filter((j) => inCategory(j, tab));
     if (tab === 'police') {
       if (this.state.ptype !== 'any') jobs = jobs.filter((j) => j.ptype === this.state.ptype);
       if (this.state.forcet !== 'any') jobs = jobs.filter((j) => (j.force || 'home') === this.state.forcet);
@@ -1627,7 +1630,7 @@ class Component extends DCLogic {
       { name: 'Operations & dispatch', desc: 'Logistics control, utilities, transport and alarm centres.', suits: 'Control room' }
     ];
     const go = (id) => () => this.setState({ tab: id, rank: 'any', route: 'any', skill: 'any', area: 'any', ptype: 'any', nation: 'any', forcet: 'any', jrole: 'any' });
-    const cnt = (id) => all.filter((j) => j.cat === id).length;
+    const cnt = (id) => all.filter((j) => inCategory(j, id)).length;
     const pcard = (bg, fg) => 'display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px; padding: 24px; border-radius: 14px; text-decoration: none; min-height: 210px; background: ' + bg + '; color: ' + fg;
     const partners = [
       { tag: 'Security', name: 'SIA licence', desc: 'Door supervisor, security and CCTV courses at 85+ UK locations.', url: 'https://get-licensed.co.uk', style: pcard('#1450D2', '#FFFFFF') },
