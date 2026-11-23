@@ -1,5 +1,5 @@
 {
-  "updated": "22 Nov 2026",
+  "updated": "23 Nov 2026",
   "jobs": [
     {
       "cat": "police",
@@ -23,7 +23,7 @@
       "url": "https://asp.tal.net/vx/appcentre-External/brand-0/candidate/so/pm/6/pl/24/opp/707-Police-Constable-Transferee/en-GB",
       "source": "avon_oleeo",
       "sourceJobId": "707",
-      "lastCheckedAt": "2026-11-22T05:59:44Z"
+      "lastCheckedAt": "2026-11-23T06:09:26Z"
     },
     {
       "cat": "police",
@@ -243,7 +243,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/March-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202611-Prison-Officer-HMP-Whitemoor/23948",
       "source": "moj",
       "sourceJobId": "23948",
-      "lastCheckedAt": "2026-11-22T06:09:00Z"
+      "lastCheckedAt": "2026-11-23T06:18:40Z"
     },
     {
       "cat": "justice",
@@ -261,7 +261,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20534",
       "source": "moj",
       "sourceJobId": "20534",
-      "lastCheckedAt": "2026-11-22T06:10:22Z"
+      "lastCheckedAt": "2026-11-23T06:20:00Z"
     },
     {
       "cat": "justice",
@@ -277,7 +277,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/22510-Probation-Officer-Southampton/22510",
       "source": "moj",
       "sourceJobId": "22510",
-      "lastCheckedAt": "2026-11-22T06:09:21Z"
+      "lastCheckedAt": "2026-11-23T06:19:00Z"
     },
     {
       "cat": "justice",
@@ -793,7 +793,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bournemouth/1706",
       "source": "btp",
       "sourceJobId": "1706",
-      "lastCheckedAt": "2026-11-22T06:05:39.651850Z"
+      "lastCheckedAt": "2026-11-23T06:15:18.083244Z"
     },
     {
       "cat": "police",
@@ -819,7 +819,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Control-Room/1908",
       "source": "btp",
       "sourceJobId": "1908",
-      "lastCheckedAt": "2026-11-22T06:04:09.062020Z"
+      "lastCheckedAt": "2026-11-23T06:13:47.995739Z"
     },
     {
       "cat": "justice",
@@ -886,7 +886,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858",
       "source": "moj",
       "sourceJobId": "19858",
-      "lastCheckedAt": "2026-11-22T06:10:30Z"
+      "lastCheckedAt": "2026-11-23T06:20:07Z"
     },
     {
       "cat": "justice",
@@ -928,60 +928,6 @@
       "entry": "new",
       "hours": "shift",
       "region": "sw",
-      "title": "Emergency Care Assistant Apprentice - Ferndown MOB, Dorset ONLY",
-      "org": "South Western Ambulance Service NHS Foundation Trust",
-      "place": "Ferndown, BH21 7BU",
-      "pay": "£25,760 to £27,476 a year Per annum",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0293",
-      "source": "nhs_jobs_C9202",
-      "sourceJobId": "5726000",
-      "lastCheckedAt": "2026-11-22T06:02:04.468715Z"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "eca"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "sw",
-      "title": "Emergency Care Assistant Apprentice - Salisbury ONLY",
-      "org": "South Western Ambulance Service NHS Foundation Trust",
-      "place": "Wiltshire, SP5 3JB",
-      "pay": "£25,760 to £27,476 a year Per annum",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0294",
-      "source": "nhs_jobs_C9202",
-      "sourceJobId": "5726002",
-      "lastCheckedAt": "2026-11-22T06:02:05.312056Z"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "eca"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "sw",
-      "title": "Emergency Care Assistant Apprentice - Somerset ONLY",
-      "org": "South Western Ambulance Service NHS Foundation Trust",
-      "place": "Somerset, TA6 4FJ",
-      "pay": "£25,760 to £27,476 a year Per annum",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0292",
-      "source": "nhs_jobs_C9202",
-      "sourceJobId": "5725976",
-      "lastCheckedAt": "2026-11-22T06:02:04.858169Z"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "eca"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "sw",
       "title": "Emergency Care Assistant Apprentice - Isles of Scilly ONLY",
       "org": "South Western Ambulance Service NHS Foundation Trust",
       "place": "St Mary's, TR21 0LE",
@@ -990,7 +936,7 @@
       "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295",
       "source": "nhs_jobs_C9202",
       "sourceJobId": "5726045",
-      "lastCheckedAt": "2026-11-22T06:02:04.141673Z"
+      "lastCheckedAt": "2026-11-23T06:11:44.507403Z"
     },
     {
       "cat": "ambulance",
@@ -1438,7 +1384,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24133-Senior-Investigator-Prisons-and-Probation-Ombudsman/24133",
       "source": "moj",
       "sourceJobId": "24133",
-      "lastCheckedAt": "2026-11-22T06:08:41Z"
+      "lastCheckedAt": "2026-11-23T06:18:21Z"
     },
     {
       "cat": "police",
@@ -1846,7 +1792,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Edinburgh-and-Glasgow/1897",
       "source": "btp",
       "sourceJobId": "1897",
-      "lastCheckedAt": "2026-11-22T06:04:20.280091Z"
+      "lastCheckedAt": "2026-11-23T06:13:58.232459Z"
     },
     {
       "cat": "police",
@@ -1869,7 +1815,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Inner-London/1871",
       "source": "btp",
       "sourceJobId": "1871",
-      "lastCheckedAt": "2026-11-22T06:04:49.420301Z"
+      "lastCheckedAt": "2026-11-23T06:14:28.184089Z"
     },
     {
       "cat": "police",
@@ -1895,7 +1841,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-York/1914",
       "source": "btp",
       "sourceJobId": "1914",
-      "lastCheckedAt": "2026-11-22T06:03:39.249042Z"
+      "lastCheckedAt": "2026-11-23T06:13:18.188798Z"
     },
     {
       "cat": "police",
@@ -1921,7 +1867,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Manchester-Piccadilly/1913",
       "source": "btp",
       "sourceJobId": "1913",
-      "lastCheckedAt": "2026-11-22T06:03:49.055522Z"
+      "lastCheckedAt": "2026-11-23T06:13:27.923691Z"
     },
     {
       "cat": "police",
@@ -1947,7 +1893,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bristol-Operational-Support-Unit-OSU/1911",
       "source": "btp",
       "sourceJobId": "1911",
-      "lastCheckedAt": "2026-11-22T06:03:59.318283Z"
+      "lastCheckedAt": "2026-11-23T06:13:38.097247Z"
     },
     {
       "cat": "control",
@@ -1964,7 +1910,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/First-Contact-Centre-Contact-Handler/1917",
       "source": "btp",
       "sourceJobId": "1917",
-      "lastCheckedAt": "2026-11-22T06:03:29.418443Z"
+      "lastCheckedAt": "2026-11-23T06:13:07.905170Z"
     },
     {
       "cat": "police",
@@ -2035,7 +1981,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Isle-of-Sheppey-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Swaleside/20614",
       "source": "moj",
       "sourceJobId": "20614",
-      "lastCheckedAt": "2026-11-22T06:10:07Z"
+      "lastCheckedAt": "2026-11-23T06:19:45Z"
     },
     {
       "cat": "justice",
@@ -2053,7 +1999,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Norwich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Norwich/20590",
       "source": "moj",
       "sourceJobId": "20590",
-      "lastCheckedAt": "2026-11-22T06:10:12Z"
+      "lastCheckedAt": "2026-11-23T06:19:50Z"
     },
     {
       "cat": "justice",
@@ -2425,7 +2371,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24410-Community-Payback-Probation-Services-Officer-Derbyshire/24410",
       "source": "moj",
       "sourceJobId": "24410",
-      "lastCheckedAt": "2026-11-22T06:07:39Z"
+      "lastCheckedAt": "2026-11-23T06:17:17Z"
     },
     {
       "cat": "justice",
@@ -2441,7 +2387,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24408-Community-Payback-Probation-Services-Officer-Leicester/24408",
       "source": "moj",
       "sourceJobId": "24408",
-      "lastCheckedAt": "2026-11-22T06:07:41Z"
+      "lastCheckedAt": "2026-11-23T06:17:19Z"
     },
     {
       "cat": "justice",
@@ -2457,7 +2403,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24379-Probation-Services-Officer-Leicester/24379",
       "source": "moj",
       "sourceJobId": "24379",
-      "lastCheckedAt": "2026-11-22T06:07:47Z"
+      "lastCheckedAt": "2026-11-23T06:17:25Z"
     },
     {
       "cat": "justice",
@@ -2473,7 +2419,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24391-Community-Payback-Supervisor-Carlisle/24391",
       "source": "moj",
       "sourceJobId": "24391",
-      "lastCheckedAt": "2026-11-22T06:07:46Z"
+      "lastCheckedAt": "2026-11-23T06:17:24Z"
     },
     {
       "cat": "justice",
@@ -2489,7 +2435,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336-Probation-Service-Officer-Barking-Dagenham-Havering-Probation-Delivery-Unit-London-Outcome-in-a-Day/24336",
       "source": "moj",
       "sourceJobId": "24336",
-      "lastCheckedAt": "2026-11-22T06:07:52Z"
+      "lastCheckedAt": "2026-11-23T06:17:31Z"
     },
     {
       "cat": "justice",
@@ -2505,7 +2451,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24333",
       "source": "moj",
       "sourceJobId": "24333",
-      "lastCheckedAt": "2026-11-22T06:07:54Z"
+      "lastCheckedAt": "2026-11-23T06:17:32Z"
     },
     {
       "cat": "justice",
@@ -2521,7 +2467,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24318",
       "source": "moj",
       "sourceJobId": "24318",
-      "lastCheckedAt": "2026-11-22T06:08:01Z"
+      "lastCheckedAt": "2026-11-23T06:17:40Z"
     },
     {
       "cat": "justice",
@@ -3188,7 +3134,7 @@
       "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8420-Emergency-Call-Handler-Dispatcher/en-GB",
       "source": "avon_oleeo",
       "sourceJobId": "8420",
-      "lastCheckedAt": "2026-11-22T05:59:54Z"
+      "lastCheckedAt": "2026-11-23T06:09:36Z"
     },
     {
       "cat": "police",
@@ -3276,7 +3222,7 @@
       "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/5785-Police-Constable-Dog-Handler-Transferee/en-GB",
       "source": "avon_oleeo",
       "sourceJobId": "5785",
-      "lastCheckedAt": "2026-11-22T05:59:24Z"
+      "lastCheckedAt": "2026-11-23T06:09:06Z"
     },
     {
       "cat": "police",
@@ -3954,7 +3900,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20564",
       "source": "moj",
       "sourceJobId": "20564",
-      "lastCheckedAt": "2026-11-22T06:10:17Z"
+      "lastCheckedAt": "2026-11-23T06:19:55Z"
     },
     {
       "cat": "justice",
@@ -3972,7 +3918,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20538",
       "source": "moj",
       "sourceJobId": "20538",
-      "lastCheckedAt": "2026-11-22T06:10:21Z"
+      "lastCheckedAt": "2026-11-23T06:19:59Z"
     },
     {
       "cat": "justice",
@@ -3990,7 +3936,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20528",
       "source": "moj",
       "sourceJobId": "20528",
-      "lastCheckedAt": "2026-11-22T06:10:25Z"
+      "lastCheckedAt": "2026-11-23T06:20:03Z"
     },
     {
       "cat": "justice",
@@ -4008,7 +3954,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Cambridge-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Highpoint/20587",
       "source": "moj",
       "sourceJobId": "20587",
-      "lastCheckedAt": "2026-11-22T06:10:14Z"
+      "lastCheckedAt": "2026-11-23T06:19:52Z"
     },
     {
       "cat": "justice",
@@ -4025,7 +3971,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Ipswich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-24132-Operational-Support-Grade-HMP-Hollesley-Prison-Support-Role/24132",
       "source": "moj",
       "sourceJobId": "24132",
-      "lastCheckedAt": "2026-11-22T06:08:42Z"
+      "lastCheckedAt": "2026-11-23T06:18:22Z"
     },
     {
       "cat": "justice",
@@ -4042,7 +3988,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Milton-Keynes-United-Kingdom-of-Great-Britain-and-Northern-Ireland-23375-Operational-Support-Grade-HMP-Woodhill-Driver-Prison-Support-Role/23375",
       "source": "moj",
       "sourceJobId": "23375",
-      "lastCheckedAt": "2026-11-22T06:09:12Z"
+      "lastCheckedAt": "2026-11-23T06:18:51Z"
     },
     {
       "cat": "justice",
@@ -4594,7 +4540,7 @@
       "region": "uk",
       "source": "avon_oleeo",
       "sourceJobId": "2164",
-      "lastCheckedAt": "2026-11-22T05:59:34Z",
+      "lastCheckedAt": "2026-11-23T06:09:16Z",
       "ptype": "officer"
     },
     {
@@ -4608,7 +4554,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5684423",
-      "lastCheckedAt": "2026-11-22T06:01:56.488787Z",
+      "lastCheckedAt": "2026-11-23T06:11:38.897778Z",
       "skills": [
         "nurse",
         "para"
@@ -4625,7 +4571,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5692478",
-      "lastCheckedAt": "2026-11-22T06:01:55.675452Z",
+      "lastCheckedAt": "2026-11-23T06:11:37.875842Z",
       "skills": [
         "nurse",
         "para"
@@ -4642,7 +4588,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5684217",
-      "lastCheckedAt": "2026-11-22T06:01:58.072924Z",
+      "lastCheckedAt": "2026-11-23T06:11:39.334396Z",
       "skills": [
         "nurse",
         "para"
@@ -4659,7 +4605,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5684439",
-      "lastCheckedAt": "2026-11-22T06:01:57.725166Z",
+      "lastCheckedAt": "2026-11-23T06:11:39.841669Z",
       "skills": [
         "nurse",
         "para"
@@ -4676,7 +4622,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5688091",
-      "lastCheckedAt": "2026-11-22T06:01:59.675381Z",
+      "lastCheckedAt": "2026-11-23T06:11:41.720907Z",
       "skills": [
         "nurse",
         "para"
@@ -4693,24 +4639,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5618895",
-      "lastCheckedAt": "2026-11-22T06:02:00.515888Z",
-      "skills": [
-        "nurse",
-        "para"
-      ]
-    },
-    {
-      "cat": "ambulance",
-      "title": "Custody Nurse or Paramedic",
-      "org": "Care & Custody - A Mitie Company",
-      "place": "Dewsbury, WF13 2NS",
-      "pay": "£41,500 a year",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-107941",
-      "region": "uk",
-      "source": "nhs_jobs_E0059",
-      "sourceJobId": "5708260",
-      "lastCheckedAt": "2026-11-22T06:02:00.965306Z",
+      "lastCheckedAt": "2026-11-23T06:11:42.263574Z",
       "skills": [
         "nurse",
         "para"
@@ -4727,7 +4656,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5689032",
-      "lastCheckedAt": "2026-11-22T06:01:58.413102Z",
+      "lastCheckedAt": "2026-11-23T06:11:40.939495Z",
       "skills": [
         "nurse",
         "para"
@@ -4744,7 +4673,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5692553",
-      "lastCheckedAt": "2026-11-22T06:01:58.845915Z",
+      "lastCheckedAt": "2026-11-23T06:11:40.230669Z",
       "skills": [
         "nurse",
         "para"
@@ -4761,7 +4690,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5687872",
-      "lastCheckedAt": "2026-11-22T06:01:59.290060Z",
+      "lastCheckedAt": "2026-11-23T06:11:41.358956Z",
       "skills": [
         "nurse",
         "para"
@@ -4778,7 +4707,7 @@
       "region": "uk",
       "source": "nhs_jobs_C9335",
       "sourceJobId": "5726358",
-      "lastCheckedAt": "2026-11-22T06:02:01.790523Z"
+      "lastCheckedAt": "2026-11-23T06:11:42.859441Z"
     },
     {
       "cat": "ambulance",
@@ -4791,7 +4720,7 @@
       "region": "uk",
       "source": "nhs_jobs_C9308",
       "sourceJobId": "5720165",
-      "lastCheckedAt": "2026-11-22T06:02:06.791587Z"
+      "lastCheckedAt": "2026-11-23T06:11:45.971721Z"
     },
     {
       "cat": "police",
@@ -4804,7 +4733,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1873",
-      "lastCheckedAt": "2026-11-22T06:04:29.506127Z",
+      "lastCheckedAt": "2026-11-23T06:14:07.923951Z",
       "ranks": [
         "pc"
       ],
@@ -4826,7 +4755,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1872",
-      "lastCheckedAt": "2026-11-22T06:04:39.382452Z",
+      "lastCheckedAt": "2026-11-23T06:14:18.580697Z",
       "ranks": [
         "pc"
       ],
@@ -4848,7 +4777,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1762",
-      "lastCheckedAt": "2026-11-22T06:04:59.488263Z",
+      "lastCheckedAt": "2026-11-23T06:14:37.901943Z",
       "ranks": [
         "pc"
       ],
@@ -4870,7 +4799,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1760",
-      "lastCheckedAt": "2026-11-22T06:05:09.562923Z",
+      "lastCheckedAt": "2026-11-23T06:14:48.247109Z",
       "ranks": [
         "pc"
       ],
@@ -4892,7 +4821,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1732",
-      "lastCheckedAt": "2026-11-22T06:05:19.722625Z",
+      "lastCheckedAt": "2026-11-23T06:14:58.120943Z",
       "ranks": [
         "dc"
       ],
@@ -4914,7 +4843,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1707",
-      "lastCheckedAt": "2026-11-22T06:05:29.371186Z",
+      "lastCheckedAt": "2026-11-23T06:15:07.927854Z",
       "ranks": [
         "pc"
       ],
@@ -4958,7 +4887,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1216",
-      "lastCheckedAt": "2026-11-22T06:05:49.529656Z",
+      "lastCheckedAt": "2026-11-23T06:15:28.253488Z",
       "ranks": [
         "pc"
       ],
@@ -4980,7 +4909,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "991",
-      "lastCheckedAt": "2026-11-22T06:05:59.381487Z",
+      "lastCheckedAt": "2026-11-23T06:15:37.932752Z",
       "ranks": [
         "pc"
       ],
@@ -4998,7 +4927,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "793",
-      "lastCheckedAt": "2026-11-22T06:06:09.601509Z",
+      "lastCheckedAt": "2026-11-23T06:15:48.082273Z",
       "ranks": [
         "pc"
       ],
@@ -5020,7 +4949,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24486",
-      "lastCheckedAt": "2026-11-22T06:07:25Z",
+      "lastCheckedAt": "2026-11-23T06:17:01Z",
       "jroles": [
         "probation"
       ]
@@ -5036,7 +4965,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24483",
-      "lastCheckedAt": "2026-11-22T06:07:26Z",
+      "lastCheckedAt": "2026-11-23T06:17:02Z",
       "jroles": [
         "probation"
       ]
@@ -5052,7 +4981,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24427",
-      "lastCheckedAt": "2026-11-22T06:07:29Z",
+      "lastCheckedAt": "2026-11-23T06:17:05Z",
       "jroles": [
         "probation"
       ]
@@ -5068,7 +4997,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24424",
-      "lastCheckedAt": "2026-11-22T06:07:31Z",
+      "lastCheckedAt": "2026-11-23T06:17:08Z",
       "jroles": [
         "probation"
       ]
@@ -5084,7 +5013,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24421",
-      "lastCheckedAt": "2026-11-22T06:07:33Z",
+      "lastCheckedAt": "2026-11-23T06:17:09Z",
       "jroles": [
         "probation"
       ]
@@ -5100,7 +5029,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24419",
-      "lastCheckedAt": "2026-11-22T06:07:34Z",
+      "lastCheckedAt": "2026-11-23T06:17:12Z",
       "jroles": [
         "probation"
       ]
@@ -5116,7 +5045,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24416",
-      "lastCheckedAt": "2026-11-22T06:07:35Z",
+      "lastCheckedAt": "2026-11-23T06:17:13Z",
       "jroles": [
         "probation"
       ]
@@ -5132,7 +5061,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24414",
-      "lastCheckedAt": "2026-11-22T06:07:37Z",
+      "lastCheckedAt": "2026-11-23T06:17:15Z",
       "jroles": [
         "probation"
       ]
@@ -5148,7 +5077,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24393",
-      "lastCheckedAt": "2026-11-22T06:07:45Z",
+      "lastCheckedAt": "2026-11-23T06:17:23Z",
       "jroles": [
         "probation"
       ]
@@ -5164,7 +5093,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24378",
-      "lastCheckedAt": "2026-11-22T06:07:48Z",
+      "lastCheckedAt": "2026-11-23T06:17:27Z",
       "jroles": [
         "probation"
       ]
@@ -5180,7 +5109,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24369",
-      "lastCheckedAt": "2026-11-22T06:07:50Z",
+      "lastCheckedAt": "2026-11-23T06:17:28Z",
       "jroles": [
         "probation"
       ]
@@ -5196,7 +5125,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24363",
-      "lastCheckedAt": "2026-11-22T06:07:51Z",
+      "lastCheckedAt": "2026-11-23T06:17:29Z",
       "jroles": [
         "probation"
       ]
@@ -5212,7 +5141,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24332",
-      "lastCheckedAt": "2026-11-22T06:07:55Z",
+      "lastCheckedAt": "2026-11-23T06:17:33Z",
       "jroles": [
         "probation"
       ]
@@ -5228,7 +5157,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24328",
-      "lastCheckedAt": "2026-11-22T06:07:56Z",
+      "lastCheckedAt": "2026-11-23T06:17:35Z",
       "jroles": [
         "probation"
       ]
@@ -5244,7 +5173,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24324",
-      "lastCheckedAt": "2026-11-22T06:07:57Z",
+      "lastCheckedAt": "2026-11-23T06:17:36Z",
       "jroles": [
         "probation"
       ]
@@ -5260,7 +5189,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24322",
-      "lastCheckedAt": "2026-11-22T06:07:59Z",
+      "lastCheckedAt": "2026-11-23T06:17:37Z",
       "jroles": [
         "probation"
       ]
@@ -5276,7 +5205,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24312",
-      "lastCheckedAt": "2026-11-22T06:08:02Z"
+      "lastCheckedAt": "2026-11-23T06:17:41Z"
     },
     {
       "cat": "justice",
@@ -5289,7 +5218,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24306",
-      "lastCheckedAt": "2026-11-22T06:08:04Z",
+      "lastCheckedAt": "2026-11-23T06:17:42Z",
       "jroles": [
         "probation"
       ]
@@ -5305,7 +5234,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24280",
-      "lastCheckedAt": "2026-11-22T06:08:05Z",
+      "lastCheckedAt": "2026-11-23T06:17:44Z",
       "jroles": [
         "probation"
       ]
@@ -5321,7 +5250,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24271",
-      "lastCheckedAt": "2026-11-22T06:08:06Z",
+      "lastCheckedAt": "2026-11-23T06:17:45Z",
       "jroles": [
         "probation"
       ]
@@ -5337,7 +5266,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24267",
-      "lastCheckedAt": "2026-11-22T06:08:09Z",
+      "lastCheckedAt": "2026-11-23T06:17:48Z",
       "jroles": [
         "probation"
       ]
@@ -5353,7 +5282,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24266",
-      "lastCheckedAt": "2026-11-22T06:08:10Z",
+      "lastCheckedAt": "2026-11-23T06:17:49Z",
       "jroles": [
         "probation"
       ]
@@ -5369,7 +5298,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24265",
-      "lastCheckedAt": "2026-11-22T06:08:11Z",
+      "lastCheckedAt": "2026-11-23T06:17:50Z",
       "jroles": [
         "probation"
       ]
@@ -5385,7 +5314,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24262",
-      "lastCheckedAt": "2026-11-22T06:08:14Z",
+      "lastCheckedAt": "2026-11-23T06:17:53Z",
       "jroles": [
         "probation"
       ]
@@ -5401,7 +5330,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24248",
-      "lastCheckedAt": "2026-11-22T06:08:17Z",
+      "lastCheckedAt": "2026-11-23T06:17:56Z",
       "jroles": [
         "probation"
       ]
@@ -5417,7 +5346,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24241",
-      "lastCheckedAt": "2026-11-22T06:08:18Z"
+      "lastCheckedAt": "2026-11-23T06:17:57Z"
     },
     {
       "cat": "justice",
@@ -5430,7 +5359,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24231",
-      "lastCheckedAt": "2026-11-22T06:08:19Z",
+      "lastCheckedAt": "2026-11-23T06:17:58Z",
       "jroles": [
         "probation"
       ]
@@ -5446,7 +5375,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24226",
-      "lastCheckedAt": "2026-11-22T06:08:20Z"
+      "lastCheckedAt": "2026-11-23T06:18:00Z"
     },
     {
       "cat": "justice",
@@ -5459,7 +5388,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24223",
-      "lastCheckedAt": "2026-11-22T06:08:22Z"
+      "lastCheckedAt": "2026-11-23T06:18:01Z"
     },
     {
       "cat": "justice",
@@ -5472,7 +5401,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24215",
-      "lastCheckedAt": "2026-11-22T06:08:23Z"
+      "lastCheckedAt": "2026-11-23T06:18:02Z"
     },
     {
       "cat": "justice",
@@ -5485,7 +5414,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24210",
-      "lastCheckedAt": "2026-11-22T06:08:24Z"
+      "lastCheckedAt": "2026-11-23T06:18:04Z"
     },
     {
       "cat": "justice",
@@ -5498,7 +5427,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24209",
-      "lastCheckedAt": "2026-11-22T06:08:26Z"
+      "lastCheckedAt": "2026-11-23T06:18:05Z"
     },
     {
       "cat": "justice",
@@ -5511,7 +5440,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24207",
-      "lastCheckedAt": "2026-11-22T06:08:27Z"
+      "lastCheckedAt": "2026-11-23T06:18:06Z"
     },
     {
       "cat": "justice",
@@ -5524,7 +5453,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24206",
-      "lastCheckedAt": "2026-11-22T06:08:28Z",
+      "lastCheckedAt": "2026-11-23T06:18:07Z",
       "jroles": [
         "probation"
       ]
@@ -5540,7 +5469,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24204",
-      "lastCheckedAt": "2026-11-22T06:08:30Z",
+      "lastCheckedAt": "2026-11-23T06:18:09Z",
       "jroles": [
         "probation"
       ]
@@ -5556,7 +5485,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24182",
-      "lastCheckedAt": "2026-11-22T06:08:31Z"
+      "lastCheckedAt": "2026-11-23T06:18:10Z"
     },
     {
       "cat": "justice",
@@ -5569,7 +5498,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24171",
-      "lastCheckedAt": "2026-11-22T06:08:34Z",
+      "lastCheckedAt": "2026-11-23T06:18:13Z",
       "jroles": [
         "probation"
       ]
@@ -5585,7 +5514,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24163",
-      "lastCheckedAt": "2026-11-22T06:08:36Z"
+      "lastCheckedAt": "2026-11-23T06:18:15Z"
     },
     {
       "cat": "justice",
@@ -5598,7 +5527,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24160",
-      "lastCheckedAt": "2026-11-22T06:08:38Z"
+      "lastCheckedAt": "2026-11-23T06:18:17Z"
     },
     {
       "cat": "justice",
@@ -5611,7 +5540,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24150",
-      "lastCheckedAt": "2026-11-22T06:08:39Z",
+      "lastCheckedAt": "2026-11-23T06:18:18Z",
       "jroles": [
         "probation"
       ]
@@ -5627,7 +5556,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24139",
-      "lastCheckedAt": "2026-11-22T06:08:40Z"
+      "lastCheckedAt": "2026-11-23T06:18:19Z"
     },
     {
       "cat": "justice",
@@ -5640,7 +5569,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24126",
-      "lastCheckedAt": "2026-11-22T06:08:44Z"
+      "lastCheckedAt": "2026-11-23T06:18:23Z"
     },
     {
       "cat": "justice",
@@ -5669,7 +5598,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24106",
-      "lastCheckedAt": "2026-11-22T06:08:45Z"
+      "lastCheckedAt": "2026-11-23T06:18:24Z"
     },
     {
       "cat": "justice",
@@ -5682,7 +5611,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24094",
-      "lastCheckedAt": "2026-11-22T06:08:46Z",
+      "lastCheckedAt": "2026-11-23T06:18:26Z",
       "jroles": [
         "probation"
       ]
@@ -5698,7 +5627,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24075",
-      "lastCheckedAt": "2026-11-22T06:08:47Z",
+      "lastCheckedAt": "2026-11-23T06:18:27Z",
       "jroles": [
         "probation"
       ]
@@ -5714,7 +5643,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24059",
-      "lastCheckedAt": "2026-11-22T06:08:49Z",
+      "lastCheckedAt": "2026-11-23T06:18:28Z",
       "jroles": [
         "probation"
       ]
@@ -5730,7 +5659,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24050",
-      "lastCheckedAt": "2026-11-22T06:08:50Z",
+      "lastCheckedAt": "2026-11-23T06:18:30Z",
       "jroles": [
         "probation"
       ]
@@ -5746,7 +5675,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24049",
-      "lastCheckedAt": "2026-11-22T06:08:51Z",
+      "lastCheckedAt": "2026-11-23T06:18:31Z",
       "jroles": [
         "probation"
       ]
@@ -5762,7 +5691,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24031",
-      "lastCheckedAt": "2026-11-22T06:08:53Z",
+      "lastCheckedAt": "2026-11-23T06:18:33Z",
       "jroles": [
         "probation"
       ]
@@ -5778,7 +5707,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24008",
-      "lastCheckedAt": "2026-11-22T06:08:54Z",
+      "lastCheckedAt": "2026-11-23T06:18:34Z",
       "jroles": [
         "probation"
       ]
@@ -5794,7 +5723,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "23999",
-      "lastCheckedAt": "2026-11-22T06:08:55Z",
+      "lastCheckedAt": "2026-11-23T06:18:35Z",
       "jroles": [
         "probation"
       ]
@@ -5810,7 +5739,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "23998",
-      "lastCheckedAt": "2026-11-22T06:08:57Z"
+      "lastCheckedAt": "2026-11-23T06:18:37Z"
     },
     {
       "cat": "justice",
@@ -5862,7 +5791,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "23970",
-      "lastCheckedAt": "2026-11-22T06:08:58Z",
+      "lastCheckedAt": "2026-11-23T06:18:38Z",
       "jroles": [
         "probation"
       ]
@@ -5907,7 +5836,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "23932",
-      "lastCheckedAt": "2026-11-22T06:09:02Z",
+      "lastCheckedAt": "2026-11-23T06:18:42Z",
       "jroles": [
         "probation"
       ]
@@ -5923,7 +5852,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "23897",
-      "lastCheckedAt": "2026-11-22T06:09:03Z",
+      "lastCheckedAt": "2026-11-23T06:18:43Z",
       "jroles": [
         "probation"
       ]
@@ -5955,7 +5884,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "23882",
-      "lastCheckedAt": "2026-11-22T06:09:04Z"
+      "lastCheckedAt": "2026-11-23T06:18:44Z"
     },
     {
       "cat": "justice",
@@ -5968,7 +5897,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "23875",
-      "lastCheckedAt": "2026-11-22T06:09:06Z",
+      "lastCheckedAt": "2026-11-23T06:18:46Z",
       "jroles": [
         "probation"
       ]
@@ -5997,7 +5926,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "23813",
-      "lastCheckedAt": "2026-11-22T06:09:07Z"
+      "lastCheckedAt": "2026-11-23T06:18:47Z"
     },
     {
       "cat": "justice",
@@ -6010,7 +5939,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "23809",
-      "lastCheckedAt": "2026-11-22T06:09:08Z"
+      "lastCheckedAt": "2026-11-23T06:18:48Z"
     },
     {
       "cat": "justice",
@@ -6039,7 +5968,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "23759",
-      "lastCheckedAt": "2026-11-22T06:09:11Z",
+      "lastCheckedAt": "2026-11-23T06:18:50Z",
       "jroles": [
         "probation"
       ]
@@ -6103,7 +6032,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "23062",
-      "lastCheckedAt": "2026-11-22T06:09:18Z",
+      "lastCheckedAt": "2026-11-23T06:18:57Z",
       "jroles": [
         "probation"
       ]
@@ -6119,7 +6048,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "21629",
-      "lastCheckedAt": "2026-11-22T06:09:34Z",
+      "lastCheckedAt": "2026-11-23T06:19:12Z",
       "jroles": [
         "probation"
       ]
@@ -6135,7 +6064,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "21393",
-      "lastCheckedAt": "2026-11-22T06:09:42Z",
+      "lastCheckedAt": "2026-11-23T06:19:21Z",
       "jroles": [
         "probation"
       ]
@@ -6151,7 +6080,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "20574",
-      "lastCheckedAt": "2026-11-22T06:10:16Z",
+      "lastCheckedAt": "2026-11-23T06:19:53Z",
       "jroles": [
         "probation"
       ]
@@ -6167,7 +6096,7 @@
       "region": "wal",
       "source": "moj",
       "sourceJobId": "18335",
-      "lastCheckedAt": "2026-11-22T06:10:31Z",
+      "lastCheckedAt": "2026-11-23T06:20:09Z",
       "jroles": [
         "probation"
       ]
@@ -6183,7 +6112,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "23951",
-      "lastCheckedAt": "2026-11-22T06:09:00Z",
+      "lastCheckedAt": "2026-11-23T06:18:40Z",
       "jroles": [
         "prison"
       ]
@@ -6199,7 +6128,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "22917",
-      "lastCheckedAt": "2026-11-22T06:09:20Z"
+      "lastCheckedAt": "2026-11-23T06:18:58Z"
     },
     {
       "cat": "justice",
@@ -6212,7 +6141,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21986",
-      "lastCheckedAt": "2026-11-22T06:09:32Z",
+      "lastCheckedAt": "2026-11-23T06:19:11Z",
       "jroles": [
         "prison"
       ]
@@ -6228,7 +6157,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21432",
-      "lastCheckedAt": "2026-11-22T06:09:34Z",
+      "lastCheckedAt": "2026-11-23T06:19:13Z",
       "jroles": [
         "prison"
       ]
@@ -6244,7 +6173,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21431",
-      "lastCheckedAt": "2026-11-22T06:09:35Z",
+      "lastCheckedAt": "2026-11-23T06:19:14Z",
       "jroles": [
         "prison"
       ]
@@ -6260,7 +6189,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21427",
-      "lastCheckedAt": "2026-11-22T06:09:36Z",
+      "lastCheckedAt": "2026-11-23T06:19:15Z",
       "jroles": [
         "prison"
       ]
@@ -6276,7 +6205,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21426",
-      "lastCheckedAt": "2026-11-22T06:09:37Z",
+      "lastCheckedAt": "2026-11-23T06:19:15Z",
       "jroles": [
         "prison"
       ]
@@ -6292,7 +6221,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21424",
-      "lastCheckedAt": "2026-11-22T06:09:38Z",
+      "lastCheckedAt": "2026-11-23T06:19:16Z",
       "jroles": [
         "prison"
       ]
@@ -6308,7 +6237,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21421",
-      "lastCheckedAt": "2026-11-22T06:09:38Z",
+      "lastCheckedAt": "2026-11-23T06:19:17Z",
       "jroles": [
         "prison"
       ]
@@ -6324,7 +6253,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21417",
-      "lastCheckedAt": "2026-11-22T06:09:39Z",
+      "lastCheckedAt": "2026-11-23T06:19:18Z",
       "jroles": [
         "prison"
       ]
@@ -6340,7 +6269,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21415",
-      "lastCheckedAt": "2026-11-22T06:09:40Z",
+      "lastCheckedAt": "2026-11-23T06:19:19Z",
       "jroles": [
         "prison"
       ]
@@ -6356,7 +6285,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21412",
-      "lastCheckedAt": "2026-11-22T06:09:41Z",
+      "lastCheckedAt": "2026-11-23T06:19:19Z",
       "jroles": [
         "prison"
       ]
@@ -6372,7 +6301,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21318",
-      "lastCheckedAt": "2026-11-22T06:09:43Z",
+      "lastCheckedAt": "2026-11-23T06:19:21Z",
       "jroles": [
         "prison"
       ]
@@ -6388,7 +6317,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21316",
-      "lastCheckedAt": "2026-11-22T06:09:44Z",
+      "lastCheckedAt": "2026-11-23T06:19:22Z",
       "jroles": [
         "prison"
       ]
@@ -6404,7 +6333,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21315",
-      "lastCheckedAt": "2026-11-22T06:09:44Z",
+      "lastCheckedAt": "2026-11-23T06:19:23Z",
       "jroles": [
         "prison"
       ]
@@ -6420,7 +6349,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21312",
-      "lastCheckedAt": "2026-11-22T06:09:45Z",
+      "lastCheckedAt": "2026-11-23T06:19:24Z",
       "jroles": [
         "prison"
       ]
@@ -6436,7 +6365,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21310",
-      "lastCheckedAt": "2026-11-22T06:09:46Z",
+      "lastCheckedAt": "2026-11-23T06:19:25Z",
       "jroles": [
         "prison"
       ]
@@ -6452,7 +6381,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21309",
-      "lastCheckedAt": "2026-11-22T06:09:47Z",
+      "lastCheckedAt": "2026-11-23T06:19:25Z",
       "jroles": [
         "prison"
       ]
@@ -6468,7 +6397,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21306",
-      "lastCheckedAt": "2026-11-22T06:09:48Z",
+      "lastCheckedAt": "2026-11-23T06:19:26Z",
       "jroles": [
         "prison"
       ]
@@ -6484,7 +6413,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21276",
-      "lastCheckedAt": "2026-11-22T06:09:49Z",
+      "lastCheckedAt": "2026-11-23T06:19:27Z",
       "jroles": [
         "prison"
       ]
@@ -6500,7 +6429,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21273",
-      "lastCheckedAt": "2026-11-22T06:09:49Z",
+      "lastCheckedAt": "2026-11-23T06:19:28Z",
       "jroles": [
         "prison"
       ]
@@ -6516,7 +6445,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21268",
-      "lastCheckedAt": "2026-11-22T06:09:50Z",
+      "lastCheckedAt": "2026-11-23T06:19:29Z",
       "jroles": [
         "prison"
       ]
@@ -6532,7 +6461,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21263",
-      "lastCheckedAt": "2026-11-22T06:09:51Z",
+      "lastCheckedAt": "2026-11-23T06:19:29Z",
       "jroles": [
         "prison"
       ]
@@ -6548,7 +6477,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21259",
-      "lastCheckedAt": "2026-11-22T06:09:52Z",
+      "lastCheckedAt": "2026-11-23T06:19:30Z",
       "jroles": [
         "prison"
       ]
@@ -6564,7 +6493,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21254",
-      "lastCheckedAt": "2026-11-22T06:09:53Z",
+      "lastCheckedAt": "2026-11-23T06:19:31Z",
       "jroles": [
         "prison"
       ]
@@ -6580,7 +6509,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20662",
-      "lastCheckedAt": "2026-11-22T06:09:55Z",
+      "lastCheckedAt": "2026-11-23T06:19:34Z",
       "jroles": [
         "prison"
       ]
@@ -6596,7 +6525,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20660",
-      "lastCheckedAt": "2026-11-22T06:09:56Z",
+      "lastCheckedAt": "2026-11-23T06:19:34Z",
       "jroles": [
         "prison"
       ]
@@ -6612,7 +6541,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20659",
-      "lastCheckedAt": "2026-11-22T06:09:57Z",
+      "lastCheckedAt": "2026-11-23T06:19:35Z",
       "jroles": [
         "prison"
       ]
@@ -6628,7 +6557,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20658",
-      "lastCheckedAt": "2026-11-22T06:09:58Z",
+      "lastCheckedAt": "2026-11-23T06:19:36Z",
       "jroles": [
         "prison"
       ]
@@ -6644,7 +6573,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20657",
-      "lastCheckedAt": "2026-11-22T06:09:59Z",
+      "lastCheckedAt": "2026-11-23T06:19:37Z",
       "jroles": [
         "prison"
       ]
@@ -6660,7 +6589,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20656",
-      "lastCheckedAt": "2026-11-22T06:09:59Z",
+      "lastCheckedAt": "2026-11-23T06:19:38Z",
       "jroles": [
         "prison"
       ]
@@ -6676,7 +6605,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20638",
-      "lastCheckedAt": "2026-11-22T06:10:00Z",
+      "lastCheckedAt": "2026-11-23T06:19:38Z",
       "jroles": [
         "prison"
       ]
@@ -6692,7 +6621,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20636",
-      "lastCheckedAt": "2026-11-22T06:10:01Z",
+      "lastCheckedAt": "2026-11-23T06:19:39Z",
       "jroles": [
         "prison"
       ]
@@ -6708,7 +6637,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20628",
-      "lastCheckedAt": "2026-11-22T06:10:02Z",
+      "lastCheckedAt": "2026-11-23T06:19:40Z",
       "jroles": [
         "prison"
       ]
@@ -6724,7 +6653,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20627",
-      "lastCheckedAt": "2026-11-22T06:10:03Z",
+      "lastCheckedAt": "2026-11-23T06:19:41Z",
       "jroles": [
         "prison"
       ]
@@ -6740,7 +6669,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20622",
-      "lastCheckedAt": "2026-11-22T06:10:04Z",
+      "lastCheckedAt": "2026-11-23T06:19:42Z",
       "jroles": [
         "prison"
       ]
@@ -6756,7 +6685,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20620",
-      "lastCheckedAt": "2026-11-22T06:10:04Z",
+      "lastCheckedAt": "2026-11-23T06:19:42Z",
       "jroles": [
         "prison"
       ]
@@ -6772,7 +6701,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20618",
-      "lastCheckedAt": "2026-11-22T06:10:05Z",
+      "lastCheckedAt": "2026-11-23T06:19:43Z",
       "jroles": [
         "prison"
       ]
@@ -6788,7 +6717,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20617",
-      "lastCheckedAt": "2026-11-22T06:10:06Z",
+      "lastCheckedAt": "2026-11-23T06:19:44Z",
       "jroles": [
         "prison"
       ]
@@ -6804,7 +6733,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20607",
-      "lastCheckedAt": "2026-11-22T06:10:08Z",
+      "lastCheckedAt": "2026-11-23T06:19:46Z",
       "jroles": [
         "prison"
       ]
@@ -6820,7 +6749,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20604",
-      "lastCheckedAt": "2026-11-22T06:10:08Z",
+      "lastCheckedAt": "2026-11-23T06:19:46Z",
       "jroles": [
         "prison"
       ]
@@ -6836,7 +6765,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20599",
-      "lastCheckedAt": "2026-11-22T06:10:09Z",
+      "lastCheckedAt": "2026-11-23T06:19:47Z",
       "jroles": [
         "prison"
       ]
@@ -6852,7 +6781,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20598",
-      "lastCheckedAt": "2026-11-22T06:10:10Z",
+      "lastCheckedAt": "2026-11-23T06:19:48Z",
       "jroles": [
         "prison"
       ]
@@ -6868,7 +6797,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20591",
-      "lastCheckedAt": "2026-11-22T06:10:11Z",
+      "lastCheckedAt": "2026-11-23T06:19:49Z",
       "jroles": [
         "prison"
       ]
@@ -6884,7 +6813,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20589",
-      "lastCheckedAt": "2026-11-22T06:10:12Z",
+      "lastCheckedAt": "2026-11-23T06:19:50Z",
       "jroles": [
         "prison"
       ]
@@ -6900,7 +6829,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20588",
-      "lastCheckedAt": "2026-11-22T06:10:13Z",
+      "lastCheckedAt": "2026-11-23T06:19:51Z",
       "jroles": [
         "prison"
       ]
@@ -6916,7 +6845,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20567",
-      "lastCheckedAt": "2026-11-22T06:10:16Z",
+      "lastCheckedAt": "2026-11-23T06:19:54Z",
       "jroles": [
         "prison"
       ]
@@ -6932,7 +6861,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20562",
-      "lastCheckedAt": "2026-11-22T06:10:18Z",
+      "lastCheckedAt": "2026-11-23T06:19:56Z",
       "jroles": [
         "prison"
       ]
@@ -6948,7 +6877,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20557",
-      "lastCheckedAt": "2026-11-22T06:10:19Z",
+      "lastCheckedAt": "2026-11-23T06:19:56Z",
       "jroles": [
         "prison"
       ]
@@ -6964,7 +6893,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20555",
-      "lastCheckedAt": "2026-11-22T06:10:20Z",
+      "lastCheckedAt": "2026-11-23T06:19:57Z",
       "jroles": [
         "prison"
       ]
@@ -6980,7 +6909,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20553",
-      "lastCheckedAt": "2026-11-22T06:10:20Z",
+      "lastCheckedAt": "2026-11-23T06:19:58Z",
       "jroles": [
         "prison"
       ]
@@ -6996,7 +6925,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20533",
-      "lastCheckedAt": "2026-11-22T06:10:23Z",
+      "lastCheckedAt": "2026-11-23T06:20:00Z",
       "jroles": [
         "prison"
       ]
@@ -7012,7 +6941,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20532",
-      "lastCheckedAt": "2026-11-22T06:10:24Z",
+      "lastCheckedAt": "2026-11-23T06:20:01Z",
       "jroles": [
         "prison"
       ]
@@ -7028,7 +6957,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20530",
-      "lastCheckedAt": "2026-11-22T06:10:24Z",
+      "lastCheckedAt": "2026-11-23T06:20:02Z",
       "jroles": [
         "prison"
       ]
@@ -7044,7 +6973,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20526",
-      "lastCheckedAt": "2026-11-22T06:10:26Z",
+      "lastCheckedAt": "2026-11-23T06:20:03Z",
       "jroles": [
         "prison"
       ]
@@ -7060,7 +6989,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20523",
-      "lastCheckedAt": "2026-11-22T06:10:27Z",
+      "lastCheckedAt": "2026-11-23T06:20:04Z",
       "jroles": [
         "prison"
       ]
@@ -7076,7 +7005,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20522",
-      "lastCheckedAt": "2026-11-22T06:10:28Z",
+      "lastCheckedAt": "2026-11-23T06:20:05Z",
       "jroles": [
         "prison"
       ]
@@ -7092,7 +7021,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20272",
-      "lastCheckedAt": "2026-11-22T06:10:28Z",
+      "lastCheckedAt": "2026-11-23T06:20:06Z",
       "jroles": [
         "prison"
       ]
@@ -7108,7 +7037,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16571",
-      "lastCheckedAt": "2026-11-22T06:10:32Z",
+      "lastCheckedAt": "2026-11-23T06:20:10Z",
       "jroles": [
         "probation"
       ]
@@ -7124,7 +7053,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16570",
-      "lastCheckedAt": "2026-11-22T06:10:34Z",
+      "lastCheckedAt": "2026-11-23T06:20:11Z",
       "jroles": [
         "probation"
       ]
@@ -7140,7 +7069,7 @@
       "region": "wal",
       "source": "moj",
       "sourceJobId": "16569",
-      "lastCheckedAt": "2026-11-22T06:10:35Z",
+      "lastCheckedAt": "2026-11-23T06:20:12Z",
       "jroles": [
         "probation"
       ]
@@ -7156,7 +7085,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "16568",
-      "lastCheckedAt": "2026-11-22T06:10:36Z",
+      "lastCheckedAt": "2026-11-23T06:20:14Z",
       "jroles": [
         "probation"
       ]
@@ -7172,7 +7101,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16567",
-      "lastCheckedAt": "2026-11-22T06:10:37Z",
+      "lastCheckedAt": "2026-11-23T06:20:15Z",
       "jroles": [
         "probation"
       ]
@@ -7188,7 +7117,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "16566",
-      "lastCheckedAt": "2026-11-22T06:10:39Z",
+      "lastCheckedAt": "2026-11-23T06:20:16Z",
       "jroles": [
         "probation"
       ]
@@ -7204,7 +7133,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16565",
-      "lastCheckedAt": "2026-11-22T06:10:40Z",
+      "lastCheckedAt": "2026-11-23T06:20:17Z",
       "jroles": [
         "probation"
       ]
@@ -7220,7 +7149,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16564",
-      "lastCheckedAt": "2026-11-22T06:10:41Z",
+      "lastCheckedAt": "2026-11-23T06:20:19Z",
       "jroles": [
         "probation"
       ]
@@ -7236,7 +7165,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16563",
-      "lastCheckedAt": "2026-11-22T06:10:42Z",
+      "lastCheckedAt": "2026-11-23T06:20:20Z",
       "jroles": [
         "probation"
       ]
@@ -7252,7 +7181,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16562",
-      "lastCheckedAt": "2026-11-22T06:10:43Z",
+      "lastCheckedAt": "2026-11-23T06:20:21Z",
       "jroles": [
         "probation"
       ]
@@ -7268,7 +7197,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "16549",
-      "lastCheckedAt": "2026-11-22T06:10:45Z",
+      "lastCheckedAt": "2026-11-23T06:20:23Z",
       "jroles": [
         "probation"
       ]
@@ -7284,7 +7213,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "16431",
-      "lastCheckedAt": "2026-11-22T06:10:46Z",
+      "lastCheckedAt": "2026-11-23T06:20:24Z",
       "jroles": [
         "probation"
       ]
@@ -7300,7 +7229,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16391",
-      "lastCheckedAt": "2026-11-22T06:10:47Z",
+      "lastCheckedAt": "2026-11-23T06:20:25Z",
       "jroles": [
         "probation"
       ]
@@ -7316,7 +7245,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16390",
-      "lastCheckedAt": "2026-11-22T06:10:48Z",
+      "lastCheckedAt": "2026-11-23T06:20:26Z",
       "jroles": [
         "probation"
       ]
@@ -7332,7 +7261,7 @@
       "region": "wal",
       "source": "moj",
       "sourceJobId": "16388",
-      "lastCheckedAt": "2026-11-22T06:10:50Z",
+      "lastCheckedAt": "2026-11-23T06:20:27Z",
       "jroles": [
         "probation"
       ]
@@ -7348,7 +7277,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "16387",
-      "lastCheckedAt": "2026-11-22T06:10:51Z",
+      "lastCheckedAt": "2026-11-23T06:20:29Z",
       "jroles": [
         "probation"
       ]
@@ -7364,7 +7293,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16383",
-      "lastCheckedAt": "2026-11-22T06:10:52Z",
+      "lastCheckedAt": "2026-11-23T06:20:30Z",
       "jroles": [
         "probation"
       ]
@@ -7380,7 +7309,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "16379",
-      "lastCheckedAt": "2026-11-22T06:10:53Z",
+      "lastCheckedAt": "2026-11-23T06:20:31Z",
       "jroles": [
         "probation"
       ]
@@ -7396,7 +7325,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16377",
-      "lastCheckedAt": "2026-11-22T06:10:55Z",
+      "lastCheckedAt": "2026-11-23T06:20:32Z",
       "jroles": [
         "probation"
       ]
@@ -7412,7 +7341,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16375",
-      "lastCheckedAt": "2026-11-22T06:10:56Z",
+      "lastCheckedAt": "2026-11-23T06:20:34Z",
       "jroles": [
         "probation"
       ]
@@ -7428,7 +7357,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "16373",
-      "lastCheckedAt": "2026-11-22T06:10:57Z",
+      "lastCheckedAt": "2026-11-23T06:20:35Z",
       "jroles": [
         "probation"
       ]
@@ -7444,7 +7373,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16371",
-      "lastCheckedAt": "2026-11-22T06:10:58Z",
+      "lastCheckedAt": "2026-11-23T06:20:36Z",
       "jroles": [
         "probation"
       ]
@@ -7460,7 +7389,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16368",
-      "lastCheckedAt": "2026-11-22T06:11:00Z",
+      "lastCheckedAt": "2026-11-23T06:20:37Z",
       "jroles": [
         "probation"
       ]
@@ -7476,7 +7405,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "15708",
-      "lastCheckedAt": "2026-11-22T06:11:01Z",
+      "lastCheckedAt": "2026-11-23T06:20:39Z",
       "jroles": [
         "probation"
       ]
@@ -7492,7 +7421,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24413",
-      "lastCheckedAt": "2026-11-22T06:07:38Z"
+      "lastCheckedAt": "2026-11-23T06:17:16Z"
     },
     {
       "cat": "justice",
@@ -7505,7 +7434,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24402",
-      "lastCheckedAt": "2026-11-22T06:07:43Z"
+      "lastCheckedAt": "2026-11-23T06:17:21Z"
     },
     {
       "cat": "police",
@@ -7518,7 +7447,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1934",
-      "lastCheckedAt": "2026-11-22T06:03:09.253013Z",
+      "lastCheckedAt": "2026-11-23T06:12:48.010425Z",
       "ptype": "officer",
       "ranks": [
         "pc"
@@ -7540,7 +7469,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1933",
-      "lastCheckedAt": "2026-11-22T06:03:19.828667Z",
+      "lastCheckedAt": "2026-11-23T06:12:58.046554Z",
       "ptype": "officer",
       "ranks": [
         "dc"
@@ -7562,7 +7491,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24524",
-      "lastCheckedAt": "2026-11-22T06:07:23Z"
+      "lastCheckedAt": "2026-11-23T06:17:00Z"
     },
     {
       "cat": "justice",
@@ -7575,7 +7504,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24439",
-      "lastCheckedAt": "2026-11-22T06:07:27Z",
+      "lastCheckedAt": "2026-11-23T06:17:04Z",
       "jroles": [
         "probation"
       ]
@@ -7591,7 +7520,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24426",
-      "lastCheckedAt": "2026-11-22T06:07:30Z",
+      "lastCheckedAt": "2026-11-23T06:17:06Z",
       "jroles": [
         "probation"
       ]
@@ -7607,7 +7536,7 @@
       "region": "se",
       "source": "moj",
       "sourceJobId": "24406",
-      "lastCheckedAt": "2026-11-22T06:07:42Z"
+      "lastCheckedAt": "2026-11-23T06:17:20Z"
     },
     {
       "cat": "justice",
@@ -7620,7 +7549,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24173",
-      "lastCheckedAt": "2026-11-22T06:08:32Z",
+      "lastCheckedAt": "2026-11-23T06:18:11Z",
       "jroles": [
         "probation"
       ]
@@ -7669,21 +7598,6 @@
       "closes": "Closes 1 Dec 2026 · checked 21 Nov 2026",
       "url": "https://jobsearch.baesystems.com/job/supply-chain-security-manager-00139647",
       "manualReviewUntil": "2026-11-28"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
-        "security",
-        "management"
-      ],
-      "region": "sw",
-      "title": "Operational Security Team Manager",
-      "org": "Royal Cornwall Hospitals NHS Trust",
-      "place": "Treliske, Truro",
-      "pay": "See advert",
-      "closes": "Closes 22 Nov 2026 · checked 21 Nov 2026",
-      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9156-26-0574",
-      "manualReviewUntil": "2026-11-22"
     },
     {
       "cat": "civilian",
@@ -7874,9 +7788,9 @@
       "manualReviewUntil": "2026-11-28"
     }
   ],
-  "publishedAt": "2026-11-22T06:11:01Z",
+  "publishedAt": "2026-11-23T06:20:39Z",
   "sourceHealth": {
-    "attemptedAt": "2026-11-22T06:11:01Z",
+    "attemptedAt": "2026-11-23T06:20:39Z",
     "sources": [
       {
         "adapter": "tal",
@@ -7891,7 +7805,7 @@
         "id": "nhs_jobs_E0059",
         "status": "success",
         "success": true,
-        "verifiedJobs": 10,
+        "verifiedJobs": 9,
         "rejectedJobs": 0
       },
       {
@@ -7907,7 +7821,7 @@
         "id": "nhs_jobs_C9202",
         "status": "success",
         "success": true,
-        "verifiedJobs": 4,
+        "verifiedJobs": 1,
         "rejectedJobs": 0
       },
       {
@@ -7955,7 +7869,7 @@
         "id": "moj",
         "status": "partial",
         "success": false,
-        "verifiedJobs": 175,
+        "verifiedJobs": 174,
         "rejectedJobs": 0,
         "reason": "source reported error or failure"
       }
