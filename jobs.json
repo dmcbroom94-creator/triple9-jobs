@@ -413,52 +413,6 @@
         "pc"
       ],
       "routes": [
-        "transferee"
-      ],
-      "hours": "shift",
-      "region": "mid",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Transferee Opportunities – Armed Response Vehicle Officer",
-      "org": "Staffordshire Police",
-      "place": "Staffordshire Police HQ",
-      "pay": "£32,255 – £52,015 (PC scale)",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3216-Transferee-Opportunities-Armed-Response-Vehicle-Officer/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "pc"
-      ],
-      "routes": [
-        "transferee"
-      ],
-      "hours": "shift",
-      "region": "mid",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Transferee Opportunities – Dog Handler",
-      "org": "Staffordshire Police",
-      "place": "Staffordshire Police HQ",
-      "pay": "£32,255 – £52,015 (PC scale)",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3217-Transferee-Opportunities-Dog-Handler/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "pc"
-      ],
-      "routes": [
         "rejoiner"
       ],
       "hours": "shift",
@@ -499,20 +453,6 @@
       "pay": "Staff scale – see advert",
       "closes": "Closes 1 Dec 2026",
       "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3190-Prosecution-Caseworker/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
-      "title": "Forensic Area Manager",
-      "org": "Staffordshire Police",
-      "place": "Lichfield",
-      "pay": "Staff scale – see advert",
-      "closes": "Closes 20 Nov 2026",
-      "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3201-Forensic-Area-Manager/en-GB"
     },
     {
       "cat": "police",
@@ -1002,16 +942,6 @@
     },
     {
       "cat": "fire",
-      "region": "mid",
-      "title": "Group Commander",
-      "org": "Hereford & Worcester Fire and Rescue Service",
-      "place": "Hindlip Hall, Worcester",
-      "pay": "Group Commander B (Grey Book) + 20% flexi-duty allowance",
-      "closes": "Closes 20 Nov 2026",
-      "url": "https://hwfire.wm-jobs.co.uk/members/modules/job/detail.php?record=236"
-    },
-    {
-      "cat": "fire",
       "hours": "shift",
       "region": "sco",
       "pmin": 30954,
@@ -1357,22 +1287,6 @@
     {
       "cat": "civilian",
       "areas": [
-        "security",
-        "customer"
-      ],
-      "region": "mid",
-      "pmin": 28153,
-      "pmax": 30515,
-      "title": "Civil Enforcement Officer (multi-role)",
-      "org": "Worcester City Council",
-      "place": "Guildhall, Worcester",
-      "pay": "£28,153 – £30,515 a year",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://www.wmjobs.co.uk/job/280441/civil-enforcement-officer-multi-role-/"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
         "investigation"
       ],
       "region": "lon",
@@ -1385,29 +1299,6 @@
       "source": "moj",
       "sourceJobId": "24133",
       "lastCheckedAt": "2026-11-23T06:18:21Z"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "dc"
-      ],
-      "routes": [
-        "transferee"
-      ],
-      "hours": "shift",
-      "region": "mid",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Transferee – DC – Reactive CID",
-      "org": "West Mercia Police",
-      "place": "Forcewide",
-      "pay": "£32,255 – £52,015 (PC scale)",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6137-Transferee-DC-Reactive-CID/en-GB"
     },
     {
       "cat": "police",
@@ -1497,27 +1388,6 @@
       "pay": "Staff scale – see advert",
       "closes": "Closes 30 Nov 2026",
       "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6131-Police-Staff-Investigator-PSI-PIP-level-2-Permanent-contract/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "pc"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "mid",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Police Constable – new recruits (Degree Holder Entry Programme)",
-      "org": "Staffordshire Police",
-      "place": "Forcewide",
-      "pay": "£32,255 – £52,015 (PC scale)",
-      "closes": "Closes 20 Nov 2026",
-      "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3036-Police-Constable-Degree-Holder-Entry-Programme-DHEP/en-GB"
     },
     {
       "cat": "police",
@@ -1668,20 +1538,6 @@
       "pay": "£36,505 (Grade C: £27,204 basic + £9,301 allowances) rising to £40,703 (Grade D)",
       "closes": "Closes 31 Dec 2026",
       "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1082-OCC-Communications-Officer/en-GB"
-    },
-    {
-      "cat": "control",
-      "nations": [
-        "eng"
-      ],
-      "hours": "shift",
-      "region": "mid",
-      "title": "Triage Operator (control room)",
-      "org": "Warwickshire Police",
-      "place": "Warwickshire",
-      "pay": "Staff scale – see advert",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1634-Triage-Operator/en-GB"
     },
     {
       "cat": "police",
@@ -2019,94 +1875,6 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/United-Kingdom-of-Great-Britain-and-Northern-Ireland-22973-Prison-Officer-Returners-Scheme/22973"
     },
     {
-      "cat": "ambulance",
-      "skills": [
-        "nurse",
-        "para"
-      ],
-      "hours": "shift",
-      "region": "lon",
-      "pmin": 58000,
-      "pmax": 58000,
-      "title": "Deputy Clinical Manager – Urgent Treatment Centre (nurse or paramedic)",
-      "org": "PHL Group",
-      "place": "Beckenham Beacon UTC, South London",
-      "pay": "£58,000 + London Weighting and enhancements",
-      "closes": "Closes 19 Nov 2026",
-      "url": "https://phlgroup.co.uk/job/deputy-clinical-manager/"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "hours": "shift",
-      "region": "se",
-      "pmin": 37484,
-      "pmax": 37484,
-      "title": "Detention Officer (forcewide)",
-      "org": "Thames Valley Police",
-      "place": "Abingdon, Aylesbury, Banbury, Loddon Valley, Maidenhead & Milton Keynes",
-      "pay": "£37,484 (£28,410 basic + up to £9,074 unsocial hours)",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15676-Detention-Officer-Forcewide/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "se",
-      "pmin": 34092,
-      "pmax": 35512,
-      "title": "Police Community Support Officer (PCSO) – Buckinghamshire",
-      "org": "Thames Valley Police",
-      "place": "Buckinghamshire & Milton Keynes",
-      "pay": "£34,092 – £35,512 incl. shift allowances",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15673-Police-Community-Support-Officer-PCSO-Buckinghamshire/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "se",
-      "pmin": 34376,
-      "pmax": 35086,
-      "title": "Police Community Support Officer (PCSO) – Berkshire",
-      "org": "Thames Valley Police",
-      "place": "Berkshire",
-      "pay": "£34,376 – £35,086 incl. shift allowances",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15672-Police-Community-Support-Officer-PCSO-Berkshire/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "se",
-      "pmin": 34518,
-      "pmax": 35654,
-      "title": "Police Community Support Officer (PCSO) – Oxfordshire",
-      "org": "Thames Valley Police",
-      "place": "Oxfordshire",
-      "pay": "£34,518 – £35,654 incl. shift allowances",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15671-Police-Community-Support-Officer-PCSO-Oxfordshire/en-GB"
-    },
-    {
       "cat": "police",
       "ptype": "officer",
       "nations": [
@@ -2292,23 +2060,6 @@
       "pay": "£37,005.87",
       "closes": "Closes 3 Jan 2027",
       "url": "https://vacancies.btp.police.uk/jobs/job/Witness-and-Case-Review-Officer-PostCharge-Talent-Pool/1903"
-    },
-    {
-      "cat": "police",
-      "force": "special",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "region": "ne",
-      "pmin": 29484,
-      "pmax": 29484,
-      "title": "Station Support Officer (part time, 22 hours)",
-      "org": "British Transport Police",
-      "place": "Darlington",
-      "pay": "£17,531 pro rata (£29,483.96 full-time equivalent)",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://vacancies.btp.police.uk/jobs/job/Station-Support-Officer-Darlington-Part-Time-22-Hours/1882"
     },
     {
       "cat": "control",
@@ -2532,23 +2283,6 @@
       "cat": "civilian",
       "areas": [
         "aviation",
-        "security"
-      ],
-      "hours": "shift",
-      "region": "sco",
-      "pmin": 26432,
-      "pmax": 29114,
-      "title": "Aviation Security Officer (12-month contract)",
-      "org": "Edinburgh Airport",
-      "place": "Edinburgh",
-      "pay": "£26,431.87 rising to £29,114.37 after 6 months + shift allowance",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://careers.edinburghairport.com/careers/855-security-officer/"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
-        "aviation",
         "customer"
       ],
       "hours": "shift",
@@ -2692,28 +2426,6 @@
       "pay": "£32,255 – £52,015 (PC scale)",
       "closes": "Closes 31 Dec 2026",
       "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23080-202610-Police-Driving-Instructor-Transferring-Officers/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "pc"
-      ],
-      "routes": [
-        "transferee"
-      ],
-      "region": "lon",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Royalty & Specialist Protection – Close Protection Transferring Officer",
-      "org": "Metropolitan Police Service",
-      "place": "London",
-      "pay": "£32,255 – £52,015 (PC scale)",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23326-202611-RaSP-Close-Protection-Transferring-Officer/en-GB"
     },
     {
       "cat": "police",
@@ -3039,28 +2751,6 @@
       "pay": "£55,443 – £58,175 (sergeant scale)",
       "closes": "Closes 25 Nov 2026",
       "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10135-Transferee-Criminal-Exploitation-Detective-Sergeant-DE-26/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "dc"
-      ],
-      "routes": [
-        "transferee"
-      ],
-      "region": "mid",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Transferee Fraud Investigator (Detective Constable) DE 2026",
-      "org": "Derbyshire Constabulary",
-      "place": "Derbyshire",
-      "pay": "£32,255 – £52,015 (PC scale)",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://shrsc.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-5/candidate/so/pm/6/pl/1/opp/10087-Transferee-Fraud-Investigator-Detective-Constable-DE-2026/en-GB"
     },
     {
       "cat": "police",
@@ -3431,20 +3121,6 @@
       "pay": "Staff scale – see advert",
       "closes": "Closes 1 Dec 2026",
       "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3327-Staff-Case-Investigator/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
-      "title": "Victim and Witness Care Officer",
-      "org": "Warwickshire Police",
-      "place": "Warwickshire",
-      "pay": "Staff scale – see advert",
-      "closes": "Closes 20 Nov 2026",
-      "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1622-Victim-and-Witness-Care-Officer/en-GB"
     },
     {
       "cat": "fire",
@@ -3849,42 +3525,6 @@
       "url": "https://bucksfire.gov.uk/join-us/chief-fire-officer/"
     },
     {
-      "cat": "fire",
-      "region": "nw",
-      "pmin": 29542,
-      "pmax": 29542,
-      "title": "Community Prevention Advocate",
-      "org": "Cheshire Fire & Rescue Service",
-      "place": "CFRS HQ, Winsford",
-      "pay": "£29,542 starting salary (37 hours a week)",
-      "closes": "Closes 23 Nov 2026",
-      "url": "https://www.cheshirefire.gov.uk/jobs/current-vacancies/community-prevention-advocate/"
-    },
-    {
-      "cat": "fire",
-      "region": "nw",
-      "pmin": 2532,
-      "pmax": 2746,
-      "title": "Fire Cadets Unit Leader (3 hours a week)",
-      "org": "Merseyside Fire & Rescue Service",
-      "place": "Wallasey",
-      "pay": "£2,532 – £2,746 a year (Grade 6, 3 hours a week)",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://careers.merseyfire.gov.uk/vacancies/257/fire-cadets-unit-leader.html"
-    },
-    {
-      "cat": "fire",
-      "entry": "volunteer",
-      "hours": "flex",
-      "region": "nw",
-      "title": "Volunteer Fire Cadet Instructor",
-      "org": "Merseyside Fire & Rescue Service",
-      "place": "Fire Cadet units incl. Bootle-Netherton, St Helens and Wallasey",
-      "pay": "Volunteer – expenses paid",
-      "closes": "Closes 19 Nov 2026",
-      "url": "https://careers.merseyfire.gov.uk/vacancies/232/volunteer-fire-cadet-instructor.html"
-    },
-    {
       "cat": "justice",
       "jroles": [
         "prison"
@@ -4175,22 +3815,6 @@
     },
     {
       "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "region": "sw",
-      "pmin": 33603,
-      "pmax": 35772,
-      "title": "Decision Maker – Disclosure and Barring Unit",
-      "org": "Gloucestershire Constabulary",
-      "place": "Phoenix House, Gloucestershire",
-      "pay": "£33,603 – £35,772 (SC6)",
-      "closes": "Closes 20 Nov 2026",
-      "url": "https://gloucestershireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/15/opp/1283-6509-Decision-Maker-Disclosure-and-Barring-Unit/en-GB"
-    },
-    {
-      "cat": "police",
       "ptype": "officer",
       "nations": [
         "wal"
@@ -4235,22 +3859,6 @@
       "pay": "£66,000 – £71,396 (national Inspector pay scale)",
       "closes": "Closes 31 Dec 2026",
       "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-3/candidate/so/pm/6/pl/16/opp/9961-Gwent-Police-Transferee-Police-Inspector-Detective-Inspector/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "wal"
-      ],
-      "region": "wal",
-      "pmin": 28914,
-      "pmax": 30897,
-      "title": "Firearms Enquiry Caseworker",
-      "org": "Dyfed-Powys Police",
-      "place": "Force Headquarters",
-      "pay": "£28,914 – £30,897 (Grade D)",
-      "closes": "Closes 19 Nov 2026",
-      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-3/candidate/so/pm/6/pl/17/opp/10097-Firearms-Enquiry-Caseworker/en-GB"
     },
     {
       "cat": "police",
@@ -4351,27 +3959,6 @@
       "pay": "£54,600 – £59,064",
       "closes": "Closes 31 Dec 2026",
       "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/348-Transferee-Response-and-Detective-Inspectors/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "wal"
-      ],
-      "ranks": [
-        "pc"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "wal",
-      "pmin": 32255,
-      "pmax": 52015,
-      "title": "Police Constable – 2027 intake (E)",
-      "org": "North Wales Police",
-      "place": "Forcewide",
-      "pay": "£32,255 – £52,015 (national PC scale)",
-      "closes": "Closes 22 Nov 2026",
-      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-7/brand-3/candidate/so/pm/6/pl/18/opp/10017-Police-Constable-2027-E/en-GB"
     },
     {
       "cat": "police",
@@ -7650,20 +7237,6 @@
     {
       "cat": "civilian",
       "areas": [
-        "investigation"
-      ],
-      "region": "ne",
-      "title": "Investigations Case Officer",
-      "org": "Government Recruitment Service (Public Sector Fraud Authority Enforcement Unit)",
-      "place": "Newcastle-upon-Tyne",
-      "pay": "See advert",
-      "closes": "Closes 22 Nov 2026 · checked 21 Nov 2026",
-      "url": "https://www.jobs.service.gov.uk/jobs/6af18710866aeedfec7b5526",
-      "manualReviewUntil": "2026-11-22"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
         "transport"
       ],
       "region": "sco",
@@ -7744,20 +7317,6 @@
       "closes": "Closes 6 Dec 2026 · checked 21 Nov 2026",
       "url": "https://careers.southwesternrailway.com/jobs/commercial-guard-fratton-fratton-hampshire-united-kingdom",
       "manualReviewUntil": "2026-11-28"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
-        "transport"
-      ],
-      "region": "se",
-      "title": "Video Contact Centre Agent - Customer Service Role",
-      "org": "South Western Railway",
-      "place": "Basingstoke",
-      "pay": "See advert",
-      "closes": "Closes 22 Nov 2026 · checked 21 Nov 2026",
-      "url": "https://careers.southwesternrailway.com/jobs/video-contact-centre-agent-customer-service-role-basingstoke-england-united-kingdom-84f95769-2f7f-4893-a0f9-a338d0dfc9b8",
-      "manualReviewUntil": "2026-11-22"
     },
     {
       "cat": "civilian",
