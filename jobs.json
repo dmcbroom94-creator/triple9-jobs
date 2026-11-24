@@ -23,7 +23,9 @@
    "url": "https://asp.tal.net/vx/appcentre-External/brand-0/candidate/so/pm/6/pl/24/opp/707-Police-Constable-Transferee/en-GB",
    "source": "avon_oleeo",
    "sourceJobId": "707",
-   "lastCheckedAt": "2026-11-24T06:04:48Z"
+   "lastCheckedAt": "2026-11-24T06:04:48Z",
+   "pmin": 32256,
+   "pmax": 52014
   },
   {
    "cat": "police",
@@ -349,10 +351,12 @@
    "title": "Prosecution Caseworker",
    "org": "Staffordshire Police",
    "place": "Cannock",
-   "pay": "Staff scale – see advert",
+   "pay": "£28,071 – £32,613 (Grade E)",
    "closes": "Closes 1 Dec 2026",
    "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3190-Prosecution-Caseworker/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 28071,
+   "pmax": 32613
   },
   {
    "cat": "police",
@@ -364,10 +368,12 @@
    "title": "Investigator (via Adecco)",
    "org": "Staffordshire Police",
    "place": "Staffordshire",
-   "pay": "See advert",
+   "pay": "£28,071 – £32,613 (Grade E; £15.72 an hour)",
    "closes": "Closes 31 Dec 2026",
    "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3199-Investigator-Adecco-Recruitment-Agency/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 28071,
+   "pmax": 32613
   },
   {
    "cat": "police",
@@ -648,7 +654,7 @@
    "title": "Health, Safety and Environment Advisor",
    "org": "Northamptonshire Police",
    "place": "Darby House, Wellingborough",
-   "pay": "See advert",
+   "pay": "£33,603 (Staff Scale 6)",
    "closes": "Closes 27 Nov 2026",
    "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3320-Staff-Health-Safety-and-Environment-Advisor/en-GB",
    "ptype": "staff",
@@ -823,10 +829,12 @@
    "title": "Police Community Support Officer (PCSO)",
    "org": "West Mercia Police",
    "place": "Forcewide",
-   "pay": "Staff scale – see advert",
+   "pay": "£27,204 – £29,859 plus £5,054 allowances (£32,258 on this shift pattern)",
    "closes": "Closes 30 Nov 2026",
    "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6159-Police-Community-Support-Officer-PCSO/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 27204,
+   "pmax": 29859
   },
   {
    "cat": "police",
@@ -838,10 +846,12 @@
    "title": "Police Staff Investigator (PIP level 2) – permanent",
    "org": "West Mercia Police",
    "place": "Forcewide",
-   "pay": "Staff scale – see advert",
+   "pay": "£33,603 – £39,276 (Grade E)",
    "closes": "Closes 30 Nov 2026",
    "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6131-Police-Staff-Investigator-PSI-PIP-level-2-Permanent-contract/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 33603,
+   "pmax": 39276
   },
   {
    "cat": "police",
@@ -999,9 +1009,11 @@
    "title": "Detective Constable – Transferee (CID)",
    "org": "Avon and Somerset Police",
    "place": "Forcewide",
-   "pay": "Current salary protected – see advert",
+   "pay": "Current salary protected – equivalent to your current salary on appointment (PC scale £32,255 – £52,015)",
    "closes": "Closes 31 Dec 2026",
-   "url": "https://asp.tal.net/vx/appcentre-External/brand-0/spa-1/candidate/so/pm/6/pl/24/opp/6503-Detective-Constable-Transferee/en-GB"
+   "url": "https://asp.tal.net/vx/appcentre-External/brand-0/spa-1/candidate/so/pm/6/pl/24/opp/6503-Detective-Constable-Transferee/en-GB",
+   "pmin": 32255,
+   "pmax": 52015
   },
   {
    "cat": "police",
@@ -1990,7 +2002,9 @@
    "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/5785-Police-Constable-Dog-Handler-Transferee/en-GB",
    "source": "avon_oleeo",
    "sourceJobId": "5785",
-   "lastCheckedAt": "2026-11-24T06:04:28Z"
+   "lastCheckedAt": "2026-11-24T06:04:28Z",
+   "pmin": 32256,
+   "pmax": 52014
   },
   {
    "cat": "police",
@@ -2172,10 +2186,12 @@
    "title": "Case Investigator (police staff)",
    "org": "Northamptonshire Police",
    "place": "Northamptonshire",
-   "pay": "Staff scale – see advert",
+   "pay": "£38,094 (Staff SO1)",
    "closes": "Closes 1 Dec 2026",
    "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3327-Staff-Case-Investigator/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 38094,
+   "pmax": 38094
   },
   {
    "cat": "police",
@@ -2505,7 +2521,8 @@
    "place": "Wakefield, Leeds, Bradford, Dewsbury, Halifax",
    "pay": "£27,204 – £29,859 basic, plus 20% shift and 14% weekend allowances (£36,453 – £40,011 total)",
    "closes": "Closes 29 Nov 2026",
-   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8146-Detention-Officer-November-2026/en-GB"
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8146-Detention-Officer-November-2026/en-GB",
+   "lastCheckedAt": "2026-11-24T15:45:33Z"
   },
   {
    "cat": "police",
@@ -2521,7 +2538,8 @@
    "place": "Forcewide",
    "pay": "Volunteer – expenses paid",
    "closes": "Closes 31 Dec 2026",
-   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8015-Special-Constable-2026-Q4/en-GB"
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8015-Special-Constable-2026-Q4/en-GB",
+   "lastCheckedAt": "2026-11-24T15:45:33Z"
   },
   {
    "cat": "police",
@@ -2560,7 +2578,9 @@
    "source": "avon_oleeo",
    "sourceJobId": "2164",
    "lastCheckedAt": "2026-11-24T06:04:38Z",
-   "ptype": "officer"
+   "ptype": "officer",
+   "pmin": 55443,
+   "pmax": 58176
   },
   {
    "cat": "police",
@@ -3042,7 +3062,8 @@
    "place": "HMNB Clyde, RNAD Coulport, Barrow-in-Furness, Fylingdales, Raynesway (Derby), AWE Aldermaston & Burghfield, Porton Down, Welford",
    "pay": "£30,643 – £49,413 (depending on location and allowances)",
    "closes": "Register interest – see advert",
-   "url": "https://www.mod.police.uk/careers/current-opportunities/new-recruit-authorised-firearms-officer-counter-terrorism/"
+   "url": "https://www.mod.police.uk/careers/current-opportunities/new-recruit-authorised-firearms-officer-counter-terrorism/",
+   "hours": "shift"
   },
   {
    "cat": "police",
@@ -3065,7 +3086,8 @@
    "place": "HMNB Clyde, RNAD Coulport, Peterhead, Barrow-in-Furness, Carlisle, Preston, Fylingdales, Whitehall, Raynesway (Derby), AWE Aldermaston & Burghfield, Porton Down, Welford",
    "pay": "£33,222 – £49,413 (depending on location and allowances)",
    "closes": "Register interest – see advert",
-   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-authorised-firearms-officer-counter-terrorism/"
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-authorised-firearms-officer-counter-terrorism/",
+   "hours": "shift"
   },
   {
    "cat": "police",
@@ -5033,7 +5055,7 @@
    "closes": "Open – see advert",
    "url": "https://www.durham.police.uk/police-forces/durham-constabulary/areas/careers/join-us/vacancies/jobs/dnu-app-template4/",
    "pay": "Volunteer – unpaid (expenses may be paid)",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24T15:45:33Z"
   },
   {
    "cat": "police",
@@ -5124,7 +5146,8 @@
    "place": "Dewsbury",
    "pay": "£33,606 – £35,772 (Scale 6)",
    "closes": "Closes 6 Dec 2026",
-   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/xf-de5be35459a1/candidate/so/pm/6/pl/1/opp/8140-KD8140-Serious-Complex-Crime-Police-Staff-Investigator-External-7-Forces/en-GB"
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/xf-de5be35459a1/candidate/so/pm/6/pl/1/opp/8140-KD8140-Serious-Complex-Crime-Police-Staff-Investigator-External-7-Forces/en-GB",
+   "lastCheckedAt": "2026-11-24T15:45:33Z"
   },
   {
    "cat": "police",
@@ -5156,7 +5179,8 @@
    "place": "Wakefield (Yorkshire & Humber region)",
    "pay": "£33,603 – £35,772 (Scale 6)",
    "closes": "Closes 1 Dec 2026",
-   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/xf-de5be35459a1/candidate/so/pm/6/pl/1/opp/8144-RC8144-Investigative-Support-Officer-Entry-External-4-Forces/en-GB"
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/xf-de5be35459a1/candidate/so/pm/6/pl/1/opp/8144-RC8144-Investigative-Support-Officer-Entry-External-4-Forces/en-GB",
+   "lastCheckedAt": "2026-11-24T15:45:33Z"
   },
   {
    "cat": "police",
@@ -5172,7 +5196,8 @@
    "place": "Wakefield",
    "pay": "£37,020 (+ market factors) – £48,459",
    "closes": "Closes 2 Dec 2026",
-   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/xf-de5be35459a1/candidate/so/pm/6/pl/1/opp/8154-RC8154-YHROCU-Technical-Surveillance-Unit-Officer-External-7-Forces/en-GB"
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/xf-de5be35459a1/candidate/so/pm/6/pl/1/opp/8154-RC8154-YHROCU-Technical-Surveillance-Unit-Officer-External-7-Forces/en-GB",
+   "lastCheckedAt": "2026-11-24T15:45:33Z"
   },
   {
    "cat": "police",
@@ -5572,7 +5597,7 @@
   {
    "title": "Business Insight Lead – Band C – Counter Terrorism Policing",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£48,995 starting (incl. £3,009 allowances); basic £45,986 – £54,863",
    "closes": "Closes 27 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23292-Business-Insight-Lead-Band-C-CTPL/en-GB",
    "ptype": "staff",
@@ -5581,12 +5606,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 45986,
+   "pmax": 54863
   },
   {
    "title": "Policy and Engagement Advisor – Professionalism (Band C)",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£48,995 starting (incl. £3,009 allowances); basic £45,986 – £54,863",
    "closes": "Closes 27 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23269-Policy-and-Engagement-Advisor-Professionalism-Band-C/en-GB",
    "ptype": "staff",
@@ -5595,12 +5622,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 45986,
+   "pmax": 54863
   },
   {
    "title": "Strategy and Delivery Advisor – Professionalism (Band C)",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£48,995 starting (incl. £3,009 allowances); basic £45,986 – £54,863",
    "closes": "Closes 27 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23268-Strategy-and-Delivery-Advisor-Professionalism-Band-C/en-GB",
    "ptype": "staff",
@@ -5609,7 +5638,9 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 45986,
+   "pmax": 54863
   },
   {
    "title": "Senior Digital Forensic Specialist – Cell Site Expert",
@@ -5644,7 +5675,7 @@
   {
    "title": "Senior Project Manager – Band L – Technology – Counter Terrorism Policing HQ",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£71,121 starting (incl. £3,009 allowances); basic £68,112 – £72,953",
    "closes": "Closes 27 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23270-Senior-Project-Manager-Band-L-Technology-Counter-Terrorism-Policing-Headquarters/en-GB",
    "ptype": "staff",
@@ -5653,12 +5684,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 68112,
+   "pmax": 72953
   },
   {
    "title": "Regional Change Manager – Band C – Counter Terrorism Policing",
    "place": "See advert",
-   "pay": "See advert",
+   "pay": "£48,995 starting (incl. £3,009 allowances); basic £45,986 – £54,863",
    "closes": "Closes 27 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22887-Regional-Change-Manager-Band-C-CSS-CTPL/en-GB",
    "region": "uk",
@@ -5667,12 +5700,14 @@
    "nations": [
     "eng"
    ],
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 45986,
+   "pmax": 54863
   },
   {
    "title": "NCPP International Product Development and Delivery (Protect) – Band V – Counter Terrorism Policing",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£56,143 starting (incl. £3,009 allowances); basic £53,134 – £57,417",
    "closes": "Closes 26 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22878-NCPP-International-Product-Development-and-Delivery-Protect-Band-V-NCPP-Counter-Terrorism-Policing/en-GB",
    "ptype": "staff",
@@ -5681,12 +5716,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 53134,
+   "pmax": 57417
   },
   {
    "title": "Mechanical Engineer",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£46,985 starting (incl. £3,009 allowances); basic £43,976 – £49,670",
    "closes": "Closes 27 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23186-Mechanical-Engineer/en-GB",
    "ptype": "staff",
@@ -5695,12 +5732,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 43976,
+   "pmax": 49670
   },
   {
    "title": "Mechanical Design and Production Engineer",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£55,662 starting (incl. £3,009 allowances); basic £52,653 – £57,417",
    "closes": "Closes 29 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23187-Mechanical-Design-and-Production-Engineer/en-GB",
    "ptype": "staff",
@@ -5709,12 +5748,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 52653,
+   "pmax": 57417
   },
   {
    "title": "National Police Chiefs' Council – Partnership Support Assistant",
    "place": "See advert",
-   "pay": "See advert",
+   "pay": "£33,219 – £35,541 (Band E)",
    "closes": "Closes 29 Nov 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23198-National-Police-Chiefs-Council-Partnership-Support-Assistant/en-GB",
    "ptype": "staff",
@@ -5723,12 +5764,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 33219,
+   "pmax": 35541
   },
   {
    "title": "Core Desk Administrator – Band E – Prisons – Counter Terrorism Policing HQ",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£36,228 starting (incl. £3,009 allowances); basic £33,219 – £35,541",
    "closes": "Closes 1 Dec 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23097-Core-Desk-Administrator-Band-E-Prisons-Counter-Terrorism-Policing-HQ/en-GB",
    "ptype": "staff",
@@ -5737,12 +5780,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 33219,
+   "pmax": 35541
   },
   {
    "title": "Temporary Camera Deployment Engineer (Band I)",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£46,985 starting (incl. £3,009 allowances); basic £43,976 – £49,670",
    "closes": "Closes 1 Dec 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23182-Band-I-Temporary-Camera-Deployment-Engineer/en-GB",
    "ptype": "staff",
@@ -5751,12 +5796,14 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 43976,
+   "pmax": 49670
   },
   {
    "title": "Data Policy Officer – Band C – Data & Analysis – Counter Terrorism Policing HQ",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£48,995 starting (incl. £3,009 allowances); basic £45,986 – £54,863",
    "closes": "Closes 4 Dec 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23158-Data-Policy-Officer-Band-C-Data-Analysis-Counter-Terrorism-Policing-HQ/en-GB",
    "ptype": "staff",
@@ -5765,7 +5812,9 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 45986,
+   "pmax": 54863
   },
   {
    "title": "National Police Chiefs' Council – Project Manager, Organisational Development & Change (Band C)",
@@ -5786,7 +5835,7 @@
   {
    "title": "Explosive Search Dog Handler (Dog Support Unit) – Transferring Officer",
    "place": "Nine Elms and Heathrow police stations",
-   "pay": "Current pay point plus London allowances – see advert",
+   "pay": "Current pay point plus London allowances (PC scale £32,255 – £52,015)",
    "closes": "Closes 22 Dec 2026",
    "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22905-202609-MO7-Taskforce-Dog-Handler-Explosive-Search-Dog-Support-Unit-DSU-Transferring-Officer/en-GB",
    "ptype": "officer",
@@ -5802,7 +5851,9 @@
     "eng"
    ],
    "region": "lon",
-   "org": "Metropolitan Police Service"
+   "org": "Metropolitan Police Service",
+   "pmin": 32255,
+   "pmax": 52015
   },
   {
    "cat": "police",
@@ -6972,9 +7023,11 @@
    "org": "Lincolnshire Police",
    "title": "Administrator (Crime Management Bureau)",
    "place": "Police HQ, Nettleham",
-   "pay": "See advert",
+   "pay": "£26,703 – £29,859 a year (plus weekend working allowance of £3,660)",
    "closes": "Closes 6 Dec 2026",
-   "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-2/spa-1/candidate/so/pm/6/pl/24/opp/344-Administrator-Crime-Management-Bureau/en-GB"
+   "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-2/spa-1/candidate/so/pm/6/pl/24/opp/344-Administrator-Crime-Management-Bureau/en-GB",
+   "pmin": 26703,
+   "pmax": 29859
   },
   {
    "cat": "police",
@@ -7072,9 +7125,11 @@
    "org": "West Mercia Police",
    "title": "Police Staff Investigator (PIP level 2) – 3-year fixed term",
    "place": "Shrewsbury, Telford",
-   "pay": "Staff scale – see advert",
+   "pay": "£33,603 – £39,276 (Grade E)",
    "closes": "Closes 30 Nov 2026",
-   "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6086-Police-Staff-Investigator-PSI-PIP-Level-2-FTC-3-years/en-GB"
+   "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6086-Police-Staff-Investigator-PSI-PIP-Level-2-FTC-3-years/en-GB",
+   "pmin": 33603,
+   "pmax": 39276
   },
   {
    "cat": "police",
@@ -7199,6 +7254,937 @@
    "url": "https://careers.northumbria.police.uk/jobs/mash-investigation-support-officer/"
   },
   {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng",
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "hours": "shift",
+   "region": "uk",
+   "pmin": 36748,
+   "pmax": 55518,
+   "title": "New Recruit – PC Tactical Firearms Unit AFO (Counter Terrorism)",
+   "org": "Ministry of Defence Police",
+   "place": "See advert",
+   "pay": "£36,748 – £55,518 (depending on location and allowances)",
+   "closes": "Register interest – see advert",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/new-recruit-pc-tactical-firearms-unit-officer/",
+   "entry": "new"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng",
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "hours": "shift",
+   "region": "uk",
+   "pmin": 39327,
+   "pmax": 55518,
+   "title": "NEOF (transferee) – PC Tactical Firearms Unit AFO (Counter Terrorism)",
+   "org": "Ministry of Defence Police",
+   "place": "See advert",
+   "pay": "£39,327 – £55,518 (depending on location and allowances)",
+   "closes": "Register interest – see advert",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-tactical-firearms-unit-officer/",
+   "routes": [
+    "transferee"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng",
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "hours": "shift",
+   "region": "uk",
+   "pmin": 41327,
+   "pmax": 57518,
+   "title": "NEOF (transferee) – PC Special Escort Group AFO (Counter Terrorism)",
+   "org": "Ministry of Defence Police",
+   "place": "See advert",
+   "pay": "£41,327 – £57,518 (depending on location and allowances)",
+   "closes": "Register interest – see advert",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-special-escort-group-officer/",
+   "routes": [
+    "transferee"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng",
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "hours": "shift",
+   "region": "uk",
+   "pmin": 33222,
+   "pmax": 49413,
+   "title": "NEOF (transferee) – PC Marine Unit AFO (Counter Terrorism)",
+   "org": "Ministry of Defence Police",
+   "place": "See advert",
+   "pay": "£33,222 – £49,413 (depending on location and allowances)",
+   "closes": "Register interest – see advert",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-marine-unit-officer/",
+   "routes": [
+    "transferee"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng",
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "hours": "shift",
+   "region": "uk",
+   "pmin": 33222,
+   "pmax": 55413,
+   "title": "NEOF (transferee) – PC National Firearms Instructor",
+   "org": "Ministry of Defence Police",
+   "place": "See advert",
+   "pay": "£33,222 – £55,413 (depending on location and allowances)",
+   "closes": "Register interest – see advert",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-national-firearms-instructor/",
+   "routes": [
+    "transferee"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng",
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "hours": "shift",
+   "region": "uk",
+   "pmin": 30643,
+   "pmax": 49413,
+   "title": "NEOF (transferee) – PC Operational Support Unit Officer",
+   "org": "Ministry of Defence Police",
+   "place": "See advert",
+   "pay": "£30,643 – £49,413 (depending on location and allowances)",
+   "closes": "Register interest – see advert",
+   "url": "https://www.mod.police.uk/careers/current-opportunities/neof-pc-operational-support-unit-officer/",
+   "routes": [
+    "transferee"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "mid",
+   "hours": "mf",
+   "title": "SQL Database Administrator (DBA)",
+   "org": "Warwickshire Police",
+   "place": "Leek Wootton",
+   "pay": "£50,949 – £57,186",
+   "pmin": 50949,
+   "pmax": 57186,
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1638-SQL-Database-Administrator-DBA/en-GB",
+   "areas": [
+    "operations"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "mid",
+   "hours": "mf",
+   "title": "Digital Services Supplier Relationship Manager",
+   "org": "Warwickshire Police",
+   "place": "Leek Wootton",
+   "pay": "£58,431 – £62,195",
+   "pmin": 58431,
+   "pmax": 62195,
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1639-Digital-Services-Supplier-Relationship-Manager/en-GB",
+   "areas": [
+    "management"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "mid",
+   "hours": "mf",
+   "title": "Senior Information Assurance Manager",
+   "org": "Warwickshire Police",
+   "place": "Leek Wootton",
+   "pay": "£58,431 – £62,195",
+   "pmin": 58431,
+   "pmax": 62195,
+   "closes": "Closes 8 Dec 2026",
+   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1617-Senior-Information-Assurance-Manager/en-GB",
+   "areas": [
+    "management"
+   ]
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "east",
+   "pmin": 31164,
+   "pmax": 50256,
+   "title": "Police Constable Entry Programme (PCEP)",
+   "org": "Cambridgeshire Constabulary",
+   "place": "Forcewide",
+   "pay": "£31,164 – £50,256",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-14/brand-5/spa-1/candidate/so/pm/1/pl/26/opp/4648-Police-Constable-Entry-Programme-PCEP-Cambridgeshire-Constabulary/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee / Rejoiner Police Constable",
+   "org": "Essex Police",
+   "place": "Essex",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Open – see force website",
+   "url": "https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/ca/careers/police-officers/transfer-opportunities/#constable"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee Detective Constable",
+   "org": "Essex Police",
+   "place": "Essex",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Open – see force website",
+   "url": "https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/ca/careers/police-officers/transfer-opportunities/#detective"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Firearms Officer Transferee (AFO / ARVO)",
+   "org": "Essex Police",
+   "place": "Essex",
+   "pay": "£32,255 – £52,015 (PC scale)",
+   "closes": "Open – see force website",
+   "url": "https://www.essex.police.uk/police-forces/essex-police/areas/essex-police/ca/careers/police-officers/transfer-opportunities/#firearms"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "east",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Police Constable – new recruits",
+   "org": "Essex Police",
+   "place": "Essex",
+   "pay": "£32,255 – £52,015",
+   "closes": "Open – see force website",
+   "url": "https://www.essex.police.uk/join-the-police/police-officer-recruitment/"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 51637,
+   "title": "Business Intelligence Developer",
+   "org": "Police Scotland",
+   "place": "Flexible",
+   "pay": "From £51,637 a year",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5733-Business-Intelligence-Developer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 32104,
+   "title": "Public Enquiry & Support Assistant",
+   "org": "Police Scotland",
+   "place": "Aberdeen Marischal College",
+   "pay": "From £32,104 a year",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5762-Public-Enquiry-Support-Assistant/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 29577,
+   "title": "Legal Document Administrator",
+   "org": "Police Scotland",
+   "place": "Glenrothes Detroit Road",
+   "pay": "From £29,577 a year",
+   "closes": "Closes 1 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5773-Legal-Document-Administrator/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 29577,
+   "title": "VIPER Operator",
+   "org": "Police Scotland",
+   "place": "Edinburgh St Leonards",
+   "pay": "From £29,577 a year",
+   "closes": "Closes 2 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5782-VIPER-Operator/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 30468,
+   "title": "Driver Operative",
+   "org": "Police Scotland",
+   "place": "Dalmarnock",
+   "pay": "From £30,468 a year",
+   "closes": "Closes 4 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5797-Driver-Operative/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 34750,
+   "title": "Safety Camera Offence Management Officer / Camera Enforcement Officer",
+   "org": "Police Scotland",
+   "place": "Aberdeen Nelson Street",
+   "pay": "From £34,750 a year",
+   "closes": "Closes 4 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5791-Safety-Camera-Offence-Management-Officer-Camera-Enforcement-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 30468,
+   "title": "Training Administrator",
+   "org": "Police Scotland",
+   "place": "Force Training and Recruitment Centre Jackton",
+   "pay": "From £30,468 a year",
+   "closes": "Closes 8 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5807-Training-Administrator/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "sco"
+   ],
+   "region": "sco",
+   "pmin": 32104,
+   "title": "CJ Support Officer",
+   "org": "Police Scotland",
+   "place": "Edinburgh Fettes Av",
+   "pay": "From £32,104 a year",
+   "closes": "Closes 8 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5801-CJ-Support-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "sco"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sco",
+   "pmin": 34001,
+   "pmax": 54597,
+   "title": "Transferee Constable – Isle of Skye",
+   "org": "Police Scotland",
+   "place": "Portree",
+   "pay": "£34,001 – £54,597 (Police Scotland PC scale)",
+   "closes": "Closes 11 Dec 2026",
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5749-Transferee-Constable-Isle-of-Skye/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Data Forensic Technician",
+   "org": "Dorset Police",
+   "place": "Ferndown Police Station",
+   "pay": "See advert",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7887-Data-Forensic-Technician/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Police National Systems Officer",
+   "org": "Devon & Cornwall Police",
+   "place": "Police Headquarters, Exeter",
+   "pay": "See advert",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7766-Police-National-Systems-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Contact Officer",
+   "org": "Dorset Police",
+   "place": "Police Headquarters, Winfrith, Dorset",
+   "pay": "See advert",
+   "closes": "Closes 25 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7862-Contact-Officer/en-GB",
+   "hours": "shift"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Holmes Officer Manager",
+   "org": "Dorset Police",
+   "place": "Poole Police Station",
+   "pay": "See advert",
+   "closes": "Closes 26 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7758-Holmes-Officer-Manager/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Alliance Forensic Collision Investigator",
+   "org": "Devon & Cornwall Police",
+   "place": "Bodmin; Dorchester; Exeter",
+   "pay": "See advert",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7266-Alliance-Forensic-Collision-Investigator/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Senior Resourcing Officer",
+   "org": "Dorset Police",
+   "place": "Police Headquarters, Winfrith, Dorset",
+   "pay": "See advert",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7823-Senior-Resourcing-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Case Progression Officer, Exeter CJU",
+   "org": "Devon & Cornwall Police",
+   "place": "Police Headquarters, Exeter",
+   "pay": "See advert",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7826-Case-Progression-Officer-Exeter-CJU/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Performance Insight and Project Officer",
+   "org": "Devon & Cornwall Police",
+   "place": "Police Headquarters, Exeter; Winfrith, Dorset",
+   "pay": "See advert",
+   "closes": "Closes 2 Dec 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7802-Performance-Insight-and-Project-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Senior Paralegal",
+   "org": "Devon & Cornwall Police",
+   "place": "Police Headquarters, Exeter",
+   "pay": "See advert",
+   "closes": "Closes 3 Dec 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7829-Senior-Paralegal/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Alliance Evidential Property Officer",
+   "org": "Devon & Cornwall Police",
+   "place": "Police Headquarters, Exeter",
+   "pay": "See advert",
+   "closes": "Closes 4 Dec 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7842-Alliance-Evidential-Property-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Contact Officer",
+   "org": "Devon & Cornwall Police",
+   "place": "Plymouth, Crownhill; Police Headquarters, Exeter",
+   "pay": "See advert",
+   "closes": "Closes 7 Dec 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7911-Contact-Officer/en-GB",
+   "hours": "shift"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "DBS Vetting Officer",
+   "org": "Devon & Cornwall Police",
+   "place": "Police Headquarters, Exeter",
+   "pay": "See advert",
+   "closes": "Closes 11 Dec 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7794-DBS-Vetting-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "Senior Records Management Advisor",
+   "org": "Devon & Cornwall Police",
+   "place": "Plympton",
+   "pay": "See advert",
+   "closes": "Closes 18 Dec 2026",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7812-Senior-Records-Management-Advisor/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "sw",
+   "title": "DCM - Contact Officer",
+   "org": "Dorset Police",
+   "place": "Bournemouth Police Station",
+   "pay": "See advert",
+   "closes": "Closes 8 Jan 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7916-DCM-Contact-Officer/en-GB",
+   "hours": "shift"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Transferee – Police Sergeant",
+   "org": "Devon & Cornwall Police",
+   "place": "Forcewide",
+   "pay": "£55,443 – £58,175",
+   "closes": "Closes 2 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7831-DCP-Transferee-Police-Sergeant/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Transferee – Detective Sergeant",
+   "org": "Devon & Cornwall Police",
+   "place": "Forcewide",
+   "pay": "£55,443 – £58,175",
+   "closes": "Closes 2 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7860-DCP-Transferee-Detective-Sergeant/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Police Constable",
+   "org": "Devon & Cornwall Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 2 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7844-DCP-Transferee-Police-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Detective Constable",
+   "org": "Devon & Cornwall Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 2 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7865-DCP-Transferee-Detective-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "dc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Detective Constable",
+   "org": "Dorset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 2 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7866-DP-Transferee-Detective-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "ps"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 55443,
+   "pmax": 58175,
+   "title": "Transferee – Detective Sergeant",
+   "org": "Dorset Police",
+   "place": "Forcewide",
+   "pay": "£55,443 – £58,175",
+   "closes": "Closes 2 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7863-DP-Transferee-Detective-Sergeant/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Roads Policing Team Police Constable",
+   "org": "Dorset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 11 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7893-DP-Transferee-Roads-Policing-Team-Police-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Surveillance Constable",
+   "org": "Dorset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 11 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7895-DP-Transferee-Surveillance-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Sexual Offence Liaison Officer",
+   "org": "Dorset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 11 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7898-DP-Transferee-Sexual-Offence-Liaison-Officer/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Armed Response Vehicle Constable",
+   "org": "Dorset Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 12 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7905-DP-Transferee-Armed-Response-Vehicle-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Armed Response Vehicle Constable",
+   "org": "Devon & Cornwall Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 12 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7906-DCP-Transferee-Armed-Response-Vehicle-Constable/en-GB"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc"
+   ],
+   "routes": [
+    "transferee"
+   ],
+   "hours": "shift",
+   "region": "sw",
+   "pmin": 32255,
+   "pmax": 52015,
+   "title": "Transferee – Driver Training Instructor",
+   "org": "Devon & Cornwall Police",
+   "place": "Forcewide",
+   "pay": "£32,255 – £52,015",
+   "closes": "Closes 12 Feb 2027",
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7907-DCP-Transferee-Driver-Training-Instructor/en-GB"
+  },
+  {
    "cat": "control",
    "nations": [
     "eng"
@@ -7208,10 +8194,12 @@
    "title": "Force Contact Centre Operator",
    "org": "Staffordshire Police",
    "place": "Staffordshire Police HQ",
-   "pay": "Staff scale – see advert",
+   "pay": "Grade E £28,071 – £32,613 (£37,674 – £43,769 with shift and weekend allowances)",
    "closes": "Closes 30 Dec 2026",
    "url": "https://staffordshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/3188-Force-Contact-Centre-Operator/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 28071,
+   "pmax": 32613
   },
   {
    "cat": "control",
@@ -7256,10 +8244,12 @@
    "title": "OCC (Operations & Communications Centre) Contact Handler",
    "org": "West Mercia Police",
    "place": "Hindlip, Worcester",
-   "pay": "Staff scale – see advert",
+   "pay": "£31,337 including allowances (basic £23,395 for 31.82 hours)",
    "closes": "Closes 31 Jan 2027",
    "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6147-OCC-Operations-Communications-Centre-Contact-Handler/en-GB",
-   "lastCheckedAt": "2026-11-24"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 31337,
+   "pmax": 31337
   },
   {
    "cat": "control",
@@ -7275,7 +8265,8 @@
    "place": "Warwickshire",
    "pay": "£36,505 (Grade C: £27,204 basic + £9,301 allowances) rising to £40,703 (Grade D)",
    "closes": "Closes 31 Dec 2026",
-   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1082-OCC-Communications-Officer/en-GB"
+   "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1082-OCC-Communications-Officer/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7292,7 +8283,7 @@
    "url": "https://vacancies.btp.police.uk/jobs/job/First-Contact-Centre-Contact-Handler/1917",
    "source": "btp",
    "sourceJobId": "1917",
-   "lastCheckedAt": "2026-11-24T06:09:09.555799Z",
+   "lastCheckedAt": "2026-11-24",
    "pmin": 42050
   },
   {
@@ -7309,7 +8300,8 @@
    "place": "Newbury",
    "pay": "£32,339 + 34% shift allowance",
    "closes": "Closes 6 Dec 2026",
-   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15695-Security-Control-Room-Operator-CTPSE/en-GB"
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15695-Security-Control-Room-Operator-CTPSE/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7325,7 +8317,8 @@
    "place": "Newbury",
    "pay": "£36,474 + 12% shift allowance",
    "closes": "Closes 6 Dec 2026",
-   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15696-Security-Control-Room-Supervisor-CTPSE/en-GB"
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15696-Security-Control-Room-Supervisor-CTPSE/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7340,7 +8333,8 @@
    "place": "Reading",
    "pay": "£28,410 pro rata",
    "closes": "Closes 29 Nov 2026",
-   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15726-Police-Contact-Enquiry-Officer-Reading/en-GB"
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15726-Police-Contact-Enquiry-Officer-Reading/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7374,7 +8368,9 @@
    "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8420-Emergency-Call-Handler-Dispatcher/en-GB",
    "source": "avon_oleeo",
    "sourceJobId": "8420",
-   "lastCheckedAt": "2026-11-24T06:04:58Z"
+   "lastCheckedAt": "2026-11-24",
+   "pmin": 36453,
+   "pmax": 40011
   },
   {
    "cat": "control",
@@ -7385,9 +8381,12 @@
    "title": "Police Contact Enquiry Officer (part time)",
    "org": "Thames Valley Police",
    "place": "Newbury",
-   "pay": "Staff scale – see advert",
+   "pay": "Band 2E, circa £28,410 a year pro rata",
    "closes": "Closes 29 Nov 2026",
-   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15724-Police-Contact-Enquiry-Officer-Newbury-Part-time/en-GB"
+   "url": "https://thamesvalleypolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/15724-Police-Contact-Enquiry-Officer-Newbury-Part-time/en-GB",
+   "pmin": 28410,
+   "pmax": 28410,
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7404,7 +8403,8 @@
    "pay": "£29,962 – £38,340",
    "closes": "Closes 30 Nov 2026",
    "url": "https://myjobscotland.gov.uk/emergency-services/scottish-fire-and-rescue-service/jobs/firefighter-control-496971",
-   "entry": "new"
+   "entry": "new",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7418,7 +8418,8 @@
    "place": "Lansdown, Bath",
    "pay": "£12.60 an hour in training, £15.00 an hour for resilience cover, plus retention payments",
    "closes": "Open – see advert",
-   "url": "https://www.avonfire.gov.uk/careers/vacancies/reserve-fire-emergency-control-operators/"
+   "url": "https://www.avonfire.gov.uk/careers/vacancies/reserve-fire-emergency-control-operators/",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7435,7 +8436,8 @@
    "place": "Contact Centres – Devon & Cornwall (incl. Crownhill, Plymouth)",
    "pay": "£32,644 – £35,830 (incl. 20% shift allowance)",
    "closes": "Open – see force website",
-   "url": "https://recruitment.devon-cornwall.police.uk/dc-contactofficer"
+   "url": "https://recruitment.devon-cornwall.police.uk/dc-contactofficer",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7449,7 +8451,8 @@
    "place": "Wakefield, Bradford",
    "pay": "Up to £39,846 a year including allowances",
    "closes": "Closes 29 Nov 2026",
-   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8151-Contact-Officer-Initial-Contact/en-GB"
+   "url": "https://westyorkshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/1/opp/8151-Contact-Officer-Initial-Contact/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7465,7 +8468,8 @@
    "pmin": 34750,
    "pmax": 34750,
    "closes": "Closes 10 Dec 2026",
-   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5792-Controller/en-GB"
+   "url": "https://policescotland-spacareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/wid-1/candidate/so/pm/6/pl/24/opp/5792-Controller/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7482,7 +8486,8 @@
    "pmin": 28071,
    "pmax": 42612,
    "closes": "Closes 6 Dec 2026",
-   "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-4/brand-6/candidate/so/pm/1/pl/29/opp/4550-Herts-Force-Communications-Operator-2027/en-GB"
+   "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-4/brand-6/candidate/so/pm/1/pl/29/opp/4550-Herts-Force-Communications-Operator-2027/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7499,7 +8504,8 @@
    "pmin": 28372,
    "pmax": 34850,
    "closes": "Register interest – see force website",
-   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/contact-centre-officers/"
+   "url": "https://www.surrey.police.uk/police-forces/surrey-police/areas/careers/careers/contact-centre-officers/",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7515,7 +8521,8 @@
    "pmin": 30960,
    "pmax": 39047,
    "closes": "Open – see advert",
-   "url": "https://www.nwfirecontrol.com/vacancies/control-room-operator/"
+   "url": "https://www.nwfirecontrol.com/vacancies/control-room-operator/",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7531,7 +8538,8 @@
    "pay": "Starting salary £30,897 full-time, plus unsocial shift allowance of about £10,486 a year (24/7 pattern)",
    "pmin": 30897,
    "closes": "Register interest – see advert",
-   "url": "https://www.sussex.police.uk/police-forces/sussex-police/areas/careers/jobs/control-and-contact-handler/"
+   "url": "https://www.sussex.police.uk/police-forces/sussex-police/areas/careers/jobs/control-and-contact-handler/",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7548,7 +8556,8 @@
    "pmin": 27204,
    "pmax": 29859,
    "closes": "Closes 8 Jan 2027",
-   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7914-Dispatch-Contact-Officer/en-GB"
+   "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7914-Dispatch-Contact-Officer/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7565,7 +8574,8 @@
    "pmin": 30897,
    "pmax": 34662,
    "closes": "Closes 31 Mar 2027",
-   "url": "https://norfolkandsuffolk.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-6/candidate/so/pm/6/pl/24/opp/2419-Communications-Officer-999-Call-Handler/en-GB"
+   "url": "https://norfolkandsuffolk.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-6/candidate/so/pm/6/pl/24/opp/2419-Communications-Officer-999-Call-Handler/en-GB",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "control",
@@ -7579,7 +8589,56 @@
    "pay": "See advert",
    "closes": "Open – see advert",
    "url": "https://www.avonfire.gov.uk/careers/vacancies/control-firefighter-transfer-process/",
-   "region": "sw"
+   "region": "sw",
+   "lastCheckedAt": "2026-11-24"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "title": "Call Assessor – Stafford",
+   "org": "West Midlands Ambulance Service",
+   "place": "Tollgate Industrial Estate, Stafford",
+   "pay": "£25,760",
+   "pmin": 25760,
+   "pmax": 25760,
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9217-142-26-27"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "mid",
+   "title": "Call Assessor – Brierley Hill",
+   "org": "West Midlands Ambulance Service",
+   "place": "Brierley Hill",
+   "pay": "£25,760",
+   "pmin": 25760,
+   "pmax": 25760,
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9217-141-26-27"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "title": "Fire Control Supervisory Managers (Watch Manager A / Crew Manager)",
+   "org": "Merseyside Fire & Rescue Service",
+   "place": "Sefton, Merseyside",
+   "pay": "£40,747 – £44,631",
+   "pmin": 40747,
+   "pmax": 44631,
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://careers.merseyfire.gov.uk/vacancies/280/fire-control-supervisory-managers.html"
   },
   {
    "cat": "ambulance",
@@ -7597,7 +8656,9 @@
    "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295",
    "source": "nhs_jobs_C9202",
    "sourceJobId": "5726045",
-   "lastCheckedAt": "2026-11-24T06:07:47.810045Z"
+   "lastCheckedAt": "2026-11-24T06:07:47.810045Z",
+   "pmin": 25760,
+   "pmax": 27476
   },
   {
    "cat": "ambulance",
@@ -7762,22 +8823,6 @@
    ],
    "hours": "shift",
    "region": "nw",
-   "pmin": 12267,
-   "pmax": 14267,
-   "title": "Healthcare Assistant (part time) – HMP Lancaster Farms (prison healthcare)",
-   "org": "Practice Plus Group – Health in Justice",
-   "place": "HMP Lancaster Farms, Lancaster",
-   "pay": "£12,267 – £14,267 a year (actual, 18 hrs/week)",
-   "closes": "Closes 30 Nov 2026",
-   "url": "https://apply.practiceplushij.com/vacancies/15937/healthcare-assistant-part-time.html"
-  },
-  {
-   "cat": "ambulance",
-   "skills": [
-    "hca"
-   ],
-   "hours": "shift",
-   "region": "nw",
    "pmin": 25557,
    "pmax": 29723,
    "title": "Healthcare Assistant – HMP Garth (prison healthcare)",
@@ -7865,7 +8910,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7882,7 +8929,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7899,7 +8948,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7916,7 +8967,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7933,7 +8986,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7950,7 +9005,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7967,7 +9024,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -7984,7 +9043,9 @@
    "skills": [
     "nurse",
     "para"
-   ]
+   ],
+   "pmin": 41500,
+   "pmax": 41500
   },
   {
    "cat": "ambulance",
@@ -8259,7 +9320,8 @@
    "place": "Sandwell Urgent Treatment Centre, West Midlands",
    "pay": "£110,000 a year FTE (full or part time)",
    "closes": "Closes 30 Dec 2026",
-   "url": "https://phlgroup.co.uk/job/general-practitioner-2/"
+   "url": "https://phlgroup.co.uk/job/general-practitioner-2/",
+   "pmin": 110000
   },
   {
    "cat": "ambulance",
@@ -8273,7 +9335,8 @@
    "place": "Midland Metropolitan University Hospital, Birmingham",
    "pay": "£110,000 a year FTE (full or part time)",
    "closes": "Closes 30 Dec 2026",
-   "url": "https://phlgroup.co.uk/job/general-practitioner-mmuh/"
+   "url": "https://phlgroup.co.uk/job/general-practitioner-mmuh/",
+   "pmin": 110000
   },
   {
    "cat": "ambulance",
@@ -8287,7 +9350,8 @@
    "place": "Walsall Urgent Treatment Centre, West Midlands",
    "pay": "£110,000 a year FTE (full or part time)",
    "closes": "Closes 30 Dec 2026",
-   "url": "https://phlgroup.co.uk/job/general-practitioner/"
+   "url": "https://phlgroup.co.uk/job/general-practitioner/",
+   "pmin": 110000
   },
   {
    "cat": "ambulance",
@@ -8365,6 +9429,166 @@
    "pay": "Volunteer – unpaid (expenses may be paid)",
    "closes": "Register interest – see advert",
    "url": "https://www.swast.nhs.uk/volunteer-recruitment/"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "pmin": 24785,
+   "pmax": 24785,
+   "title": "Ambulance Care Assistant (ACA) – Patient Transport Services",
+   "org": "UK Event Medical Services",
+   "place": "Preston, Lancashire",
+   "pay": "£12.71 an hour (≈ £24,785 a year full-time)",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/ambulance-care-assistant-aca-patient-transport-services-preston-3",
+   "entry": "new"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 24785,
+   "pmax": 24785,
+   "title": "Ambulance Care Assistant (ACA) – Patient Transport Services",
+   "org": "UK Event Medical Services",
+   "place": "Scarborough, North Yorkshire",
+   "pay": "£12.71 an hour (≈ £24,785 a year full-time)",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/ambulance-care-assistant-aca-patient-transport-services-scarborough-1",
+   "entry": "new"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 24785,
+   "pmax": 24785,
+   "title": "Ambulance Care Assistant (ACA) – Patient Transport Services",
+   "org": "UK Event Medical Services",
+   "place": "Hull",
+   "pay": "£12.71 an hour (≈ £24,785 a year full-time)",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/ambulance-care-assistant-aca-patient-transport-services-hull-3",
+   "entry": "new"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "pmin": 24785,
+   "pmax": 24785,
+   "title": "Ambulance Care Assistant (ACA) Qualified – Patient Transport Service",
+   "org": "UK Event Medical Services",
+   "place": "Preston, Lancashire",
+   "pay": "£12.71 an hour (≈ £24,785 a year full-time)",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/ambulance-care-assistant-aca-qualified-patient-transport-service-preston"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 24785,
+   "pmax": 24785,
+   "title": "Ambulance Care Assistant (ACA) Qualified – Patient Transport Services",
+   "org": "UK Event Medical Services",
+   "place": "Sheffield",
+   "pay": "£12.71 an hour (≈ £24,785 a year full-time)",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/ambulance-care-assistant-aca-qualified-patient-transport-services-sheffield"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "eca"
+   ],
+   "entry": "new",
+   "hours": "shift",
+   "region": "nw",
+   "pmin": 27495,
+   "pmax": 27495,
+   "title": "Emergency Care Assistant and Urgent Care Assistant",
+   "org": "UK Event Medical Services",
+   "place": "Preston, Lancashire",
+   "pay": "£14.10 an hour plus night uplift (≈ £27,495 a year full-time)",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/emergency-care-assistant-and-urgent-care-assistant-salford-2"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "para"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "title": "Clinical Supervisor – Paramedic (bank)",
+   "org": "UK Event Medical Services",
+   "place": "Preston, Lancashire",
+   "pay": "Pay to be confirmed – see advert",
+   "closes": "Open – see advert",
+   "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/clinical-supervisor-paramedic"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "hca"
+   ],
+   "hours": "shift",
+   "region": "lon",
+   "pmin": 32134,
+   "pmax": 32134,
+   "title": "Healthcare Assistant – HMP Brixton (prison healthcare)",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Brixton, London",
+   "pay": "Up to £32,134 a year",
+   "closes": "Open – see advert",
+   "url": "https://apply.practiceplushij.com/vacancies/15985/healthcare-assistant.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "nurse"
+   ],
+   "hours": "shift",
+   "region": "nw",
+   "pmin": 29264,
+   "pmax": 33510,
+   "title": "Registered Nurse Associate – HMP Lancaster Farms (prison healthcare)",
+   "org": "Practice Plus Group – Health in Justice",
+   "place": "HMP Lancaster Farms, Lancaster",
+   "pay": "£29,264 – £33,510",
+   "closes": "Open – see advert",
+   "url": "https://apply.practiceplushij.com/vacancies/15970/registered-nurse-associate.html"
+  },
+  {
+   "cat": "ambulance",
+   "skills": [
+    "para"
+   ],
+   "hours": "flex",
+   "region": "nw",
+   "title": "Freelance Confined Space Rescue Paramedic",
+   "org": "Medical Rescue",
+   "place": "Liverpool (deployments vary)",
+   "pay": "See advert",
+   "closes": "Register interest – see advert",
+   "url": "https://www.medicalrescue.co.uk/recruitment.html"
   },
   {
    "cat": "fire",
@@ -8584,7 +9808,8 @@
    "place": "Agreed base with national travel",
    "pay": "Station Manager B + 20% flexible duty allowance (12-month secondment, WM or above)",
    "closes": "Closes 8 Dec 2026",
-   "url": "https://careers.merseyfire.gov.uk/vacancies/281/national-resilience-wildfire-capability-officers.html"
+   "url": "https://careers.merseyfire.gov.uk/vacancies/281/national-resilience-wildfire-capability-officers.html",
+   "lastCheckedAt": "2026-11-24"
   },
   {
    "cat": "fire",
@@ -9225,6 +10450,36 @@
    ]
   },
   {
+   "cat": "fire",
+   "nations": [
+    "eng"
+   ],
+   "region": "mid",
+   "title": "Firefighter – register your interest (wholetime, on-call, transfer)",
+   "org": "Lincolnshire Fire and Rescue",
+   "place": "Lincolnshire",
+   "pay": "£30,384 – £38,881 (wholetime development to competent)",
+   "pmin": 30384,
+   "pmax": 38881,
+   "closes": "Register interest – see force website",
+   "url": "https://www.lincolnshire.gov.uk/firefighter-recruitment/register-interest-lincolnshire-fire-rescue"
+  },
+  {
+   "cat": "fire",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "mid",
+   "title": "NFRS Community Safety Advocate (unpaid voluntary role)",
+   "org": "Northamptonshire Fire and Rescue Service",
+   "place": "Northamptonshire (countywide)",
+   "pay": "Volunteer – unpaid (expenses may be paid)",
+   "closes": "Closes 1 Jan 2027",
+   "url": "https://northantsfire.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/358-NFRS-Community-Safety-Advocate-Unpaid-Voluntary-Role/en-GB"
+  },
+  {
    "cat": "justice",
    "jroles": [
     "prison"
@@ -9235,12 +10490,14 @@
    "title": "202611: Prison Officer - HMP Whitemoor",
    "org": "Ministry of Justice",
    "place": "March",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/March-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202611-Prison-Officer-HMP-Whitemoor/23948",
    "source": "moj",
    "sourceJobId": "23948",
-   "lastCheckedAt": "2026-11-24T06:15:05Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -9253,12 +10510,14 @@
    "title": "202608: Prison Officer - HMP Full Sutton",
    "org": "Ministry of Justice",
    "place": "York",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/20534",
    "source": "moj",
    "sourceJobId": "20534",
-   "lastCheckedAt": "2026-11-24T06:16:26Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -9274,7 +10533,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/22510-Probation-Officer-Southampton/22510",
    "source": "moj",
    "sourceJobId": "22510",
-   "lastCheckedAt": "2026-11-24T06:15:23Z"
+   "lastCheckedAt": "2026-11-24T06:15:23Z",
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -9323,7 +10584,8 @@
    "place": "Long Lartin then Wakefield",
    "pay": "£34,928 + accommodation support & £1,500 retention bonuses",
    "closes": "Closes 10 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23267"
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23267",
+   "lastCheckedAt": "2026-11-24T12:00:00Z"
   },
   {
    "cat": "justice",
@@ -9340,7 +10602,8 @@
    "place": "Swaleside (Kent) then Humber",
    "pay": "£38,428 + accommodation support & £1,500 retention bonuses",
    "closes": "Closes 10 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23259"
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23259",
+   "lastCheckedAt": "2026-11-24T12:00:00Z"
   },
   {
    "cat": "justice",
@@ -9357,7 +10620,8 @@
    "place": "Woodhill (Milton Keynes) then Hull",
    "pay": "£38,428 + accommodation support & £1,500 retention bonuses",
    "closes": "Closes 10 Dec 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23258"
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/23258",
+   "lastCheckedAt": "2026-11-24T12:00:00Z"
   },
   {
    "cat": "justice",
@@ -9373,7 +10637,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858",
    "source": "moj",
    "sourceJobId": "19858",
-   "lastCheckedAt": "2026-11-24T06:16:34Z"
+   "lastCheckedAt": "2026-11-24T06:16:34Z",
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -9386,12 +10652,14 @@
    "title": "202608: Prison Officer - HMP Swaleside",
    "org": "Ministry of Justice",
    "place": "Isle of Sheppey",
-   "pay": "See advert",
+   "pay": "£38,428 – £42,834 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Isle-of-Sheppey-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Swaleside/20614",
    "source": "moj",
    "sourceJobId": "20614",
-   "lastCheckedAt": "2026-11-24T06:16:10Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 38428,
+   "pmax": 42834
   },
   {
    "cat": "justice",
@@ -9404,12 +10672,14 @@
    "title": "202608: Prison Officer - HMP Norwich",
    "org": "Ministry of Justice",
    "place": "Norwich",
-   "pay": "See advert",
-   "closes": "Closes 24 Dec 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Norwich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Norwich/20590",
    "source": "moj",
    "sourceJobId": "20590",
-   "lastCheckedAt": "2026-11-24T06:16:15Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -9442,7 +10712,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24410-Community-Payback-Probation-Services-Officer-Derbyshire/24410",
    "source": "moj",
    "sourceJobId": "24410",
-   "lastCheckedAt": "2026-11-24T06:13:45Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9458,7 +10730,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24408-Community-Payback-Probation-Services-Officer-Leicester/24408",
    "source": "moj",
    "sourceJobId": "24408",
-   "lastCheckedAt": "2026-11-24T06:13:47Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9474,7 +10748,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24379-Probation-Services-Officer-Leicester/24379",
    "source": "moj",
    "sourceJobId": "24379",
-   "lastCheckedAt": "2026-11-24T06:13:54Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9490,7 +10766,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24391-Community-Payback-Supervisor-Carlisle/24391",
    "source": "moj",
    "sourceJobId": "24391",
-   "lastCheckedAt": "2026-11-24T06:13:52Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9506,7 +10784,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336-Probation-Service-Officer-Barking-Dagenham-Havering-Probation-Delivery-Unit-London-Outcome-in-a-Day/24336",
    "source": "moj",
    "sourceJobId": "24336",
-   "lastCheckedAt": "2026-11-24T06:13:59Z"
+   "lastCheckedAt": "2026-11-24T06:13:59Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9522,7 +10802,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24333",
    "source": "moj",
    "sourceJobId": "24333",
-   "lastCheckedAt": "2026-11-24T06:14:01Z"
+   "lastCheckedAt": "2026-11-24T06:14:01Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9538,7 +10820,9 @@
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24318",
    "source": "moj",
    "sourceJobId": "24318",
-   "lastCheckedAt": "2026-11-24T06:14:08Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9550,9 +10834,12 @@
    "title": "Approved Premises Residential Worker",
    "org": "Probation Service",
    "place": "South West",
-   "pay": "See advert",
+   "pay": "£28,064 – £33,549",
    "closes": "Closes 30 Nov 2026",
-   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24289"
+   "url": "https://jobs.justice.gov.uk/careers/JobDetail/24289",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9565,12 +10852,14 @@
    "title": "202608: Prison Officer - HMP Guys Marsh",
    "org": "Ministry of Justice",
    "place": "Yeovil",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/20564",
    "source": "moj",
    "sourceJobId": "20564",
-   "lastCheckedAt": "2026-11-24T06:16:21Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -9583,12 +10872,14 @@
    "title": "202608: Prison Officer - HMP Gartree",
    "org": "Ministry of Justice",
    "place": "Leicester",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/20538",
    "source": "moj",
    "sourceJobId": "20538",
-   "lastCheckedAt": "2026-11-24T06:16:25Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -9601,12 +10892,14 @@
    "title": "202608: Prison Officer - HMP Deerbolt",
    "org": "Ministry of Justice",
    "place": "Darlington",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/20528",
    "source": "moj",
    "sourceJobId": "20528",
-   "lastCheckedAt": "2026-11-24T06:16:29Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -9619,12 +10912,14 @@
    "title": "202608: Prison Officer - HMP Highpoint",
    "org": "Ministry of Justice",
    "place": "Cambridge",
-   "pay": "See advert",
+   "pay": "£36,928 – £41,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Cambridge-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Highpoint/20587",
    "source": "moj",
    "sourceJobId": "20587",
-   "lastCheckedAt": "2026-11-24T06:16:18Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 36928,
+   "pmax": 41334
   },
   {
    "cat": "justice",
@@ -9636,12 +10931,14 @@
    "title": "24132 - Operational Support Grade - HMP Hollesley (Prison Support Role)",
    "org": "Ministry of Justice",
    "place": "Ipswich",
-   "pay": "See advert",
+   "pay": "£30,491",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Ipswich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-24132-Operational-Support-Grade-HMP-Hollesley-Prison-Support-Role/24132",
    "source": "moj",
    "sourceJobId": "24132",
-   "lastCheckedAt": "2026-11-24T06:14:51Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 30491,
+   "pmax": 30491
   },
   {
    "cat": "justice",
@@ -9653,12 +10950,14 @@
    "title": "23375 - Operational Support Grade - HMP Woodhill - Driver (Prison Support Role)",
    "org": "Ministry of Justice",
    "place": "Milton Keynes",
-   "pay": "See advert",
+   "pay": "£30,491",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Milton-Keynes-United-Kingdom-of-Great-Britain-and-Northern-Ireland-23375-Operational-Support-Grade-HMP-Woodhill-Driver-Prison-Support-Role/23375",
    "source": "moj",
    "sourceJobId": "23375",
-   "lastCheckedAt": "2026-11-24T06:15:13Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 30491,
+   "pmax": 30491
   },
   {
    "cat": "justice",
@@ -9738,7 +11037,9 @@
    "lastCheckedAt": "2026-11-24T06:13:28Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9751,10 +11052,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24483",
-   "lastCheckedAt": "2026-11-24T06:13:29Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9767,10 +11070,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24427",
-   "lastCheckedAt": "2026-11-24T06:13:35Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9786,7 +11091,9 @@
    "lastCheckedAt": "2026-11-24T06:13:37Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9802,7 +11109,9 @@
    "lastCheckedAt": "2026-11-24T06:13:39Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9818,7 +11127,9 @@
    "lastCheckedAt": "2026-11-24T06:13:40Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9834,7 +11145,9 @@
    "lastCheckedAt": "2026-11-24T06:13:41Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9847,10 +11160,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24414",
-   "lastCheckedAt": "2026-11-24T06:13:43Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9863,10 +11178,12 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "24393",
-   "lastCheckedAt": "2026-11-24T06:13:51Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 24645,
+   "pmax": 26723
   },
   {
    "cat": "justice",
@@ -9879,10 +11196,12 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "24378",
-   "lastCheckedAt": "2026-11-24T06:13:55Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9895,10 +11214,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24369",
-   "lastCheckedAt": "2026-11-24T06:13:56Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9911,10 +11232,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24363",
-   "lastCheckedAt": "2026-11-24T06:13:58Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 46746,
+   "pmax": 48760
   },
   {
    "cat": "justice",
@@ -9927,10 +11250,12 @@
    "region": "lon",
    "source": "moj",
    "sourceJobId": "24332",
-   "lastCheckedAt": "2026-11-24T06:14:02Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9943,10 +11268,12 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "24328",
-   "lastCheckedAt": "2026-11-24T06:14:03Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 24645,
+   "pmax": 26723
   },
   {
    "cat": "justice",
@@ -9959,10 +11286,12 @@
    "region": "lon",
    "source": "moj",
    "sourceJobId": "24324",
-   "lastCheckedAt": "2026-11-24T06:14:04Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -9978,7 +11307,9 @@
    "lastCheckedAt": "2026-11-24T06:14:06Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 46746,
+   "pmax": 48760
   },
   {
    "cat": "justice",
@@ -9991,7 +11322,9 @@
    "region": "east",
    "source": "moj",
    "sourceJobId": "24312",
-   "lastCheckedAt": "2026-11-24T06:14:10Z"
+   "lastCheckedAt": "2026-11-24T06:14:10Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10004,10 +11337,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24306",
-   "lastCheckedAt": "2026-11-24T06:14:11Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10023,7 +11358,9 @@
    "lastCheckedAt": "2026-11-24T06:14:13Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10036,10 +11373,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24271",
-   "lastCheckedAt": "2026-11-24T06:14:14Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 46746,
+   "pmax": 48760
   },
   {
    "cat": "justice",
@@ -10052,10 +11391,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24267",
-   "lastCheckedAt": "2026-11-24T06:14:17Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10068,10 +11409,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24266",
-   "lastCheckedAt": "2026-11-24T06:14:18Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10084,10 +11427,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24265",
-   "lastCheckedAt": "2026-11-24T06:14:19Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10100,10 +11445,12 @@
    "region": "lon",
    "source": "moj",
    "sourceJobId": "24262",
-   "lastCheckedAt": "2026-11-24T06:14:22Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10119,7 +11466,9 @@
    "lastCheckedAt": "2026-11-24T06:14:25Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10132,7 +11481,9 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24241",
-   "lastCheckedAt": "2026-11-24T06:14:26Z"
+   "lastCheckedAt": "2026-11-24T06:14:26Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10145,10 +11496,12 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "24231",
-   "lastCheckedAt": "2026-11-24T06:14:28Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10161,7 +11514,9 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "24226",
-   "lastCheckedAt": "2026-11-24T06:14:29Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 24645,
+   "pmax": 26723
   },
   {
    "cat": "justice",
@@ -10174,7 +11529,9 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24223",
-   "lastCheckedAt": "2026-11-24T06:14:30Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 41197,
+   "pmax": 45316
   },
   {
    "cat": "justice",
@@ -10187,7 +11544,9 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24215",
-   "lastCheckedAt": "2026-11-24T06:14:31Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -10195,12 +11554,14 @@
    "org": "Ministry of Justice",
    "place": "Warrington",
    "pay": "£34,928 - £36,778",
-   "closes": "Closes 27 Nov 2026",
+   "closes": "Closes 11 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24210-Prison-Catering-Caterer-HMP-Risley/24210",
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24210",
-   "lastCheckedAt": "2026-11-24T06:14:33Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -10208,12 +11569,14 @@
    "org": "Ministry of Justice",
    "place": "Hull",
    "pay": "£34,928 - £36,778 Pro-rata",
-   "closes": "Closes 27 Nov 2026",
+   "closes": "Closes 11 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/24209-Prison-Catering-Caterer-HMP-Hull-Part-time/24209",
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24209",
-   "lastCheckedAt": "2026-11-24T06:14:34Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -10226,7 +11589,9 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24207",
-   "lastCheckedAt": "2026-11-24T06:14:36Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 41328,
+   "pmax": 41328
   },
   {
    "cat": "justice",
@@ -10239,10 +11604,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24206",
-   "lastCheckedAt": "2026-11-24T06:14:37Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 46746,
+   "pmax": 48760
   },
   {
    "cat": "justice",
@@ -10258,7 +11625,9 @@
    "lastCheckedAt": "2026-11-24T06:14:38Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10271,7 +11640,9 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "24182",
-   "lastCheckedAt": "2026-11-24T06:14:40Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34440,
+   "pmax": 34440
   },
   {
    "cat": "justice",
@@ -10284,10 +11655,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24171",
-   "lastCheckedAt": "2026-11-24T06:14:42Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10300,7 +11673,9 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24163",
-   "lastCheckedAt": "2026-11-24T06:14:45Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -10313,7 +11688,9 @@
    "region": "lon",
    "source": "moj",
    "sourceJobId": "24160",
-   "lastCheckedAt": "2026-11-24T06:14:46Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 47590,
+   "pmax": 47590
   },
   {
    "cat": "justice",
@@ -10326,10 +11703,12 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "24150",
-   "lastCheckedAt": "2026-11-24T06:14:48Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10342,7 +11721,9 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "24139",
-   "lastCheckedAt": "2026-11-24T06:14:49Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 37417,
+   "pmax": 39214
   },
   {
    "cat": "justice",
@@ -10355,7 +11736,9 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24126",
-   "lastCheckedAt": "2026-11-24T06:14:53Z"
+   "lastCheckedAt": "2026-11-24T06:14:53Z",
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10371,7 +11754,9 @@
    "lastCheckedAt": "2026-11-20T06:17:20Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 51203,
+   "pmax": 56111
   },
   {
    "cat": "justice",
@@ -10384,10 +11769,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24075",
-   "lastCheckedAt": "2026-11-24T06:14:55Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10400,10 +11787,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24050",
-   "lastCheckedAt": "2026-11-24T06:14:57Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 51203,
+   "pmax": 56111
   },
   {
    "cat": "justice",
@@ -10416,10 +11805,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24049",
-   "lastCheckedAt": "2026-11-24T06:14:58Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10432,10 +11823,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "24008",
-   "lastCheckedAt": "2026-11-24T06:15:00Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 46746,
+   "pmax": 48760
   },
   {
    "cat": "justice",
@@ -10448,10 +11841,12 @@
    "region": "east",
    "source": "moj",
    "sourceJobId": "23999",
-   "lastCheckedAt": "2026-11-24T06:15:01Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10464,7 +11859,9 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "23998",
-   "lastCheckedAt": "2026-11-24T06:15:02Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -10480,7 +11877,9 @@
    "lastCheckedAt": "2026-11-20T06:17:43Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10493,10 +11892,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "23897",
-   "lastCheckedAt": "2026-11-24T06:15:06Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10509,7 +11910,9 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "23882",
-   "lastCheckedAt": "2026-11-24T06:15:08Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 24645,
+   "pmax": 26723
   },
   {
    "cat": "justice",
@@ -10522,7 +11925,9 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "23813",
-   "lastCheckedAt": "2026-11-24T06:15:09Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 41328,
+   "pmax": 41328
   },
   {
    "cat": "justice",
@@ -10535,7 +11940,9 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "23809",
-   "lastCheckedAt": "2026-11-24T06:15:10Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -10548,10 +11955,12 @@
    "region": "lon",
    "source": "moj",
    "sourceJobId": "23759",
-   "lastCheckedAt": "2026-11-24T06:15:12Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10564,10 +11973,12 @@
    "region": "lon",
    "source": "moj",
    "sourceJobId": "23062",
-   "lastCheckedAt": "2026-11-24T06:15:19Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -10583,7 +11994,9 @@
    "lastCheckedAt": "2026-11-24T06:15:36Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10599,7 +12012,9 @@
    "lastCheckedAt": "2026-11-24T06:15:45Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10612,10 +12027,12 @@
    "region": "east",
    "source": "moj",
    "sourceJobId": "20574",
-   "lastCheckedAt": "2026-11-24T06:16:19Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -10628,26 +12045,30 @@
    "region": "wal",
    "source": "moj",
    "sourceJobId": "18335",
-   "lastCheckedAt": "2026-11-24T06:16:36Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
    "title": "202611: Prison Officer - HMP Woodhill",
    "org": "Ministry of Justice",
    "place": "Milton Keynes",
-   "pay": "See advert",
+   "pay": "£38,428 – £42,834 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Milton-Keynes-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202611-Prison-Officer-HMP-Woodhill/23951",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "23951",
-   "lastCheckedAt": "2026-11-24T06:15:04Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 38428,
+   "pmax": 42834
   },
   {
    "cat": "justice",
@@ -10699,16 +12120,18 @@
    "title": "202608: Prison Officer - HMP Wormwood Scrubs",
    "org": "Ministry of Justice",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£40,876 – £46,031 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Wormwood-Scrubs/21431",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "21431",
-   "lastCheckedAt": "2026-11-24T06:15:38Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 40876,
+   "pmax": 46031
   },
   {
    "cat": "justice",
@@ -10827,16 +12250,18 @@
    "title": "202608: Prison Officer - HMP Holme House and HMP Kirklevington Grange",
    "org": "Ministry of Justice",
    "place": "Stockton-on-Tees",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Stockton-on-Tees-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Holme-House-and-HMP-Kirklevington-Grange/21318",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "21318",
-   "lastCheckedAt": "2026-11-24T06:15:46Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -10907,32 +12332,36 @@
    "title": "202608: Prison Officer - HMP Drake Hall",
    "org": "Ministry of Justice",
    "place": "Stafford",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Stafford-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Drake-Hall/21309",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "21309",
-   "lastCheckedAt": "2026-11-24T06:15:50Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Coldingley",
    "org": "Ministry of Justice",
    "place": "Woking",
-   "pay": "See advert",
+   "pay": "£36,928 – £41,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Woking-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Coldingley/21306",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "21306",
-   "lastCheckedAt": "2026-11-24T06:15:51Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 36928,
+   "pmax": 41334
   },
   {
    "cat": "justice",
@@ -11003,16 +12432,18 @@
    "title": "202608: Prison Officer - HMP Belmarsh",
    "org": "Ministry of Justice",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£38,840 – £43,739 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Belmarsh/21259",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "21259",
-   "lastCheckedAt": "2026-11-24T06:15:55Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 38840,
+   "pmax": 43739
   },
   {
    "cat": "justice",
@@ -11083,16 +12514,18 @@
    "title": "202608: Prison Officer - HMP Lewes",
    "org": "Ministry of Justice",
    "place": "Lewes",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Lewes-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Lewes/20658",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20658",
-   "lastCheckedAt": "2026-11-24T06:16:01Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -11115,16 +12548,18 @@
    "title": "202608: Prison Officer - HMP Huntercombe",
    "org": "Ministry of Justice",
    "place": "Reading",
-   "pay": "See advert",
+   "pay": "£36,428 – £40,834 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Reading-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Huntercombe/20656",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20656",
-   "lastCheckedAt": "2026-11-24T06:16:03Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 36428,
+   "pmax": 40834
   },
   {
    "cat": "justice",
@@ -11147,16 +12582,18 @@
    "title": "202608: Prison Officer - HMP Long Lartin",
    "org": "Ministry of Justice",
    "place": "Evesham",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Evesham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Long-Lartin/20636",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20636",
-   "lastCheckedAt": "2026-11-24T06:16:05Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -11179,16 +12616,18 @@
    "title": "202608: Prison Officer - HMP Hollesley",
    "org": "Ministry of Justice",
    "place": "Suffolk",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Suffolk-Suffolk-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Hollesley/20627",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20627",
-   "lastCheckedAt": "2026-11-24T06:16:06Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -11323,48 +12762,54 @@
    "title": "202608: Prison Officer - HMP Onley",
    "org": "Ministry of Justice",
    "place": "Rugby",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Rugby-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Onley/20591",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20591",
-   "lastCheckedAt": "2026-11-24T06:16:15Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP New Hall",
    "org": "Ministry of Justice",
    "place": "Wakefield",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wakefield-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-New-Hall/20589",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20589",
-   "lastCheckedAt": "2026-11-24T06:16:16Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Low Newton",
    "org": "Ministry of Justice",
    "place": "Durham",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Durham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Low-Newton/20588",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20588",
-   "lastCheckedAt": "2026-11-24T06:16:17Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -11387,16 +12832,18 @@
    "title": "202608: Prison Officer - HMP Grendon",
    "org": "Ministry of Justice",
    "place": "Luton",
-   "pay": "See advert",
+   "pay": "£36,428 – £40,834 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Luton-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Grendon/20562",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20562",
-   "lastCheckedAt": "2026-11-24T06:16:22Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 36428,
+   "pmax": 40834
   },
   {
    "cat": "justice",
@@ -11451,16 +12898,18 @@
    "title": "202608: Prison Officer - HMP Frankland",
    "org": "Ministry of Justice",
    "place": "Durham",
-   "pay": "See advert",
-   "closes": "Closes 26 Nov 2026",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
+   "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Durham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Frankland/20533",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20533",
-   "lastCheckedAt": "2026-11-24T06:16:27Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -11483,32 +12932,36 @@
    "title": "202608: Prison Officer - HMP Elmley",
    "org": "Ministry of Justice",
    "place": "Sittingbourne",
-   "pay": "See advert",
+   "pay": "£38,428 – £42,834 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Sittingbourne-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Elmley/20530",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20530",
-   "lastCheckedAt": "2026-11-24T06:16:29Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 38428,
+   "pmax": 42834
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Channings Wood",
    "org": "Ministry of Justice",
    "place": "Torquay",
-   "pay": "See advert",
+   "pay": "£34,928 – £39,334 (37–41 hour week incl. 20% unsocial hours)",
    "closes": "Closes 3 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Torquay-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Channings-Wood/20526",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "20526",
-   "lastCheckedAt": "2026-11-24T06:16:30Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 34928,
+   "pmax": 39334
   },
   {
    "cat": "justice",
@@ -11569,10 +13022,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "16571",
-   "lastCheckedAt": "2026-11-24T06:16:37Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11585,10 +13040,12 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "16570",
-   "lastCheckedAt": "2026-11-24T06:16:38Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11604,7 +13061,9 @@
    "lastCheckedAt": "2026-11-24T06:16:39Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11620,7 +13079,9 @@
    "lastCheckedAt": "2026-11-24T06:16:41Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11636,7 +13097,9 @@
    "lastCheckedAt": "2026-11-24T06:16:42Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11652,7 +13115,9 @@
    "lastCheckedAt": "2026-11-24T06:16:43Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11668,7 +13133,9 @@
    "lastCheckedAt": "2026-11-24T06:16:44Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11684,7 +13151,9 @@
    "lastCheckedAt": "2026-11-24T06:16:46Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11697,10 +13166,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "16563",
-   "lastCheckedAt": "2026-11-24T06:16:47Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11713,10 +13184,12 @@
    "region": "uk",
    "source": "moj",
    "sourceJobId": "16562",
-   "lastCheckedAt": "2026-11-24T06:16:48Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11729,10 +13202,12 @@
    "region": "east",
    "source": "moj",
    "sourceJobId": "16549",
-   "lastCheckedAt": "2026-11-24T06:16:49Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11748,7 +13223,9 @@
    "lastCheckedAt": "2026-11-24T06:16:51Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 44100,
+   "pmax": 44100
   },
   {
    "cat": "justice",
@@ -11761,10 +13238,12 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "16391",
-   "lastCheckedAt": "2026-11-24T06:16:52Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11780,7 +13259,9 @@
    "lastCheckedAt": "2026-11-24T06:16:53Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11796,7 +13277,9 @@
    "lastCheckedAt": "2026-11-24T06:16:54Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11812,7 +13295,9 @@
    "lastCheckedAt": "2026-11-24T06:16:56Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11828,7 +13313,9 @@
    "lastCheckedAt": "2026-11-24T06:16:57Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11844,7 +13331,9 @@
    "lastCheckedAt": "2026-11-24T06:16:58Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11860,7 +13349,9 @@
    "lastCheckedAt": "2026-11-24T06:17:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11876,7 +13367,9 @@
    "lastCheckedAt": "2026-11-24T06:17:01Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11892,7 +13385,9 @@
    "lastCheckedAt": "2026-11-24T06:17:02Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11908,7 +13403,9 @@
    "lastCheckedAt": "2026-11-24T06:17:03Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11924,7 +13421,9 @@
    "lastCheckedAt": "2026-11-24T06:17:05Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11940,7 +13439,9 @@
    "lastCheckedAt": "2026-11-24T06:17:06Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 35130,
+   "pmax": 42000
   },
   {
    "cat": "justice",
@@ -11953,7 +13454,9 @@
    "region": "mid",
    "source": "moj",
    "sourceJobId": "24413",
-   "lastCheckedAt": "2026-11-24T06:13:44Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -11966,7 +13469,9 @@
    "region": "ne",
    "source": "moj",
    "sourceJobId": "24402",
-   "lastCheckedAt": "2026-11-24T06:13:50Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 34928,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -11979,7 +13484,9 @@
    "region": "sw",
    "source": "moj",
    "sourceJobId": "24524",
-   "lastCheckedAt": "2026-11-24T06:13:26Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 24645,
+   "pmax": 26723
   },
   {
    "cat": "justice",
@@ -11995,7 +13502,9 @@
    "lastCheckedAt": "2026-11-24T06:13:33Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12011,7 +13520,9 @@
    "lastCheckedAt": "2026-11-24T06:13:36Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12024,7 +13535,9 @@
    "region": "se",
    "source": "moj",
    "sourceJobId": "24406",
-   "lastCheckedAt": "2026-11-24T06:13:48Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 29107,
+   "pmax": 30648
   },
   {
    "cat": "justice",
@@ -12037,10 +13550,12 @@
    "region": "east",
    "source": "moj",
    "sourceJobId": "24173",
-   "lastCheckedAt": "2026-11-24T06:14:41Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 37238,
+   "pmax": 44520
   },
   {
    "cat": "justice",
@@ -12056,7 +13571,9 @@
    "lastCheckedAt": "2026-11-24T06:13:03Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12072,7 +13589,9 @@
    "lastCheckedAt": "2026-11-24T06:13:04Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12088,7 +13607,9 @@
    "lastCheckedAt": "2026-11-24T06:13:06Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12104,7 +13625,9 @@
    "lastCheckedAt": "2026-11-24T06:13:07Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12120,7 +13643,9 @@
    "lastCheckedAt": "2026-11-24T06:13:09Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12136,7 +13661,9 @@
    "lastCheckedAt": "2026-11-24T06:13:10Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12149,10 +13676,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24575",
-   "lastCheckedAt": "2026-11-24T06:13:11Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12165,10 +13694,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24573",
-   "lastCheckedAt": "2026-11-24T06:13:13Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12181,10 +13712,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24572",
-   "lastCheckedAt": "2026-11-24T06:13:14Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12197,10 +13730,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24570",
-   "lastCheckedAt": "2026-11-24T06:13:15Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12213,10 +13748,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24568",
-   "lastCheckedAt": "2026-11-24T06:13:17Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12229,10 +13766,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24565",
-   "lastCheckedAt": "2026-11-24T06:13:18Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12245,10 +13784,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24561",
-   "lastCheckedAt": "2026-11-24T06:13:19Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12261,10 +13802,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24557",
-   "lastCheckedAt": "2026-11-24T06:13:21Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12277,10 +13820,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24556",
-   "lastCheckedAt": "2026-11-24T06:13:22Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12293,10 +13838,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24555",
-   "lastCheckedAt": "2026-11-24T06:13:24Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12309,10 +13856,12 @@
    "region": "nw",
    "source": "moj",
    "sourceJobId": "24551",
-   "lastCheckedAt": "2026-11-24T06:13:25Z",
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 28064,
+   "pmax": 33549
   },
   {
    "cat": "justice",
@@ -12325,7 +13874,9 @@
    "region": "east",
    "source": "moj",
    "sourceJobId": "24475",
-   "lastCheckedAt": "2026-11-24T06:13:31Z"
+   "lastCheckedAt": "2026-11-24T12:00:00Z",
+   "pmin": 54148,
+   "pmax": 54148
   },
   {
    "cat": "justice",
@@ -12341,7 +13892,9 @@
    "lastCheckedAt": "2026-11-24T06:13:32Z",
    "jroles": [
     "probation"
-   ]
+   ],
+   "pmin": 51203,
+   "pmax": 56111
   },
   {
    "cat": "justice",
@@ -12699,6 +14252,57 @@
    "entry": "new"
   },
   {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "hours": "shift",
+   "entry": "new",
+   "region": "mid",
+   "pmin": 28134,
+   "pmax": 32153,
+   "title": "Prison Custody Officer – HMP Oakwood",
+   "org": "G4S",
+   "place": "Wolverhampton",
+   "pay": "£32,153 (training pay £28,134 for 9 weeks; 40-hour week)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://careers.g4s.com/en/job/wolverhampton/prison-custody-officer/3219/46566429760"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "hours": "shift",
+   "entry": "new",
+   "region": "mid",
+   "pmin": 28145,
+   "pmax": 34306,
+   "title": "Prison Custody Officer – HMP Rye Hill",
+   "org": "G4S",
+   "place": "Willoughby, Rugby",
+   "pay": "£32,165 rising to £34,306 after 2 years (training pay £28,145 for 10 weeks)",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://careers.g4s.com/en/job/rugby/prison-custody-officer/3219/45393971392"
+  },
+  {
+   "cat": "justice",
+   "jroles": [
+    "prison"
+   ],
+   "hours": "shift",
+   "entry": "new",
+   "region": "mid",
+   "pmin": 28141,
+   "pmax": 34712,
+   "title": "Prison Custody Officer – HMP Five Wells",
+   "org": "G4S",
+   "place": "Wellingborough",
+   "pay": "£32,159 rising to £34,712 after 2 years (training pay £28,141 for 9 weeks)",
+   "closes": "Closes 31 Mar 2027",
+   "url": "https://careers.g4s.com/en/job/wellingborough/prison-custody-officer/3219/45341145536"
+  },
+  {
    "cat": "civilian",
    "areas": [
     "training"
@@ -12866,9 +14470,11 @@
    "title": "OSS Distribution Driver (HGV2 / C1)",
    "org": "Metropolitan Police Service",
    "place": "London",
-   "pay": "See advert",
+   "pay": "£34,863 – £36,789 plus £2,009 location allowance and £1,000 non-pensionable allowance (starting salary £37,872)",
    "closes": "Closes 11 Jan 2027",
-   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23310-OSS-Distribution-Driver-HGV2-C1/en-GB"
+   "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23310-OSS-Distribution-Driver-HGV2-C1/en-GB",
+   "pmin": 34863,
+   "pmax": 36789
   },
   {
    "cat": "civilian",
@@ -12929,10 +14535,12 @@
    "title": "SGB Sundries Job-Share",
    "org": "ScotRail",
    "place": "Perth",
-   "pay": "See advert",
+   "pay": "£23,816 training salary rising to £35,320 once qualified (pro rata)",
    "closes": "Closes 28 Nov 2026",
    "url": "https://apply.scotrail.co.uk/vacancies/2241/",
-   "manualReviewUntil": "2026-11-28"
+   "manualReviewUntil": "2026-11-28",
+   "pmin": 23816,
+   "pmax": 35320
   },
   {
    "cat": "civilian",
@@ -12943,10 +14551,12 @@
    "title": "STATION GRADE: STATION MAINTENANCE TEAM",
    "org": "ScotRail",
    "place": "Inverness",
-   "pay": "See advert",
+   "pay": "£35,320",
    "closes": "Closes 25 Nov 2026",
    "url": "https://apply.scotrail.co.uk/vacancies/2238/",
-   "manualReviewUntil": "2026-11-25"
+   "manualReviewUntil": "2026-11-25",
+   "pmin": 35320,
+   "pmax": 35320
   },
   {
    "cat": "civilian",
@@ -12974,7 +14584,7 @@
    "title": "Head of Transport Services",
    "org": "Gloucestershire Constabulary",
    "place": "Tri-Service Workshops, Gloucestershire",
-   "pay": "£54,696 - £57,186 (Grade PO4)",
+   "pay": "£54,696 – £57,186 (Grade PO4)",
    "pmin": 54696,
    "pmax": 57186,
    "closes": "Closes 29 Nov 2026",
@@ -13316,7 +14926,9 @@
    "place": "Wokingham, Berkshire",
    "pay": "£25,650 pro rata plus £1,141 pro rata regional allowance",
    "closes": "Closes 6 Dec 2026",
-   "url": "https://careers.southwesternrailway.com/jobs/rail-operator-2-wokingham-berkshire-united-kingdom"
+   "url": "https://careers.southwesternrailway.com/jobs/rail-operator-2-wokingham-berkshire-united-kingdom",
+   "pmin": 25650,
+   "pmax": 25650
   },
   {
    "cat": "civilian",
@@ -13393,6 +15005,33 @@
    "pay": "See advert",
    "closes": "Open – see advert",
    "url": "https://www.morrisons.jobs/jobs/store-manager-across-merseyside-in-liverpool.3062"
+  },
+  {
+   "cat": "civilian",
+   "region": "east",
+   "title": "Motor Vehicle Technician",
+   "org": "Cambridgeshire Constabulary",
+   "place": "The Lakes Business Park",
+   "pay": "See advert",
+   "closes": "Closes 19 Dec 2026",
+   "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-14/brand-5/spa-1/candidate/so/pm/1/pl/26/opp/4946-Motor-vehicle-technician/en-GB",
+   "areas": [
+    "transport"
+   ]
+  },
+  {
+   "cat": "civilian",
+   "areas": [
+    "finance",
+    "management"
+   ],
+   "region": "sw",
+   "title": "Interim Head of Financial Planning & Analysis",
+   "org": "Gloucestershire Constabulary",
+   "place": "HQ Waterwells",
+   "pay": "See advert",
+   "closes": "Closes 27 Nov 2026",
+   "url": "https://gloucestershireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/15/opp/1273-Interim-Head-of-Financial-Planning-Analysis/en-GB"
   }
  ]
 }
