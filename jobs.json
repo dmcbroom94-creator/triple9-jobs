@@ -8185,6 +8185,106 @@
    "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7907-DCP-Transferee-Driver-Training-Instructor/en-GB"
   },
   {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "ne",
+   "pmin": 32613,
+   "pmax": 37020,
+   "title": "Digital Forensic Analyst",
+   "org": "South Yorkshire Police",
+   "place": "Sheffield",
+   "pay": "Band D, £32,613 – £37,020",
+   "closes": "Closes 8 Dec 2026",
+   "url": "https://fa-exru-saasfaukgovprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11206",
+   "source": "oracle-cx",
+   "sourceJobId": "11206"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "ne",
+   "pmin": 28914,
+   "pmax": 31749,
+   "title": "Digital Forensic Technician",
+   "org": "South Yorkshire Police",
+   "place": "Sheffield",
+   "pay": "Band C, £28,914 – £31,749",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://fa-exru-saasfaukgovprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11213",
+   "source": "oracle-cx",
+   "sourceJobId": "11213"
+  },
+  {
+   "cat": "police",
+   "ptype": "staff",
+   "nations": [
+    "eng"
+   ],
+   "region": "ne",
+   "pmin": 25242,
+   "pmax": 27204,
+   "title": "Business Support Assistant (HR and Learning, 12-month maternity cover)",
+   "org": "South Yorkshire Police",
+   "place": "Robert Dyson House, Rotherham",
+   "pay": "Band B, £25,242 – £27,204 pro rata (33 hours a week)",
+   "closes": "Closes 30 Nov 2026",
+   "url": "https://fa-exru-saasfaukgovprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11259",
+   "source": "oracle-cx",
+   "sourceJobId": "11259"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "ranks": [
+    "pc",
+    "dc",
+    "ps",
+    "insp",
+    "ci"
+   ],
+   "routes": [
+    "transferee",
+    "rejoiner"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 32255,
+   "pmax": 75709,
+   "title": "Constable/Sergeant/Inspector/Chief Inspector Transferee & Rejoiners",
+   "org": "South Yorkshire Police",
+   "place": "Forcewide",
+   "pay": "Rank-dependent: PC £32,255 – £52,015; Sgt £55,443 – £58,175; Insp £66,000 – £71,396; CI £72,806 – £75,709",
+   "closes": "Closes 31 Dec 2026",
+   "url": "https://fa-exru-saasfaukgovprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10754",
+   "source": "oracle-cx",
+   "sourceJobId": "10754"
+  },
+  {
+   "cat": "police",
+   "ptype": "officer",
+   "nations": [
+    "eng"
+   ],
+   "entry": "volunteer",
+   "hours": "flex",
+   "region": "lon",
+   "title": "Volunteer Police Officer (Special Constable) and Policing Volunteers – City of London Police Reserve",
+   "org": "City of London Police",
+   "place": "City of London",
+   "pay": "Volunteer – unpaid (expenses may be paid)",
+   "closes": "Register interest – see force website",
+   "url": "https://www.cityoflondon.police.uk/police-forces/city-of-london-police/areas/c/careers/police-officer-roles/special-constabulary-and-volunteers/eligibility-criteria/"
+  },
+  {
    "cat": "control",
    "nations": [
     "eng"
@@ -8639,6 +8739,24 @@
    "pmax": 44631,
    "closes": "Closes 6 Dec 2026",
    "url": "https://careers.merseyfire.gov.uk/vacancies/280/fire-control-supervisory-managers.html"
+  },
+  {
+   "cat": "control",
+   "nations": [
+    "eng"
+   ],
+   "hours": "shift",
+   "region": "ne",
+   "pmin": 28914,
+   "pmax": 31749,
+   "title": "Call Handler & Dispatch Operator (Dual Role)",
+   "org": "South Yorkshire Police",
+   "place": "Force Control Room, Atlas Court, Sheffield",
+   "pay": "£28,914 – £31,749 plus 20% shift and weekend working allowance",
+   "closes": "Closes 6 Dec 2026",
+   "url": "https://fa-exru-saasfaukgovprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11325",
+   "source": "oracle-cx",
+   "sourceJobId": "11325"
   },
   {
    "cat": "ambulance",
