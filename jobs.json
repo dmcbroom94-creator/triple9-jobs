@@ -7521,7 +7521,8 @@
       "org": "Sussex Police",
       "place": "East & West Sussex",
       "closes": "Register interest – see advert",
-      "url": "https://www.sussex.police.uk/police-forces/sussex-police/areas/careers/jobs/special-constables/"
+      "url": "https://www.sussex.police.uk/police-forces/sussex-police/areas/careers/jobs/special-constables/",
+      "pay": "Volunteer – unpaid (expenses may be paid)"
     },
     {
       "cat": "police",
@@ -8510,7 +8511,8 @@
       "org": "Cheshire Constabulary",
       "place": "Cheshire (posting TBC)",
       "closes": "Closes 31 Dec 2026",
-      "url": "https://cheshirepolice.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-13/brand-3/wid-9/candidate/so/pm/6/pl/24/opp/3409-Special-Constable-Transferee-Opportunities-Starting-in-2026/en-GB"
+      "url": "https://cheshirepolice.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-13/brand-3/wid-9/candidate/so/pm/6/pl/24/opp/3409-Special-Constable-Transferee-Opportunities-Starting-in-2026/en-GB",
+      "pay": "Volunteer – unpaid (expenses may be paid)"
     },
     {
       "cat": "police",
@@ -8531,7 +8533,8 @@
       "org": "Cheshire Constabulary",
       "place": "Cheshire (posting TBC)",
       "closes": "Closes 31 Dec 2026",
-      "url": "https://cheshirepolice.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-13/brand-3/wid-9/candidate/so/pm/6/pl/24/opp/3410-Special-Constable-Re-Joiner-Opportunities-Starting-in-2026/en-GB"
+      "url": "https://cheshirepolice.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-13/brand-3/wid-9/candidate/so/pm/6/pl/24/opp/3410-Special-Constable-Re-Joiner-Opportunities-Starting-in-2026/en-GB",
+      "pay": "Volunteer – unpaid (expenses may be paid)"
     },
     {
       "cat": "police",
@@ -8656,7 +8659,8 @@
       "org": "Lancashire Constabulary",
       "place": "Kirkham Police Station",
       "closes": "Closes 30 Nov 2026",
-      "url": "https://lancashireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-4/candidate/so/pm/6/pl/1/opp/7878-S26-441-Front-Counter-Assistant-Kirkham-Police-Station-LC4-LC5/en-GB"
+      "url": "https://lancashireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-4/candidate/so/pm/6/pl/1/opp/7878-S26-441-Front-Counter-Assistant-Kirkham-Police-Station-LC4-LC5/en-GB",
+      "pay": "See advert"
     },
     {
       "cat": "police",
@@ -8723,7 +8727,8 @@
       "org": "North Wales Police",
       "place": "Forcewide, North Wales",
       "closes": "Closes 31 Dec 2030",
-      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-7/brand-3/candidate/so/pm/6/pl/18/opp/7740-Assistant-Cadet-Leader/en-GB"
+      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-7/brand-3/candidate/so/pm/6/pl/18/opp/7740-Assistant-Cadet-Leader/en-GB",
+      "pay": "Volunteer – unpaid (expenses may be paid)"
     },
     {
       "cat": "police",
@@ -9325,7 +9330,8 @@
       "org": "Durham Constabulary",
       "place": "County Durham & Darlington",
       "closes": "Open – see advert",
-      "url": "https://www.durham.police.uk/police-forces/durham-constabulary/areas/careers/join-us/vacancies/jobs/dnu-app-template4/"
+      "url": "https://www.durham.police.uk/police-forces/durham-constabulary/areas/careers/join-us/vacancies/jobs/dnu-app-template4/",
+      "pay": "Volunteer – unpaid (expenses may be paid)"
     },
     {
       "cat": "police",
@@ -9414,7 +9420,8 @@
       "org": "Northumbria Police",
       "place": "Forcewide (Northumberland & Tyne and Wear)",
       "closes": "Register interest – see advert",
-      "url": "https://northumbriapolice.engageats.co.uk/Vacancies/W/6282/0/474654/23042/register-your-interest-volunteer-police-officer-special-constable"
+      "url": "https://northumbriapolice.engageats.co.uk/Vacancies/W/6282/0/474654/23042/register-your-interest-volunteer-police-officer-special-constable",
+      "pay": "Volunteer – unpaid (expenses may be paid)"
     },
     {
       "cat": "police",
@@ -9753,7 +9760,8 @@
       "org": "Royal Berkshire Fire and Rescue Service",
       "place": "Hungerford, Lambourn, Maidenhead, Mortimer and Crowthorne",
       "closes": "Open – see advert",
-      "url": "https://www.rbfrs.co.uk/rbfrs-careers/vacancies/on-call-firefighter/"
+      "url": "https://www.rbfrs.co.uk/rbfrs-careers/vacancies/on-call-firefighter/",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9764,7 +9772,8 @@
       "org": "Devon & Somerset Fire and Rescue Service",
       "place": "On-call stations across Devon and Somerset",
       "closes": "Open – see advert",
-      "url": "https://www.dsfire.gov.uk/careers/vacancies/call-firefighter-vacancies-0"
+      "url": "https://www.dsfire.gov.uk/careers/vacancies/call-firefighter-vacancies-0",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9775,7 +9784,8 @@
       "org": "County Durham and Darlington Fire and Rescue Service",
       "place": "On-call stations across County Durham and Darlington",
       "closes": "Open – see advert",
-      "url": "https://www.ddfire.gov.uk/recruitment-and-training"
+      "url": "https://www.ddfire.gov.uk/recruitment-and-training",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9786,7 +9796,8 @@
       "org": "Northumberland Fire and Rescue Service",
       "place": "10 on-call stations across Northumberland",
       "closes": "Open – see advert",
-      "url": "https://www.northumberlandfireandrescue.gov.uk/on-call-firefighter-jobs"
+      "url": "https://www.northumberlandfireandrescue.gov.uk/on-call-firefighter-jobs",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9797,7 +9808,8 @@
       "org": "Humberside Fire and Rescue Service",
       "place": "Various on-call stations, Humberside",
       "closes": "Open – see advert",
-      "url": "https://humbersidefire.gov.uk/careers/vacancies/on-call-firefighters"
+      "url": "https://humbersidefire.gov.uk/careers/vacancies/on-call-firefighters",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9808,7 +9820,8 @@
       "org": "Cumbria Fire and Rescue Service",
       "place": "On-call stations across Cumbria",
       "closes": "Open – see advert",
-      "url": "https://www.cumbriafire.gov.uk/On-CallRecruitment"
+      "url": "https://www.cumbriafire.gov.uk/On-CallRecruitment",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9819,7 +9832,8 @@
       "org": "Staffordshire Fire and Rescue Service",
       "place": "23 stations incl. Abbots Bromley, Burton, Cannock, Cheadle, Gnosall, Lichfield, Rugeley, Uttoxeter",
       "closes": "Closes 31 Dec 2026",
-      "url": "https://staffordshirepolice.tal.net/vx/appcentre-FireInternal/brand-4/spa-1/candidate/so/pm/12/pl/18/opp/2977-On-Call-Firefighter-Expression-of-Interest/en-GB"
+      "url": "https://staffordshirepolice.tal.net/vx/appcentre-FireInternal/brand-4/spa-1/candidate/so/pm/12/pl/18/opp/2977-On-Call-Firefighter-Expression-of-Interest/en-GB",
+      "pay": "On-call retaining fee plus hourly rates – see advert"
     },
     {
       "cat": "fire",
@@ -9830,7 +9844,8 @@
       "org": "West Midlands Fire Service",
       "place": "West Midlands",
       "closes": "Open – see advert",
-      "url": "https://www.wmfs.net/careers/firefighter/"
+      "url": "https://www.wmfs.net/careers/firefighter/",
+      "pay": "See advert"
     },
     {
       "cat": "civilian",
