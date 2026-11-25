@@ -12091,10 +12091,12 @@
    "place": "West Midlands",
    "closes": "Open – see advert",
    "url": "https://www.wmfs.net/careers/firefighter/",
-   "pay": "See advert",
+   "pay": "NJC firefighter scale (national rate, no figure in advert): £31,539 development – £40,358 competent",
    "nations": [
     "eng"
-   ]
+   ],
+   "pmin": 31539,
+   "pmax": 40358
   },
   {
    "cat": "fire",
@@ -13552,20 +13554,22 @@
    "title": "22917 - Operational Support Grade - HMP Highpoint (Prison Support Role)",
    "org": "Ministry of Justice",
    "place": "Newmarket",
-   "pay": "See advert",
+   "pay": "HMPPS Band 2 national rate (no figure in advert): £25,409 basic, about £31,761 with the 25% unsocial hours payment",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Newmarket-United-Kingdom-of-Great-Britain-and-Northern-Ireland-22917-Operational-Support-Grade-HMP-Highpoint-Prison-Support-Role/22917",
    "region": "uk",
    "source": "moj",
    "sourceJobId": "22917",
-   "lastCheckedAt": "2026-11-24T06:15:21Z"
+   "lastCheckedAt": "2026-11-24T06:15:21Z",
+   "pmin": 25409,
+   "pmax": 31761
   },
   {
    "cat": "justice",
    "title": "202609: Prison Officer - HMP Send",
    "org": "Ministry of Justice",
    "place": "Woking",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Woking-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202609-Prison-Officer-HMP-Send/21986",
    "region": "uk",
@@ -13574,14 +13578,16 @@
    "lastCheckedAt": "2026-11-24T06:15:35Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Wymott",
    "org": "Ministry of Justice",
    "place": "Leyland",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Leyland-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Wymott/21432",
    "region": "uk",
@@ -13590,7 +13596,9 @@
    "lastCheckedAt": "2026-11-24T06:15:37Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -13615,7 +13623,7 @@
    "title": "202608: Prison Officer - HMP Wakefield",
    "org": "Ministry of Justice",
    "place": "Wakefield",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wakefield-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Wakefield/21427",
    "region": "uk",
@@ -13624,14 +13632,16 @@
    "lastCheckedAt": "2026-11-24T06:15:39Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Stoke Heath",
    "org": "Ministry of Justice",
    "place": "Market Drayton",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Market-Drayton-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Stoke-Heath/21426",
    "region": "uk",
@@ -13640,14 +13650,16 @@
    "lastCheckedAt": "2026-11-24T06:15:40Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Preston",
    "org": "Ministry of Justice",
    "place": "Preston",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Preston-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Preston/21424",
    "region": "uk",
@@ -13656,14 +13668,16 @@
    "lastCheckedAt": "2026-11-24T06:15:40Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Pentonville",
    "org": "Ministry of Justice",
    "place": "London",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Pentonville/21421",
    "region": "uk",
@@ -13672,14 +13686,16 @@
    "lastCheckedAt": "2026-11-24T06:15:41Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Lowdham Grange",
    "org": "Ministry of Justice",
    "place": "Nottingham",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Nottingham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Lowdham-Grange/21417",
    "region": "uk",
@@ -13688,14 +13704,16 @@
    "lastCheckedAt": "2026-11-24T06:15:42Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Littlehey",
    "org": "Ministry of Justice",
    "place": "Cambridge",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Cambridge-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Littlehey/21415",
    "region": "uk",
@@ -13704,14 +13722,16 @@
    "lastCheckedAt": "2026-11-24T06:15:43Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Isle of Wight",
    "org": "Ministry of Justice",
    "place": "Isle of Wight",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Isle-of-Wight-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Isle-of-Wight/21412",
    "region": "uk",
@@ -13720,7 +13740,9 @@
    "lastCheckedAt": "2026-11-24T06:15:44Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -13745,7 +13767,7 @@
    "title": "202608: Prison Officer - HMP Hindley",
    "org": "Ministry of Justice",
    "place": "Wigan",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wigan-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Hindley/21316",
    "region": "uk",
@@ -13754,14 +13776,16 @@
    "lastCheckedAt": "2026-11-24T06:15:47Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP High Down",
    "org": "Ministry of Justice",
    "place": "Croydon",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Croydon-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-High-Down/21315",
    "region": "uk",
@@ -13770,14 +13794,16 @@
    "lastCheckedAt": "2026-11-24T06:15:48Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Exeter",
    "org": "Ministry of Justice",
    "place": "Exeter",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Exeter-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Exeter/21312",
    "region": "uk",
@@ -13786,14 +13812,16 @@
    "lastCheckedAt": "2026-11-24T06:15:49Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Durham",
    "org": "Ministry of Justice",
    "place": "Durham",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Durham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Durham/21310",
    "region": "uk",
@@ -13802,7 +13830,9 @@
    "lastCheckedAt": "2026-11-24T06:15:49Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -13845,7 +13875,7 @@
    "title": "202608: Prison Officer - HMP Chelmsford",
    "org": "Ministry of Justice",
    "place": "Chelmsford",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Chelmsford-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Chelmsford/21276",
    "region": "uk",
@@ -13854,14 +13884,16 @@
    "lastCheckedAt": "2026-11-24T06:15:52Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Bure",
    "org": "Ministry of Justice",
    "place": "Norwich",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Norwich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Bure/21273",
    "region": "uk",
@@ -13870,14 +13902,16 @@
    "lastCheckedAt": "2026-11-24T06:15:53Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Brixton and HMP Wandsworth",
    "org": "Ministry of Justice",
    "place": "London",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Brixton-and-HMP-Wandsworth/21268",
    "region": "uk",
@@ -13886,7 +13920,9 @@
    "lastCheckedAt": "2026-11-24T06:15:54Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -13911,7 +13947,7 @@
    "title": "202608: Prison Officer - HMP Bedford",
    "org": "Ministry of Justice",
    "place": "Bedford",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Bedford-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Bedford/21254",
    "region": "uk",
@@ -13920,14 +13956,16 @@
    "lastCheckedAt": "2026-11-24T06:15:56Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP The Mount - Part Time",
    "org": "Ministry of Justice",
    "place": "Hemel Hempstead",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more (pro rata)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Hemel-Hempstead-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-The-Mount-Part-Time/20662",
    "region": "uk",
@@ -13936,14 +13974,16 @@
    "lastCheckedAt": "2026-11-24T06:15:59Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Hollesley - Part Time",
    "org": "Ministry of Justice",
    "place": "Ipswich",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more (pro rata)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Ipswich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Hollesley-Part-Time/20660",
    "region": "uk",
@@ -13952,14 +13992,16 @@
    "lastCheckedAt": "2026-11-24T06:16:00Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Highpoint - Part Time",
    "org": "Ministry of Justice",
    "place": "Newmarket",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more (pro rata)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Newmarket-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Highpoint-Part-Time/20659",
    "region": "uk",
@@ -13968,7 +14010,9 @@
    "lastCheckedAt": "2026-11-24T06:16:01Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -13993,7 +14037,7 @@
    "title": "202608: Prison Officer - HMP Lancaster Farms",
    "org": "Ministry of Justice",
    "place": "Lancaster",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Lancaster-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Lancaster-Farms/20657",
    "region": "uk",
@@ -14002,14 +14046,16 @@
    "lastCheckedAt": "2026-11-24T06:16:02Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Lindholme, HMP Moorland and HMP Hatfield",
    "org": "Ministry of Justice",
    "place": "Doncaster",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Doncaster-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Lindholme-HMP-Moorland-and-HMP-Hatfield/20638",
    "region": "uk",
@@ -14018,7 +14064,9 @@
    "lastCheckedAt": "2026-11-24T06:16:04Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -14043,7 +14091,7 @@
    "title": "202608: Prison Officer - HMP Winchester",
    "org": "Ministry of Justice",
    "place": "Winchester",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Winchester-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Winchester/20628",
    "region": "uk",
@@ -14052,7 +14100,9 @@
    "lastCheckedAt": "2026-11-24T06:16:05Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -14077,7 +14127,7 @@
    "title": "202608: Prison Officer - HMP Wealstun",
    "org": "Ministry of Justice",
    "place": "Wetherby",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wetherby-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Wealstun/20622",
    "region": "uk",
@@ -14086,14 +14136,16 @@
    "lastCheckedAt": "2026-11-24T06:16:07Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Wayland",
    "org": "Ministry of Justice",
    "place": "Wayland",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wayland-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Wayland/20620",
    "region": "uk",
@@ -14102,14 +14154,16 @@
    "lastCheckedAt": "2026-11-24T06:16:08Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP The Mount",
    "org": "Ministry of Justice",
    "place": "Hemel Hempstead",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Hemel-Hempstead-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-The-Mount/20618",
    "region": "uk",
@@ -14118,14 +14172,16 @@
    "lastCheckedAt": "2026-11-24T06:16:09Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Swinfen Hall",
    "org": "Ministry of Justice",
    "place": "Lichfield",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Lichfield-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Swinfen-Hall/20617",
    "region": "uk",
@@ -14134,14 +14190,16 @@
    "lastCheckedAt": "2026-11-24T06:16:10Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Styal",
    "org": "Ministry of Justice",
    "place": "Manchester",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Manchester-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Styal/20607",
    "region": "uk",
@@ -14150,14 +14208,16 @@
    "lastCheckedAt": "2026-11-24T06:16:11Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Stocken",
    "org": "Ministry of Justice",
    "place": "Melton Mowbray",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Melton-Mowbray-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Stocken/20604",
    "region": "uk",
@@ -14166,14 +14226,16 @@
    "lastCheckedAt": "2026-11-24T06:16:12Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Ranby",
    "org": "Ministry of Justice",
    "place": "Retford",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Retford-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Ranby/20599",
    "region": "uk",
@@ -14182,14 +14244,16 @@
    "lastCheckedAt": "2026-11-24T06:16:13Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Portland and HMP The Verne",
    "org": "Ministry of Justice",
    "place": "Weymouth",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Weymouth-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Portland-and-HMP-The-Verne/20598",
    "region": "uk",
@@ -14198,7 +14262,9 @@
    "lastCheckedAt": "2026-11-24T06:16:14Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -14259,7 +14325,7 @@
    "title": "202608: Prison Officer - HMP Hewell",
    "org": "Ministry of Justice",
    "place": "Redditch",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Redditch-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Hewell/20567",
    "region": "uk",
@@ -14268,7 +14334,9 @@
    "lastCheckedAt": "2026-11-24T06:16:20Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -14293,7 +14361,7 @@
    "title": "202608: Prison Officer - HMP Foston Hall",
    "org": "Ministry of Justice",
    "place": "Derby",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Derby-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Foston-Hall/20557",
    "region": "uk",
@@ -14302,14 +14370,16 @@
    "lastCheckedAt": "2026-11-24T06:16:23Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Eastwood Park",
    "org": "Ministry of Justice",
    "place": "Bristol",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 26 Nov 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Bristol-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Eastwood-Park/20555",
    "region": "uk",
@@ -14318,14 +14388,16 @@
    "lastCheckedAt": "2026-11-24T06:16:23Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Downview",
    "org": "Ministry of Justice",
    "place": "Croydon",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Croydon-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Downview/20553",
    "region": "uk",
@@ -14334,7 +14406,9 @@
    "lastCheckedAt": "2026-11-24T06:16:24Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -14359,7 +14433,7 @@
    "title": "202608: Prison Officer - HMP Erlestoke",
    "org": "Ministry of Justice",
    "place": "Bath",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Bath-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Erlestoke/20532",
    "region": "uk",
@@ -14368,7 +14442,9 @@
    "lastCheckedAt": "2026-11-24T06:16:28Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
@@ -14411,7 +14487,7 @@
    "title": "202608: Prison Officer - HMP Bullingdon",
    "org": "Ministry of Justice",
    "place": "Bicester",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more",
    "closes": "Closes 24 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Bicester-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Bullingdon/20523",
    "region": "uk",
@@ -14420,14 +14496,16 @@
    "lastCheckedAt": "2026-11-24T06:16:31Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
    "title": "202608: Prison Officer - HMP Wayland - Part Time",
    "org": "Ministry of Justice",
    "place": "Thetford, Norfolk",
-   "pay": "See advert",
+   "pay": "HMPPS Band 3 national scale (no figure in advert): £29,107 – £30,648 basic, about £34,928 – £36,778 with the 20% unsocial hours payment; London prisons pay more (pro rata)",
    "closes": "Closes 10 Dec 2026",
    "url": "https://jobs.justice.gov.uk/careers/JobDetail/Thetford-Norfolk-Norfolk-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Wayland-Part-Time/20272",
    "region": "uk",
@@ -14436,7 +14514,9 @@
    "lastCheckedAt": "2026-11-24T06:16:33Z",
    "jroles": [
     "prison"
-   ]
+   ],
+   "pmin": 29107,
+   "pmax": 36778
   },
   {
    "cat": "justice",
