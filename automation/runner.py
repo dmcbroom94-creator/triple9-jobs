@@ -13,7 +13,7 @@ from pathlib import Path
 import re
 import sys
 import tempfile
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from urllib.parse import parse_qsl, urlsplit
 from zoneinfo import ZoneInfo
 from taxonomy import annotate_job
@@ -48,6 +48,12 @@ MAX_JOBS = 50000
 MAX_SOURCES = 1000
 SOURCE_ID_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_.: /-]{0,127}$")
 TIMESTAMP_RE = re.compile(r"^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d(?:\.\d{1,6})?(?:Z|[+-]\d\d:\d\d)$")
+CLOSES_RE = re.compile(r"^Closes (\d{1,2})[ -]([A-Za-z]+),?[ -](\d{4})$")
+CLOSES_MONTHS = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+                 "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
+# Expiry in one run is date-driven, not source-driven, but wiping over half the
+# feed in a single run still means something is wrong with the dates; fail loudly.
+EXPIRY_GUARD_FRACTION = 0.5
 SENSITIVE_QUERY = frozenset(("password", "passwd", "token", "access_token", "refresh_token", "api_key", "apikey", "authorization", "auth", "signature", "sig", "session", "sessionid", "secret", "key"))
 
 
@@ -67,6 +73,28 @@ def parse_timestamp(value, now):
     if utc > now.astimezone(timezone.utc):
         raise ValueError("future timestamp")
     return utc
+
+
+def parse_closes(value):
+    """Return a job's closing date, or None when it has no dated closing.
+
+    Only the feed's own dated forms are understood ("Closes 30 Nov 2026",
+    "Closes 10-Dec-2026", "Closes 30 November, 2026"). Open-ended wording
+    such as "Open \u2013 see force website" and anything unrecognised return None,
+    so those jobs are always kept: an unknown date must never delete a listing.
+    """
+    if not isinstance(value, str):
+        return None
+    match = CLOSES_RE.match(value.strip())
+    if not match:
+        return None
+    month = CLOSES_MONTHS.get(match.group(2)[:3].lower())
+    if month is None:
+        return None
+    try:
+        return date(int(match.group(3)), month, int(match.group(1)))
+    except ValueError:
+        return None
 
 
 def safe_url(value):
@@ -410,9 +438,12 @@ def merge_feed(base, results, now=None):
     count = len(base_jobs)
     if count and (removed * 10 > count or (count - removed) * 10 < count * 9):
         raise ValidationError("deletion circuit breaker: over 10% of base records")
+    # Closing dates are UK dates; compare against the London date, not UTC.
+    today = now.astimezone(ZoneInfo("Europe/London")).date()
     out = copy.deepcopy(base)
     output_jobs = []
     changed = 0
+    expired = 0
     for old in base_jobs:
         key = _base_key(old)
         if key in closed:
@@ -433,12 +464,25 @@ def merge_feed(base, results, now=None):
                             item[field] = current[field]
                 if item != old:
                     changed += 1
+        closing = parse_closes(item.get("closes"))
+        if closing is not None and closing < today:
+            expired += 1
+            continue
         output_jobs.append(item)
     added = 0
     for key, (_, current) in selected.items():
         if key not in by_key and key not in closed:
+            closing = parse_closes(current.get("closes"))
+            if closing is not None and closing < today:
+                expired += 1
+                continue
             output_jobs.append(copy.deepcopy(current))
             added += 1
+    if count and expired > count * EXPIRY_GUARD_FRACTION:
+        raise ValidationError("expiry would remove over half the feed")
+    # Open-ended listings are kept, but counted so they can be reviewed
+    # periodically instead of sitting in the feed unnoticed.
+    open_ended = sum(1 for job in output_jobs if parse_closes(job.get("closes")) is None)
     out["jobs"] = output_jobs
     verified_complete = sum(record["verifiedJobs"] for record in groups if record["status"] == "success")
     stamp = now.isoformat(timespec="seconds").replace("+00:00", "Z")
@@ -451,6 +495,7 @@ def merge_feed(base, results, now=None):
     out["sourceHealth"] = {"attemptedAt": stamp, "sources": groups}
     validate_feed(out, now)
     return out, {"base": count, "added": added, "changed": changed, "removed": removed,
+                 "expired": expired, "openEnded": open_ended,
                  "verified": verified, "verifiedComplete": verified_complete,
                  "successfulSources": sum(record["status"] == "success" for record in groups),
                  "output": len(output_jobs)}

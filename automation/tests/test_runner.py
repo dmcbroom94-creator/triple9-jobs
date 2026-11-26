@@ -502,5 +502,46 @@ class AtomicTests(unittest.TestCase):
                 self.assertEqual(list(Path(d).glob(".triple9-stage-*")), [])
 
 
+class ExpiryTests(unittest.TestCase):
+    def test_expired_base_job_is_dropped_and_open_ended_kept(self):
+        old = job(closes="Closes 18 Nov 2026")
+        today = job("C123-26-0002", title="Nurse", closes="Closes 19 Nov 2026")
+        surrey = job("C123-26-0003", title="POLICE CONSTABLE & SERGEANT TRANSFEREES",
+                     org="Surrey Police", closes="Open \u2013 see force website")
+        out, stats = runner.merge_feed(feed(old, today, surrey), result(jobs=[]), NOW)
+        titles = [item["title"] for item in out["jobs"]]
+        self.assertNotIn("Paramedic", titles)
+        self.assertIn("Nurse", titles)
+        self.assertIn("POLICE CONSTABLE & SERGEANT TRANSFEREES", titles)
+        self.assertEqual(stats["expired"], 1)
+        self.assertEqual(stats["openEnded"], 1)
+
+    def test_job_closing_in_next_seven_days_stays(self):
+        soon = job(closes="Closes 26 Nov 2026")
+        out, stats = runner.merge_feed(feed(soon), result(jobs=[]), NOW)
+        self.assertEqual(len(out["jobs"]), 1)
+        self.assertEqual(stats["expired"], 0)
+
+    def test_reverified_job_with_refreshed_closing_date_survives(self):
+        old = job(closes="Closes 18 Nov 2026")
+        current = job(closes="Closes 30 Nov 2026", lastCheckedAt="2026-11-19T22:15:00Z")
+        out, stats = runner.merge_feed(feed(old), result(jobs=[current]), NOW)
+        self.assertEqual(len(out["jobs"]), 1)
+        self.assertEqual(out["jobs"][0]["closes"], "Closes 30 Nov 2026")
+        self.assertEqual(stats["expired"], 0)
+
+    def test_expired_new_candidate_is_not_added(self):
+        candidate = job(closes="Closes 18 Nov 2026")
+        out, stats = runner.merge_feed(feed(), result(jobs=[candidate]), NOW)
+        self.assertEqual(out["jobs"], [])
+        self.assertEqual(stats["expired"], 1)
+
+    def test_expiry_guard_rejects_wiping_most_of_the_feed(self):
+        old = feed(job(closes="Closes 18 Nov 2026"),
+                   job("C123-26-0002", closes="Closes 17 Nov 2026"))
+        with self.assertRaises(runner.ValidationError):
+            runner.merge_feed(old, result(jobs=[]), NOW)
+
+
 if __name__ == "__main__":
     unittest.main()
