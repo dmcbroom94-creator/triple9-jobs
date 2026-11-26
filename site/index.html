@@ -1078,6 +1078,14 @@ details>summary{list-style-position:inside!important}
 </sc-for>
 </div>
 </div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 8px">
+<span style="font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: #4A5368">Closing date</span>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px">
+<sc-for list="{{closingChips}}" as="ch" hint-placeholder-count="3">
+<button type="button" onClick="{{ch.pick}}" style="{{ch.style}}">{{ch.label}}</button>
+</sc-for>
+</div>
+</div>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
 <span style="font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: #4A5368">Police force</span>
 <button type="button" onClick="{{toggleForceBox}}" aria-expanded="{{forceExpanded}}" style="min-width: 260px; max-width: 100%; min-height: 44px; padding: 0 16px; display: inline-flex; align-items: center; justify-content: space-between; gap: 12px; border-radius: 10px; border: 2px solid #0B1B3F; background: #FFFFFF; color: #0B1B3F; font-size: 15px; font-weight: 700; font-family: Inter, sans-serif; cursor: pointer"><span>{{forceLabel}}</span><span aria-hidden="true">{{forceArrow}}</span></button>
@@ -1315,8 +1323,22 @@ details>summary{list-style-position:inside!important}
 </template>
 <script type="text/x-dc" data-dc-script>
 const withinReview = (j) => typeof window !== 'undefined' && typeof window.T9_isJobWithinReview === 'function' ? window.T9_isJobWithinReview(j) : !Object.prototype.hasOwnProperty.call(j, 'manualReviewUntil');
+const CLOSES_MONTHS = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+/* Parse the feed's dated closing forms ("Closes 30 Nov 2026", "Closes 10-Dec-2026", "Closes 30 November, 2026") to a Date at local midnight, or null for open-ended wording. */
+function closesDate(job) {
+  if (!job || typeof job.closes !== 'string') return null;
+  const m = /^\s*Closes (\d{1,2})[ -]([A-Za-z]+),?[ -](\d{4})\s*$/.exec(job.closes);
+  if (!m) return null;
+  const month = CLOSES_MONTHS[m[2].slice(0, 3).toLowerCase()];
+  if (month === undefined) return null;
+  const d = new Date(Number(m[3]), month, Number(m[1]));
+  if (d.getFullYear() !== Number(m[3]) || d.getMonth() !== month || d.getDate() !== Number(m[1])) return null;
+  return d;
+}
+const TODAY0 = (() => { const d = new Date(); d.setHours(0, 0, 0, 0); return d; })();
+const IN7D = (() => { const d = new Date(TODAY0); d.setDate(d.getDate() + 7); return d; })();
 class Component extends DCLogic {
-  constructor(p) { super(p); this.state = { tab: 'all', rank: 'any', route: 'any', skill: 'any', area: 'any', ptype: 'any', nation: 'any', forcet: 'any', jrole: 'any', region: 'any', paymin: 'any', hours: 'any', q: '', where: '', remote: null, feedState: 'failed', menuOpen: false, forces: [], forceOpen: false };
+  constructor(p) { super(p); this.state = { tab: 'all', closing: 'soonest', rank: 'any', route: 'any', skill: 'any', area: 'any', ptype: 'any', nation: 'any', forcet: 'any', jrole: 'any', region: 'any', paymin: 'any', hours: 'any', q: '', where: '', remote: null, feedState: 'failed', menuOpen: false, forces: [], forceOpen: false };
     this.draftQ = ''; this.draftWhere = '';
     if (typeof window !== 'undefined' && typeof window.T9_scheduleReviewRefresh === 'function') window.T9_scheduleReviewRefresh(() => this.setState({}));
     this.sharedId = null;
@@ -1554,14 +1576,14 @@ class Component extends DCLogic {
       { cat: 'civilian', areas: ['aviation', 'security'], hours: 'shift', region: 'sco', pmin: 26432, pmax: 29114, title: 'Aviation Security Officer (12-month contract)', org: 'Edinburgh Airport', place: 'Edinburgh', pay: '£26,431.87 rising to £29,114.37 after 6 months + shift allowance', closes: 'Closes 23 Nov 2026', url: 'https://careers.edinburghairport.com/careers/855-security-officer/' },
       { cat: 'civilian', areas: ['aviation', 'customer'], hours: 'shift', region: 'lon', title: 'Cabin Crew (talent pool)', org: 'British Airways', place: 'Heathrow, Gatwick & London City', pay: 'See advert', closes: 'Closes 31 Dec 2026', url: 'https://careers.ba.com/job/heathrow/cabin-crew-talent-pool/22348/94593554544' },
     ];
-    const all = ((this.state.remote && this.state.remote.jobs) || listed).filter(withinReview).map((j) => { const id = this.jid(j.url); return {
+    const all = ((this.state.remote && this.state.remote.jobs) || listed).filter(withinReview).filter((j) => { const d = closesDate(j); return d === null || d >= TODAY0; }).map((j) => { const id = this.jid(j.url); const closing = closesDate(j); const closingSoon = closing !== null && closing >= TODAY0 && closing <= IN7D; return {
       payLabel: /^£/.test(j.pay) ? j.pay : 'Pay: ' + j.pay,
       ...j,
       crest: this.crestOf(j.org), hasCrest: !!this.crestOf(j.org), hasHours: !!j.hours, hoursLabel: ({ mf: 'Mon–Fri', shift: 'Shifts', oncall: 'On-call', flex: 'Flexible' })[j.hours] || '',
       id, share: () => this.shareJob(j, id), shareLabel: this.state.copied === id ? 'Link copied' : 'Share', shared: id === this.sharedId,
       badge: badge[j.ptype === 'staff' ? 'staff' : j.cat].t,
       badgeStyle: badge[j.ptype === 'staff' ? 'staff' : j.cat].s,
-      tags: [].concat(j.entry ? [ENTRY[j.entry]] : [], (j.routes || []).map((r) => ROUTES[r]), (j.ranks || []).map((r) => RANKS[r]), j.custodyHealthcare === true ? ['Custody healthcare'] : [], (j.skills || []).map((k) => SKILLS[k]), (j.areas || []).map((k) => AREAS[k]), j.ptype === 'staff' ? ['Police staff'] : [], (j.nations || []).map((k) => NATIONS[k]), (j.jroles || []).map((k) => JROLES[k]), j.force === 'special' ? ['Specialist force'] : [])
+      tags: [].concat(j.entry ? [ENTRY[j.entry]] : [], (j.routes || []).map((r) => ROUTES[r]), (j.ranks || []).map((r) => RANKS[r]), j.custodyHealthcare === true ? ['Custody healthcare'] : [], (j.skills || []).map((k) => SKILLS[k]), (j.areas || []).map((k) => AREAS[k]), j.ptype === 'staff' ? ['Police staff'] : [], (j.nations || []).map((k) => NATIONS[k]), (j.jroles || []).map((k) => JROLES[k]), j.force === 'special' ? ['Specialist force'] : [], closingSoon ? ['Closing soon'] : [])
     }; });
     const inCategory = (j, category) => j.cat === category || (category === 'ambulance' && j.cat === 'civilian' && (j.areas || []).includes('medical'));
     let jobs = tab === 'all' ? all : tab === 'new' ? all.filter((j) => j.entry === 'new' || j.entry === 'oncall') : tab === 'volunteer' ? all.filter((j) => j.entry === 'volunteer') : all.filter((j) => inCategory(j, tab));
@@ -1582,6 +1604,8 @@ class Component extends DCLogic {
     if (this.state.where) { const ws = words(this.state.where); jobs = jobs.filter((j) => { const h = norm([j.place, j.org, (j.region || '').split('|').map((r) => REGIONS[r] || '').join(' ')].join(' ')); return ws.some((w) => h.indexOf(w) >= 0); }); }
     if (this.state.hours !== 'any') jobs = jobs.filter((j) => j.hours === this.state.hours);
     if (this.state.paymin !== 'any') jobs = jobs.filter((j) => (j.pmax || 0) >= Number(this.state.paymin) * 1000);
+    if (this.state.closing === 'soon') jobs = jobs.filter((j) => { const d = closesDate(j); return d !== null && d >= TODAY0 && d <= IN7D; });
+    else if (this.state.closing === 'soonest') jobs = jobs.slice().sort((a, b) => { const da = closesDate(a), db = closesDate(b); if (da === null && db === null) return 0; if (da === null) return 1; if (db === null) return -1; return da - db; });
     const fsel = this.state.forces || [];
     if (fsel.length) jobs = jobs.filter((j) => fsel.includes(j.org));
     if (tab === 'civilian' && this.state.area !== 'any') jobs = jobs.filter((j) => (j.areas || []).includes(this.state.area));
@@ -1608,10 +1632,11 @@ class Component extends DCLogic {
     const forceLabel = fsel.length === 0 ? 'All forces' : fsel.length === 1 ? fsel[0] : fsel.length + ' forces selected';
     const payChips = mk(PAYS, this.state.paymin, 'paymin', 'Any pay');
     const hoursChips = mk(HOURS, this.state.hours, 'hours', 'Any');
+    const closingChips = mk({ soonest: 'Closing soonest first', soon: 'Closing in 7 days' }, this.state.closing, 'closing', 'Feed order');
     const routeChips = mk({ transferee: 'Transferee', rejoiner: 'Rejoiner' }, route, 'route', 'Both');
     const skillChips = mk(SKILLS, skill, 'skill', 'All roles');
     const areaChips = mk(AREAS, this.state.area, 'area', 'All skills');
-    const fkey = [tab, rank, route, skill, this.state.area, this.state.ptype, this.state.forcet, this.state.jrole, this.state.region, this.state.paymin, fsel.join(','), this.state.q, this.state.where].join('|');
+    const fkey = [tab, rank, route, skill, this.state.area, this.state.ptype, this.state.forcet, this.state.jrole, this.state.region, this.state.paymin, fsel.join(','), this.state.q, this.state.where, this.state.closing].join('|');
     if (this._fkey !== fkey) { this._fkey = fkey; this._limit = 8; }
     const n = jobs.length;
     const lim = this._limit || 8;
@@ -1620,7 +1645,7 @@ class Component extends DCLogic {
     if (pinned) shownJobs = [pinned].concat(shownJobs.filter((j) => j.id !== pinned.id));
     const rest = Math.max(0, n - lim);
     const activeFilt = (this.state.region !== 'any' ? 1 : 0) + (this.state.paymin !== 'any' ? 1 : 0) + (this.state.hours !== 'any' ? 1 : 0) + (fsel.length ? 1 : 0);
-    const countText = (n === 1 ? 'Showing 1 job' : 'Showing ' + n + ' jobs') + (this.state.paymin !== 'any' ? ' · jobs that don\'t state pay are hidden' : '') + (this.state.region !== 'any' ? ' · includes jobs in several locations' : '');
+    const countText = (n === 1 ? 'Showing 1 job' : 'Showing ' + n + ' jobs') + (this.state.paymin !== 'any' ? ' · jobs that don\'t state pay are hidden' : '') + (this.state.region !== 'any' ? ' · includes jobs in several locations' : '') + (this.state.closing === 'soon' ? ' · closing in the next 7 days' : '');
     const sectors = [
       { name: 'Investigations & fraud', desc: 'Insurers, banks, councils and regulators hire investigators constantly.', suits: 'Police, detectives' },
       { name: 'Security & risk', desc: 'Corporate security, threat assessment and event safety.', suits: 'Police, control room' },
@@ -1640,7 +1665,7 @@ class Component extends DCLogic {
     ];
     return { partners, goPolice: go('police'), goAmb: go('ambulance'), goFire: go('fire'), goControl: go('control'), goCivilian: go('civilian'), goJustice: go('justice'), nJustice: cnt('justice'),
       nPolice: cnt('police'), nAmb: cnt('ambulance'), nFire: cnt('fire'), nControl: cnt('control'), nCivilian: cnt('civilian'),
-      tabs, jobs, sectors, isPolice: tab === 'police', isAmb: tab === 'ambulance', isCiv: tab === 'civilian', areaChips, ptypeChips, forceChips, jroleChips, regionChips, payChips, hoursChips, isJus: tab === 'justice', isSpecial: tab === 'police' && this.state.forcet === 'special', isOfficerView: this.state.ptype !== 'staff',
+      tabs, jobs, sectors, isPolice: tab === 'police', isAmb: tab === 'ambulance', isCiv: tab === 'civilian', areaChips, ptypeChips, forceChips, jroleChips, regionChips, payChips, hoursChips, closingChips, isJus: tab === 'justice', isSpecial: tab === 'police' && this.state.forcet === 'special', isOfficerView: this.state.ptype !== 'staff',
       menuOpen: this.state.menuOpen, menuLabel: this.state.menuOpen ? 'Close menu' : 'Open menu',
       toggleMenu: () => this.setState({ menuOpen: !this.state.menuOpen }), closeMenu: () => this.setState({ menuOpen: false }),
       menuLinks: [
@@ -1666,7 +1691,7 @@ class Component extends DCLogic {
       toggleForceBox: () => this.setState({ forceOpen: !this.state.forceOpen }), clearForces: () => this.setState({ forces: [] }),
       hasSearch: !!(this.state.q || this.state.where),
       searchLabel: [this.state.q ? '“' + this.state.q + '”' : 'all jobs', this.state.where ? 'in ' + this.state.where : ''].join(' ').trim(),
-      resetFilters: () => this.setState({ q: '', where: '', tab: 'all', rank: 'any', route: 'any', skill: 'any', area: 'any', ptype: 'any', nation: 'any', forcet: 'any', jrole: 'any', region: 'any', paymin: 'any' }) };
+      resetFilters: () => this.setState({ q: '', where: '', tab: 'all', closing: 'soonest', rank: 'any', route: 'any', skill: 'any', area: 'any', ptype: 'any', nation: 'any', forcet: 'any', jrole: 'any', region: 'any', paymin: 'any' }) };
   }
 }
 </script>
