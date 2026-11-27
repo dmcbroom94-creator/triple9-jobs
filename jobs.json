@@ -1,5 +1,5 @@
 {
-  "updated": "26 Nov 2026",
+  "updated": "27 Nov 2026",
   "jobs": [
     {
       "cat": "police",
@@ -21,7 +21,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Edinburgh-and-Glasgow/1897",
       "source": "btp",
       "sourceJobId": "1897",
-      "lastCheckedAt": "2026-11-26T17:22:37.815207Z"
+      "lastCheckedAt": "2026-11-27T06:10:51.288096Z"
     },
     {
       "cat": "police",
@@ -43,7 +43,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Police-Officer-Inner-London-No-Degree-Required/1871",
       "source": "btp",
       "sourceJobId": "1871",
-      "lastCheckedAt": "2026-11-26T17:23:07.613867Z"
+      "lastCheckedAt": "2026-11-27T06:11:21.080856Z"
     },
     {
       "cat": "police",
@@ -152,53 +152,6 @@
       "url": "https://greatermanchesterpolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/983-Chief-Inspector-or-Inspector-on-promotion-to-Chief-Inspector/en-GB",
       "ranks": [
         "ci"
-      ],
-      "routes": [
-        "transferee"
-      ]
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "hours": "shift",
-      "region": "nw",
-      "title": "CTPNW Digital Forensic Investigator – Police Constable / Detective Constable",
-      "org": "Greater Manchester Police",
-      "place": "North West",
-      "pay": "£32,255 – £52,015 (Home Office police constable scale from 1 Sept 2026)",
-      "pmin": 32255,
-      "pmax": 52015,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://greatermanchesterpolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/955-CTPNW-Digital-Forensic-Investigator-Police-Constable-Detective-Constable-Investigations-955/en-GB",
-      "ranks": [
-        "pc",
-        "dc"
-      ],
-      "routes": [
-        "transferee"
-      ]
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "hours": "shift",
-      "region": "nw",
-      "title": "CTPNW Protective Security Manager – Inspector",
-      "org": "Greater Manchester Police",
-      "place": "North West",
-      "pay": "£66,000 – £71,396 (Home Office inspector scale from 1 Sept 2026)",
-      "pmin": 66000,
-      "pmax": 71396,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://greatermanchesterpolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/978-CTPNW-Protective-Security-Manager-Inspector-Investigations-Unit-978/en-GB",
-      "ranks": [
-        "insp"
       ],
       "routes": [
         "transferee"
@@ -612,34 +565,6 @@
         "dc"
       ],
       "entry": "new"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "wal"
-      ],
-      "region": "wal",
-      "title": "Cyber Volunteering Project Officer",
-      "org": "South Wales Police",
-      "place": "South Wales",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-5/brand-3/wid-2/candidate/so/pm/6/pl/15/opp/10100-Cyber-Volunteering-Project-Officer/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "wal"
-      ],
-      "region": "wal",
-      "title": "Digital Forensic Trainer",
-      "org": "South Wales Police",
-      "place": "South Wales",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-5/brand-3/wid-2/candidate/so/pm/6/pl/15/opp/10096-Digital-Forensic-Trainer/en-GB"
     },
     {
       "cat": "police",
@@ -1109,20 +1034,6 @@
       "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-3/candidate/so/pm/6/pl/16/opp/10069-APPOINTMENT-OF-MEMBERS-TO-THE-INDEPENDENT-ETHICS-COMMITTEE/en-GB"
     },
     {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "wal"
-      ],
-      "region": "wal",
-      "title": "Personal Assistant to the OPCC Executive Team",
-      "org": "Gwent Police",
-      "place": "Gwent",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-11/brand-3/candidate/so/pm/6/pl/16/opp/10075-Personal-Assistant-to-the-OPCC-Executive-Team/en-GB"
-    },
-    {
       "cat": "ambulance",
       "skills": [
         "eca"
@@ -1138,7 +1049,7 @@
       "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9202-26-0295",
       "source": "nhs_jobs_C9202",
       "sourceJobId": "5726045",
-      "lastCheckedAt": "2026-11-26T17:19:38.834860Z"
+      "lastCheckedAt": "2026-11-27T06:08:24.886988Z"
     },
     {
       "cat": "ambulance",
@@ -2242,7 +2153,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bournemouth/1706",
       "source": "btp",
       "sourceJobId": "1706",
-      "lastCheckedAt": "2026-11-26T17:23:57.476753Z"
+      "lastCheckedAt": "2026-11-27T06:12:10.966775Z"
     },
     {
       "cat": "police",
@@ -2267,7 +2178,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Control-Room/1908",
       "source": "btp",
       "sourceJobId": "1908",
-      "lastCheckedAt": "2026-11-26T17:22:27.557146Z"
+      "lastCheckedAt": "2026-11-27T06:10:41.275715Z"
     },
     {
       "cat": "police",
@@ -2292,7 +2203,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-York/1914",
       "source": "btp",
       "sourceJobId": "1914",
-      "lastCheckedAt": "2026-11-26T17:21:57.448338Z"
+      "lastCheckedAt": "2026-11-27T06:10:11.147332Z"
     },
     {
       "cat": "police",
@@ -2317,7 +2228,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Manchester-Piccadilly/1913",
       "source": "btp",
       "sourceJobId": "1913",
-      "lastCheckedAt": "2026-11-26T17:22:07.438152Z"
+      "lastCheckedAt": "2026-11-27T06:10:21.056699Z"
     },
     {
       "cat": "police",
@@ -2342,7 +2253,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/Transferee-and-ReJoiner-Police-Constables-Bristol-Operational-Support-Unit-OSU/1911",
       "source": "btp",
       "sourceJobId": "1911",
-      "lastCheckedAt": "2026-11-26T17:22:17.805948Z"
+      "lastCheckedAt": "2026-11-27T06:10:31.169055Z"
     },
     {
       "cat": "police",
@@ -2383,7 +2294,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1873",
-      "lastCheckedAt": "2026-11-26T17:22:48.109827Z"
+      "lastCheckedAt": "2026-11-27T06:11:00.994142Z"
     },
     {
       "cat": "police",
@@ -2408,7 +2319,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1872",
-      "lastCheckedAt": "2026-11-26T17:22:57.350780Z"
+      "lastCheckedAt": "2026-11-27T06:11:11.035450Z"
     },
     {
       "cat": "police",
@@ -2433,7 +2344,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1732",
-      "lastCheckedAt": "2026-11-26T17:23:37.543272Z"
+      "lastCheckedAt": "2026-11-27T06:11:51.021269Z"
     },
     {
       "cat": "police",
@@ -2458,7 +2369,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1934",
-      "lastCheckedAt": "2026-11-26T17:21:27.824521Z"
+      "lastCheckedAt": "2026-11-27T06:09:41.239935Z"
     },
     {
       "cat": "police",
@@ -2483,7 +2394,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1933",
-      "lastCheckedAt": "2026-11-26T17:21:37.566796Z"
+      "lastCheckedAt": "2026-11-27T06:09:51.189729Z"
     },
     {
       "cat": "police",
@@ -2520,24 +2431,6 @@
       "pay": "£29,483.96 a year plus £4,775 London Allowance and up to 20% shift allowance",
       "closes": "Closes 31 Jan 2027",
       "url": "https://vacancies.btp.police.uk/jobs/job/Police-Community-Support-Officer-Inner-London/1867"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "sw",
-      "pmin": 29483,
-      "pmax": 29484,
-      "title": "Police Community Support Officer - Plymouth",
-      "org": "British Transport Police",
-      "place": "Plymouth",
-      "pay": "£29,483.96 a year plus up to 20% shift allowance",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://vacancies.btp.police.uk/jobs/job/Police-Community-Support-Officer-Plymouth/1858"
     },
     {
       "cat": "police",
@@ -2627,7 +2520,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "793",
-      "lastCheckedAt": "2026-11-26T17:24:27.530393Z"
+      "lastCheckedAt": "2026-11-27T06:12:41.024613Z"
     },
     {
       "cat": "police",
@@ -2652,7 +2545,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1760",
-      "lastCheckedAt": "2026-11-26T17:23:27.484724Z"
+      "lastCheckedAt": "2026-11-27T06:11:41.031797Z"
     },
     {
       "cat": "police",
@@ -2678,7 +2571,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "991",
-      "lastCheckedAt": "2026-11-26T17:24:17.742948Z"
+      "lastCheckedAt": "2026-11-27T06:12:31.130790Z"
     },
     {
       "cat": "police",
@@ -2720,7 +2613,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1762",
-      "lastCheckedAt": "2026-11-26T17:23:17.852313Z"
+      "lastCheckedAt": "2026-11-27T06:11:31.127066Z"
     },
     {
       "cat": "police",
@@ -2745,7 +2638,7 @@
       "hours": "shift",
       "source": "btp",
       "sourceJobId": "1216",
-      "lastCheckedAt": "2026-11-26T17:24:08.108970Z"
+      "lastCheckedAt": "2026-11-27T06:12:21.360458Z"
     },
     {
       "cat": "police",
@@ -2826,7 +2719,7 @@
       "url": "https://vacancies.btp.police.uk/jobs/job/First-Contact-Centre-Contact-Handler/1917",
       "source": "btp",
       "sourceJobId": "1917",
-      "lastCheckedAt": "2026-11-26T17:21:47.409119Z"
+      "lastCheckedAt": "2026-11-27T06:10:01.273732Z"
     },
     {
       "cat": "police",
@@ -5380,20 +5273,6 @@
       ]
     },
     {
-      "title": "Holmes Officer Manager",
-      "org": "Dorset Police",
-      "place": "Dorset",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://dcpanddp-jobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-4/spa-1/candidate/so/pm/6/pl/1/opp/7758-Holmes-Officer-Manager/en-GB",
-      "region": "sw",
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ]
-    },
-    {
       "title": "Senior Resourcing Officer",
       "org": "Dorset Police",
       "place": "Dorset",
@@ -5859,20 +5738,6 @@
       ]
     },
     {
-      "title": "Crime Management Unit Investigation Supervisor",
-      "org": "Gloucestershire Constabulary",
-      "place": "Gloucestershire",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://gloucestershireconstabulary.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/candidate/so/pm/6/pl/15/opp/1285-6511-Crime-Management-Unit-Investigation-Supervisor/en-GB",
-      "region": "sw",
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ]
-    },
-    {
       "title": "Interim Head of Financial Planning & Analysis",
       "org": "Gloucestershire Constabulary",
       "place": "Gloucestershire",
@@ -6261,22 +6126,6 @@
       ]
     },
     {
-      "title": "Bleed Kit Project Coordinator Volunteer",
-      "org": "Avon and Somerset Police",
-      "place": "See advert",
-      "pay": "Volunteer – unpaid (expenses may be paid)",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/8353-Bleed-Kit-Project-Coordinator-Volunteer-Forcewide/en-GB",
-      "region": "sw",
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "entry": "volunteer",
-      "hours": "flex"
-    },
-    {
       "title": "VIPER Chaperone Volunteer",
       "org": "Avon and Somerset Police",
       "place": "See advert",
@@ -6335,34 +6184,6 @@
       "pay": "See advert",
       "closes": "Closes 1 Dec 2026",
       "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/8357-Financial-Investigator-Designated/en-GB",
-      "region": "sw",
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ]
-    },
-    {
-      "title": "Data Forensics Compliance Officer",
-      "org": "Avon and Somerset Police",
-      "place": "See advert",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/8360-Data-Forensics-Compliance-Officer/en-GB",
-      "region": "sw",
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ]
-    },
-    {
-      "title": "Automation Controller (Workflow, Data and Intelligence)",
-      "org": "Avon and Somerset Police",
-      "place": "See advert",
-      "pay": "See advert",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://asp.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/8008-Automation-Controller/en-GB",
       "region": "sw",
       "cat": "police",
       "ptype": "staff",
@@ -7107,50 +6928,6 @@
         "eng"
       ],
       "region": "mid",
-      "title": "Enquiry Officer – Kidderminster (part time)",
-      "org": "West Mercia Police",
-      "place": "Kidderminster",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6145-Enquiry-Officer-Kidderminster-part-time/en-GB",
-      "ptype": "staff",
-      "pay": "See advert"
-    },
-    {
-      "cat": "police",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
-      "title": "Enquiry Officer – Kidderminster",
-      "org": "West Mercia Police",
-      "place": "Kidderminster",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6144-Enquiry-Officer-Kidderminster/en-GB",
-      "ptype": "staff",
-      "pay": "See advert",
-      "lastCheckedAt": "2026-11-24T00:00:00Z"
-    },
-    {
-      "cat": "police",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
-      "title": "Enquiry Officer – Telford & Shrewsbury",
-      "org": "West Mercia Police",
-      "place": "Telford & Shrewsbury",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://westmerciapolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-5/brand-5/candidate/so/pm/6/pl/17/opp/6143-Enquiry-Officer-Telford-and-Shrewsbury/en-GB",
-      "ptype": "staff",
-      "pay": "See advert",
-      "lastCheckedAt": "2026-11-24T00:00:00Z"
-    },
-    {
-      "cat": "police",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
       "title": "Police Staff Investigator (PIP level 2) – permanent",
       "org": "West Mercia Police",
       "place": "West Mercia",
@@ -7779,35 +7556,6 @@
         "eng"
       ],
       "region": "mid",
-      "title": "Commercial Support Officer (part time, 25–30 hrs)",
-      "org": "Northamptonshire Police",
-      "place": "Northamptonshire",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3315-Staff-Commercial-Support-Officer/en-GB",
-      "ptype": "staff",
-      "pay": "See advert",
-      "lastCheckedAt": "2026-11-24T00:00:00Z"
-    },
-    {
-      "cat": "police",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
-      "title": "Commercial Support Officer (ID 3316)",
-      "org": "Northamptonshire Police",
-      "place": "Northamptonshire",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://northantspolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/spa-1/candidate/so/pm/6/pl/24/opp/3316-Staff-Commercial-Support-Officer/en-GB",
-      "ptype": "staff",
-      "pay": "See advert"
-    },
-    {
-      "cat": "police",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
       "title": "Health, Safety and Environment Advisor",
       "org": "Northamptonshire Police",
       "place": "Northamptonshire",
@@ -8141,26 +7889,6 @@
       "closes": "Closes 10 Jan 2027",
       "url": "https://lincs-police.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/297-Police-Constable-New-Recruit/en-GB",
       "lastCheckedAt": "2026-11-24T00:00:00Z"
-    },
-    {
-      "cat": "police",
-      "ptype": "staff",
-      "nations": [
-        "eng"
-      ],
-      "region": "mid",
-      "hours": "mf",
-      "title": "SQL Database Administrator (DBA)",
-      "org": "Warwickshire Police",
-      "place": "Leek Wootton",
-      "pay": "£50,949 – £57,186",
-      "pmin": 50949,
-      "pmax": 57186,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://warwickshirepolice.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/6/pl/24/opp/1638-SQL-Database-Administrator-DBA/en-GB",
-      "areas": [
-        "operations"
-      ]
     },
     {
       "cat": "police",
@@ -9477,7 +9205,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20538",
       "source": "moj",
       "sourceJobId": "20538",
-      "lastCheckedAt": "2026-11-26T17:29:32Z"
+      "lastCheckedAt": "2026-11-27T06:17:36Z"
     },
     {
       "cat": "justice",
@@ -9495,7 +9223,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20534",
       "source": "moj",
       "sourceJobId": "20534",
-      "lastCheckedAt": "2026-11-26T17:29:33Z"
+      "lastCheckedAt": "2026-11-27T06:17:37Z"
     },
     {
       "cat": "justice",
@@ -9527,7 +9255,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/22510-Probation-Officer-Southampton/22510",
       "source": "moj",
       "sourceJobId": "22510",
-      "lastCheckedAt": "2026-11-26T17:28:26Z",
+      "lastCheckedAt": "2026-11-27T06:16:33Z",
       "pmin": 37238,
       "pmax": 44520
     },
@@ -9550,22 +9278,6 @@
     {
       "cat": "justice",
       "jroles": [
-        "youth"
-      ],
-      "hours": "shift",
-      "region": "uk",
-      "pmin": 34928,
-      "pmax": 40840,
-      "title": "Youth Justice Worker – Advance into Justice for service leavers & veterans",
-      "org": "HM Prison & Probation Service",
-      "place": "Feltham, Werrington, Wetherby",
-      "pay": "£34,928 – £40,840 (37-hour week, incl. unsocial hours allowance)",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/United-Kingdom-of-Great-Britain-and-Northern-Ireland-20667-Youth-Justice-Worker-Advance-into-Justice/20667"
-    },
-    {
-      "cat": "justice",
-      "jroles": [
         "probation"
       ],
       "region": "mid",
@@ -9577,7 +9289,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/19858-Qualified-Probation-Officer/19858",
       "source": "moj",
       "sourceJobId": "19858",
-      "lastCheckedAt": "2026-11-26T17:29:41Z",
+      "lastCheckedAt": "2026-11-27T06:17:46Z",
       "pmin": 37238,
       "pmax": 44520
     },
@@ -9595,7 +9307,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24410-Community-Payback-Probation-Services-Officer-Derbyshire/24410",
       "source": "moj",
       "sourceJobId": "24410",
-      "lastCheckedAt": "2026-11-26T17:26:47Z",
+      "lastCheckedAt": "2026-11-27T06:14:57Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -9613,7 +9325,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24408-Community-Payback-Probation-Services-Officer-Leicester/24408",
       "source": "moj",
       "sourceJobId": "24408",
-      "lastCheckedAt": "2026-11-26T17:26:49Z",
+      "lastCheckedAt": "2026-11-27T06:14:58Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -9631,7 +9343,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24379-Probation-Services-Officer-Leicester/24379",
       "source": "moj",
       "sourceJobId": "24379",
-      "lastCheckedAt": "2026-11-26T17:26:56Z",
+      "lastCheckedAt": "2026-11-27T06:15:05Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -9649,7 +9361,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24336-Probation-Service-Officer-Barking-Dagenham-Havering-Probation-Delivery-Unit-London-Outcome-in-a-Day/24336",
       "source": "moj",
       "sourceJobId": "24336",
-      "lastCheckedAt": "2026-11-26T17:27:01Z",
+      "lastCheckedAt": "2026-11-27T06:15:11Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -9667,7 +9379,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24333",
       "source": "moj",
       "sourceJobId": "24333",
-      "lastCheckedAt": "2026-11-26T17:27:03Z",
+      "lastCheckedAt": "2026-11-27T06:15:12Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -9685,7 +9397,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24318",
       "source": "moj",
       "sourceJobId": "24318",
-      "lastCheckedAt": "2026-11-26T17:27:11Z",
+      "lastCheckedAt": "2026-11-27T06:15:21Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -9716,7 +9428,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24486",
-      "lastCheckedAt": "2026-11-26T17:26:29Z",
+      "lastCheckedAt": "2026-11-27T06:14:38Z",
       "jroles": [
         "probation"
       ],
@@ -9734,7 +9446,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24427",
-      "lastCheckedAt": "2026-11-26T17:26:36Z",
+      "lastCheckedAt": "2026-11-27T06:14:45Z",
       "jroles": [
         "probation"
       ],
@@ -9752,7 +9464,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24424",
-      "lastCheckedAt": "2026-11-26T17:26:39Z",
+      "lastCheckedAt": "2026-11-27T06:14:48Z",
       "jroles": [
         "probation"
       ],
@@ -9770,7 +9482,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24421",
-      "lastCheckedAt": "2026-11-26T17:26:40Z",
+      "lastCheckedAt": "2026-11-27T06:14:50Z",
       "jroles": [
         "probation"
       ],
@@ -9788,7 +9500,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24419",
-      "lastCheckedAt": "2026-11-26T17:26:42Z",
+      "lastCheckedAt": "2026-11-27T06:14:51Z",
       "jroles": [
         "probation"
       ],
@@ -9806,7 +9518,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24416",
-      "lastCheckedAt": "2026-11-26T17:26:43Z",
+      "lastCheckedAt": "2026-11-27T06:14:52Z",
       "jroles": [
         "probation"
       ],
@@ -9824,7 +9536,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24414",
-      "lastCheckedAt": "2026-11-26T17:26:44Z",
+      "lastCheckedAt": "2026-11-27T06:14:54Z",
       "jroles": [
         "probation"
       ],
@@ -9842,7 +9554,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24378",
-      "lastCheckedAt": "2026-11-26T17:26:57Z",
+      "lastCheckedAt": "2026-11-27T06:15:07Z",
       "jroles": [
         "probation"
       ],
@@ -9860,7 +9572,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24363",
-      "lastCheckedAt": "2026-11-26T17:27:00Z",
+      "lastCheckedAt": "2026-11-27T06:15:10Z",
       "jroles": [
         "probation"
       ],
@@ -9878,7 +9590,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24332",
-      "lastCheckedAt": "2026-11-26T17:27:04Z",
+      "lastCheckedAt": "2026-11-27T06:15:14Z",
       "jroles": [
         "probation"
       ],
@@ -9896,7 +9608,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24324",
-      "lastCheckedAt": "2026-11-26T17:27:07Z",
+      "lastCheckedAt": "2026-11-27T06:15:17Z",
       "jroles": [
         "probation"
       ],
@@ -9914,7 +9626,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24322",
-      "lastCheckedAt": "2026-11-26T17:27:08Z",
+      "lastCheckedAt": "2026-11-27T06:15:18Z",
       "jroles": [
         "probation"
       ],
@@ -9932,30 +9644,12 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24306",
-      "lastCheckedAt": "2026-11-26T17:27:14Z",
+      "lastCheckedAt": "2026-11-27T06:15:24Z",
       "jroles": [
         "probation"
       ],
       "pmin": 37238,
       "pmax": 44520
-    },
-    {
-      "cat": "justice",
-      "title": "24280 - Approved Premises - Probation Service Officer - Crowley House (Female only) PIPE AP - Birmingham - Part Time",
-      "org": "Ministry of Justice",
-      "place": "Birmingham",
-      "pay": "£28,064 - £33,549, Pro-Rata",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/24280-Approved-Premises-Probation-Service-Officer-Crowley-House-Female-only-PIPE-AP-Birmingham-Part-Time/24280",
-      "region": "mid",
-      "source": "moj",
-      "sourceJobId": "24280",
-      "lastCheckedAt": "2026-11-26T17:27:15Z",
-      "jroles": [
-        "probation"
-      ],
-      "pmin": 28064,
-      "pmax": 33549
     },
     {
       "cat": "justice",
@@ -9968,7 +9662,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24271",
-      "lastCheckedAt": "2026-11-26T17:27:16Z",
+      "lastCheckedAt": "2026-11-27T06:15:25Z",
       "jroles": [
         "probation"
       ],
@@ -9986,7 +9680,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24262",
-      "lastCheckedAt": "2026-11-26T17:27:25Z",
+      "lastCheckedAt": "2026-11-27T06:15:34Z",
       "jroles": [
         "probation"
       ],
@@ -10004,7 +9698,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24248",
-      "lastCheckedAt": "2026-11-26T17:27:28Z",
+      "lastCheckedAt": "2026-11-27T06:15:36Z",
       "jroles": [
         "probation"
       ],
@@ -10022,7 +9716,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24231",
-      "lastCheckedAt": "2026-11-26T17:27:30Z",
+      "lastCheckedAt": "2026-11-27T06:15:39Z",
       "jroles": [
         "probation"
       ],
@@ -10040,7 +9734,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24204",
-      "lastCheckedAt": "2026-11-26T17:27:42Z",
+      "lastCheckedAt": "2026-11-27T06:15:51Z",
       "jroles": [
         "probation"
       ],
@@ -10058,30 +9752,12 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24150",
-      "lastCheckedAt": "2026-11-26T17:27:52Z",
+      "lastCheckedAt": "2026-11-27T06:16:01Z",
       "jroles": [
         "probation"
       ],
       "pmin": 37238,
       "pmax": 44520
-    },
-    {
-      "cat": "justice",
-      "title": "24075 - Senior Administration Officer, Yorkshire and the Humber Probation Service, Barnsley and Rotherham, Full-Time",
-      "org": "Ministry of Justice",
-      "place": "Barnsley, Rotherham",
-      "pay": "£28,064 - £33,549",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/24075-Senior-Administration-Officer-Yorkshire-and-the-Humber-Probation-Service-Barnsley-and-Rotherham-Full-Time/24075",
-      "region": "ne",
-      "source": "moj",
-      "sourceJobId": "24075",
-      "lastCheckedAt": "2026-11-26T17:27:55Z",
-      "jroles": [
-        "probation"
-      ],
-      "pmin": 28064,
-      "pmax": 33549
     },
     {
       "cat": "justice",
@@ -10094,7 +9770,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24008",
-      "lastCheckedAt": "2026-11-26T17:28:00Z",
+      "lastCheckedAt": "2026-11-27T06:16:07Z",
       "jroles": [
         "probation"
       ],
@@ -10112,7 +9788,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "23999",
-      "lastCheckedAt": "2026-11-26T17:28:01Z",
+      "lastCheckedAt": "2026-11-27T06:16:08Z",
       "jroles": [
         "probation"
       ],
@@ -10130,7 +9806,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "23897",
-      "lastCheckedAt": "2026-11-26T17:28:06Z",
+      "lastCheckedAt": "2026-11-27T06:16:13Z",
       "jroles": [
         "probation"
       ],
@@ -10148,7 +9824,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "23759",
-      "lastCheckedAt": "2026-11-26T17:28:12Z",
+      "lastCheckedAt": "2026-11-27T06:16:19Z",
       "jroles": [
         "probation"
       ],
@@ -10166,7 +9842,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "21629",
-      "lastCheckedAt": "2026-11-26T17:28:39Z",
+      "lastCheckedAt": "2026-11-27T06:16:47Z",
       "jroles": [
         "probation"
       ],
@@ -10184,7 +9860,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "21393",
-      "lastCheckedAt": "2026-11-26T17:28:49Z",
+      "lastCheckedAt": "2026-11-27T06:16:57Z",
       "jroles": [
         "probation"
       ],
@@ -10202,7 +9878,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "20574",
-      "lastCheckedAt": "2026-11-26T17:29:25Z",
+      "lastCheckedAt": "2026-11-27T06:17:30Z",
       "jroles": [
         "probation"
       ],
@@ -10220,7 +9896,7 @@
       "region": "wal",
       "source": "moj",
       "sourceJobId": "18335",
-      "lastCheckedAt": "2026-11-26T17:29:43Z",
+      "lastCheckedAt": "2026-11-27T06:17:47Z",
       "jroles": [
         "probation"
       ],
@@ -10238,7 +9914,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21315",
-      "lastCheckedAt": "2026-11-26T17:28:51Z",
+      "lastCheckedAt": "2026-11-27T06:16:59Z",
       "jroles": [
         "prison"
       ]
@@ -10254,7 +9930,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20628",
-      "lastCheckedAt": "2026-11-26T17:29:10Z",
+      "lastCheckedAt": "2026-11-27T06:17:16Z",
       "jroles": [
         "prison"
       ]
@@ -10270,7 +9946,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20553",
-      "lastCheckedAt": "2026-11-26T17:29:31Z",
+      "lastCheckedAt": "2026-11-27T06:17:35Z",
       "jroles": [
         "prison"
       ]
@@ -10286,7 +9962,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16570",
-      "lastCheckedAt": "2026-11-26T17:29:45Z",
+      "lastCheckedAt": "2026-11-27T06:17:50Z",
       "jroles": [
         "probation"
       ],
@@ -10304,7 +9980,7 @@
       "region": "wal",
       "source": "moj",
       "sourceJobId": "16569",
-      "lastCheckedAt": "2026-11-26T17:29:47Z",
+      "lastCheckedAt": "2026-11-27T06:17:51Z",
       "jroles": [
         "probation"
       ],
@@ -10322,7 +9998,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "16568",
-      "lastCheckedAt": "2026-11-26T17:29:48Z",
+      "lastCheckedAt": "2026-11-27T06:17:53Z",
       "jroles": [
         "probation"
       ],
@@ -10340,7 +10016,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16567",
-      "lastCheckedAt": "2026-11-26T17:29:50Z",
+      "lastCheckedAt": "2026-11-27T06:17:54Z",
       "jroles": [
         "probation"
       ],
@@ -10358,7 +10034,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "16566",
-      "lastCheckedAt": "2026-11-26T17:29:51Z",
+      "lastCheckedAt": "2026-11-27T06:17:56Z",
       "jroles": [
         "probation"
       ],
@@ -10376,7 +10052,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16565",
-      "lastCheckedAt": "2026-11-26T17:29:52Z",
+      "lastCheckedAt": "2026-11-27T06:17:57Z",
       "jroles": [
         "probation"
       ],
@@ -10394,7 +10070,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16564",
-      "lastCheckedAt": "2026-11-26T17:29:54Z",
+      "lastCheckedAt": "2026-11-27T06:17:58Z",
       "jroles": [
         "probation"
       ],
@@ -10412,7 +10088,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16563",
-      "lastCheckedAt": "2026-11-26T17:29:55Z",
+      "lastCheckedAt": "2026-11-27T06:18:00Z",
       "jroles": [
         "probation"
       ],
@@ -10430,7 +10106,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16562",
-      "lastCheckedAt": "2026-11-26T17:29:56Z",
+      "lastCheckedAt": "2026-11-27T06:18:01Z",
       "jroles": [
         "probation"
       ],
@@ -10448,7 +10124,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "16549",
-      "lastCheckedAt": "2026-11-26T17:29:58Z",
+      "lastCheckedAt": "2026-11-27T06:18:02Z",
       "jroles": [
         "probation"
       ],
@@ -10466,7 +10142,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "16431",
-      "lastCheckedAt": "2026-11-26T17:29:59Z",
+      "lastCheckedAt": "2026-11-27T06:18:04Z",
       "jroles": [
         "probation"
       ],
@@ -10484,7 +10160,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16391",
-      "lastCheckedAt": "2026-11-26T17:30:00Z",
+      "lastCheckedAt": "2026-11-27T06:18:05Z",
       "jroles": [
         "probation"
       ],
@@ -10502,7 +10178,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16390",
-      "lastCheckedAt": "2026-11-26T17:30:02Z",
+      "lastCheckedAt": "2026-11-27T06:18:06Z",
       "jroles": [
         "probation"
       ],
@@ -10520,7 +10196,7 @@
       "region": "wal",
       "source": "moj",
       "sourceJobId": "16388",
-      "lastCheckedAt": "2026-11-26T17:30:03Z",
+      "lastCheckedAt": "2026-11-27T06:18:08Z",
       "jroles": [
         "probation"
       ],
@@ -10538,7 +10214,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "16387",
-      "lastCheckedAt": "2026-11-26T17:30:04Z",
+      "lastCheckedAt": "2026-11-27T06:18:09Z",
       "jroles": [
         "probation"
       ],
@@ -10556,7 +10232,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16383",
-      "lastCheckedAt": "2026-11-26T17:30:06Z",
+      "lastCheckedAt": "2026-11-27T06:18:10Z",
       "jroles": [
         "probation"
       ],
@@ -10574,7 +10250,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "16379",
-      "lastCheckedAt": "2026-11-26T17:30:07Z",
+      "lastCheckedAt": "2026-11-27T06:18:12Z",
       "jroles": [
         "probation"
       ],
@@ -10592,7 +10268,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16377",
-      "lastCheckedAt": "2026-11-26T17:30:08Z",
+      "lastCheckedAt": "2026-11-27T06:18:13Z",
       "jroles": [
         "probation"
       ],
@@ -10610,7 +10286,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16375",
-      "lastCheckedAt": "2026-11-26T17:30:10Z",
+      "lastCheckedAt": "2026-11-27T06:18:15Z",
       "jroles": [
         "probation"
       ],
@@ -10628,7 +10304,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "16373",
-      "lastCheckedAt": "2026-11-26T17:30:11Z",
+      "lastCheckedAt": "2026-11-27T06:18:16Z",
       "jroles": [
         "probation"
       ],
@@ -10646,7 +10322,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "16371",
-      "lastCheckedAt": "2026-11-26T17:30:13Z",
+      "lastCheckedAt": "2026-11-27T06:18:17Z",
       "jroles": [
         "probation"
       ],
@@ -10664,7 +10340,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "16368",
-      "lastCheckedAt": "2026-11-26T17:30:14Z",
+      "lastCheckedAt": "2026-11-27T06:18:19Z",
       "jroles": [
         "probation"
       ],
@@ -10682,7 +10358,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "15708",
-      "lastCheckedAt": "2026-11-26T17:30:15Z",
+      "lastCheckedAt": "2026-11-27T06:18:20Z",
       "jroles": [
         "probation"
       ],
@@ -10700,7 +10376,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24439",
-      "lastCheckedAt": "2026-11-26T17:26:35Z",
+      "lastCheckedAt": "2026-11-27T06:14:44Z",
       "jroles": [
         "probation"
       ],
@@ -10718,7 +10394,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24173",
-      "lastCheckedAt": "2026-11-26T17:27:45Z",
+      "lastCheckedAt": "2026-11-27T06:15:54Z",
       "jroles": [
         "probation"
       ],
@@ -10736,7 +10412,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24583",
-      "lastCheckedAt": "2026-11-26T17:25:56Z",
+      "lastCheckedAt": "2026-11-27T06:14:05Z",
       "jroles": [
         "probation"
       ],
@@ -10754,7 +10430,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24582",
-      "lastCheckedAt": "2026-11-26T17:25:58Z",
+      "lastCheckedAt": "2026-11-27T06:14:06Z",
       "jroles": [
         "probation"
       ],
@@ -10772,7 +10448,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24581",
-      "lastCheckedAt": "2026-11-26T17:25:59Z",
+      "lastCheckedAt": "2026-11-27T06:14:08Z",
       "jroles": [
         "probation"
       ],
@@ -10790,7 +10466,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24580",
-      "lastCheckedAt": "2026-11-26T17:26:01Z",
+      "lastCheckedAt": "2026-11-27T06:14:09Z",
       "jroles": [
         "probation"
       ],
@@ -10808,7 +10484,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24579",
-      "lastCheckedAt": "2026-11-26T17:26:02Z",
+      "lastCheckedAt": "2026-11-27T06:14:11Z",
       "jroles": [
         "probation"
       ],
@@ -10826,7 +10502,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24578",
-      "lastCheckedAt": "2026-11-26T17:26:03Z",
+      "lastCheckedAt": "2026-11-27T06:14:12Z",
       "jroles": [
         "probation"
       ],
@@ -10844,7 +10520,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24575",
-      "lastCheckedAt": "2026-11-26T17:26:05Z",
+      "lastCheckedAt": "2026-11-27T06:14:14Z",
       "jroles": [
         "probation"
       ],
@@ -10862,7 +10538,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24573",
-      "lastCheckedAt": "2026-11-26T17:26:06Z",
+      "lastCheckedAt": "2026-11-27T06:14:15Z",
       "jroles": [
         "probation"
       ],
@@ -10880,7 +10556,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24572",
-      "lastCheckedAt": "2026-11-26T17:26:08Z",
+      "lastCheckedAt": "2026-11-27T06:14:16Z",
       "jroles": [
         "probation"
       ],
@@ -10898,7 +10574,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24570",
-      "lastCheckedAt": "2026-11-26T17:26:09Z",
+      "lastCheckedAt": "2026-11-27T06:14:18Z",
       "jroles": [
         "probation"
       ],
@@ -10916,7 +10592,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24568",
-      "lastCheckedAt": "2026-11-26T17:26:10Z",
+      "lastCheckedAt": "2026-11-27T06:14:19Z",
       "jroles": [
         "probation"
       ],
@@ -10934,7 +10610,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24565",
-      "lastCheckedAt": "2026-11-26T17:26:12Z",
+      "lastCheckedAt": "2026-11-27T06:14:21Z",
       "jroles": [
         "probation"
       ],
@@ -10952,7 +10628,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24561",
-      "lastCheckedAt": "2026-11-26T17:26:13Z",
+      "lastCheckedAt": "2026-11-27T06:14:22Z",
       "jroles": [
         "probation"
       ],
@@ -10970,7 +10646,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24557",
-      "lastCheckedAt": "2026-11-26T17:26:15Z",
+      "lastCheckedAt": "2026-11-27T06:14:24Z",
       "jroles": [
         "probation"
       ],
@@ -10988,7 +10664,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24556",
-      "lastCheckedAt": "2026-11-26T17:26:16Z",
+      "lastCheckedAt": "2026-11-27T06:14:25Z",
       "jroles": [
         "probation"
       ],
@@ -11006,7 +10682,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24555",
-      "lastCheckedAt": "2026-11-26T17:26:18Z",
+      "lastCheckedAt": "2026-11-27T06:14:27Z",
       "jroles": [
         "probation"
       ],
@@ -11024,7 +10700,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24551",
-      "lastCheckedAt": "2026-11-26T17:26:19Z",
+      "lastCheckedAt": "2026-11-27T06:14:28Z",
       "jroles": [
         "probation"
       ],
@@ -11079,7 +10755,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24591-Probation-Service-Officer-Cheshire-Court/24591",
       "source": "moj",
       "sourceJobId": "24591",
-      "lastCheckedAt": "2026-11-26T17:25:55Z"
+      "lastCheckedAt": "2026-11-27T06:14:04Z"
     },
     {
       "cat": "justice",
@@ -11095,7 +10771,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/23437-Probation-Officer-Kent-Surrey-and-Sussex/23437",
       "source": "moj",
       "sourceJobId": "23437",
-      "lastCheckedAt": "2026-11-26T17:28:15Z"
+      "lastCheckedAt": "2026-11-27T06:16:22Z"
     },
     {
       "cat": "justice",
@@ -11111,24 +10787,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/23443-Probation-Officer-Public-Protection-Kent-Surrey-and-Sussex/23443",
       "source": "moj",
       "sourceJobId": "23443",
-      "lastCheckedAt": "2026-11-26T17:28:14Z"
-    },
-    {
-      "cat": "justice",
-      "jroles": [
-        "prison"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "uk",
-      "title": "Prison Officer - Women's Prisons (Advance into Justice, service leavers & veterans)",
-      "org": "HM Prison & Probation Service",
-      "place": "Women's prisons (choose three of ten establishments)",
-      "pay": "£34,928 national rate (37 hours incl. unsocial hours allowance); £40,840 at HMP Downview",
-      "pmin": 34928,
-      "pmax": 40840,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/20668"
+      "lastCheckedAt": "2026-11-27T06:16:21Z"
     },
     {
       "cat": "justice",
@@ -11548,70 +11207,6 @@
     {
       "cat": "ambulance",
       "skills": [
-        "nurse",
-        "para"
-      ],
-      "region": "se",
-      "title": "Advanced Clinical Practitioner (Home Visiting) – Sussex",
-      "org": "IC24",
-      "place": "Brighton, Eastbourne, Angmering & Burgess Hill (Sussex)",
-      "pay": "£54,140.87 per annum (pro rata), plus enhancements for unsociable hours",
-      "pmin": 54141,
-      "pmax": 54141,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.ic24.org.uk/jobs/job/Advanced-Clinical-Practitioner/758"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "nurse",
-        "para"
-      ],
-      "region": "se",
-      "title": "Advanced Clinical Practitioner (Home Visiting) – Kent, part time",
-      "org": "IC24",
-      "place": "Ashford, Canterbury, Margate, Maidstone & Dartford (Kent)",
-      "pay": "£54,140.87 per annum (pro rata), plus enhancements for unsociable hours; up to 20 hours a week",
-      "pmin": 54141,
-      "pmax": 54141,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.ic24.org.uk/jobs/job/Advanced-Clinical-Practitioner/756"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "doctor"
-      ],
-      "region": "se",
-      "hours": "shift",
-      "title": "Urgent Primary Care Doctor (GP) – Bank, Sussex out of hours",
-      "org": "IC24",
-      "place": "Brighton, Eastbourne, Angmering & Burgess Hill (Sussex)",
-      "pay": "£58.69 per hour plus unsociable-hours enhancements (≈ £114,446 a year full-time)",
-      "pmin": 114446,
-      "pmax": 114446,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.ic24.org.uk/jobs/job/Urgent-Primary-Care-Doctor-GP-Bank/759"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "doctor"
-      ],
-      "region": "se",
-      "hours": "shift",
-      "title": "Urgent Primary Care Doctor (GP) – Bank, Kent out of hours",
-      "org": "IC24",
-      "place": "Ashford, Canterbury & Margate (Kent)",
-      "pay": "£58.69 per hour plus unsociable-hours enhancements (≈ £114,446 a year full-time)",
-      "pmin": 114446,
-      "pmax": 114446,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.ic24.org.uk/jobs/job/Urgent-Primary-Care-Doctor-GP-Bank/757"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
         "nurse"
       ],
       "region": "se",
@@ -11674,22 +11269,6 @@
       "title": "Ambulance Care Assistant (ACA) – Patient Transport Services",
       "place": "Hull",
       "url": "https://ukeventmedicalserviceslimited.recruitee.com/o/ambulance-care-assistant-aca-patient-transport-services-hull-3"
-    },
-    {
-      "cat": "ambulance",
-      "skills": [
-        "doctor"
-      ],
-      "region": "se",
-      "hours": "shift",
-      "title": "Urgent Primary Care Doctor (GP) – Bank, Kent out of hours (Ashford, Canterbury, Margate)",
-      "org": "IC24",
-      "place": "Ashford, Canterbury & Margate (Kent)",
-      "pay": "£58.69 per hour plus unsociable-hours enhancements (≈ £114,446 a year full-time)",
-      "pmin": 114446,
-      "pmax": 114446,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.ic24.org.uk/jobs/job/Urgent-Primary-Care-Doctor-GP-Bank/755"
     },
     {
       "cat": "civilian",
@@ -12169,22 +11748,6 @@
       "pmax": 54863
     },
     {
-      "title": "NCPP International Product Development and Delivery (Protect) – Band V – Counter Terrorism Policing",
-      "place": "London",
-      "pay": "£56,143 starting (incl. £3,009 allowances); basic £53,134 – £57,417",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://policecareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-3/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/22878-NCPP-International-Product-Development-and-Delivery-Protect-Band-V-NCPP-Counter-Terrorism-Policing/en-GB",
-      "ptype": "staff",
-      "cat": "police",
-      "nations": [
-        "eng"
-      ],
-      "region": "lon",
-      "org": "Metropolitan Police Service",
-      "pmin": 53134,
-      "pmax": 57417
-    },
-    {
       "title": "Mechanical Engineer",
       "place": "London",
       "pay": "£46,985 starting (incl. £3,009 allowances); basic £43,976 – £49,670",
@@ -12295,25 +11858,6 @@
         "eng"
       ],
       "org": "Metropolitan Police Service"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
-        "transport",
-        "management",
-        "supervisor",
-        "operations"
-      ],
-      "region": "lon",
-      "title": "Pound Manager – Charlton Car Pound",
-      "org": "Metropolitan Police Service",
-      "place": "Charlton Car Pound, SE7",
-      "pay": "£48,021 starting incl. allowances and 20% shift allowance (basic £37,510 – £40,141)",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://policecareers.tal.net/vx/mobile-0/appcentre-External/brand-3/spa-1/candidate/so/pm/6/pl/1/opp/23137-Pound-Manager-Charlton-Car-Pound/en-GB",
-      "hours": "shift",
-      "pmin": 37510,
-      "pmax": 40141
     },
     {
       "title": "Progression Hub – Internal Quality Assurer (police training)",
@@ -12609,27 +12153,6 @@
       "pay": "See advert",
       "closes": "Closes 4 Dec 2026",
       "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/candidate/so/pm/1/pl/14/opp/5003-Facilities-Support-Officer/en-GB"
-    },
-    {
-      "cat": "police",
-      "ptype": "officer",
-      "nations": [
-        "eng"
-      ],
-      "ranks": [
-        "pc"
-      ],
-      "entry": "new",
-      "hours": "shift",
-      "region": "east",
-      "pmin": 31164,
-      "pmax": 50256,
-      "title": "Police Constable Entry Programme (PCEP)",
-      "org": "Cambridgeshire Constabulary",
-      "place": "Forcewide",
-      "pay": "£31,164 – £50,256",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-14/brand-5/spa-1/candidate/so/pm/1/pl/26/opp/4648-Police-Constable-Entry-Programme-PCEP-Cambridgeshire-Constabulary/en-GB"
     },
     {
       "cat": "police",
@@ -12994,7 +12517,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wrexham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Berwyn/20522",
       "source": "moj",
       "sourceJobId": "20522",
-      "lastCheckedAt": "2026-11-26T17:29:39Z"
+      "lastCheckedAt": "2026-11-27T06:17:44Z"
     },
     {
       "cat": "justice",
@@ -13012,7 +12535,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20564",
       "source": "moj",
       "sourceJobId": "20564",
-      "lastCheckedAt": "2026-11-26T17:29:27Z"
+      "lastCheckedAt": "2026-11-27T06:17:32Z"
     },
     {
       "cat": "justice",
@@ -13030,7 +12553,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Bristol-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Bristol/21263",
       "source": "moj",
       "sourceJobId": "21263",
-      "lastCheckedAt": "2026-11-26T17:28:59Z"
+      "lastCheckedAt": "2026-11-27T06:17:04Z"
     },
     {
       "cat": "justice",
@@ -13048,7 +12571,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Reading-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Huntercombe/20656",
       "source": "moj",
       "sourceJobId": "20656",
-      "lastCheckedAt": "2026-11-26T17:29:08Z"
+      "lastCheckedAt": "2026-11-27T06:17:13Z"
     },
     {
       "cat": "justice",
@@ -13066,7 +12589,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Isle-of-Sheppey-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Swaleside/20614",
       "source": "moj",
       "sourceJobId": "20614",
-      "lastCheckedAt": "2026-11-26T17:29:16Z"
+      "lastCheckedAt": "2026-11-27T06:17:21Z"
     },
     {
       "cat": "justice",
@@ -13084,22 +12607,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Norwich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Norwich/20590",
       "source": "moj",
       "sourceJobId": "20590",
-      "lastCheckedAt": "2026-11-26T17:29:21Z"
-    },
-    {
-      "cat": "justice",
-      "jroles": [
-        "prison"
-      ],
-      "region": "sco",
-      "title": "Quality Enhancement Officer – SPS College (temporary)",
-      "org": "Scottish Prison Service",
-      "place": "SPS College, Brightons, Falkirk",
-      "pay": "£47,345 – £50,839",
-      "pmin": 47345,
-      "pmax": 50839,
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://myjobscotland.gov.uk/organisations/scottish-prison-service/jobs/quality-enhancement-officer-496492"
+      "lastCheckedAt": "2026-11-27T06:17:26Z"
     },
     {
       "cat": "police",
@@ -13400,7 +12908,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5684423",
-      "lastCheckedAt": "2026-11-26T16:22:37.716430Z",
+      "lastCheckedAt": "2026-11-27T06:08:16.681376Z",
       "skills": [
         "nurse",
         "para"
@@ -13419,7 +12927,7 @@
       "region": "uk",
       "source": "nhs_jobs_C9335",
       "sourceJobId": "5726358",
-      "lastCheckedAt": "2026-11-26T17:19:37.864859Z"
+      "lastCheckedAt": "2026-11-27T06:08:23.955245Z"
     },
     {
       "cat": "ambulance",
@@ -13735,7 +13243,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/March-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202611-Prison-Officer-HMP-Whitemoor/23948",
       "source": "moj",
       "sourceJobId": "23948",
-      "lastCheckedAt": "2026-11-26T17:28:05Z"
+      "lastCheckedAt": "2026-11-27T06:16:12Z"
     },
     {
       "cat": "justice",
@@ -13786,7 +13294,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24391-Community-Payback-Supervisor-Carlisle/24391",
       "source": "moj",
       "sourceJobId": "24391",
-      "lastCheckedAt": "2026-11-26T17:26:54Z",
+      "lastCheckedAt": "2026-11-27T06:15:04Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -13823,7 +13331,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/20528",
       "source": "moj",
       "sourceJobId": "20528",
-      "lastCheckedAt": "2026-11-26T17:29:36Z"
+      "lastCheckedAt": "2026-11-27T06:17:41Z"
     },
     {
       "cat": "justice",
@@ -13841,7 +13349,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Cambridge-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Highpoint/20587",
       "source": "moj",
       "sourceJobId": "20587",
-      "lastCheckedAt": "2026-11-26T17:29:24Z"
+      "lastCheckedAt": "2026-11-27T06:17:29Z"
     },
     {
       "cat": "justice",
@@ -13858,24 +13366,7 @@
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/Ipswich-United-Kingdom-of-Great-Britain-and-Northern-Ireland-24132-Operational-Support-Grade-HMP-Hollesley-Prison-Support-Role/24132",
       "source": "moj",
       "sourceJobId": "24132",
-      "lastCheckedAt": "2026-11-26T17:27:54Z"
-    },
-    {
-      "cat": "justice",
-      "jroles": [
-        "prison"
-      ],
-      "hours": "shift",
-      "region": "se",
-      "title": "23375 - Operational Support Grade - HMP Woodhill - Driver (Prison Support Role)",
-      "org": "Ministry of Justice",
-      "place": "Milton Keynes",
-      "pay": "See advert",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Milton-Keynes-United-Kingdom-of-Great-Britain-and-Northern-Ireland-23375-Operational-Support-Grade-HMP-Woodhill-Driver-Prison-Support-Role/23375",
-      "source": "moj",
-      "sourceJobId": "23375",
-      "lastCheckedAt": "2026-11-26T17:28:16Z"
+      "lastCheckedAt": "2026-11-27T06:16:02Z"
     },
     {
       "cat": "justice",
@@ -13888,7 +13379,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24483",
-      "lastCheckedAt": "2026-11-26T17:26:31Z",
+      "lastCheckedAt": "2026-11-27T06:14:40Z",
       "jroles": [
         "probation"
       ],
@@ -13906,7 +13397,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24393",
-      "lastCheckedAt": "2026-11-26T17:26:53Z",
+      "lastCheckedAt": "2026-11-27T06:15:02Z",
       "jroles": [
         "probation"
       ],
@@ -13924,7 +13415,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24369",
-      "lastCheckedAt": "2026-11-26T17:26:58Z",
+      "lastCheckedAt": "2026-11-27T06:15:08Z",
       "jroles": [
         "probation"
       ],
@@ -13942,7 +13433,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24328",
-      "lastCheckedAt": "2026-11-26T17:27:05Z",
+      "lastCheckedAt": "2026-11-27T06:15:15Z",
       "jroles": [
         "probation"
       ],
@@ -13960,7 +13451,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24312",
-      "lastCheckedAt": "2026-11-26T17:27:12Z",
+      "lastCheckedAt": "2026-11-27T06:15:22Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -13975,7 +13466,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24267",
-      "lastCheckedAt": "2026-11-26T17:27:19Z",
+      "lastCheckedAt": "2026-11-27T06:15:28Z",
       "jroles": [
         "probation"
       ],
@@ -13993,7 +13484,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24266",
-      "lastCheckedAt": "2026-11-26T17:27:21Z",
+      "lastCheckedAt": "2026-11-27T06:15:29Z",
       "jroles": [
         "probation"
       ],
@@ -14011,7 +13502,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24265",
-      "lastCheckedAt": "2026-11-26T17:27:22Z",
+      "lastCheckedAt": "2026-11-27T06:15:31Z",
       "jroles": [
         "probation"
       ],
@@ -14029,7 +13520,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24241",
-      "lastCheckedAt": "2026-11-26T17:27:29Z",
+      "lastCheckedAt": "2026-11-27T06:15:38Z",
       "pmin": 28064,
       "pmax": 33549
     },
@@ -14044,7 +13535,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24226",
-      "lastCheckedAt": "2026-11-26T17:27:32Z",
+      "lastCheckedAt": "2026-11-27T06:15:41Z",
       "pmin": 24645,
       "pmax": 26723
     },
@@ -14059,7 +13550,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24223",
-      "lastCheckedAt": "2026-11-26T17:27:33Z",
+      "lastCheckedAt": "2026-11-27T06:15:42Z",
       "pmin": 41197,
       "pmax": 45316
     },
@@ -14074,7 +13565,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24215",
-      "lastCheckedAt": "2026-11-26T17:27:35Z",
+      "lastCheckedAt": "2026-11-27T06:15:44Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -14089,7 +13580,7 @@
       "region": "nw",
       "source": "moj",
       "sourceJobId": "24210",
-      "lastCheckedAt": "2026-11-26T17:27:36Z",
+      "lastCheckedAt": "2026-11-27T06:15:45Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -14104,7 +13595,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24209",
-      "lastCheckedAt": "2026-11-26T17:27:37Z",
+      "lastCheckedAt": "2026-11-27T06:15:46Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -14119,7 +13610,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24207",
-      "lastCheckedAt": "2026-11-26T17:27:39Z",
+      "lastCheckedAt": "2026-11-27T06:15:48Z",
       "pmin": 41328,
       "pmax": 41328
     },
@@ -14134,7 +13625,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24206",
-      "lastCheckedAt": "2026-11-26T17:27:40Z",
+      "lastCheckedAt": "2026-11-27T06:15:49Z",
       "jroles": [
         "probation"
       ],
@@ -14152,7 +13643,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24182",
-      "lastCheckedAt": "2026-11-26T17:27:43Z",
+      "lastCheckedAt": "2026-11-27T06:15:52Z",
       "pmin": 34440,
       "pmax": 34440
     },
@@ -14167,7 +13658,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24171",
-      "lastCheckedAt": "2026-11-26T17:27:46Z",
+      "lastCheckedAt": "2026-11-27T06:15:55Z",
       "jroles": [
         "probation"
       ],
@@ -14185,7 +13676,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24163",
-      "lastCheckedAt": "2026-11-26T17:27:49Z",
+      "lastCheckedAt": "2026-11-27T06:15:58Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -14200,24 +13691,9 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24160",
-      "lastCheckedAt": "2026-11-26T17:27:50Z",
+      "lastCheckedAt": "2026-11-27T06:16:00Z",
       "pmin": 47590,
       "pmax": 47590
-    },
-    {
-      "cat": "justice",
-      "title": "24139 - Prison Digital and Communications Manager",
-      "org": "Ministry of Justice",
-      "place": "Market Drayton",
-      "pay": "£37,417 - £39,214 Pro-rata",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/24139-Prison-Digital-and-Communications-Manager/24139",
-      "region": "mid",
-      "source": "moj",
-      "sourceJobId": "24139",
-      "lastCheckedAt": "2026-11-26T17:27:53Z",
-      "pmin": 37417,
-      "pmax": 39214
     },
     {
       "cat": "justice",
@@ -14248,7 +13724,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24050",
-      "lastCheckedAt": "2026-11-26T17:27:57Z",
+      "lastCheckedAt": "2026-11-27T06:16:04Z",
       "jroles": [
         "probation"
       ],
@@ -14266,7 +13742,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24049",
-      "lastCheckedAt": "2026-11-26T17:27:58Z",
+      "lastCheckedAt": "2026-11-27T06:16:05Z",
       "jroles": [
         "probation"
       ],
@@ -14284,7 +13760,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "23998",
-      "lastCheckedAt": "2026-11-26T17:28:02Z",
+      "lastCheckedAt": "2026-11-27T06:16:09Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -14317,7 +13793,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "23882",
-      "lastCheckedAt": "2026-11-26T17:28:08Z",
+      "lastCheckedAt": "2026-11-27T06:16:15Z",
       "pmin": 24645,
       "pmax": 26723
     },
@@ -14332,7 +13808,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "23813",
-      "lastCheckedAt": "2026-11-26T17:28:09Z",
+      "lastCheckedAt": "2026-11-27T06:16:16Z",
       "pmin": 41328,
       "pmax": 41328
     },
@@ -14347,7 +13823,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "23809",
-      "lastCheckedAt": "2026-11-26T17:28:11Z",
+      "lastCheckedAt": "2026-11-27T06:16:18Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -14362,7 +13838,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "23062",
-      "lastCheckedAt": "2026-11-26T17:28:23Z",
+      "lastCheckedAt": "2026-11-27T06:16:29Z",
       "jroles": [
         "probation"
       ],
@@ -14380,7 +13856,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "23951",
-      "lastCheckedAt": "2026-11-26T17:28:04Z",
+      "lastCheckedAt": "2026-11-27T06:16:11Z",
       "jroles": [
         "prison"
       ]
@@ -14396,7 +13872,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "22917",
-      "lastCheckedAt": "2026-11-26T17:28:25Z"
+      "lastCheckedAt": "2026-11-27T06:16:31Z"
     },
     {
       "cat": "justice",
@@ -14409,7 +13885,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21986",
-      "lastCheckedAt": "2026-11-26T17:28:38Z",
+      "lastCheckedAt": "2026-11-27T06:16:46Z",
       "jroles": [
         "prison"
       ]
@@ -14425,7 +13901,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21432",
-      "lastCheckedAt": "2026-11-26T17:28:40Z",
+      "lastCheckedAt": "2026-11-27T06:16:48Z",
       "jroles": [
         "prison"
       ]
@@ -14441,7 +13917,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21431",
-      "lastCheckedAt": "2026-11-26T17:28:41Z",
+      "lastCheckedAt": "2026-11-27T06:16:49Z",
       "jroles": [
         "prison"
       ]
@@ -14457,7 +13933,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21427",
-      "lastCheckedAt": "2026-11-26T17:28:42Z",
+      "lastCheckedAt": "2026-11-27T06:16:50Z",
       "jroles": [
         "prison"
       ]
@@ -14473,7 +13949,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21426",
-      "lastCheckedAt": "2026-11-26T17:28:43Z",
+      "lastCheckedAt": "2026-11-27T06:16:51Z",
       "jroles": [
         "prison"
       ]
@@ -14489,7 +13965,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21424",
-      "lastCheckedAt": "2026-11-26T17:28:44Z",
+      "lastCheckedAt": "2026-11-27T06:16:52Z",
       "jroles": [
         "prison"
       ]
@@ -14505,7 +13981,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21421",
-      "lastCheckedAt": "2026-11-26T17:28:45Z",
+      "lastCheckedAt": "2026-11-27T06:16:53Z",
       "jroles": [
         "prison"
       ]
@@ -14521,7 +13997,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21417",
-      "lastCheckedAt": "2026-11-26T17:28:46Z",
+      "lastCheckedAt": "2026-11-27T06:16:54Z",
       "jroles": [
         "prison"
       ]
@@ -14537,7 +14013,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21415",
-      "lastCheckedAt": "2026-11-26T17:28:46Z",
+      "lastCheckedAt": "2026-11-27T06:16:55Z",
       "jroles": [
         "prison"
       ]
@@ -14553,7 +14029,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21412",
-      "lastCheckedAt": "2026-11-26T17:28:47Z",
+      "lastCheckedAt": "2026-11-27T06:16:56Z",
       "jroles": [
         "prison"
       ]
@@ -14569,23 +14045,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21318",
-      "lastCheckedAt": "2026-11-26T17:28:50Z",
-      "jroles": [
-        "prison"
-      ]
-    },
-    {
-      "cat": "justice",
-      "title": "202608: Prison Officer - HMP Hindley",
-      "org": "Ministry of Justice",
-      "place": "Wigan",
-      "pay": "See advert",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wigan-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Hindley/21316",
-      "region": "uk",
-      "source": "moj",
-      "sourceJobId": "21316",
-      "lastCheckedAt": "2026-11-26T17:28:51Z",
+      "lastCheckedAt": "2026-11-27T06:16:58Z",
       "jroles": [
         "prison"
       ]
@@ -14601,23 +14061,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21312",
-      "lastCheckedAt": "2026-11-26T17:28:52Z",
-      "jroles": [
-        "prison"
-      ]
-    },
-    {
-      "cat": "justice",
-      "title": "202608: Prison Officer - HMP Durham",
-      "org": "Ministry of Justice",
-      "place": "Durham",
-      "pay": "See advert",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Durham-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Durham/21310",
-      "region": "uk",
-      "source": "moj",
-      "sourceJobId": "21310",
-      "lastCheckedAt": "2026-11-26T17:28:53Z",
+      "lastCheckedAt": "2026-11-27T06:17:00Z",
       "jroles": [
         "prison"
       ]
@@ -14633,7 +14077,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21309",
-      "lastCheckedAt": "2026-11-26T17:28:54Z",
+      "lastCheckedAt": "2026-11-27T06:17:01Z",
       "jroles": [
         "prison"
       ]
@@ -14649,23 +14093,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21306",
-      "lastCheckedAt": "2026-11-26T17:28:55Z",
-      "jroles": [
-        "prison"
-      ]
-    },
-    {
-      "cat": "justice",
-      "title": "202608: Prison Officer - HMP Chelmsford",
-      "org": "Ministry of Justice",
-      "place": "Chelmsford",
-      "pay": "See advert",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Chelmsford-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Chelmsford/21276",
-      "region": "uk",
-      "source": "moj",
-      "sourceJobId": "21276",
-      "lastCheckedAt": "2026-11-26T17:28:56Z",
+      "lastCheckedAt": "2026-11-27T06:17:02Z",
       "jroles": [
         "prison"
       ]
@@ -14681,7 +14109,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21273",
-      "lastCheckedAt": "2026-11-26T17:28:57Z",
+      "lastCheckedAt": "2026-11-27T06:17:03Z",
       "jroles": [
         "prison"
       ]
@@ -14697,7 +14125,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21268",
-      "lastCheckedAt": "2026-11-26T17:28:58Z",
+      "lastCheckedAt": "2026-11-27T06:17:04Z",
       "jroles": [
         "prison"
       ]
@@ -14713,23 +14141,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "21259",
-      "lastCheckedAt": "2026-11-26T17:28:59Z",
-      "jroles": [
-        "prison"
-      ]
-    },
-    {
-      "cat": "justice",
-      "title": "202608: Prison Officer - HMP Bedford",
-      "org": "Ministry of Justice",
-      "place": "Bedford",
-      "pay": "See advert",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Bedford-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Bedford/21254",
-      "region": "uk",
-      "source": "moj",
-      "sourceJobId": "21254",
-      "lastCheckedAt": "2026-11-26T17:29:00Z",
+      "lastCheckedAt": "2026-11-27T06:17:05Z",
       "jroles": [
         "prison"
       ]
@@ -14745,7 +14157,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20662",
-      "lastCheckedAt": "2026-11-26T17:29:03Z",
+      "lastCheckedAt": "2026-11-27T06:17:08Z",
       "jroles": [
         "prison"
       ]
@@ -14761,7 +14173,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20660",
-      "lastCheckedAt": "2026-11-26T17:29:04Z",
+      "lastCheckedAt": "2026-11-27T06:17:09Z",
       "jroles": [
         "prison"
       ]
@@ -14777,7 +14189,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20659",
-      "lastCheckedAt": "2026-11-26T17:29:05Z",
+      "lastCheckedAt": "2026-11-27T06:17:10Z",
       "jroles": [
         "prison"
       ]
@@ -14793,7 +14205,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20658",
-      "lastCheckedAt": "2026-11-26T17:29:06Z",
+      "lastCheckedAt": "2026-11-27T06:17:11Z",
       "jroles": [
         "prison"
       ]
@@ -14809,7 +14221,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20657",
-      "lastCheckedAt": "2026-11-26T17:29:07Z",
+      "lastCheckedAt": "2026-11-27T06:17:12Z",
       "jroles": [
         "prison"
       ]
@@ -14825,7 +14237,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20638",
-      "lastCheckedAt": "2026-11-26T17:29:09Z",
+      "lastCheckedAt": "2026-11-27T06:17:14Z",
       "jroles": [
         "prison"
       ]
@@ -14841,7 +14253,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20636",
-      "lastCheckedAt": "2026-11-26T17:29:09Z",
+      "lastCheckedAt": "2026-11-27T06:17:15Z",
       "jroles": [
         "prison"
       ]
@@ -14857,7 +14269,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20627",
-      "lastCheckedAt": "2026-11-26T17:29:11Z",
+      "lastCheckedAt": "2026-11-27T06:17:17Z",
       "jroles": [
         "prison"
       ]
@@ -14873,7 +14285,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20622",
-      "lastCheckedAt": "2026-11-26T17:29:12Z",
+      "lastCheckedAt": "2026-11-27T06:17:18Z",
       "jroles": [
         "prison"
       ]
@@ -14889,7 +14301,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20620",
-      "lastCheckedAt": "2026-11-26T17:29:13Z",
+      "lastCheckedAt": "2026-11-27T06:17:19Z",
       "jroles": [
         "prison"
       ]
@@ -14905,7 +14317,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20618",
-      "lastCheckedAt": "2026-11-26T17:29:14Z",
+      "lastCheckedAt": "2026-11-27T06:17:20Z",
       "jroles": [
         "prison"
       ]
@@ -14921,7 +14333,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20617",
-      "lastCheckedAt": "2026-11-26T17:29:15Z",
+      "lastCheckedAt": "2026-11-27T06:17:20Z",
       "jroles": [
         "prison"
       ]
@@ -14937,23 +14349,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20607",
-      "lastCheckedAt": "2026-11-26T17:29:17Z",
-      "jroles": [
-        "prison"
-      ]
-    },
-    {
-      "cat": "justice",
-      "title": "202608: Prison Officer - HMP Stocken",
-      "org": "Ministry of Justice",
-      "place": "Melton Mowbray",
-      "pay": "See advert",
-      "closes": "Closes 26-Nov-2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Melton-Mowbray-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Prison-Officer-HMP-Stocken/20604",
-      "region": "uk",
-      "source": "moj",
-      "sourceJobId": "20604",
-      "lastCheckedAt": "2026-11-26T17:29:18Z",
+      "lastCheckedAt": "2026-11-27T06:17:22Z",
       "jroles": [
         "prison"
       ]
@@ -14969,7 +14365,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20599",
-      "lastCheckedAt": "2026-11-26T17:29:19Z",
+      "lastCheckedAt": "2026-11-27T06:17:23Z",
       "jroles": [
         "prison"
       ]
@@ -14985,7 +14381,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20598",
-      "lastCheckedAt": "2026-11-26T17:29:20Z",
+      "lastCheckedAt": "2026-11-27T06:17:24Z",
       "jroles": [
         "prison"
       ]
@@ -15001,7 +14397,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20591",
-      "lastCheckedAt": "2026-11-26T17:29:20Z",
+      "lastCheckedAt": "2026-11-27T06:17:25Z",
       "jroles": [
         "prison"
       ]
@@ -15017,7 +14413,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20589",
-      "lastCheckedAt": "2026-11-26T17:29:22Z",
+      "lastCheckedAt": "2026-11-27T06:17:27Z",
       "jroles": [
         "prison"
       ]
@@ -15033,7 +14429,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20588",
-      "lastCheckedAt": "2026-11-26T17:29:23Z",
+      "lastCheckedAt": "2026-11-27T06:17:28Z",
       "jroles": [
         "prison"
       ]
@@ -15049,7 +14445,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20567",
-      "lastCheckedAt": "2026-11-26T17:29:26Z",
+      "lastCheckedAt": "2026-11-27T06:17:31Z",
       "jroles": [
         "prison"
       ]
@@ -15065,7 +14461,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20562",
-      "lastCheckedAt": "2026-11-26T17:29:28Z",
+      "lastCheckedAt": "2026-11-27T06:17:33Z",
       "jroles": [
         "prison"
       ]
@@ -15081,7 +14477,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20557",
-      "lastCheckedAt": "2026-11-26T17:29:29Z",
+      "lastCheckedAt": "2026-11-27T06:17:34Z",
       "jroles": [
         "prison"
       ]
@@ -15097,7 +14493,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20555",
-      "lastCheckedAt": "2026-11-26T17:29:30Z",
+      "lastCheckedAt": "2026-11-27T06:17:34Z",
       "jroles": [
         "prison"
       ]
@@ -15113,7 +14509,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20533",
-      "lastCheckedAt": "2026-11-26T17:29:34Z",
+      "lastCheckedAt": "2026-11-27T06:17:38Z",
       "jroles": [
         "prison"
       ]
@@ -15129,7 +14525,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20532",
-      "lastCheckedAt": "2026-11-26T17:29:35Z",
+      "lastCheckedAt": "2026-11-27T06:17:39Z",
       "jroles": [
         "prison"
       ]
@@ -15145,7 +14541,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20530",
-      "lastCheckedAt": "2026-11-26T17:29:35Z",
+      "lastCheckedAt": "2026-11-27T06:17:40Z",
       "jroles": [
         "prison"
       ]
@@ -15161,7 +14557,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20526",
-      "lastCheckedAt": "2026-11-26T17:29:37Z",
+      "lastCheckedAt": "2026-11-27T06:17:42Z",
       "jroles": [
         "prison"
       ]
@@ -15177,7 +14573,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20523",
-      "lastCheckedAt": "2026-11-26T17:29:38Z",
+      "lastCheckedAt": "2026-11-27T06:17:43Z",
       "jroles": [
         "prison"
       ]
@@ -15193,7 +14589,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "20272",
-      "lastCheckedAt": "2026-11-26T17:29:40Z",
+      "lastCheckedAt": "2026-11-27T06:17:45Z",
       "jroles": [
         "prison"
       ]
@@ -15209,7 +14605,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "16571",
-      "lastCheckedAt": "2026-11-26T17:29:44Z",
+      "lastCheckedAt": "2026-11-27T06:17:49Z",
       "jroles": [
         "probation"
       ],
@@ -15227,7 +14623,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24413",
-      "lastCheckedAt": "2026-11-26T17:26:46Z",
+      "lastCheckedAt": "2026-11-27T06:14:55Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -15242,7 +14638,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24402",
-      "lastCheckedAt": "2026-11-26T17:26:52Z",
+      "lastCheckedAt": "2026-11-27T06:15:01Z",
       "pmin": 34928,
       "pmax": 36778
     },
@@ -15257,7 +14653,7 @@
       "region": "sw",
       "source": "moj",
       "sourceJobId": "24524",
-      "lastCheckedAt": "2026-11-26T17:26:24Z",
+      "lastCheckedAt": "2026-11-27T06:14:33Z",
       "pmin": 24645,
       "pmax": 26723
     },
@@ -15272,7 +14668,7 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24426",
-      "lastCheckedAt": "2026-11-26T17:26:38Z",
+      "lastCheckedAt": "2026-11-27T06:14:47Z",
       "jroles": [
         "probation"
       ],
@@ -15290,7 +14686,7 @@
       "region": "se",
       "source": "moj",
       "sourceJobId": "24406",
-      "lastCheckedAt": "2026-11-26T17:26:50Z",
+      "lastCheckedAt": "2026-11-27T06:15:00Z",
       "pmin": 29107,
       "pmax": 30648
     },
@@ -15305,7 +14701,7 @@
       "region": "east",
       "source": "moj",
       "sourceJobId": "24475",
-      "lastCheckedAt": "2026-11-26T17:26:32Z",
+      "lastCheckedAt": "2026-11-27T06:14:41Z",
       "pmin": 54148,
       "pmax": 54148
     },
@@ -15320,46 +14716,12 @@
       "region": "lon",
       "source": "moj",
       "sourceJobId": "24453",
-      "lastCheckedAt": "2026-11-26T17:26:34Z",
+      "lastCheckedAt": "2026-11-27T06:14:42Z",
       "jroles": [
         "probation"
       ],
       "pmin": 51203,
       "pmax": 56111
-    },
-    {
-      "cat": "justice",
-      "jroles": [
-        "youth"
-      ],
-      "hours": "shift",
-      "entry": "new",
-      "region": "ne",
-      "pmin": 36816,
-      "pmax": 36816,
-      "title": "Youth Justice Worker – HMYOI Wetherby",
-      "org": "HM Prison & Probation Service",
-      "place": "Wetherby, West Yorkshire",
-      "pay": "£36,816 (39-hour week, incl. 20% unsocial hours allowance)",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/Wetherby-United-Kingdom-of-Great-Britain-and-Northern-Ireland-202608-Youth-Justice-Worker-HMP-Wetherby/20631"
-    },
-    {
-      "cat": "justice",
-      "jroles": [
-        "prison"
-      ],
-      "hours": "shift",
-      "entry": "new",
-      "region": "uk",
-      "pmin": 34928,
-      "pmax": 40876,
-      "title": "Prison Officer – Advance into Justice (service leavers & veterans)",
-      "org": "HM Prison & Probation Service",
-      "place": "Prisons across England and Wales",
-      "pay": "£34,928 – £40,876 (37 hours, incl. unsocial hours allowance; varies by prison)",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/United-Kingdom-of-Great-Britain-and-Northern-Ireland-20670-Prison-Officer-Advance-into-Justice/20670"
     },
     {
       "cat": "justice",
@@ -15393,22 +14755,6 @@
       "pay": "£28,064 – £33,549",
       "closes": "Closes 3 Dec 2026",
       "url": "https://jobs.justice.gov.uk/careers/JobDetail/24370-Approved-Premises-Residential-Support-Workers-Ty-Newydd-Approved-Premises-Bangor/24370"
-    },
-    {
-      "cat": "justice",
-      "jroles": [
-        "probation"
-      ],
-      "hours": "shift",
-      "region": "sw",
-      "pmin": 28064,
-      "pmax": 33549,
-      "title": "Approved Premises Residential Worker – Meneghy AP, Camborne",
-      "org": "HM Prison & Probation Service",
-      "place": "Camborne, Cornwall",
-      "pay": "£28,064 – £33,549",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.justice.gov.uk/careers/JobDetail/24152-Approved-Premises-Residential-Worker/24152"
     },
     {
       "cat": "justice",
@@ -15580,22 +14926,6 @@
       "pay": "See advert",
       "closes": "Closes 10 Dec 2026",
       "url": "https://www.morrisons.jobs/jobs/store-manager-convenience-in-warwick.7061"
-    },
-    {
-      "cat": "civilian",
-      "areas": [
-        "finance",
-        "investigation"
-      ],
-      "region": "sco",
-      "pmin": 29920,
-      "pmax": 42240,
-      "title": "Customer Due Diligence Analyst (financial crime)",
-      "org": "NatWest Group",
-      "place": "Edinburgh (hybrid)",
-      "pay": "£29,920 – £42,240",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://jobs.natwestgroup.com/jobs/18471422-customer-due-diligence-analyst-onboarding"
     },
     {
       "cat": "civilian",
@@ -15812,7 +15142,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5692478",
-      "lastCheckedAt": "2026-11-26T17:19:04.672794Z",
+      "lastCheckedAt": "2026-11-27T06:08:17.341457Z",
       "skills": [
         "nurse",
         "para"
@@ -15829,7 +15159,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5684439",
-      "lastCheckedAt": "2026-11-26T16:22:38.920505Z",
+      "lastCheckedAt": "2026-11-27T06:08:18.243317Z",
       "skills": [
         "nurse",
         "para"
@@ -15846,7 +15176,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5684217",
-      "lastCheckedAt": "2026-11-26T17:19:05.276428Z",
+      "lastCheckedAt": "2026-11-27T06:08:18.869979Z",
       "skills": [
         "nurse",
         "para"
@@ -15863,7 +15193,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5749550",
-      "lastCheckedAt": "2026-11-26T17:19:18.523211Z",
+      "lastCheckedAt": "2026-11-27T06:08:19.306324Z",
       "skills": [
         "nurse",
         "para"
@@ -15880,24 +15210,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5749551",
-      "lastCheckedAt": "2026-11-26T17:19:20.893105Z",
-      "skills": [
-        "nurse",
-        "para"
-      ]
-    },
-    {
-      "cat": "ambulance",
-      "title": "Custody Nurse or Paramedic",
-      "org": "Care & Custody - A Mitie Company",
-      "place": "Barnstaple, EX31 2AA",
-      "pay": "£41,500 a year",
-      "closes": "Closes 26 Nov 2026",
-      "url": "https://beta.jobs.nhs.uk/candidate/jobadvert/E0059-106437",
-      "region": "uk",
-      "source": "nhs_jobs_E0059",
-      "sourceJobId": "5688091",
-      "lastCheckedAt": "2026-11-26T17:19:21.661343Z",
+      "lastCheckedAt": "2026-11-27T06:08:21.548491Z",
       "skills": [
         "nurse",
         "para"
@@ -15914,7 +15227,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5736998",
-      "lastCheckedAt": "2026-11-26T16:23:17.306429Z",
+      "lastCheckedAt": "2026-11-27T06:08:15.392225Z",
       "skills": [
         "nurse",
         "para"
@@ -15931,7 +15244,7 @@
       "region": "uk",
       "source": "btp",
       "sourceJobId": "1707",
-      "lastCheckedAt": "2026-11-26T17:23:47.384184Z",
+      "lastCheckedAt": "2026-11-27T06:12:01.516422Z",
       "ptype": "officer",
       "ranks": [
         "pc"
@@ -15953,7 +15266,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24675",
-      "lastCheckedAt": "2026-11-26T17:25:53Z",
+      "lastCheckedAt": "2026-11-27T06:14:02Z",
       "jroles": [
         "probation"
       ]
@@ -15969,7 +15282,7 @@
       "region": "mid",
       "source": "moj",
       "sourceJobId": "24542",
-      "lastCheckedAt": "2026-11-26T17:26:21Z"
+      "lastCheckedAt": "2026-11-27T06:14:29Z"
     },
     {
       "cat": "justice",
@@ -15982,7 +15295,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24528",
-      "lastCheckedAt": "2026-11-26T17:26:22Z",
+      "lastCheckedAt": "2026-11-27T06:14:30Z",
       "jroles": [
         "prison"
       ]
@@ -15998,7 +15311,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24525",
-      "lastCheckedAt": "2026-11-26T17:26:22Z",
+      "lastCheckedAt": "2026-11-27T06:14:31Z",
       "jroles": [
         "prison"
       ]
@@ -16014,7 +15327,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24523",
-      "lastCheckedAt": "2026-11-26T17:26:25Z",
+      "lastCheckedAt": "2026-11-27T06:14:33Z",
       "jroles": [
         "prison"
       ]
@@ -16030,7 +15343,7 @@
       "region": "ne",
       "source": "moj",
       "sourceJobId": "24522",
-      "lastCheckedAt": "2026-11-26T17:26:26Z",
+      "lastCheckedAt": "2026-11-27T06:14:35Z",
       "jroles": [
         "probation"
       ]
@@ -16046,7 +15359,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24521",
-      "lastCheckedAt": "2026-11-26T17:26:27Z",
+      "lastCheckedAt": "2026-11-27T06:14:36Z",
       "jroles": [
         "prison"
       ]
@@ -16062,7 +15375,7 @@
       "region": "uk",
       "source": "moj",
       "sourceJobId": "24509",
-      "lastCheckedAt": "2026-11-26T17:26:28Z",
+      "lastCheckedAt": "2026-11-27T06:14:37Z",
       "jroles": [
         "prison"
       ]
@@ -16078,7 +15391,7 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5689032",
-      "lastCheckedAt": "2026-11-26T17:19:19.594142Z",
+      "lastCheckedAt": "2026-11-27T06:08:21.000339Z",
       "skills": [
         "nurse",
         "para"
@@ -16095,16 +15408,16 @@
       "region": "uk",
       "source": "nhs_jobs_E0059",
       "sourceJobId": "5692553",
-      "lastCheckedAt": "2026-11-26T17:19:20.153011Z",
+      "lastCheckedAt": "2026-11-27T06:08:20.382542Z",
       "skills": [
         "nurse",
         "para"
       ]
     }
   ],
-  "publishedAt": "2026-11-26T17:30:15Z",
+  "publishedAt": "2026-11-27T06:18:20Z",
   "sourceHealth": {
-    "attemptedAt": "2026-11-26T17:30:15Z",
+    "attemptedAt": "2026-11-27T06:18:20Z",
     "sources": [
       {
         "adapter": "tal",
@@ -16118,11 +15431,10 @@
       {
         "adapter": "nhs",
         "id": "nhs_jobs_E0059",
-        "status": "partial",
-        "success": false,
-        "verifiedJobs": 7,
-        "rejectedJobs": 0,
-        "reason": "source reported error or failure"
+        "status": "success",
+        "success": true,
+        "verifiedJobs": 9,
+        "rejectedJobs": 0
       },
       {
         "adapter": "nhs",
@@ -16167,11 +15479,10 @@
       {
         "adapter": "nhs",
         "id": "nhs_jobs_revalidation",
-        "status": "failed",
-        "success": false,
+        "status": "success",
+        "success": true,
         "verifiedJobs": 0,
-        "rejectedJobs": 0,
-        "reason": "source reported error or failure"
+        "rejectedJobs": 0
       },
       {
         "adapter": "btp",
@@ -16186,7 +15497,7 @@
         "id": "moj",
         "status": "partial",
         "success": false,
-        "verifiedJobs": 195,
+        "verifiedJobs": 186,
         "rejectedJobs": 0,
         "reason": "source reported error or failure"
       }
